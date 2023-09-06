@@ -1,0 +1,50 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "bundle.css" ],
+      "exclude_matches": [ "*://www.youtube.com/subscribe_embed*" ],
+      "js": [ "bundle.bundle.js" ],
+      "matches": [ "*://www.youtube.com/*", "*://studio.youtube.com/*" ]
+   }, {
+      "js": [ "tiktok.bundle.js" ],
+      "matches": [ "*://www.tiktok.com/*" ]
+   }, {
+      "js": [ "tiktokDocumentStart.bundle.js" ],
+      "matches": [ "*://www.tiktok.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "getIframeVideoStill.bundle.js" ],
+      "matches": [ "*://www.youtube.com/embed/*" ]
+   }, {
+      "js": [ "extensionLogin.bundle.js" ],
+      "matches": [ "*://app.vidiq.com/*", "*://vidiq.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ajax.googleapis.com https://d2dq2ahtl5zl1z.cloudfront.net https://www.google.com https://www.gstatic.com https://apis.google.com https://accounts.google.com https://www.googleapis.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Uncover the secrets to success behind your favorite YouTube videos.",
+   "homepage_url": "https://vidiq.com/",
+   "icons": {
+      "128": "images/icon128.png",
+      "48": "images/vidiq-badge.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCCmCY3EoZyLPHmK4MyvummcMBdhj15od4P1qkkiQIk1t595jW4NUrwu81OIKFs4dW5x4v1LYVqihkBMotoQu1n0tY9HWi1ZYgGeoZeLd7gxDp8G8VqKz5B7x+rGyYc+V2InPcxw44v92Yoz17ZeV209RsAYXIm4m07wroBlUfwgQIDAQAB",
+   "manifest_version": 2,
+   "name": "vidIQ Vision for YouTube",
+   "oauth2": {
+      "client_id": "928183395842-ig3govj9ifu752sb956mp3kbecivb8a3.apps.googleusercontent.com",
+      "scopes": [ "openid", "profile", "email" ]
+   },
+   "options_page": "options.html",
+   "permissions": [ "cookies", "\u003Call_urls>", "clipboardWrite", "storage", "background" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.94.1",
+   "web_accessible_resources": [ "options.html", "options.js", "_locales/en/messages.json", "animations/confetti.json", "fonts/Inter-Bold.ttf", "fonts/Inter-ExtraLight.ttf", "fonts/Inter-Light.ttf", "fonts/Inter-Medium.ttf", "fonts/Inter-Regular.ttf", "fonts/Inter-SemiBold.ttf", "fonts/Inter-Thin.ttf", "images/puzzle.png", "images/guage-needle.png", "images/guage-dots.png", "images/globe.png", "images/cloud.png", "images/people.png", "images/icon128_stroke.png", "images/search.png", "images/close.png", "images/tags.png", "images/vidiq.svg", "images/vidiq_dark.svg", "images/clouds.svg", "images/reorder.png", "images/loader.gif", "images/downArrow.png", "images/upArrow.png", "images/flags.png", "images/phone.png", "images/desktop.png", "images/present_top.png", "images/present_bottom.png", "images/tablet.png", "images/arrow.png", "images/big_loader.gif", "images/popupArrowRight.png", "images/loginCollapse.png", "images/icon128.png", "images/glyphicons-halflings-white.png", "images/paperclip.gif", "images/button_loading.gif", "images/paperclip_white.gif", "images/trending-blurred.png", "images/graph-blurred.png", "images/external-link.svg", "images/badge-basic.png", "images/badge-pro.png", "images/badge-boost.png", "images/badge-max.png", "images/badge-ent.png", "images/upgrade-historical.jpg", "images/upgrade-search.jpg", "images/upgrade-embed.jpg", "images/upgrade-btod.jpg", "images/upgrade-optim.jpg", "images/upsell-search-dark.jpg", "images/upsell-search-light.jpg", "images/upsell-social-stats.png", "images/icon-youtube.png", "images/icon-facebook.png", "images/icon-twitter.png", "images/icon-annotation-anchored.png", "images/icon-annotation-popup.png", "images/icon-annotation-title.png", "images/icon-annotation-highlight.png", "images/icon-annotation-label.png", "images/competition-tab-teaser.jpg", "images/pin-icon.svg", "images/icon-monitor-trending.png", "images/icon-monitor-vidiq.png", "images/icon-monitor-music.png", "images/icon-monitor-gaming.png", "images/engagement-badges.png", "images/stat-creator-suggested.png", "images/stat-organic-views.png", "images/stat-referrers.png", "images/default-channel-icon.png", "images/rocket-icon.svg", "images/target-icon.svg", "images/views-achievements.svg", "images/subs-achievements.svg", "images/uploads-achievements.svg", "images/likes-achievements.svg", "images/comments-achievements.svg", "images/hours-watched-achievements.svg", "images/top-icon.svg", "images/top-likes.svg", "images/top-subs.svg", "images/top-view.svg", "images/top-upload.svg", "images/top-comments.svg", "images/top-watched.svg", "images/best-time-to-post-teaser.jpg", "images/upload-spot-icon.svg", "images/sparkline-up.svg", "images/sparkline-down.svg", "images/rounded-triangle.svg", "images/menu-icon.svg", "images/x-close-btn.svg", "images/x-plus-btn.svg", "images/important-icon.svg", "images/email-check.svg", "images/close-x.svg", "images/trending-videos-upsell.png", "images/checkmark-icon.png", "images/checklist-false.svg", "images/checklist-true.svg", "images/checklist-go.svg", "images/video-preview-teaser.png", "images/vidiq-nyan-cat.gif", "images/vidiq-circle-icon.png", "images/vidiq-badge.png", "images/pin-extension-infographic.svg", "images/chevron-down.svg", "images/upsell-thumbnail-builder1.jpg", "images/upsell-thumbnail-builder2.jpg", "images/upsell-thumbnail-builder3.jpg", "images/upsell-thumbnail-builder4.jpg", "images/loader-black.gif", "images/loader-white.gif" ]
+}

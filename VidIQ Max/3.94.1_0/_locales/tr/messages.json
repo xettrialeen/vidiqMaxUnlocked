@@ -1,0 +1,6731 @@
+{
+   "CSVPreview": {
+      "message": "CSV önizlemesi"
+   },
+   "account": {
+      "message": "Hesap"
+   },
+   "accountCreationProblem": {
+      "message": "Hesabınızı kurarken bir hata oluştu"
+   },
+   "accountSettings": {
+      "message": "Hesap Ayarları"
+   },
+   "achievedDate": {
+      "message": "\u003Cb>$date$\u003C/b> başarıldı",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementValueVariantMinutes": {
+      "message": "veya \u003Cb>$num$ dakika\u003C/b> görüntülendi",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementValueVariantYears": {
+      "message": "veya \u003Cb>$num$ yıl\u003C/b> görüntülendi",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsBestMonthCurrentMonth": {
+      "message": "Şu an $name$! adında en iyi ayınızdasınız!",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsBestMonthProgress": {
+      "message": "\u003Cb>$percentage$%\u003C/b> bu ay yolda olan",
+      "placeholders": {
+         "percentage": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsErrorMessage": {
+      "message": "Bir hata oluştu. Lütfen sayfayı yenileyin ve birkaç dakika içinde yeniden deneyin. Eğer sorun devam ederse, vidIQ destek ekibiyle iletişime geçin: support@vidIQ.com"
+   },
+   "achievementsFeatureInfo": {
+      "message": "Dönüm noktalarını kutlamanda yardımcı olalım! Sosyal medya üzerinden paylaşabileceğin bir sertifikayı indirmek için tıkla."
+   },
+   "achievementsLoadingBestVideo": {
+      "message": "En çok görüntülenme alan videonuzun kullanım süresince aldığı istatistikler getiriliyor"
+   },
+   "achievementsLoadingLifetime": {
+      "message": "Kanalınızın kullanım süresince aldığı istatistikler getiriliyor"
+   },
+   "achievementsLoadingParsing": {
+      "message": "Başarılarınız ve en iyi performans gösteren aylar hesaplanıyor"
+   },
+   "achievementsOnPaceFor": {
+      "message": "Adımda \u003Cb>$nextValue$\u003C/b>> ile \u003Cb>$date$\u003C/b>",
+      "placeholders": {
+         "date": {
+            "content": "$2"
+         },
+         "nextValue": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsTitle": {
+      "message": "Başarılar"
+   },
+   "actionableSeoScore": {
+      "message": "İşleme uygun SEO Sonucu"
+   },
+   "actionableSeoScoreAverageSubtextBad": {
+      "message": "İşlem yapılabilir SEO Puanınız ortalamada düşük. Her video için en az 40 elde etmeye çalışın."
+   },
+   "actionableSeoScoreAverageSubtextGood": {
+      "message": "Harekete geçirilebilir SEO Puanınız ortalama olarak iyidir!"
+   },
+   "actionableSeoScoreChannelAuditEdit": {
+      "message": "İşleme uyugn SEO Sonucu"
+   },
+   "actionableSeoScoreEditTitle": {
+      "message": "İşleme uyugn SEO Sonucu en az 40 olmalı"
+   },
+   "actionableTitle": {
+      "message": "Actionable"
+   },
+   "addAllTitle": {
+      "message": "Hepsini Ekle"
+   },
+   "addAnnotationsToSave": {
+      "message": "Ek açıklamaları kaydet"
+   },
+   "addAnotherKeyword": {
+      "message": "Başka bir anahtar kelime ekle"
+   },
+   "addCardsToSave": {
+      "message": "Kartları kaydet!"
+   },
+   "addChangesToVideo": {
+      "message": "Değişlikleri videoyaya ekleyin"
+   },
+   "addCreateOverwrite": {
+      "message": "Yeni bir şablon oluşturmak ve ya olan şablonun üzerine yazmak için nesne ekleyiniz. "
+   },
+   "addFilters": {
+      "message": "Filtre ekle"
+   },
+   "addKeySearchTerm": {
+      "message": "Anahtar arama terimini ekleyin "
+   },
+   "addKeyword": {
+      "message": "Bu anahtar kelimeyi ekle"
+   },
+   "addMoreChannelsToCompare": {
+      "message": "Kıyaslama yapacak daha çok kanal ekle"
+   },
+   "addMoreTagsForDescriptionRecs": {
+      "message": "Açıklama için önerilen anahtar kelime görmek için daha fazla etiket ekleyin!"
+   },
+   "addMoreTagsForTitleRecs": {
+      "message": "Başlık için önerilen anahtar kelime görmek için daha fazla etiket ekleyin!"
+   },
+   "addShapeTitle": {
+      "message": "Şekil Ekle"
+   },
+   "addStuffToThumbnail": {
+      "message": "Küçük resminize metin, resim ve şekil ekleyin."
+   },
+   "addTagTitle": {
+      "message": "Etiket Ekle"
+   },
+   "addTagsForRecs": {
+      "message": "Tavsiye edilen anahtar kelime görmek için etiket ekleyin!"
+   },
+   "addTextTitle": {
+      "message": "Metin Ekle"
+   },
+   "addToThisSearch": {
+      "message": "Bu aramaya ekleyin"
+   },
+   "addedToPlaylistAverageSubtextBad": {
+      "message": "Oynatma listesinde yeterli videonuz yok. Herbir oynatma listesine en az bir video yüklemenizi öneririz."
+   },
+   "addedToPlaylistAverageSubtextGood": {
+      "message": "Videolarınız ortalama olarak yeterli oynatma listesine eklendi!"
+   },
+   "addedToPlaylistAverageSubtextOkay": {
+      "message": "Oynatma listeleine daha çok videolarınızı eklemeyi göz önünde bulundurun. Her video için iki veya daha fazla oynatma listesi harika! "
+   },
+   "addedToPlaylistChannelAuditEdit": {
+      "message": "Oynatma listenizi güncelleyin"
+   },
+   "addedToPlaylistChannelAuditHas": {
+      "message": "$numPlaylists$ oynatma listelerine video eklendi",
+      "placeholders": {
+         "numPlaylists": {
+            "content": "$1"
+         }
+      }
+   },
+   "addedToPlaylistChannelAuditInfo": {
+      "message": "Herkese açık video en az 1 oynatma listesinde olmalı"
+   },
+   "addedToPlaylistChannelAuditMissing": {
+      "message": "oynatma listesi yok"
+   },
+   "addedToPlaylistChannelAuditMissingMessage": {
+      "message": "Her bir oynatma videosuna video ekleyin"
+   },
+   "addedToPlaylistMissingInfo": {
+      "message": "Listelenen videolarçalma listeleri için yeterli değil. Hepsini oynatma  listesine eklemenizi tavsiye ederiz."
+   },
+   "addedToPlaylistMissingSubtextBad": {
+      "message": "Her videoyu en az bir oynatma listesine ekle!"
+   },
+   "addedToPlaylistMissingSubtextGood": {
+      "message": "Tüm videolarınız oynatma listesine eklendi!"
+   },
+   "addedToPlaylistMissingTitle": {
+      "message": "Oynatma listesine eklenmemiş videolar"
+   },
+   "addingTranslatedKeywords": {
+      "message": "Tercüme edilmiş anahtar kelimeleri ekliyor..."
+   },
+   "advancedEmbedInfo": {
+      "message": "Bu diyalog, size YouTube'un size sağladığı link yerleştirme seçeneklerini kullanmanıza yardımcı olur. Bu seçenekler hakkında daha fazla bilgi sahibi olmak için buna göz atın: \u003Ca$href$>YouTube's embedded player documentation\u003C/a>",
+      "placeholders": {
+         "href": {
+            "content": "$1"
+         }
+      }
+   },
+   "advancedEmbedTitle": {
+      "message": "Gelişmiş Yerleştirilmiş Linkler"
+   },
+   "agreeToTOS": {
+      "message": "$begin$Servis Şartnamesi$end$ni kabül ediyorum. ",
+      "placeholders": {
+         "begin": {
+            "content": "$1"
+         },
+         "end": {
+            "content": "$2"
+         }
+      }
+   },
+   "all": {
+      "message": "Hepsi"
+   },
+   "allCommentThreads": {
+      "message": "Tüm yorumlar (filtre seç)"
+   },
+   "allDismissedVisibleHere": {
+      "message": "Çıkarılan tüm fikirler burada görünecektir."
+   },
+   "allFieldsRequired": {
+      "message": "Tüm alanlar doldurulmalıdır"
+   },
+   "allLanguages": {
+      "message": "Tüm diller"
+   },
+   "allSavedVisibleHere": {
+      "message": "Kaydedilen tüm fikirler burada görünecektir."
+   },
+   "allTimeTitle": {
+      "message": "Tüm Zaman"
+   },
+   "allVideosLoaded": {
+      "message": "Tüm videolar yüklendi!"
+   },
+   "allVideosUpTo": {
+      "message": "Tüm videolar ($limit$ taneye kadar)",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "allowFullscreen": {
+      "message": "Tam ekrana izin ver"
+   },
+   "almostThere": {
+      "message": "Neredeyse bitti!"
+   },
+   "alreadyHaveAnAccount": {
+      "message": "Bir hesabınız var mı?"
+   },
+   "analyticsTitle": {
+      "message": "Analitik "
+   },
+   "and": {
+      "message": "ve"
+   },
+   "annotation": {
+      "message": "ek açıklama"
+   },
+   "annotationTemplates": {
+      "message": "Ek Açıklama Kampanyaları"
+   },
+   "annotationsStatLabel": {
+      "message": "ek açıklama"
+   },
+   "annotationsTooltip": {
+      "message": "Videodaki ek açıklamaların sayısıdır."
+   },
+   "anyChannel": {
+      "message": "Herhangi bir kanal"
+   },
+   "anyLabel": {
+      "message": "Hiç"
+   },
+   "anyPlaylist": {
+      "message": "Herhangi bir oynatma listesi"
+   },
+   "anyVideo": {
+      "message": "Herhangi bir video"
+   },
+   "appDesc": {
+      "message": "\nBir videonun neleri tetiklediğini keşfedin ve daha fazla görüntüleme elde etmek için videolarınızı optimize edin!\n\nYouTube Analytics'in ötesine geçen metriklerle, vidIQ Vision, herhangi bir YouTube videosu için tarayıcınızda tam kapsamlı bir optimizasyon rapor kartı sunar!\n\n İster içerik oluşturucu, pazarlama yöneticisi veya YouTube izleyicisi olun, şunu kesin merak ettiniz:\n\n- İlgili Videolarla İlgili Olan Nedir?\n-Videolar Arama'da nasıl sıralanır?\n- Önerilen Videolar nereden geliyor?\n- İyi bir YouTube SEO’su nasıl görünür?\n- Sosyal Medya seyirci gelişimine nasıl uyum sağlar?\n\n Videolarınızın performansını, abone katılımını ve tanıtım fırsatlarını önemli ölçüde artırabilecek cevaplar ve optimizasyon verileri sağlıyoruz. \n\nBu uzantı şunları içeriyor:\n\n vidIQ Skoru – Her YouTube videosunu özel, çapraz platform algoritmasına göre sıralarız ve İlgili Videolar, Arama, Önerilen Videolar ve daha fazlasında tanıtım yapma olasılığını tahmin etmek için bir optimizasyon puanı atarız.\n\n Hız - Görüntüleme Saatinde Ölçülen Hız özelliği, gerçek zamanlı olarak görüntülemelerin hızlanmasının ne kadar hızlı gerçekleştiğini görerek hangi YouTube videolarının viral çekiş kazanacağını belirlemenize olanak tanır!\n\nOrtalama İzlenme Zamanı - Hem videolarınız hem de izlediğiniz videolar için ortalama görüntüleme süresi hakkında tam bir fikir edinin.\n\nSosyal Medya Beğenmeleri /Paylaşılmalar/Yorumlar – Facebook'ta, Twitter'da veya Reddit'te bir kullanıcının videonuzun URL'sini içeren bir yorumda kaç kez Beğendiğini veya Paylaştığını görün.\n\n Etiketler – Kendi kanal içeriğinizi optimize ederken bir avantaj elde etmek için herhangi bir YouTube videosunda meta verileri gibi SEO verilerini görüntüleyin.\n\n Dakika Başına Kelimeler – DBK, hızlı konuşan, atlayarak kesilmiş içerik oluşturucunun içeriğin başarısı hakkındaki beklenmedik bilgileri ortaya çıkarmak için video uzunluğuna karşı kelime sayısını ölçer.\n\nAçıklama Bağlantı Sayısı – Video açıklamalarınıza bağlantı eklemek için değer önerileri ve en iyi uygulamaları sunuyoruz.\n\nAçıklama Kelime Sayısı - Video açıklamanız çok kısa olduğunda sizi uyarır ve YouTube optimizasyonu için doğru olduğunda bunu size bildiririz.\n\nYükseltme planlarımızla vidIQ'dan daha fazlasını alın:\n\n vidIQ Pro - Popüler videolarda zaman içinde geriye gitmek için geçmiş verilere erişin, bir sonraki videonuz için en iyi anahtar kelimeleri almak, rekabetinizi takip etmek ve videolarınızı Tanıtıcı Kampanyaları aracılığıyla tanıtmak için anahtar kelime araştırması yapın.\n\nvidIQ Boost - Etiketleri, başlığı ve açıklamayı optimize etmek için videolarınızın SEO'sunu hızlı ve kolay bir şekilde vidIQ’nun özel anahtar kelime önerme motoruyla boostlayın. Pro araçlara sınırsız erişim ve daha fazla kanalı izleme ve optimize etme fırsatı.\n\nVision, vidIQ’nun sağlam video pazarlama yazılımı ve YouTube kitle geliştirme araçları paketinin yalnızca bir parçasıdır. Bunlara erişmek ve sektörümüze ait Beyaz Kitap'ı incelemek için bizi ziyaret edin: @http://www.vidIQ.com\n\nBizi Facebook’ta beğenin http://facebook.com/vidIQapp\nBizi Twitter’da bizi takip edin:http://twitter.com/vidIQ\n\nDestekleyin:\nSorunuz veya geribildiriminiz var mı? Lütfen destek@vidIQ.com adresinden destek ekibimizle bağlantı kurun."
+   },
+   "apply": {
+      "message": "Uygula"
+   },
+   "archivedCampaignsTitle": {
+      "message": "Arşivlenmiş Kampanyalar"
+   },
+   "areYouSureDeleteIdea": {
+      "message": "Bu fikri silmek istediğinden emin misin?"
+   },
+   "associatedWebsiteTitle": {
+      "message": "İlgili Web Sitesi"
+   },
+   "authChannelTitle": {
+      "message": "Bu Kanalı Doğrula"
+   },
+   "authChannelWithVidIQ": {
+      "message": "Kanalını \u003Cb>vidIQ\u003C/b> ile doğrula"
+   },
+   "authFacebookTitle": {
+      "message": "Facebook'u Doğrula"
+   },
+   "authForShortcuts": {
+      "message": "vidIQ kısayolları kullanmak için hesabını doğrula"
+   },
+   "authThanks": {
+      "message": "Doğruladığınız için teşekkürler!"
+   },
+   "authYourChannel": {
+      "message": "Kanalını doğrula"
+   },
+   "autoDetect": {
+      "message": "Otomamik-saptama"
+   },
+   "automaticallyLoadMoreComments": {
+      "message": "Otomatik olarak daha fazla yorum yükle ...e kadar"
+   },
+   "autoplayVideo": {
+      "message": "Videoyu otomatik oynat"
+   },
+   "averageMinutesWatched": {
+      "message": "izlenen dak. ortalaması"
+   },
+   "averagesChannelAuditError": {
+      "message": "Son 30 gün içindeki ortalama başlık uzunluğu ve ortalama SEO puanı gibi istatistikleri görmek için daha fazla video yükleyin"
+   },
+   "avgDailySubsStatLabel": {
+      "message": "günlük ortalama abone"
+   },
+   "avgDailyViewsStatLabel": {
+      "message": "günlük ortalama görüntülenme"
+   },
+   "avgPerViewSingular": {
+      "message": "görüntülenme başına $value$",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPerViews": {
+      "message": "$numViews$ görüntülenme başına $value$",
+      "placeholders": {
+         "numViews": {
+            "content": "$1"
+         },
+         "value": {
+            "content": "$2"
+         }
+      }
+   },
+   "avgPerWatchTime": {
+      "message": "$minutes$ görüntülenen dak. başına $value$ ",
+      "placeholders": {
+         "minutes": {
+            "content": "$1"
+         },
+         "value": {
+            "content": "$2"
+         }
+      }
+   },
+   "avgPercentViewedStatLabel": {
+      "message": "ortalama görüntülenen yüzde"
+   },
+   "avgRevenuePerDay": {
+      "message": "ort. günlük gelir"
+   },
+   "avgRevenuePerMonth": {
+      "message": "ort. aylık gelir"
+   },
+   "avgRevenuePerWeek": {
+      "message": "ort. haftalık gelir"
+   },
+   "avgSubsPerMonth": {
+      "message": "ort. aylık abone"
+   },
+   "avgSubsPerWeek": {
+      "message": "ort. haftalık abone"
+   },
+   "avgSubscribers": {
+      "message": "Ort. Abone "
+   },
+   "avgVideosPerDay": {
+      "message": "günlük ort. yayınlanan videolar"
+   },
+   "avgVideosPerMonth": {
+      "message": "aylık ort. yayınlanan videolar"
+   },
+   "avgVideosPerWeek": {
+      "message": "haftalık ort. yayınlanan videolar"
+   },
+   "avgViewTimeStatLabel": {
+      "message": "ort. görüntülenme zamanı"
+   },
+   "avgViewsPerMonth": {
+      "message": "ort. aylık görüntülenme"
+   },
+   "avgViewsPerWeek": {
+      "message": "ort. haftalık görüntülenme"
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "backTitle": {
+      "message": "Geri"
+   },
+   "backToLogin": {
+      "message": "Giriş sayfasına dön"
+   },
+   "basedOnLast30Days": {
+      "message": "Son 30 günün verisine dayalıdır"
+   },
+   "bestForViewer": {
+      "message": "İzleyici için en iyisi"
+   },
+   "bestMonthPerformance": {
+      "message": "$date$: $number$ performans",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         },
+         "number": {
+            "content": "$2"
+         }
+      }
+   },
+   "bestMonthsTitle": {
+      "message": "En Yüksek Performanslı Aylar"
+   },
+   "bestTimeToPostAuthMessage": {
+      "message": "Lütfen en iyi yaynlama zamanlarını görüntülemek için \u003Ca href=\"https://app.vidiq.com/welcome\" target=\"_blank\"> kanalınızı vidIQ\u003C/a> ile doğrulayın"
+   },
+   "bestTimeToPostHeader": {
+      "message": "Kanalınızda en iyi yayınlama zamanı ($timezone$)",
+      "placeholders": {
+         "timezone": {
+            "content": "$1"
+         }
+      }
+   },
+   "bestTimeToPostPopoverMessage": {
+      "message": "Bu videoyu yayınladığınız zaman"
+   },
+   "bestTimeToPostTitle": {
+      "message": "En iyi yayınlama zamanı"
+   },
+   "bestTimeToPostUpgrade": {
+      "message": "En iyi yayınlama zamanlarını görmek için Pro'ya yükseltin"
+   },
+   "bestTimesFetchFailed": {
+      "message": "En iyi yayınlama zamanlarını belirleyemedi"
+   },
+   "bestTimesToPost": {
+      "message": "En iyi yayınlama zamanları"
+   },
+   "bestVideoTitle": {
+      "message": "En Yüksek Performanslı Video"
+   },
+   "beta": {
+      "message": "beta"
+   },
+   "billing": {
+      "message": "Faturalandırma"
+   },
+   "blog": {
+      "message": "Blog"
+   },
+   "boostLearnMore": {
+      "message": "Video boost etmeyi öğrenmek için $start$ bilgilendirici video$end$'ya göz atabilirsiniz!",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "boostToGetDescriptionRecs": {
+      "message": "Açıklama tavsiyesi almak için bu videoyu boost edin!"
+   },
+   "boostToGetTitleRecs": {
+      "message": "Başlık tavsiyesi almak için bu videoyu boost edin!"
+   },
+   "boostUpgradeTitle": {
+      "message": "Boost'a Yükselt"
+   },
+   "boostVideoTitle": {
+      "message": "Bu videoyu boost et"
+   },
+   "boostYourYoutubeViews": {
+      "message": "Youtube Görüntülenmelerinizi Boost'layın"
+   },
+   "borderTitle": {
+      "message": "Çerçeve"
+   },
+   "borderWidthTitle": {
+      "message": "Çerçeve Genişliği"
+   },
+   "bulkProcessFail": {
+      "message": "\u003Cb>$number$ $resources$ failed to be modified.\u003C/b>  Lütfen yukarıdaki listeden değistirilemeyen videoları seçiniz.",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessFailSingular": {
+      "message": "\u003Cb>$resource$'nız düzenlenemedi.\u003C/b>",
+      "placeholders": {
+         "resource": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessSuccess": {
+      "message": "Başarıldı, $number$ $resources$ düzenlendi!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessSuccessSingular": {
+      "message": "Başarıldı, $resources$ düzenlendi!",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessorBeforeHeading": {
+      "message": "\u003Cb>$task$\u003C/b> yapmak üzeresiniz. ",
+      "placeholders": {
+         "task": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkSeo": {
+      "message": "Toplu SEO"
+   },
+   "buy": {
+      "message": "Satın al"
+   },
+   "by": {
+      "message": "by"
+   },
+   "bySigningUpAgreeTOS": {
+      "message": "Üye olarak, vidIQ'nun kullanım şartlarını \u003Ca href=\\\"$tosUrl$\\\" target=\\\"_blank\\\">Terms of Service\u003C/a> ve \u003Ca href=\\\"$privacyUrl$\\\" target=\\\"_blank\\\">Privacy Policy\u003C/a> gizlilik politikasını kabul ediyorum.",
+      "placeholders": {
+         "privacyUrl": {
+            "content": "$2"
+         },
+         "tosUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "callToAction": {
+      "message": "Eylem çağrısı"
+   },
+   "campaignErrorTitle": {
+      "message": "Videoda $link$ için $campaignId$",
+      "placeholders": {
+         "campaignId": {
+            "content": "$2"
+         },
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignErrorTitleCurrent": {
+      "message": "Şuanki kampanya için videoda $link$ ",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignProcessFinished": {
+      "message": "Işlem tamamladı! Yaptığınız değişikliklerin videolarınıza yansıması yaksaşık 10 dakika alacaktır. Ama video düzenleme sayfasında değişiklikleri hemen görebilirsiniz."
+   },
+   "campaignStatusEnded": {
+      "message": "Bitirildi"
+   },
+   "campaignStatusPending": {
+      "message": "Yapılıyor"
+   },
+   "campaignStatusPreparing": {
+      "message": "Hazırlanıyor"
+   },
+   "campaignStatusRestoring": {
+      "message": "Onarılıyor"
+   },
+   "campaignStatusRunning": {
+      "message": "Yürütülüyor"
+   },
+   "campaignTextInvalid": {
+      "message": "Açıklamanızda boş alan yerine, bir metin olması gerekiyor."
+   },
+   "campaignTextTitle": {
+      "message": "Açıklama Metni"
+   },
+   "campaignUpgradePrompt": {
+      "message": "Açıklama kampanyasınız tüm özelliklerini kullanabilmek için Pro planına yükseltiniz"
+   },
+   "campaignUpgradeReason1": {
+      "message": "30 video limitini kaldır"
+   },
+   "campaignUpgradeReason2": {
+      "message": "Yüklenen vidolardan yükleme tarihine, oynatma listesine ve ya ID listesine göre seçiniz."
+   },
+   "campaignUpgradeReason3": {
+      "message": "URL kısaltmasını etkisiz kıl"
+   },
+   "campaignVideoChoice": {
+      "message": "Kampanyanızı hangi videolarda yayınlamak istersiniz?"
+   },
+   "canNotAddEndscreenToPrivateVideos": {
+      "message": "Gizli videolara bitiş ekranı ekleyemiyorum"
+   },
+   "cancel": {
+      "message": "İptal Et"
+   },
+   "cantLoadSeoScoreChecklist": {
+      "message": "SEO skoru ve ya kontrol listesi yüklenemiyor"
+   },
+   "card": {
+      "message": "kart"
+   },
+   "cardClickRates": {
+      "message": "Kart tıklanma oranları"
+   },
+   "cardTemplates": {
+      "message": "Kart Şablonları"
+   },
+   "cardsChannelAuditEdit": {
+      "message": "Kartlarınızı güncelleyin"
+   },
+   "cardsChannelAuditHas": {
+      "message": "Videonuzun $numCards$ kartı var",
+      "placeholders": {
+         "numCards": {
+            "content": "$1"
+         }
+      }
+   },
+   "cardsChannelAuditInfo": {
+      "message": "Video esnasında gösterilen interaktif kartlar etkileşime yardımcı olur ve oturum izleme zamanını artırır."
+   },
+   "cardsChannelAuditMissing": {
+      "message": "Kart yok"
+   },
+   "cardsChannelAuditMissingMessage": {
+      "message": "En az bir kart ekleyin"
+   },
+   "cardsInvalidError": {
+      "message": "Youtube'a gönderilen değişkenlerden dolayı bitiş ekranları kopyalanamıyor"
+   },
+   "cardsMissingInfo": {
+      "message": "Listenenen videoların hiç kartı yok. Her videoya eklemenizi tavsiye ederiz."
+   },
+   "cardsMissingSubtextBad": {
+      "message": "Tüm videolarınıza kart ekleyin."
+   },
+   "cardsMissingSubtextGood": {
+      "message": "Videolarınızda eksik kart yok!"
+   },
+   "cardsMissingTitle": {
+      "message": "Kartsız videolar"
+   },
+   "cardsStatLabel": {
+      "message": "kart"
+   },
+   "cardsTooltip": {
+      "message": "Videodaki kartların sayısıdır."
+   },
+   "caseSensitiveQ": {
+      "message": "Büyük-küçük harfe duyalı mı?"
+   },
+   "categoryAny": {
+      "message": "Tüm Kategoriler"
+   },
+   "categoryAutosAndVehicles": {
+      "message": "Otomobil & Araçlar"
+   },
+   "categoryComedy": {
+      "message": "Komedi"
+   },
+   "categoryDocumentary": {
+      "message": "Belgesel"
+   },
+   "categoryDrama": {
+      "message": "Drama"
+   },
+   "categoryEducation": {
+      "message": "Eğitim"
+   },
+   "categoryEntertainment": {
+      "message": "Eğlence"
+   },
+   "categoryFamily": {
+      "message": "Aile"
+   },
+   "categoryFilmAndAnimation": {
+      "message": "Film & Animasyon"
+   },
+   "categoryGaming": {
+      "message": "Oyun"
+   },
+   "categoryHorror": {
+      "message": "Korku"
+   },
+   "categoryHowtoAndStyle": {
+      "message": "Nasıl Yapılır & Stil"
+   },
+   "categoryMovies": {
+      "message": "Filmler"
+   },
+   "categoryMusic": {
+      "message": "Müzik"
+   },
+   "categoryNewsAndPolitics": {
+      "message": "Haber & Politika"
+   },
+   "categoryNonprofitsAndActivism": {
+      "message": "Kar Amaçsiz Örgüt & Aktivizm "
+   },
+   "categoryPeopleAndBlogs": {
+      "message": "Insan & Blog"
+   },
+   "categoryPetsAndAnimals": {
+      "message": "Evcil Hayvanlar & Hayvanlar"
+   },
+   "categoryScienceAndTechnology": {
+      "message": "Bilim & Teknoloji"
+   },
+   "categoryShows": {
+      "message": "Gösteriler"
+   },
+   "categorySports": {
+      "message": "Spor"
+   },
+   "categoryThriller": {
+      "message": "Gerilim"
+   },
+   "categoryTitle": {
+      "message": "Kategori"
+   },
+   "categoryTravelAndEvents": {
+      "message": "Seyahat & Etkinlik"
+   },
+   "change": {
+      "message": "Değiştir"
+   },
+   "changePastSevenDays": {
+      "message": "son yedi gün"
+   },
+   "channelAudit": {
+      "message": "Kanal inceleme"
+   },
+   "channelAuditAverageMetricsHeader": {
+      "message": "Son 30 gündeki ortalama Metrikleriniz"
+   },
+   "channelAuditAverageMetricsInfo": {
+      "message": "Bu ortalama metriksleriniz son 30 günde yüklediğiniz videolar için. Bu değerleri düzenlemek için bağlantı içeren videoların listesini görmek için bir metriğe tıklayın."
+   },
+   "channelAuditContentNotWorking": {
+      "message": "İşe yarayacak içerik"
+   },
+   "channelAuditContentNotWorkingInfo": {
+      "message": "$numDays$ Son günlerde YouTube'daki en kötü performanslı videolarınız bunlar. İçeriği, seyircilerin cevaplarını ve izleyicilerin tutulmalarının nedenlerini inceleyin.",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditDoubleDownHeader": {
+      "message": "Önem Verilmesi Gereken Içerik Türü"
+   },
+   "channelAuditDoubleDownInfo": {
+      "message": "Bunlar son 30 günde en iyi performans gösteren videolardır. Bu videolarin konusunu, içeriğini, ve nasıl yapıldığını gözden geçirip neden başarılı olduğunu anlamaya çalışmanızı ve bunlara benzer videolar yapmanızı öneririz. "
+   },
+   "channelAuditError": {
+      "message": "Metrikleri telafi etmek için yeterli veri yok"
+   },
+   "channelAuditFeatureInfo": {
+      "message": "Kendi analitiklerinden uygulanabilir tavsiyelere hızlı ve kolay eriş!"
+   },
+   "channelAuditFeedbackErrorMessage": {
+      "message": "Bir hata oluştu. vidIQ!ya giriş yaptığunuzdan emin olun lütfen, eğer sorun devam ediyorsa support@vidiq.com ile iletişime geçin."
+   },
+   "channelAuditFeedbackRatingMessage": {
+      "message": "Kanal Denetimini kullanarak deneyiminizi nasıl derecelendirirsiniz?"
+   },
+   "channelAuditFeedbackSubmittedMessage": {
+      "message": "Teşekkürler! Geri bildiriminiz gönderildi."
+   },
+   "channelAuditItemsToImproveHeader": {
+      "message": "Geliştirilecek Öğeler"
+   },
+   "channelAuditItemsToImproveInfo": {
+      "message": "Bunlar videonuzun başarısına katkıda bulunan hayati elemanlar. İçeriğinizin tıklandığından emin olmak için bu sorunları düzeltin ve görüntüleyenleri başka videolarınıza da yönlendirin!"
+   },
+   "channelAuditShowMoreHeader": {
+      "message": "Sizin $type$ videolarınız önceki $numDays$ günler üzerinden $stat$ sıralandı ",
+      "placeholders": {
+         "numDays": {
+            "content": "$2"
+         },
+         "stat": {
+            "content": "$3"
+         },
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditShowMoreHeaderSearchTerms": {
+      "message": "Son $numDays$ gün en çok aranan terimlerin",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditStatsUpsellMessage": {
+      "message": "Daha fazla kanal içeriğini ortaya çıkarmak için seviyeyi VidIQ Pro'ya yükseltin. "
+   },
+   "channelAuditStatsUpsellMessageAlt": {
+      "message": "Daha çok kanal analizi için vidIQ Pro veya Boost'a yükselt"
+   },
+   "channelAuditTimeframe": {
+      "message": "Zaman çerçevesi: $numDays$ gün",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditTitle": {
+      "message": "Kanal Inceleme"
+   },
+   "channelAuditUpsellMessage": {
+      "message": "Tüm sonuçları veya üstünü görmek için \u003Cstrong> vidIQ Pro'ya yükselt \u003C/ strong>"
+   },
+   "channelCountryStatLabel": {
+      "message": "kanalın ülkesi"
+   },
+   "channelEndscreensNeedCustomMessage": {
+      "message": "Kanal bitiş ekranına kişiselleştirilmiş mesaj gerekiyor"
+   },
+   "channelGrowthTooltip": {
+      "message": "Son 30 gündeki büyümenizi bir önceki periyot ile karşılaştıtır ($value$)",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelNotAuthed": {
+      "message": "Kanalınız doğrulanmamistir"
+   },
+   "channelStatsNotEnoughData": {
+      "message": "Bir grafik gösterebilecek yeterli veri mevcut değil"
+   },
+   "channelSubscribers": {
+      "message": "Kanal aboneleri"
+   },
+   "channelSubscribersStatLabel": {
+      "message": "abone"
+   },
+   "channelTagsTitle": {
+      "message": "Kanal Etiketleri"
+   },
+   "channelTitle": {
+      "message": "Kanal"
+   },
+   "channelTrendingUpsellMessage": {
+      "message": "Tüm videoların saatteki izlenme oranını görebilmek için vidIQ Pro'ya yükseltin. "
+   },
+   "channelViewsStatLabel": {
+      "message": "toplam görüntülenme"
+   },
+   "characterCountersTitle": {
+      "message": "Harf Sayısı Sayacı"
+   },
+   "checkEmailForInfo": {
+      "message": "Daha fazla bilgi için emailinizi kontrol ediniz!"
+   },
+   "checkOutVidiqBoost": {
+      "message": "\u003Ca href=\\\"$videoUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">vidIQ Boost\u003C/a>'a göz atın",
+      "placeholders": {
+         "videoUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "checkOutYourSavedIdeas": {
+      "message": "Kayıtlı fikirlerini kontrol et"
+   },
+   "checkYouOut": {
+      "message": "Kontrol et!\u003Cbr>50 fikrin hepsine baktın!"
+   },
+   "checklistCC": {
+      "message": "Altyazı (manual)"
+   },
+   "checklistCard": {
+      "message": "En az 1 kart"
+   },
+   "checklistComment": {
+      "message": "Yeni yoruma cevap yazıldı"
+   },
+   "checklistDescRangeTooltip": {
+      "message": "Açıklamaların 300 karakterden daha fazla olması önerilir"
+   },
+   "checklistEndScreen": {
+      "message": "En az 1 bitiş ekranı"
+   },
+   "checklistFacebook": {
+      "message": "Facebook'ta paylaşıldı ve en az bir beğeni aldı"
+   },
+   "checklistMoney": {
+      "message": "Para kazanma etkin kılındı"
+   },
+   "checklistPlaylist": {
+      "message": "Oynatma listesine eklendi"
+   },
+   "checklistPublic": {
+      "message": "Görünür kıl"
+   },
+   "checklistTagsRangeTooltip": {
+      "message": "Tüm etiketlerin toplam karakter sayısının 200'den fazla olması önerilir"
+   },
+   "checklistTitle": {
+      "message": "Kontrol Listesi"
+   },
+   "checklistTitleRangeTooltip": {
+      "message": "Başlıkların 20 ile 60 karakter arası olması önerilir"
+   },
+   "checklistTwitter": {
+      "message": "Twitter'da paylaşıldı"
+   },
+   "chooseATemplate": {
+      "message": "Şablonu seç"
+   },
+   "chooseCurrentThumb": {
+      "message": "Şuanki küçük resmi seçiniz"
+   },
+   "chooseEllipses": {
+      "message": "Seç..."
+   },
+   "chooseLanguage": {
+      "message": "Tercüme edilecek dili seçiniz!"
+   },
+   "chooseLanguage2": {
+      "message": "Bir dil seç..."
+   },
+   "choosePlaylist": {
+      "message": "Oynatma listesi seç"
+   },
+   "chooseResourcesToCopy": {
+      "message": "Kopyalayacağın  $resources$ı seç",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "chooseResourcesToEditTitle": {
+      "message": "Düzenlemek ve ya Silmek için Kaynak Seç"
+   },
+   "chooseSourceVideoTitle": {
+      "message": "Kaynak Videoyu Seç"
+   },
+   "chooseTemplate": {
+      "message": "Şablon seçiniz"
+   },
+   "chooseThumbBgColor": {
+      "message": "Küçük resminiz için istediğiniz arka plan rengini seçin"
+   },
+   "chooseThumbStill": {
+      "message": "Küçük resminizde, videonuzdaki bir sahneyi kullanmak isterseniz, videoyu o sahnede dondurun."
+   },
+   "chooseTwoLangs": {
+      "message": "Tercüme etmel için iki farklı dil seçiniz!"
+   },
+   "chooseVideoCopyTargets": {
+      "message": "Bu $resources$rı kopyalayacağınız videoları seçiniz. ",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "clearAllFilters": {
+      "message": "Tüm filteleri kaldır"
+   },
+   "clearKeywordsTitle": {
+      "message": "Anahtar Kelimeleri Temizle"
+   },
+   "clearPendingDeletionsTitle": {
+      "message": "İşlemdeki Silinmeleri Temizle"
+   },
+   "clearPendingEditsTitle": {
+      "message": "İşlemdeki Düzenlemeleri Temizle"
+   },
+   "clearTitle": {
+      "message": "Temizle"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "closestAchievement": {
+      "message": "Yaklaşık olarak \u003Cp sınıf='zaman-harcama'>$timeAway$\u003C/p>  \u003Cp sınıf=sonraki-başarı'>$achivement$\u003C/p>",
+      "placeholders": {
+         "achivement": {
+            "content": "$2"
+         },
+         "timeAway": {
+            "content": "$1"
+         }
+      }
+   },
+   "commentTemplatesTitle": {
+      "message": "Yorum Şablonları"
+   },
+   "comments": {
+      "message": "yorumlar"
+   },
+   "commentsMadeBy": {
+      "message": "Tarafından yorum yazılmıştır..."
+   },
+   "commentsTitle": {
+      "message": "Yorumlar"
+   },
+   "communityCcTitle": {
+      "message": "Seyircinin katkıda bulunduğu alt yazılar ve CC"
+   },
+   "compareCompetitors": {
+      "message": "Rakiplerinizle kıyaslayın"
+   },
+   "compareThumbInSearch": {
+      "message": "Arama sonuçlarında küçük ekran resmini karşılaştır"
+   },
+   "comparisonLabel": {
+      "message": "$value$ önceki periyod",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "competition": {
+      "message": "vidIQ Rekabet Skoru "
+   },
+   "competitionLabel": {
+      "message": "Rekabet"
+   },
+   "competitors": {
+      "message": "Rakipler"
+   },
+   "competitorsAdd": {
+      "message": "Ekle"
+   },
+   "competitorsAllTime": {
+      "message": "Tüm zamanlar"
+   },
+   "competitorsAverage": {
+      "message": "Rakiplerin ortalaması"
+   },
+   "competitorsCompetitorChannels": {
+      "message": "Rakip kanalları"
+   },
+   "competitorsDateUploaded": {
+      "message": "Yüklendiği tarih"
+   },
+   "competitorsErrorNoChannelId": {
+      "message": "Böyle bir kanal ID'si bulunmamaktadır. Lütfen kanal ID'sini yukarıda gösterildiği gibi URL'den kopyalayınız. "
+   },
+   "competitorsErrorNoCompetitors": {
+      "message": "Daha fazla popüler video görmek istiyorsanız, yanda bulunan formu kullanarak daha fazla kanal eklemeniz gerekmektedir. "
+   },
+   "competitorsErrorNoCompetitorsFound": {
+      "message": "Rakip bulunamadı"
+   },
+   "competitorsErrorNoTrendingVideosButton": {
+      "message": "Tüm zamalarının popüler videolarını gösteriniz."
+   },
+   "competitorsErrorNoTrendingVideosMessage": {
+      "message": "Seçilen zaman diliminde, rakiplerinizin herhangi bir popülar videosu bulunmamaktadır. Zaman aralığını değiştirip, bir daha bakmayı deneyiniz. "
+   },
+   "competitorsErrorUnableToRemove": {
+      "message": "Bu rakipi silemiyoruz. Lütfen sayfayı yenileyip bir daha deneyiniz. "
+   },
+   "competitorsErrorUnauthenticatedMessage": {
+      "message": "Rakiplerinin popüler videolarını görmek için, kanalınızı doğrulamanız gerekmektedir. "
+   },
+   "competitorsFeatureInfo": {
+      "message": "Rakip ekle ve onlarda en iyi performans gösteren videoları gör"
+   },
+   "competitorsPast48Hours": {
+      "message": "Son 48 saat"
+   },
+   "competitorsRemoveCompetitor": {
+      "message": "Rakibi sil"
+   },
+   "competitorsThisMonth": {
+      "message": "Bu ay"
+   },
+   "competitorsThisWeek": {
+      "message": "Bu hafta"
+   },
+   "competitorsUpsellMessage": {
+      "message": "Trend bildirimi almak için $userType$ planının izin verdiği \u003Cstrong>$limit$ trend bildirim\u003C/strong> sayısına ulaştınız. Daha çok trend bildirimi almak istiyorsanız, hesabınızı yükseltiniz.  ",
+      "placeholders": {
+         "limit": {
+            "content": "$2"
+         },
+         "userType": {
+            "content": "$1"
+         }
+      }
+   },
+   "competitorsViewChannel": {
+      "message": "Kanalı Görüntüle"
+   },
+   "competitorsViews": {
+      "message": "Görüntülenme"
+   },
+   "competitorsVph": {
+      "message": "VPH"
+   },
+   "configureInSettings": {
+      "message": "vidIQ ayarlarını düzenle"
+   },
+   "confirmEmailTitle": {
+      "message": "Emaili Doğrula"
+   },
+   "confirmYourEmail": {
+      "message": "E-postanızı doğrulayın"
+   },
+   "connectYourYtAccount": {
+      "message": "Youtube hesabınızı bağlayın"
+   },
+   "connectYourYtChannel": {
+      "message": "Youtube kanalınızı bağlayın"
+   },
+   "considerIncludingDescription": {
+      "message": "Bu yüksek aranma potansiyeline sahip anahtar kelimeleri, açıklamanızda kullanmayı düşünün"
+   },
+   "considerIncludingTitle": {
+      "message": "Bu yüksek aranma potansiyeline sahip anahtar kelimeleri, başlığınızda kullanmayı düşünün"
+   },
+   "considerPostingBefore": {
+      "message": "İzleyici trafiği artarken yayınlamadan önce düşünün."
+   },
+   "containNegativeWords": {
+      "message": "Negatif yorum içerir"
+   },
+   "containPositiveWords": {
+      "message": "Pozitif yorum içerir"
+   },
+   "containProfanity": {
+      "message": "Argo söz içerir"
+   },
+   "containQuestions": {
+      "message": "Soruları içerir"
+   },
+   "continueWhenReady": {
+      "message": "Hazır olduğunda devam et"
+   },
+   "controversialKeywords": {
+      "message": "Tartışmalı anahtar Kelimeler"
+   },
+   "controversialKeywordsUpgrade": {
+      "message": "Sizi reklam gelirlerinden mahrum bırakabilecek anahtar kelimeleri görebilmek için Pro'ya yükseltiniz"
+   },
+   "controversialKeywordsUpgradeShort": {
+      "message": "Tartışmalı kelimeleri görmek için Pro'ya Yükselt"
+   },
+   "copyAnnotationsTitle": {
+      "message": "Ek Açıklamaları Kopyala"
+   },
+   "copyCardsTitle": {
+      "message": "Kartları Kopyala"
+   },
+   "copyEndScreenNote": {
+      "message": "Not: Ek açıklamalarla birlikle kopyalanan bitiş ekranları bu video için yayınlanmayacaktır, bu yüzden bu video için bitiş ekranı kopyalanabilecektir. "
+   },
+   "copyEndScreenTitle": {
+      "message": "Bitiş Ekranını Kopyala"
+   },
+   "copyIdeas": {
+      "message": "Fikirleri kopyala"
+   },
+   "copyKeywordsTitle": {
+      "message": "Anahtar Kelimeleri Kopyala"
+   },
+   "copyTags": {
+      "message": "Etiketleri kopyala"
+   },
+   "copyTagsTitle": {
+      "message": "Etiketleri Kopyala"
+   },
+   "copyToClipboard": {
+      "message": "Panoya kopyala"
+   },
+   "copyVideoResourcesFail": {
+      "message": "\u003Cb>$resources$ kopyaladık, fakat $number$ kaydedilemedi.\u003C/b> Lütfen yukarıdaki listeden değistirilemeyen videoları seçiniz. Eğer $resources$ görmek isterseniz listedeki herhangi bir videoya tıklayabilirsiniz.",
+      "placeholders": {
+         "number": {
+            "content": "$2"
+         },
+         "resources": {
+            "content": "$3"
+         }
+      }
+   },
+   "copyVideoResourcesSuccess": {
+      "message": "\u003Cb>Seçtiğiniz $resources$ kopyalandı! \u003C/b> Eğer $resources$ görmek isterseniz listedeki herhangi bir videoya tıklayabilirsiniz. ",
+      "placeholders": {
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "copyVideoResourcesTask": {
+      "message": "$resources$'u kopyala",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotFindOwnedChannels": {
+      "message": "Sahip olduğunuz herhangi bir kanal bulunamadı"
+   },
+   "couldNotFindThisChannelId": {
+      "message": "Bu kanalın kodu bulunamadı"
+   },
+   "couldNotFindYourChannelId": {
+      "message": "Kanalınızın kodu bulunamadı"
+   },
+   "couldNotGetTemplates": {
+      "message": "Taslaklar yüklenemedi: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotRetrieveCurrThumb": {
+      "message": "Küçük resim yüklenemiyor"
+   },
+   "couldNotShortenUrls": {
+      "message": "URL kısaltılamıyor"
+   },
+   "couldntGetIdeasError": {
+      "message": "Tüh... bir hata oldu ve yeni fikir bulamıyoruz."
+   },
+   "countryAfghanistan": {
+      "message": "Afganistan"
+   },
+   "countryAlbania": {
+      "message": "Arnavutluk"
+   },
+   "countryAlgeria": {
+      "message": "Cezayir"
+   },
+   "countryAmericanSamoa": {
+      "message": "Amerikan Samoası"
+   },
+   "countryAndorra": {
+      "message": "Andorra"
+   },
+   "countryAngola": {
+      "message": "Angola"
+   },
+   "countryAnguilla": {
+      "message": "Anguilla"
+   },
+   "countryAntarctica": {
+      "message": "Antartika"
+   },
+   "countryAntiguaandBarbuda": {
+      "message": "Antigua ve Barbuda"
+   },
+   "countryArgentina": {
+      "message": "Arjantin"
+   },
+   "countryArmenia": {
+      "message": "Ermenistan"
+   },
+   "countryAruba": {
+      "message": "Aruba"
+   },
+   "countryAustralia": {
+      "message": "Avustralya"
+   },
+   "countryAustria": {
+      "message": "Avusturya"
+   },
+   "countryAzerbaijan": {
+      "message": "Azerbaycan"
+   },
+   "countryBahamas": {
+      "message": "Bahamalar"
+   },
+   "countryBahrain": {
+      "message": "Bahreyn"
+   },
+   "countryBangladesh": {
+      "message": "Bangladeş"
+   },
+   "countryBarbados": {
+      "message": "Barbados"
+   },
+   "countryBelarus": {
+      "message": "Belarus"
+   },
+   "countryBelgium": {
+      "message": "Belçika"
+   },
+   "countryBelize": {
+      "message": "Belize"
+   },
+   "countryBenin": {
+      "message": "Benin"
+   },
+   "countryBermuda": {
+      "message": "Bermuda"
+   },
+   "countryBhutan": {
+      "message": "Butan"
+   },
+   "countryBoliviaPlurinationalStateof": {
+      "message": "Bolivya, Çokuluslu Devlet"
+   },
+   "countryBonaireSintEustatiusandSaba": {
+      "message": "Bonaire, Sint Eustatius ve Saba"
+   },
+   "countryBosniaandHerzegovina": {
+      "message": "Bosna Hersek"
+   },
+   "countryBotswana": {
+      "message": "Botsvana"
+   },
+   "countryBouvetIsland": {
+      "message": "Bouvet Adası"
+   },
+   "countryBrazil": {
+      "message": "Brezilya"
+   },
+   "countryBritishIndianOceanTerritory": {
+      "message": "İngiliz Hint Okyanusu Bölgesi"
+   },
+   "countryBruneiDarussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "countryBulgaria": {
+      "message": "Bulgaristan"
+   },
+   "countryBurkinaFaso": {
+      "message": "Burkina Faso"
+   },
+   "countryBurundi": {
+      "message": "Burundi"
+   },
+   "countryCambodia": {
+      "message": "Kamboçya"
+   },
+   "countryCameroon": {
+      "message": "Kamerun"
+   },
+   "countryCanada": {
+      "message": "Kanada"
+   },
+   "countryCapeVerde": {
+      "message": "Cape Verde"
+   },
+   "countryCaymanIslands": {
+      "message": "Cayman Adaları"
+   },
+   "countryCentralAfricanRepublic": {
+      "message": "Orta Afrika Cumhuriyeti"
+   },
+   "countryChad": {
+      "message": "Çad"
+   },
+   "countryChile": {
+      "message": "Şili"
+   },
+   "countryChina": {
+      "message": "Çin"
+   },
+   "countryChristmasIsland": {
+      "message": "Noel Adası"
+   },
+   "countryCocosKeelingIslands": {
+      "message": "Cocos (Keeling) Adaları"
+   },
+   "countryColombia": {
+      "message": "Kolombiya"
+   },
+   "countryComoros": {
+      "message": "Komorlar"
+   },
+   "countryCongo": {
+      "message": "Kongo"
+   },
+   "countryCongotheDemocraticRepublicofthe": {
+      "message": "Kongo Demokratik Cumhuriyeti"
+   },
+   "countryCookIslands": {
+      "message": "Cook Adaları"
+   },
+   "countryCostaRica": {
+      "message": "Kosta Rika"
+   },
+   "countryCroatia": {
+      "message": "Hırvatistan"
+   },
+   "countryCtedIvoire": {
+      "message": "Fildişi Sahili"
+   },
+   "countryCuba": {
+      "message": "Küba"
+   },
+   "countryCuraao": {
+      "message": "Curacao"
+   },
+   "countryCyprus": {
+      "message": "Kıbrıs"
+   },
+   "countryCzechRepublic": {
+      "message": "Çek Cumhuriyeti"
+   },
+   "countryDenmark": {
+      "message": "Danimarka"
+   },
+   "countryDjibouti": {
+      "message": "Cibuti"
+   },
+   "countryDominica": {
+      "message": "Dominika"
+   },
+   "countryDominicanRepublic": {
+      "message": "Dominik Cumhuriyeti"
+   },
+   "countryEcuador": {
+      "message": "Ekvador"
+   },
+   "countryEgypt": {
+      "message": "Mısır"
+   },
+   "countryElSalvador": {
+      "message": "El Salvador"
+   },
+   "countryEquatorialGuinea": {
+      "message": "Ekvator Ginesi"
+   },
+   "countryEritrea": {
+      "message": "Eritre"
+   },
+   "countryEstonia": {
+      "message": "Estonya"
+   },
+   "countryEthiopia": {
+      "message": "Etiyopya"
+   },
+   "countryFalklandIslandsMalvinas": {
+      "message": "Falkland Adaları (Malvinas)"
+   },
+   "countryFaroeIslands": {
+      "message": "Faroe Adaları"
+   },
+   "countryFiji": {
+      "message": "Fiji"
+   },
+   "countryFinland": {
+      "message": "Finlandiya"
+   },
+   "countryFrance": {
+      "message": "Fransa"
+   },
+   "countryFrenchGuiana": {
+      "message": "Fransız Guyanas"
+   },
+   "countryFrenchPolynesia": {
+      "message": "Fransız Polinezyası"
+   },
+   "countryFrenchSouthernTerritories": {
+      "message": "Fransız Güney Bölgesi"
+   },
+   "countryGabon": {
+      "message": "Gabon"
+   },
+   "countryGambia": {
+      "message": "Gambiya"
+   },
+   "countryGeorgia": {
+      "message": "Gürcistan"
+   },
+   "countryGermany": {
+      "message": "Almanya"
+   },
+   "countryGhana": {
+      "message": "Gana"
+   },
+   "countryGibraltar": {
+      "message": "Cebelitarık"
+   },
+   "countryGreece": {
+      "message": "Yunanistan"
+   },
+   "countryGreenland": {
+      "message": "Grönland"
+   },
+   "countryGrenada": {
+      "message": "Grenada"
+   },
+   "countryGuadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "countryGuam": {
+      "message": "Guam"
+   },
+   "countryGuatemala": {
+      "message": "Guatemala"
+   },
+   "countryGuernsey": {
+      "message": "Guernsey"
+   },
+   "countryGuinea": {
+      "message": "Gine"
+   },
+   "countryGuineaBissau": {
+      "message": "Gine-Bissau"
+   },
+   "countryGuyana": {
+      "message": "Guyana"
+   },
+   "countryHaiti": {
+      "message": "Haiti"
+   },
+   "countryHeardIslandandMcDonaldIslands": {
+      "message": "Heard Adası ve McDonald Adaları"
+   },
+   "countryHolySeeVaticanCityState": {
+      "message": "Holy See (Vatikan Şehri Devleti)"
+   },
+   "countryHonduras": {
+      "message": "Honduras"
+   },
+   "countryHongKong": {
+      "message": "Hong Kong"
+   },
+   "countryHungary": {
+      "message": "Macaristan"
+   },
+   "countryIceland": {
+      "message": "İzlanda"
+   },
+   "countryIndia": {
+      "message": "Hindistan"
+   },
+   "countryIndonesia": {
+      "message": "Endonezya"
+   },
+   "countryIranIslamicRepublicof": {
+      "message": "İran, İslam Cumhuriyeti"
+   },
+   "countryIraq": {
+      "message": "Irak"
+   },
+   "countryIreland": {
+      "message": "İrlanda"
+   },
+   "countryIsleofMan": {
+      "message": "Isle of Man"
+   },
+   "countryIsrael": {
+      "message": "İsrail"
+   },
+   "countryItaly": {
+      "message": "İtalya"
+   },
+   "countryJamaica": {
+      "message": "Jamaika"
+   },
+   "countryJapan": {
+      "message": "Japonya"
+   },
+   "countryJersey": {
+      "message": "Jersey"
+   },
+   "countryJordan": {
+      "message": "Ürdün"
+   },
+   "countryKazakhstan": {
+      "message": "Kazakistan"
+   },
+   "countryKenya": {
+      "message": "Kenya"
+   },
+   "countryKiribati": {
+      "message": "Kiribati"
+   },
+   "countryKoreaDemocraticPeoplesRepublicof": {
+      "message": "Kore Demokratik Halk Cumhuriyeti"
+   },
+   "countryKoreaRepublicof": {
+      "message": "Kore Cumhuriyeti"
+   },
+   "countryKuwait": {
+      "message": "Kuveyt"
+   },
+   "countryKyrgyzstan": {
+      "message": "Kırgızistan"
+   },
+   "countryLaoPeoplesDemocraticRepublic": {
+      "message": "Lao Halkı'nın Demokratik Cumhuriyeti"
+   },
+   "countryLatvia": {
+      "message": "Letonya"
+   },
+   "countryLebanon": {
+      "message": "Lübnan"
+   },
+   "countryLesotho": {
+      "message": "Lesotho"
+   },
+   "countryLiberia": {
+      "message": "Liberya"
+   },
+   "countryLibya": {
+      "message": "Libya"
+   },
+   "countryLiechtenstein": {
+      "message": "Lihtenştayn"
+   },
+   "countryLithuania": {
+      "message": "Litvanya"
+   },
+   "countryLuxembourg": {
+      "message": "Lüksemburg"
+   },
+   "countryMacao": {
+      "message": "Macao"
+   },
+   "countryMacedonia": {
+      "message": "Makedonya"
+   },
+   "countryMacedoniatheFormerYugoslavRepublicof": {
+      "message": "Makedonya, Eski Yugoslav Cumhuriyeti"
+   },
+   "countryMadagascar": {
+      "message": "Madagaskar"
+   },
+   "countryMalawi": {
+      "message": "Malawi"
+   },
+   "countryMalaysia": {
+      "message": "Malezya"
+   },
+   "countryMaldives": {
+      "message": "Maldivler"
+   },
+   "countryMali": {
+      "message": "Mali"
+   },
+   "countryMalta": {
+      "message": "Malta"
+   },
+   "countryMarshallIslands": {
+      "message": "Marşal Adaları"
+   },
+   "countryMartinique": {
+      "message": "Martinik"
+   },
+   "countryMauritania": {
+      "message": "Moritanya"
+   },
+   "countryMauritius": {
+      "message": "Mauritius"
+   },
+   "countryMayotte": {
+      "message": "Mayotte"
+   },
+   "countryMexico": {
+      "message": "Meksika"
+   },
+   "countryMicronesiaFederatedStatesof": {
+      "message": "Mikronezya, Federe Devletleri"
+   },
+   "countryMoldovaRepublicof": {
+      "message": "Moldova, Cumhuriyeti"
+   },
+   "countryMonaco": {
+      "message": "Monako"
+   },
+   "countryMongolia": {
+      "message": "Moğolistan"
+   },
+   "countryMontenegro": {
+      "message": "Karadağ"
+   },
+   "countryMontserrat": {
+      "message": "Montserrat"
+   },
+   "countryMorocco": {
+      "message": "Fas"
+   },
+   "countryMozambique": {
+      "message": "Mozambik"
+   },
+   "countryMyanmar": {
+      "message": "Myanmar"
+   },
+   "countryNamibia": {
+      "message": "Namibya"
+   },
+   "countryNauru": {
+      "message": "Nauru"
+   },
+   "countryNepal": {
+      "message": "Nepal"
+   },
+   "countryNetherlands": {
+      "message": "Hollanda"
+   },
+   "countryNewCaledonia": {
+      "message": "Yeni Kaledonya"
+   },
+   "countryNewZealand": {
+      "message": "Yeni Zelanda"
+   },
+   "countryNicaragua": {
+      "message": "Nikaragua"
+   },
+   "countryNiger": {
+      "message": "Nijer"
+   },
+   "countryNigeria": {
+      "message": "Nijerya"
+   },
+   "countryNiue": {
+      "message": "Niue"
+   },
+   "countryNorfolkIsland": {
+      "message": "Norfolk Adası"
+   },
+   "countryNorthernMarianaIslands": {
+      "message": "Kuzey Mariana Adaları"
+   },
+   "countryNorway": {
+      "message": "Norveç"
+   },
+   "countryOman": {
+      "message": "Umman"
+   },
+   "countryPakistan": {
+      "message": "Pakistan"
+   },
+   "countryPalau": {
+      "message": "Palau"
+   },
+   "countryPalestineStateof": {
+      "message": "Filistin"
+   },
+   "countryPanama": {
+      "message": "Panama"
+   },
+   "countryPapuaNewGuinea": {
+      "message": "Papua Yeni Gine"
+   },
+   "countryParaguay": {
+      "message": "Paraguay"
+   },
+   "countryPeru": {
+      "message": "Peru"
+   },
+   "countryPhilippines": {
+      "message": "Filipinler"
+   },
+   "countryPitcairn": {
+      "message": "Pitcairn"
+   },
+   "countryPoland": {
+      "message": "Polonya"
+   },
+   "countryPortugal": {
+      "message": "Portekiz"
+   },
+   "countryPuertoRico": {
+      "message": "Porto Riko"
+   },
+   "countryQatar": {
+      "message": "Katar"
+   },
+   "countryRomania": {
+      "message": "Romanya"
+   },
+   "countryRunion": {
+      "message": "Réunion"
+   },
+   "countryRussia": {
+      "message": "Rusya"
+   },
+   "countryRussianFederation": {
+      "message": "Rusya Federasyonu"
+   },
+   "countryRwanda": {
+      "message": "Ruanda"
+   },
+   "countrySaintBarthlemy": {
+      "message": "Saint Barthélem"
+   },
+   "countrySaintHelenaAscensionandTristandaCunha": {
+      "message": "Saint Helena, Yükseliş ve Tristan da Cunha"
+   },
+   "countrySaintKittsandNevis": {
+      "message": "Saint Kitts ve Nevis"
+   },
+   "countrySaintLucia": {
+      "message": "Saint Lucia"
+   },
+   "countrySaintMartinFrenchpart": {
+      "message": "Saint Martin (Fransız Bölümü)"
+   },
+   "countrySaintPierreandMiquelon": {
+      "message": "Saint Pierre ve Miquelon"
+   },
+   "countrySaintVincentandtheGrenadines": {
+      "message": "Saint Vincent ve Grenadinler"
+   },
+   "countrySamoa": {
+      "message": "Samoa"
+   },
+   "countrySanMarino": {
+      "message": "San Marino"
+   },
+   "countrySaoTomeandPrincipe": {
+      "message": "Sao Tome ve Principe"
+   },
+   "countrySaudiArabia": {
+      "message": "Suudi Arabistan"
+   },
+   "countrySenegal": {
+      "message": "Senegal"
+   },
+   "countrySerbia": {
+      "message": "Sırbistan"
+   },
+   "countrySeychelles": {
+      "message": "Seyşel Adaları"
+   },
+   "countrySierraLeone": {
+      "message": "Sierra Leone"
+   },
+   "countrySingapore": {
+      "message": "Singapur"
+   },
+   "countrySintMaartenDutchpart": {
+      "message": "Sint Maarten (Hollandalı bölüm)"
+   },
+   "countrySlovakia": {
+      "message": "Slovakya"
+   },
+   "countrySlovenia": {
+      "message": "Slovenya"
+   },
+   "countrySolomonIslands": {
+      "message": "Solomon Adaları"
+   },
+   "countrySomalia": {
+      "message": "Somali"
+   },
+   "countrySouthAfrica": {
+      "message": "Güney Afrika"
+   },
+   "countrySouthGeorgiaandtheSouthSandwichIslands": {
+      "message": "Güney Georgia ve Güney Sandviç Adaları"
+   },
+   "countrySouthKorea": {
+      "message": "Güney Kore"
+   },
+   "countrySouthSudan": {
+      "message": "Güney Sudan"
+   },
+   "countrySpain": {
+      "message": "ispanya"
+   },
+   "countrySriLanka": {
+      "message": "Sri Lanka"
+   },
+   "countrySudan": {
+      "message": "Sudan"
+   },
+   "countrySuriname": {
+      "message": "Surinam"
+   },
+   "countrySvalbardandJanMayen": {
+      "message": "Svalbard ve Jan Mayen"
+   },
+   "countrySwaziland": {
+      "message": "Svaziland"
+   },
+   "countrySweden": {
+      "message": "İsveç"
+   },
+   "countrySwitzerland": {
+      "message": "İsviçre"
+   },
+   "countrySyrianArabRepublic": {
+      "message": "Suriye Arap Cumhuriyeti"
+   },
+   "countryTaiwan": {
+      "message": "Tayvan"
+   },
+   "countryTaiwanProvinceofChina": {
+      "message": "Tayvan, Çin Halk Cumhuriyeti"
+   },
+   "countryTajikistan": {
+      "message": "Tacikistan"
+   },
+   "countryTanzaniaUnitedRepublicof": {
+      "message": "Tanzanya, Birleşik Cumhuriyeti"
+   },
+   "countryThailand": {
+      "message": "Tayland"
+   },
+   "countryTimorLeste": {
+      "message": "Timor-Leste"
+   },
+   "countryTitle": {
+      "message": "Ülke"
+   },
+   "countryTogo": {
+      "message": "Togo"
+   },
+   "countryTokelau": {
+      "message": "Tokelau"
+   },
+   "countryTonga": {
+      "message": "Tonga"
+   },
+   "countryTrinidadandTobago": {
+      "message": "Trinidad ve Tobago"
+   },
+   "countryTunisia": {
+      "message": "Tunus"
+   },
+   "countryTurkey": {
+      "message": "Türkiye"
+   },
+   "countryTurkmenistan": {
+      "message": "Türkmenistan"
+   },
+   "countryTurksandCaicosIslands": {
+      "message": "Turks ve Caicos Adaları"
+   },
+   "countryTuvalu": {
+      "message": "Tuvalu"
+   },
+   "countryUganda": {
+      "message": "Uganda"
+   },
+   "countryUkraine": {
+      "message": "Ukrayna"
+   },
+   "countryUnitedArabEmirates": {
+      "message": "Birleşik Arap Emirlikleri"
+   },
+   "countryUnitedKingdom": {
+      "message": "Birleşik Krallık"
+   },
+   "countryUnitedStates": {
+      "message": "Amerika Birleşik Devletleri"
+   },
+   "countryUnitedStatesMinorOutlyingIslands": {
+      "message": "Amerika Birleşik Devletleri Küçük Dış Adaları"
+   },
+   "countryUnitedStatesWorldwide": {
+      "message": "Amerika Birleşik Devletleri / Dünya Çapında"
+   },
+   "countryUruguay": {
+      "message": "Uruguay"
+   },
+   "countryUzbekistan": {
+      "message": "Özbekistan"
+   },
+   "countryVanuatu": {
+      "message": "Vanuatu"
+   },
+   "countryVenezuelaBolivarianRepublicof": {
+      "message": "Venezuela, Bolivarcı Cumhuriyeti"
+   },
+   "countryVietnam": {
+      "message": "Vietnam"
+   },
+   "countryVirginIslandsBritish": {
+      "message": "Virgin Adaları, İngiliz"
+   },
+   "countryVirginIslandsUS": {
+      "message": "ABD Virgin Adaları"
+   },
+   "countryWallisandFutuna": {
+      "message": "Wallis ve Futuna"
+   },
+   "countryWesternSahara": {
+      "message": "Batı Sahra"
+   },
+   "countryYemen": {
+      "message": "Yemen"
+   },
+   "countryZambia": {
+      "message": "Zambiya"
+   },
+   "countryZimbabwe": {
+      "message": "Zimbabve"
+   },
+   "countrylandIslands": {
+      "message": "Aland adaları"
+   },
+   "createAccountTitle": {
+      "message": "Hesap Aç"
+   },
+   "createAnEmailAlert": {
+      "message": "Bir e-posta bildirimi oluştur"
+   },
+   "createNewCommentTemplateTitle": {
+      "message": "Yeni yorum şablonu oluştur"
+   },
+   "createNewTitle": {
+      "message": "Yeni Bir Tane Oluştur"
+   },
+   "createNewVidiqAccount": {
+      "message": "Yeni bir vidIQ hesabınızı oluşturun"
+   },
+   "createThumbnailTitle": {
+      "message": "Küçük Resim Oluştur"
+   },
+   "createTitle": {
+      "message": "Oluştur"
+   },
+   "createVidiqAccount": {
+      "message": "vidIQ hesabınızı oluşturun"
+   },
+   "createdAtStatLabel": {
+      "message": "Oluşturuldu"
+   },
+   "createdCampaign": {
+      "message": "Kampanda oluşturuldu!"
+   },
+   "creatorSuggestedStatLabel": {
+      "message": "kanaldan tavsiye edilenler"
+   },
+   "creatorSuggestedTooltip": {
+      "message": "Kanalinizdan önerilenler:  \\\"Up next\\\"  videolardan kaç tanesinin bu kanaldan önerildiğini gösterir. Numaranın büyüklüğü kanal sahibinin izleyicileri aynı kanalda tutmaya yönelik yaptığı optimizasyonun işe yaradığını gösterir. "
+   },
+   "creatorsForPeaceButtonText": {
+      "message": "Şimdi nasıl yardımcı olabileceğinizi öğrenin"
+   },
+   "creatorsForPeaceHeader": {
+      "message": "YARDIMINA İHTİYACIMIZ VAR!"
+   },
+   "creatorsForPeaceMessage": {
+      "message": "1 milyondan fazla yerinden edilmiş Ukraynalıyı destekleyin."
+   },
+   "crowdfundingTitle": {
+      "message": "Kitlesel fon"
+   },
+   "csvExportTitle": {
+      "message": "Veriyi Dışarı Aktarın"
+   },
+   "current": {
+      "message": "Güncel"
+   },
+   "currentBestTimes": {
+      "message": "Güncel en iyi yayınlama zamanları: \u003Cb>between$start$ ve $end$\u003C/b>",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "currentCampaignTitle": {
+      "message": "Şuanki Kampanya"
+   },
+   "currentThumbnailTitle": {
+      "message": "Şuanki Küçük Resim"
+   },
+   "custom": {
+      "message": "İsteğe göre"
+   },
+   "customThumbnail": {
+      "message": "Özel Küçük Resim"
+   },
+   "customThumbnailChannelAuditEdit": {
+      "message": "Küçük resimleri güncelleyin"
+   },
+   "customThumbnailChannelAuditHas": {
+      "message": "Kişisel küçük resim eklendi"
+   },
+   "customThumbnailChannelAuditMissing": {
+      "message": "Kişisel küçük resim yok"
+   },
+   "customThumbnailChannelAuditMissingMessage": {
+      "message": "Kişisel bir küçük resim ekleyin"
+   },
+   "customThumbnailMissingInfo": {
+      "message": "Listelenen videoların kişisel küçük resimleri yok. Her videoya onları eklemenizi öneririz."
+   },
+   "customThumbnailMissingSubtextBad": {
+      "message": "Tüm videolarınız için kişisel küçük resimler yükleyiniz."
+   },
+   "customThumbnailMissingSubtextGood": {
+      "message": "Tüm videolarınızın özel küçük resimleri var."
+   },
+   "customThumbnailMissingTitle": {
+      "message": "Kişisel küçük resimleri eksik videolar"
+   },
+   "customThumbnailUsageNotice": {
+      "message": "Kendi küçük resminizi kullanmak isterseniz, hesabınızın $start$onaylanmiş$end$ olması gerekiyor.",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "customUrlWarning": {
+      "message": "Özel URL'lerin kaydedilmeme riski vardır. "
+   },
+   "dailyIdeasLabel": {
+      "message": "Günlük fikirler"
+   },
+   "dailyIdeasNoVideosExplainOne": {
+      "message": "Yapay zekamız, video geçmişinize dayalı olarak güçlü Günlük Fikirler üretir."
+   },
+   "dailyIdeasNoVideosExplainTwo": {
+      "message": "Bir video yayınlayın ve kişiselleştirilmiş önerileriniz için 7 gün içerisinde tekrar göz atın!"
+   },
+   "dailyIdeasNoVideosPrimary": {
+      "message": "Yeni bir video yayınla. Yapay Zekadan ilham alın."
+   },
+   "dailyIdeasTitle": {
+      "message": "Günlük Fikirler"
+   },
+   "dailyIdeasUpsellAlt": {
+      "message": "$num$ daha çok video fikri inin yarın tekrar gel veya daha fazlası için şimdi plan yükselt!",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "dashboardTitle": {
+      "message": "Kontrol Paneli"
+   },
+   "dataFromGoogleTrends": {
+      "message": "Google Trendlerden Veri"
+   },
+   "datePublishedTitle": {
+      "message": "Yayınlanma Tarihi"
+   },
+   "dateRange": {
+      "message": "Zaman aralığı"
+   },
+   "dateSaved": {
+      "message": "Bilgi kaydedildi"
+   },
+   "day": {
+      "message": "Gün"
+   },
+   "dayAbbreviation": {
+      "message": "gün"
+   },
+   "daysIntervalOption": {
+      "message": "Gün"
+   },
+   "default": {
+      "message": "Vasayılan"
+   },
+   "deleteAllKeywordsQ": {
+      "message": "Tüm anahtar kelimeler silinsin mi?"
+   },
+   "deleteNThings": {
+      "message": "$things$ tane sil",
+      "placeholders": {
+         "things": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteOneThing": {
+      "message": "$thing$ tane sil",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTheTemplate": {
+      "message": "\"$template$\" şablonu silmek ister misiniz?",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTitle": {
+      "message": "Sil"
+   },
+   "descAverageSubtextBad": {
+      "message": "Açıklama uzunluğunuz ortalama çok kısa. En az 300 karakter girin."
+   },
+   "descAverageSubtextGood": {
+      "message": "Açıklama uzunluğunuz ortalama iyi!"
+   },
+   "descChannelAuditEdit": {
+      "message": "Açıklamalarınızı güncelleyin"
+   },
+   "descLengthChannelAuditTitle": {
+      "message": "Açıklama uzunluğu"
+   },
+   "descLinkCountStatLabel": {
+      "message": "açıklamadaki link sayısı"
+   },
+   "descWordCountStatLabel": {
+      "message": "açıklamadaki kelime sayısı"
+   },
+   "descWordCountTooltip": {
+      "message": "Bu sayı, video açıklamasından elde edilen kelime sayısıdır. "
+   },
+   "description": {
+      "message": "Açıklama"
+   },
+   "descriptionCampaignIntro": {
+      "message": "Mevcut video açıklamalarınıza ek olarak toplu şekilde metin eklemek için Açıklama Kampanyası başlatınız. Sonradan eklenen metni istediğiniz zaman kaldırıp, eski metninizi kullanmaya devam edebilirsiniz.   "
+   },
+   "descriptionCampaignsTitle": {
+      "message": "Açıklama Kampanyaları"
+   },
+   "descriptionTooLongToTranslate": {
+      "message": "Açıklama çevrilemeyecek kadar uzun"
+   },
+   "descriptionsTitle": {
+      "message": "Açıklamalar"
+   },
+   "desktopTitle": {
+      "message": "Bilgisayar"
+   },
+   "disableInlineKeywords": {
+      "message": "Videoların anahtar kelimelerini gösterme"
+   },
+   "disableKeyboardControls": {
+      "message": "Klavye girişlerini etkisiz kıl"
+   },
+   "dislikes": {
+      "message": "beğenilmeme"
+   },
+   "dismissTitle": {
+      "message": "Çıkar"
+   },
+   "dismissWarningsTitle": {
+      "message": "Uyarıları Görmezden Gel"
+   },
+   "dismissed": {
+      "message": "Çıkarıldı"
+   },
+   "dismissedIdeasLabel": {
+      "message": "Çıkarıılan fikirler"
+   },
+   "dismissedIdeasTabTooltip": {
+      "message": "Bu fikri tekrar görmeyeceksin. Buradan değiştirebilirsin"
+   },
+   "doNotLoadMoreComments": {
+      "message": "Otomatik olarak daha fazla yorum yükleme"
+   },
+   "domainNameTitle": {
+      "message": "Alan Adı"
+   },
+   "donationTitle": {
+      "message": "Bağış"
+   },
+   "doneExclaim": {
+      "message": "Tamamlandı!"
+   },
+   "doneTitle": {
+      "message": "Tamamlandı"
+   },
+   "dontForgetRefresh": {
+      "message": "Yükselttikten sonra, sayfayı yenilemeyi unutmayınız!"
+   },
+   "dontKnowWhatVideoToCreate": {
+      "message": "Nasıl video yapılacağını bilmiyor musunuz?"
+   },
+   "doubleDownChannelAuditError": {
+      "message": "En son VPH videoları ve en son arama terimleri gibi son 30 güne ait istatistikleri görmek için daha fazla video yükleyin"
+   },
+   "download": {
+      "message": "İndir"
+   },
+   "downloadAsCsv": {
+      "message": "CSV olarak indir"
+   },
+   "downloadCSVTitle": {
+      "message": "Veriyi CSV olarak İndir"
+   },
+   "downloadName": {
+      "message": "$id$ için CSV Veri Çıktısı",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "dragDropKeywordsTitle": {
+      "message": "Anahtar Kelimeleri Sürükleyip Bırak"
+   },
+   "dropFileHere": {
+      "message": "Dosyanızı buraya sürükleyin ve ya dosya için bilgisayarınızı tarayın"
+   },
+   "dropdownAddCompetitor": {
+      "message": "Rakip ekle"
+   },
+   "dropdownRemoveCompetitor": {
+      "message": "Rakibi sil "
+   },
+   "durationStatLabel": {
+      "message": "süre"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "editDetailsTask": {
+      "message": "$nVideos$ için detayları düzenle",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "editNThings": {
+      "message": "$things$ tane düzenle",
+      "placeholders": {
+         "things": {
+            "content": "$1"
+         }
+      }
+   },
+   "editName": {
+      "message": "Adını düzenle"
+   },
+   "editOneThing": {
+      "message": "$thing$ tane düzenle",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "editSelectedObjectTitle": {
+      "message": "Seçilen Nesneleri Düzenle"
+   },
+   "editThumbnailsTask": {
+      "message": "$nVideos$ için küçük resimleri düzenle",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "editableCardMerchWarningCopy": {
+      "message": "Youtube İş Ortağı Programına henüz kabul edilmediysen bağlantı kartlarını kopyalarken sorunla karşılaşabilirsin"
+   },
+   "editableCardMerchWarningEdit": {
+      "message": "Youtube İş Ortağı Programına henüz kabul edilmediysen bağlantı kartlarını düzenlerken sorunla karşılaşabilirsin"
+   },
+   "emailAddressInvalid": {
+      "message": "Email geçerli olmalıdır"
+   },
+   "emailConfirmationMessagePartOne": {
+      "message": "\u003Cstrong>vidIQ'ya katıldığınız için teşekkürler!\u003C/strong>  \u003Cstrong>$userEmail$\u003C/strong> bir doğrulama linki gönderdik. Bu linki henüz almadıysanız, ",
+      "placeholders": {
+         "userEmail": {
+            "content": "$1"
+         }
+      }
+   },
+   "emailConfirmationMessagePartTwo": {
+      "message": "veya \u003Ca href=\\\"mailto:support@vidiq.com\\\" target=\\\"_blank\\\">support@vidiq.com\u003C/a> iletişime geçebilirsiniz."
+   },
+   "emailMustMatch": {
+      "message": "E-posta adresleri eşleşmeli"
+   },
+   "emailRequired": {
+      "message": "E-posta adresi gerekli"
+   },
+   "emailSuggestion": {
+      "message": " \u003Cstrong>\u003C/strong> demek istediniz?"
+   },
+   "emailTaken": {
+      "message": "Bu email daha önce kullanılmıştır. Lütfen başka bir email deneyiniz."
+   },
+   "emailTitle": {
+      "message": "Email"
+   },
+   "emailsMustMatch": {
+      "message": "Email aynı olmalıdır!"
+   },
+   "embedCodeCopy": {
+      "message": "Yerleştirilmiş Linkler (kopyalamak için tıklayın)"
+   },
+   "embedSourcesTitle": {
+      "message": "Yerleştirilmiş Linkler"
+   },
+   "embedSrcsTooltip": {
+      "message": "Bu sayı, bu sayfaya bağlı olarak belirlenen başka linklerin toplam sayısıdır. "
+   },
+   "embeddedViewsStatLabel": {
+      "message": "yerleştirilmiş görüntülenme"
+   },
+   "emojiMenusTitle": {
+      "message": "Emoji Menüsü"
+   },
+   "enableInlineKeywords": {
+      "message": "Videoların anahtar kelimelerini göster"
+   },
+   "enablePrivacy": {
+      "message": "Güçlendirilmiş güvenliği etkin kıl. (ör: çerezleri engelle)"
+   },
+   "endOfResults": {
+      "message": "Sonuçların sonu"
+   },
+   "endScreens": {
+      "message": "bitiş ekranları"
+   },
+   "endscreenClickRates": {
+      "message": "Bitiş ekranı tıklanma oranları"
+   },
+   "endscreensChannelAuditEdit": {
+      "message": "Bitiş ekranınızı güncelleyin"
+   },
+   "endscreensChannelAuditHas": {
+      "message": "Videonun $numEndscreen$ bitiş ekranları var",
+      "placeholders": {
+         "numEndscreen": {
+            "content": "$1"
+         }
+      }
+   },
+   "endscreensChannelAuditInfo": {
+      "message": "İzleyen, her bir videonun sonundaki sizin gösterdiğiniz kartlara tıklayabilir."
+   },
+   "endscreensChannelAuditMissing": {
+      "message": "Bitiş ekranları yok"
+   },
+   "endscreensChannelAuditMissingMessage": {
+      "message": "En az bir bitiş ekranı ekleyin"
+   },
+   "endscreensMissingInfo": {
+      "message": "Listenenen videoların hiç kartı yok. Her videoya eklemenizi tavsiye ederiz."
+   },
+   "endscreensMissingSubtextBad": {
+      "message": "Tüm videolarınıza bitiş ekranı ekleyin"
+   },
+   "endscreensMissingSubtextGood": {
+      "message": "Videolarınızda  bitiş ekranı tam"
+   },
+   "endscreensMissingTitle": {
+      "message": " Bitiş Ekranı olmayan videolar"
+   },
+   "engagementBreakdownTitle": {
+      "message": "Etkileşim Dökümü"
+   },
+   "engagementRateER": {
+      "message": "EO"
+   },
+   "engagementRatePopoverText": {
+      "message": "Toplam etkileşimlerin, toplam görüntülenmelere oranı olarak hesaplanmıştır. "
+   },
+   "engagementRateStatLabel": {
+      "message": "etkileşim oranı"
+   },
+   "engagementRateTitle": {
+      "message": "Etkileşim Oranı "
+   },
+   "engagementRateTooltip": {
+      "message": "Etkileşim Oranı (EO) , tüm bulunmuş etkileşimlerin, toplam görüntülenmeye oranı üzerinden hesaplanmis bir yüzdedir. "
+   },
+   "engagementsStatLabel": {
+      "message": "etkileşimler"
+   },
+   "enterSearchTermRank": {
+      "message": "Sıralamak istediğiniz arama terimini girin"
+   },
+   "enterText": {
+      "message": "Metni giriniz"
+   },
+   "errorOrNoEmail": {
+      "message": "Hata oluştu ve ya böyle bir email yoktur!"
+   },
+   "errorPlural": {
+      "message": "hata"
+   },
+   "errorSingular": {
+      "message": "hata"
+   },
+   "errorWhileSavingEndscreen": {
+      "message": "Youtube'a gönderilen değişkenlerden dolayı bitiş ekranları kopyalanamıyor"
+   },
+   "estimatedEarningsStatLabel": {
+      "message": "Tahmini kazanç"
+   },
+   "estimatedEarningsTooltip": {
+      "message": "Tahmini gelir, $cpm$ CPM üzerinden hesaplanmiştir.",
+      "placeholders": {
+         "cpm": {
+            "content": "$1"
+         }
+      }
+   },
+   "estimatedMonthlyRevenueStatLabel": {
+      "message": "≈ tahmini aylık gelir"
+   },
+   "estimatedRevenue": {
+      "message": "tahmini kazanç"
+   },
+   "estimatedRevenueStatLabel": {
+      "message": "tahmini kazanç"
+   },
+   "estimatedTime": {
+      "message": "$timeFromNow$ (tahmini)",
+      "placeholders": {
+         "timeFromNow": {
+            "content": "$1"
+         }
+      }
+   },
+   "exampleTemplateName": {
+      "message": "Ad (e.g. my-template-1)"
+   },
+   "expandAllTitle": {
+      "message": "Hepsini Genişlet"
+   },
+   "expandNoneTitle": {
+      "message": "Hiçbirini Genişletme"
+   },
+   "exportExplainMine": {
+      "message": "Bu özelliği özel, genel ve listelenmemiş videolarınızın verisini CSV dosyası olarak, indirmek için kullanabilirsiniz."
+   },
+   "exportExplainMineLimited": {
+      "message": "Bu özelliği bazı \u003Cb>$channel$\u003C/b> kanalının genel video verilerini CSV dosyası olarak indirmek için kullanabilirsiniz",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirs": {
+      "message": "Bu özelliği \u003Cb>$channel$\u003C/b>'nın tüm genel video verilerini CSV dosyası olarak indirmek için kullanabilirsiniz",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirsLimited": {
+      "message": "Bu özelliği \u003Cb>$channel$\u003C/b>'nın bazı genel video verilerini CSV dosyası olarak indirmek için kullanabilirsiniz",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportIdeas": {
+      "message": "Fikirleri dışarı aktar"
+   },
+   "exportMyVideos": {
+      "message": "Tüm vidolarımı indir"
+   },
+   "exportTheirVideos": {
+      "message": "Tüm vidolarını indir"
+   },
+   "exportUpTo": {
+      "message": "$limit$'a kadar videoyu bilgisayarına gönder",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportedNVideos": {
+      "message": "\u003Cb>$n$ tane video\u003C/b> \u003Cb>$time$\u003C/b>'de gönderildi",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "time": {
+            "content": "$2"
+         }
+      }
+   },
+   "exportedOneVideo": {
+      "message": "\u003Cb>1 video\u003C/b> \u003Cb>$time$\u003C/b>'de gönderildi",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionSettingsTitle": {
+      "message": "Eklenti Ayarları"
+   },
+   "facebookApiChanges": {
+      "message": "Facebook'un son zamanlarda yaptığı değişiklikten dolayı kimliğinizi doğrumalanız gereklidir. Anlayışınız için teşekkür ederiz. "
+   },
+   "facebookAuthTitle": {
+      "message": "Facebook ile Doğrulama"
+   },
+   "facebookFollowersStatLabel": {
+      "message": "facebook takipçileri "
+   },
+   "facebookGetMoreStats": {
+      "message": "Daha fazla istatistik için \u003Cb>FB\u003C/b>'a bağlan"
+   },
+   "facebookTitle": {
+      "message": "Facebook"
+   },
+   "failedToDeleteSavedIdea": {
+      "message": "Kayıtlı fikir silinemedi"
+   },
+   "failedToDismissIdea": {
+      "message": "Fikir çıkarılamadı"
+   },
+   "failedToLoadAnnsNoAnns": {
+      "message": "Ek açıklamaları yüklerken hata oluştu: Bu şablon için ek açıklama bulunamadı"
+   },
+   "failedToLoadAnnsNoVideo": {
+      "message": "Ek açıklamaları yüklerken hata oluştu: Ek açıklamaların kopyalandığı video artık bulunmamaktadır!"
+   },
+   "failedToLoadAnnsOther": {
+      "message": "Ek açıklamaları yüklerken hata oluştu: $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "failedToLoadCardsNoCards": {
+      "message": "Kartları yüklerken hata oluştu: Bu şablon için kart bulunamadı"
+   },
+   "failedToLoadCardsNoVideo": {
+      "message": "Kartları yüklerken hata oluştu: Kartların kopyalandığı video artık bulunmamaktadır!"
+   },
+   "failedToLoadCardsOther": {
+      "message": "Kartları yüklerken hata oluştu: $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "failedToRestoreDismissedIdea": {
+      "message": "Çıkarılan fikir yenilenemedi"
+   },
+   "failedToSaveIdea": {
+      "message": "Fikir kaydedilemedi"
+   },
+   "fbCommentsStatLabel": {
+      "message": "fb yorumları"
+   },
+   "fbCommentsStatTitle": {
+      "message": "Facebook Yorumları"
+   },
+   "fbEngagementsStatLabel": {
+      "message": "fb etkileşimleri"
+   },
+   "fbEngagementsTooltip": {
+      "message": "Beğenileri, paylaşımları ve yorumları içerir. FB kısıtlamalarından dolayı, bu metrikleri birbirinden ayıramıyoruz."
+   },
+   "fbLikesStatLabel": {
+      "message": "fb beğenileri"
+   },
+   "fbLikesStatTitle": {
+      "message": "Facebook Beğenmeleri"
+   },
+   "fbLikesTooltipPopular": {
+      "message": "Bu video Facebookta çokça beğenilmiştir!"
+   },
+   "fbLikesTooltipUnpopular": {
+      "message": "Bu video Facebookta çokça beğenilmemiştir!"
+   },
+   "fbReactionsStatLabel": {
+      "message": "fb tepkileri"
+   },
+   "fbSharesCommentsStatLabel": {
+      "message": "fb paylaşımları + yorumları"
+   },
+   "fbSharesStatLabel": {
+      "message": "fb paylaşımları"
+   },
+   "fbSharesStatTitle": {
+      "message": "Facebook Paylaşımları"
+   },
+   "featureFail": {
+      "message": "\u003Cb>A oh, videonuz öne çıkarılamaz!\u003C/b> Sadece genel ve listelenmemiş videolar öne çıkarılabilir. Bu videoyu manuel olarak öne çıkarmak için, lütfen \u003Ca$atag$>$url$\u003C/a> ziyaret ediniz. ",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "featureSuccess": {
+      "message": "\u003Cb>Başarıldı, videonuz şuan öne çıkarıldı!\u003C/b> Bu öne çıkarılan videoyu düzenlemek ve ya silmek isterseniz, lütfen \u003Ca$atag$>$url$\u003C/a> ziyaret ediniz. ",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "feedbackPopoverPlaceholder": {
+      "message": "Deneyiminizi geliştirebilmemiz için daha fazlasını duymak istiyoruz :)"
+   },
+   "feedbackRatingMessage": {
+      "message": "$özellik$ kullandığınız deneyimi nasıl puanlarsınız?",
+      "placeholders": {
+         "_zellik": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedbackSentMessage": {
+      "message": "Geri bildirim gönderildi. Paylaştığınız için teşekkürler!"
+   },
+   "feedbackTextareaPlaceholder": {
+      "message": "Neyi beğendiğinizi veya beğenmediğinizi bize söyleyin. SİZİN geri bildirimlerinize çok seviniriz ve böylece sizin için daha iyisini yapabiliriz."
+   },
+   "fieldIsRequired": {
+      "message": "Bu gereklidir"
+   },
+   "fileTitle": {
+      "message": "Dosya"
+   },
+   "filterByList": {
+      "message": "CSV listesi ie filtrele"
+   },
+   "filterByPlaylist": {
+      "message": "Oynatma listesi ile filtrele"
+   },
+   "filterBySubscribers": {
+      "message": "Yorumları abone sayısı ile filtrele"
+   },
+   "filterMostViewedVideos": {
+      "message": "En çok görüntülenen videoları filtrele"
+   },
+   "filterMyVideos": {
+      "message": "Videolarımı Filtrele"
+   },
+   "filterNItems": {
+      "message": "$n$ tane elementi filtrele",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "filterOneItem": {
+      "message": "1 tane elementi filtrele"
+   },
+   "filterOutPhrases": {
+      "message": "Terimleri filtrele..."
+   },
+   "filterOutVideos": {
+      "message": "Videoları filtrele..."
+   },
+   "filterResults": {
+      "message": "Sonuçları filtrele"
+   },
+   "filters": {
+      "message": "Filtreler"
+   },
+   "firstPage": {
+      "message": "İlk Sayfa ($vids$)",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "followMoreChannels": {
+      "message": "Daha çok kanal takip et"
+   },
+   "forDailyIdeasAuthChannel": {
+      "message": "Günlük fikirler almak için Youtube kanalınızı doğrulamanız gerekir."
+   },
+   "forgotPassword": {
+      "message": "Parolayı mı unuttunuz?"
+   },
+   "found": {
+      "message": "Bulundu"
+   },
+   "foundControversialKeywords": {
+      "message": "Bu tartışmalı anahtar kelimelerin, videonun içeriği gibi diğer faktörlerle birlikte kullanılması, telif hakkından dolayı otomatik olarak işaretlenmesine neden olabilir."
+   },
+   "freeDailyIdeas": {
+      "message": "Ücretsiz YZ Destekli Günlük Video Fikirleri"
+   },
+   "freePreviewsUsed": {
+      "message": "$used$/$total$ ücretsiz önizleme kullanıldı",
+      "placeholders": {
+         "total": {
+            "content": "$2"
+         },
+         "used": {
+            "content": "$1"
+         }
+      }
+   },
+   "fridayPlural": {
+      "message": "Cumaları"
+   },
+   "fundraisingTitle": {
+      "message": "Bağış Toplama"
+   },
+   "gameConsoleTitle": {
+      "message": "Oyun Konsolu"
+   },
+   "getAccessToMoreRelatedKeywords": {
+      "message": "vidIQ Pro ile bu arama terimi için $num$ daha fazla ilişkili anahtar kelimeye ulaş",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "getAccessToMoreRelatedKeywordsAlt": {
+      "message": "Daha çok ilişkili $num$ anahtar kelimelere al",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "getAccessToTrendingVideos": {
+      "message": "vidIQ Pro ile videolarınızı bu arama terimi için trend olan videolara yükseltmek için daha fazla anahtar kelimeye ulaşın"
+   },
+   "getAccessToTrendingVideosAlt": {
+      "message": "Videolarını boost'lamak için trend videolardan daha çok anahtar kelime al"
+   },
+   "getMoreViews": {
+      "message": "Bu videoya daha fazla görüntülenme al"
+   },
+   "getResults": {
+      "message": "Sonuçları al"
+   },
+   "getSomeHelp": {
+      "message": "Biraz yardım alın!"
+   },
+   "getStarted": {
+      "message": "Başla"
+   },
+   "getTitleRecommendations": {
+      "message": "YZ başlık önerileri al"
+   },
+   "getTopKeywordAccess": {
+      "message": "Aranma derecenizi arttıran ilgili anahtar kelimelere ve yükselen videolara erişim sağlayın."
+   },
+   "getVidiqPro": {
+      "message": "Şuan vidIQ Pro'ya Yükselt "
+   },
+   "goToDailyIdeasAndClick": {
+      "message": "Günlük video fikirleri sekmesine git ve tıkla"
+   },
+   "googleAuthMissingPermission": {
+      "message": "Google doğrulamasını kullanmak için kimlik iznine ihtiyacımız var"
+   },
+   "googleLoginFailed": {
+      "message": "Google ile giriş yapılamıyor"
+   },
+   "googlePlusStatLabel": {
+      "message": "google plus"
+   },
+   "googlePlusStatTitle": {
+      "message": "Google+"
+   },
+   "growthChannelAuditError": {
+      "message": "Geçtiğimiz 30 gün boyunca görüntülenme sayısı, kazanılan abone sayısı ve kanalınızın izlenme sürelerini görmek için daha fazla video yükleyin.\u003Cbr>\u003Cbr> Not: Beklenmeyen hatalarla karşılaşıyorsanız, reklam engelleyiciyi devre dışı bırakmayı ve yeniden yüklemeyi deneyin."
+   },
+   "hasReplies": {
+      "message": "Cevap verildi"
+   },
+   "heartedComment": {
+      "message": "Kalpli Yorum"
+   },
+   "help": {
+      "message": "Yardım"
+   },
+   "helpCenter": {
+      "message": "Yardım Merkezi"
+   },
+   "hiddenSecretsOfYoutube": {
+      "message": "Youtube'un Gizli Cevherleri"
+   },
+   "hide": {
+      "message": "Sakla"
+   },
+   "hideChannelInfoTitle": {
+      "message": "Kanal Bilgilerini Gizle"
+   },
+   "hideKwinsTitle": {
+      "message": "Anahtar Kelime Kontrolcüsünü Sakla"
+   },
+   "hideRelatedVideos": {
+      "message": "İlişkili videoları gizle"
+   },
+   "hideYouTubeLogo": {
+      "message": "YouTube logosunu sakla"
+   },
+   "highScore": {
+      "message": "Yüksek"
+   },
+   "highVolumeRankedTagsStatLabel": {
+      "message": "yüksek hacimli ve rütbeli etiketler"
+   },
+   "highlightSearchTerm": {
+      "message": "Arama terimini öne çıkarın"
+   },
+   "highresThumbnail": {
+      "message": "Yüksek-Çöz Küçük Ekran Resmi"
+   },
+   "highresThumbnailChannelAuditEdit": {
+      "message": "Küçük Ekran Resmi Yükle"
+   },
+   "highresThumbnailChannelAuditHas": {
+      "message": "Yüksek çözünürlüklü küçük ekran resmi eklendi"
+   },
+   "highresThumbnailMissingInfo": {
+      "message": "Listelenen videoların yüksek-çöz küçük ekran resimleri yok. Her videoya onları eklemenizi tavsiye ederiz."
+   },
+   "highresThumbnailMissingSubtextBad": {
+      "message": "Tüm videolarınızın yüksek-çöz küçük ekran resmi yükleyin!"
+   },
+   "highresThumbnailMissingSubtextGood": {
+      "message": "Tüm videolarınızın yüksek-çöz küçük ekran resmi var!"
+   },
+   "highresThumbnailMissingTitle": {
+      "message": "Yüksek-Çöz Küçük Ekran Resimsiz Videolar"
+   },
+   "historical": {
+      "message": "Geçmiş"
+   },
+   "homeScreen": {
+      "message": "Ana Ekran"
+   },
+   "homeTitle": {
+      "message": "Anasayfa"
+   },
+   "hourAbbreviation": {
+      "message": "saat"
+   },
+   "hourPlural": {
+      "message": "saat"
+   },
+   "hourSingular": {
+      "message": "saat"
+   },
+   "hoursWatchedTitle": {
+      "message": "izlenen saat"
+   },
+   "howsExpWithDailyIdeas": {
+      "message": "Günlük Fikirlerle bugünkü deneyiminiz nasıldı?"
+   },
+   "idTitle": {
+      "message": "ID"
+   },
+   "idea": {
+      "message": "Fikir"
+   },
+   "ideaDismissed": {
+      "message": "Fikir çıkarıldı"
+   },
+   "ideaSaved": {
+      "message": "Fikir kaydedildi"
+   },
+   "ideasJustAuthedPartOne": {
+      "message": "Lütfen bekleyin"
+   },
+   "ideasJustAuthedPartTwo": {
+      "message": "ve günlük fikirleri almak için sayfayı yenileyin"
+   },
+   "ideasJustUploadedErr": {
+      "message": "Youtube'ta yeni bir yayınladın, Günlük Fikirleri almak için $num$ gün içerinde lütfen kontrol et!",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "ignoreByList": {
+      "message": "Video kodlarının listesi ile gözardı et"
+   },
+   "imageThumbInfo": {
+      "message": "Küçük resminizin arka planı için bir resim kullanmak istiyorsanız, bir resim yükleyin ve ya olan resmi buraya sürüyerek bırakın."
+   },
+   "imageTitle": {
+      "message": "Resim"
+   },
+   "imageTooLarge": {
+      "message": "Resmin boyutu çok büyüktür, en fazla $limit$MB olmalıdır.",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "improvePerformanceWithBoost": {
+      "message": "\u003Cb>vidIQ Boost\u003C/b> ile videolarınızın performansınızı arttırmaya yardımcı olabiliriz!"
+   },
+   "improveSearchTagsTooltip": {
+      "message": "Bu etiketler, aranmalardan gelecek görüntülenmelerin artmasına yardımcı olur."
+   },
+   "improveVideosBestTags": {
+      "message": "Videolarını geliştirim ve\u003Cbr>en iyi etiketleri kullanın"
+   },
+   "improveVideosSearchTraffic": {
+      "message": "Videolarınızın aranma trafiğini arttırın"
+   },
+   "improveYourViews": {
+      "message": "Görüntülenmelerinizi arttırmak ister misiniz?"
+   },
+   "improvementsChannelAuditError": {
+      "message": "Eksik kartların ve bitiş ekranlarının toplam sayısı gibi son 30 gün içinde videolarınızda iyileştirilecek öğeleri görmek için daha fazla video yükleyin"
+   },
+   "includeScreenshot": {
+      "message": "Ekran görüntülerini dahil edin"
+   },
+   "inconsistent": {
+      "message": "İstikrarsız"
+   },
+   "inlineKeywordsTitle": {
+      "message": "Satıriçindeki Anahtar Kelimeler"
+   },
+   "insertAfter": {
+      "message": "Sonrasında yerleştir"
+   },
+   "insertBefore": {
+      "message": "Öncesinde yerleştir"
+   },
+   "insertReplyTitle": {
+      "message": "Cevap Yaz"
+   },
+   "instagramFollowersStatLabel": {
+      "message": "instagram takipçileri "
+   },
+   "interestOverTimeTitle": {
+      "message": "Popülerliğin Zamanla Değişimi "
+   },
+   "invalidChannelId": {
+      "message": "Geçersiz kanal kodu veya kullanıcı adı"
+   },
+   "invalidLogin": {
+      "message": "Kullanılan email ve parola geçersizdir"
+   },
+   "invalidPlaylistId": {
+      "message": "Geçersiz oynatma listesi kodu"
+   },
+   "invalidVideoId": {
+      "message": "Geçersiz video kodu"
+   },
+   "issueGettingIdeas": {
+      "message": "Günlük Fikirleri almada bir sorun oldu, lütfen daha sonra tekrar deneyiniz."
+   },
+   "itsFree": {
+      "message": "Ücretsizdir!"
+   },
+   "iveNotRepliedTo": {
+      "message": "Henüz cevap vermedim"
+   },
+   "iveRepliedTo": {
+      "message": "Cevap verdim"
+   },
+   "keyAchievementsTitle": {
+      "message": "Baslıca Başarılar"
+   },
+   "keyword": {
+      "message": "Anahtar Kelime"
+   },
+   "keywordInspectorFeatureInfo": {
+      "message": "Yüksek skorlu anahtar kelimeleri Başlık, Açıklama ve Etiketlerde kullanarak izleyicilerin Youtube'ta videolarını bulmasını sağla"
+   },
+   "keywordInspectorTitle": {
+      "message": "Anahtar Kelime Kontrolü"
+   },
+   "keywordProvided": {
+      "message": "Sağlanan anahtar kelime"
+   },
+   "keywordRankTooltip": {
+      "message": "Bu videonun, bu etiket ile arandığında, kaçıncı sırada cıktığını gösterir."
+   },
+   "keywordScoreTitle": {
+      "message": "Anahtar Kelime Skoru"
+   },
+   "keywordScoreTooltip": {
+      "message": "Anahtar Kelime Skoru, herhangi bir anahtar kelimenin, video optimizasyonunda ne kadar etkili olduğunu görmenize yardımcı olur. Eger 1 milyonun üstünde aboneniz varsa, rekabet skoru yüksek anahtar kelimeler seçmeniz lehinize olacaktır. Eger küçük kanalsanız, rekabet skoru düşük anahtar kelimeler seçmeniz lehinize olacaktır."
+   },
+   "keywordsAverageSubtextBad": {
+      "message": "Etiketlerinizin ortalama uzunluğu çok kısa. En az 300 karakter girmeye çalışın."
+   },
+   "keywordsAverageSubtextGood": {
+      "message": "Etiketlerinizin uzunluğu ortalama iyi!"
+   },
+   "keywordsChannelAuditEdit": {
+      "message": "Etikletlerinizi günlelleyin"
+   },
+   "keywordsInDescriptionStatLabel": {
+      "message": "açıklamadaki anahtar kelimeler"
+   },
+   "keywordsInTitleStatLabel": {
+      "message": "başlıktaki anahtar kelimeler"
+   },
+   "keywordsRelatedTo": {
+      "message": "$keyword$’ ilişkin anahtar kelimeler",
+      "placeholders": {
+         "keyword": {
+            "content": "$1"
+         }
+      }
+   },
+   "keywordsRelatedToSearch": {
+      "message": "Aramanıza ilişkin anahtar kelimeler"
+   },
+   "keywordsTitle": {
+      "message": "Anahtar Kelimeler "
+   },
+   "kwinsErrorContact": {
+      "message": "Lütfen tekrar deneyin. Eğer bu sorun devam ederse, bizimle iletişime geçin: support@vidiq.com"
+   },
+   "kwinsErrorOops": {
+      "message": "Tüh, aşağıdaki sorunlarla karşılaştık:"
+   },
+   "labelTitle": {
+      "message": "Etiket"
+   },
+   "langAfrikaans": {
+      "message": "Afrikanca"
+   },
+   "langAlbanian": {
+      "message": "Arnavutça"
+   },
+   "langAmharic": {
+      "message": "Amharca"
+   },
+   "langArabic": {
+      "message": "Arapça"
+   },
+   "langArmenian": {
+      "message": "Ermenice"
+   },
+   "langAzerbaijani": {
+      "message": "Azerice"
+   },
+   "langBasque": {
+      "message": "Baskça"
+   },
+   "langBelarusian": {
+      "message": "Belarusça"
+   },
+   "langBengali": {
+      "message": "Bengalce"
+   },
+   "langBosnian": {
+      "message": "Boşnakça"
+   },
+   "langBulgarian": {
+      "message": "Bulgarca"
+   },
+   "langBurmese": {
+      "message": "Birmanyaca"
+   },
+   "langCatalan": {
+      "message": "Katalanca"
+   },
+   "langCebuano": {
+      "message": "Cebuano"
+   },
+   "langChichewa": {
+      "message": "Chichewa"
+   },
+   "langChinese": {
+      "message": "Çince"
+   },
+   "langChineseHongKong": {
+      "message": "Çince (Hong Kong)"
+   },
+   "langChineseSimplified": {
+      "message": "Çince (Basitleştirilmiş) "
+   },
+   "langChineseTaiwan": {
+      "message": "Çince (Tayvan)"
+   },
+   "langChineseTraditional": {
+      "message": "Çince (Geleneksel)"
+   },
+   "langCorsican": {
+      "message": "Korsikaca"
+   },
+   "langCroatian": {
+      "message": "Hırvatça"
+   },
+   "langCzech": {
+      "message": "Çekce"
+   },
+   "langDanish": {
+      "message": "Danimarka dili"
+   },
+   "langDutch": {
+      "message": "Flemenkçe"
+   },
+   "langEnglish": {
+      "message": "ingilizce"
+   },
+   "langEnglishUnitedKingdom": {
+      "message": "İngilizce (Birleşik Krallık)"
+   },
+   "langEsperanto": {
+      "message": "Esperanto"
+   },
+   "langEstonian": {
+      "message": "Estonya dili"
+   },
+   "langFilipino": {
+      "message": "Filipince"
+   },
+   "langFinnish": {
+      "message": "Fince"
+   },
+   "langFrench": {
+      "message": "Fransızca"
+   },
+   "langFrenchCanada": {
+      "message": "Fransızca (Kanada)"
+   },
+   "langGalician": {
+      "message": "Galiçyaca"
+   },
+   "langGeorgian": {
+      "message": "Gürcüce"
+   },
+   "langGerman": {
+      "message": "Almanca"
+   },
+   "langGreek": {
+      "message": "Yunanca"
+   },
+   "langGujarati": {
+      "message": "Gujarati"
+   },
+   "langHaitianCreole": {
+      "message": "Haiti Creole"
+   },
+   "langHausa": {
+      "message": "Hausa"
+   },
+   "langHawaiian": {
+      "message": "Hawaii Dili"
+   },
+   "langHebrew": {
+      "message": "İbranice"
+   },
+   "langHindi": {
+      "message": "Hintçe"
+   },
+   "langHmong": {
+      "message": "Hmong"
+   },
+   "langHungarian": {
+      "message": "Macarca"
+   },
+   "langIcelandic": {
+      "message": "İzlandaca"
+   },
+   "langIgbo": {
+      "message": "İgbo"
+   },
+   "langIndonesian": {
+      "message": "Endonezya dili"
+   },
+   "langIrish": {
+      "message": "İrlandaca"
+   },
+   "langItalian": {
+      "message": "İtalyanca"
+   },
+   "langJapanese": {
+      "message": "Japonca"
+   },
+   "langJavanese": {
+      "message": "Cava"
+   },
+   "langKannada": {
+      "message": "Kannada"
+   },
+   "langKazakh": {
+      "message": "Kazakça"
+   },
+   "langKhmer": {
+      "message": "Khmer"
+   },
+   "langKorean": {
+      "message": "Korece"
+   },
+   "langKurdish": {
+      "message": "Kürtçe"
+   },
+   "langKyrgyz": {
+      "message": "Kırgızca"
+   },
+   "langLao": {
+      "message": "Lao"
+   },
+   "langLatin": {
+      "message": "Latince"
+   },
+   "langLatvian": {
+      "message": "Letonca"
+   },
+   "langLithuanian": {
+      "message": "Litvanyaca"
+   },
+   "langLuxembourgish": {
+      "message": "Lüksemburgca"
+   },
+   "langMacedonian": {
+      "message": "Makedonca"
+   },
+   "langMalagasy": {
+      "message": "Malagazice"
+   },
+   "langMalay": {
+      "message": "Malay"
+   },
+   "langMalayalam": {
+      "message": "Malayalam"
+   },
+   "langMaltese": {
+      "message": "Malta dili"
+   },
+   "langMaori": {
+      "message": "Maori"
+   },
+   "langMarathi": {
+      "message": "Marathi"
+   },
+   "langMongolian": {
+      "message": "Moğolca"
+   },
+   "langMyanmarBurmese": {
+      "message": "Myanmar (Burma)"
+   },
+   "langNepali": {
+      "message": "Nepalce"
+   },
+   "langNorwegian": {
+      "message": "Norveççe"
+   },
+   "langPashto": {
+      "message": "Peştuca"
+   },
+   "langPersian": {
+      "message": "Farsça"
+   },
+   "langPolish": {
+      "message": "Lehçe"
+   },
+   "langPortuguese": {
+      "message": "Portekizce"
+   },
+   "langPortugueseBrazil": {
+      "message": "Portekizce (Brezilya)"
+   },
+   "langPortuguesePortugal": {
+      "message": "Portekizce (Portekiz)"
+   },
+   "langPunjabi": {
+      "message": "Punjabi"
+   },
+   "langRomanian": {
+      "message": "Romence"
+   },
+   "langRussian": {
+      "message": "Rusça"
+   },
+   "langSamoan": {
+      "message": "Samoaca"
+   },
+   "langScottishGaelic": {
+      "message": "İskoç Gaelic"
+   },
+   "langSerbian": {
+      "message": "Sırpça"
+   },
+   "langSesotho": {
+      "message": "Sesotho"
+   },
+   "langShona": {
+      "message": "Shona"
+   },
+   "langSindhi": {
+      "message": "Sindhi"
+   },
+   "langSinhala": {
+      "message": "Sinhala"
+   },
+   "langSlovak": {
+      "message": "Slovakça"
+   },
+   "langSlovenian": {
+      "message": "Slovence"
+   },
+   "langSomali": {
+      "message": "Somalice"
+   },
+   "langSpanish": {
+      "message": "İspanyolca "
+   },
+   "langSpanishLatinAmerica": {
+      "message": "İspanyolca (Latin Amerika)"
+   },
+   "langSpanishSpain": {
+      "message": "İspanyolca (İspanya)"
+   },
+   "langSudanese": {
+      "message": "Sudanca"
+   },
+   "langSwahili": {
+      "message": "Swahili"
+   },
+   "langSwedish": {
+      "message": "İsveççe"
+   },
+   "langTagalog": {
+      "message": "Tagalotça"
+   },
+   "langTajik": {
+      "message": "Tacikçe"
+   },
+   "langTamil": {
+      "message": "Tamilce"
+   },
+   "langTelugu": {
+      "message": "Telugu"
+   },
+   "langThai": {
+      "message": "Tay dili"
+   },
+   "langTurkish": {
+      "message": "Türkçe"
+   },
+   "langUkrainian": {
+      "message": "Ukraynaca"
+   },
+   "langUrdu": {
+      "message": "Urduca"
+   },
+   "langUzbek": {
+      "message": "Özbekçe"
+   },
+   "langVietnamese": {
+      "message": "Vietnamca"
+   },
+   "langWelsh": {
+      "message": "Gallerce"
+   },
+   "langWesternFrisian": {
+      "message": "Batı Frizcesi"
+   },
+   "langXhosa": {
+      "message": "Xhosa"
+   },
+   "langYiddish": {
+      "message": "Yidiş"
+   },
+   "langYoruba": {
+      "message": "Yoruba"
+   },
+   "langZulu": {
+      "message": "Zulu"
+   },
+   "last12Months": {
+      "message": "son 12 ay"
+   },
+   "last30DaysTitle": {
+      "message": "En Son 30 Gün"
+   },
+   "last48Hours": {
+      "message": "En son 48 Saat"
+   },
+   "last60Minutes": {
+      "message": "En son 60 Dakika"
+   },
+   "last7Days": {
+      "message": "En son 7 Gün"
+   },
+   "lastDays": {
+      "message": "Son $n$ gün",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastMonth": {
+      "message": "geçen ay"
+   },
+   "lastMonths": {
+      "message": "Son $n$ ay",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastPeriod": {
+      "message": "son periyod"
+   },
+   "lastVideoWatched": {
+      "message": "En son izlenen video"
+   },
+   "lastVideoWatchedNoData": {
+      "message": "En son izlenen video için veri bulunmamaktadir"
+   },
+   "lastYearTitle": {
+      "message": "Geçen Yıl"
+   },
+   "learnIfVideoIsTrendingNow": {
+      "message": "Bir video trendse hemen görün"
+   },
+   "learnMore": {
+      "message": "Daha fazla öğren"
+   },
+   "learnMoreAboutBoost": {
+      "message": "\u003Cb>vidIQ Boost\u003C/b> hakkında daha fazla bilgi edinin."
+   },
+   "learnMoreAboutThisFeature": {
+      "message": "Bu özellik hakkında daha fazlasını öğrenin"
+   },
+   "leaveFeedback": {
+      "message": "Geri bildirim ver"
+   },
+   "legacyCampaignRunning": {
+      "message": "Halen yürütülmekte olan açıklama kampanyanız bulunmaktadır."
+   },
+   "letsGo": {
+      "message": "Hadi başla"
+   },
+   "likeRatio": {
+      "message": "Toplam beğenenler ve beğenmeyenlerin oranı"
+   },
+   "likeRatioStatLabel": {
+      "message": "beğeni oranı"
+   },
+   "likes": {
+      "message": "beğenilme"
+   },
+   "likesBestMonth": {
+      "message": "En Çok Beğenme Alan Ay"
+   },
+   "likesTitle": {
+      "message": "Likelar"
+   },
+   "limitToRangeOptionText": {
+      "message": "Zaman diliminde videolarınızı sınırlandırın"
+   },
+   "limitedCampaign": {
+      "message": "Bu kampanya en son $num$ videonuzda yer alacaktır.",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "link": {
+      "message": "Link"
+   },
+   "linkedInStatTitle": {
+      "message": "LinkedIn"
+   },
+   "linkedinStatLabel": {
+      "message": "linkedin"
+   },
+   "listEntryRules": {
+      "message": "Video URL'ini ve ya ID'sini gir. Virgül, boşluk ve ya satır ile ayır."
+   },
+   "livePreview": {
+      "message": "Canlı görünüm"
+   },
+   "loadByList": {
+      "message": "Liste ile yükle"
+   },
+   "loadByNumber": {
+      "message": "Video sayısı ile yükle"
+   },
+   "loadByPlaylist": {
+      "message": "Oynatma listesi ile yükle"
+   },
+   "loadMoreTitle": {
+      "message": "Daha Fazla Yükle"
+   },
+   "loadPlaylistsTitle": {
+      "message": "Oynatma Listesi Yükle"
+   },
+   "loadTemplate": {
+      "message": "Şablon yükle"
+   },
+   "loadTitle": {
+      "message": "Yükle"
+   },
+   "loading": {
+      "message": "Yüklüyor"
+   },
+   "loadingBatch": {
+      "message": "Yükleniyor"
+   },
+   "loadingVideoDataEllipsis": {
+      "message": "Video verisi yükleniyor..."
+   },
+   "loadingVideosEllipsis": {
+      "message": "Videolar yükleniyor"
+   },
+   "loadingVideosTitle": {
+      "message": "Videolar Yükleniyor"
+   },
+   "locations": {
+      "message": "Konum(lar)"
+   },
+   "logIn": {
+      "message": "Oturum Açın"
+   },
+   "logInToVidiq": {
+      "message": "vidIQ'a Girin"
+   },
+   "logInWithGoogle": {
+      "message": "Google ile Oturum Açın"
+   },
+   "logInWithVidiq": {
+      "message": "vidIQ ile Oturum Açın"
+   },
+   "loginExistingAccount": {
+      "message": "\u003Cb>vidIQ\u003C/b> hesabınıza giriş yapın"
+   },
+   "loginTitle": {
+      "message": "Giriş Yap"
+   },
+   "loginToUseShortcuts": {
+      "message": "Kısayolları görmek için giriş yap!"
+   },
+   "logoutTitle": {
+      "message": "Çıkış Yap"
+   },
+   "longLabel": {
+      "message": "uzun"
+   },
+   "loopVideo": {
+      "message": "Videoyu sürekli oynat"
+   },
+   "lowScore": {
+      "message": "Düşük"
+   },
+   "lowestAvgViewTime": {
+      "message": "En düşük Ort. İzleme süresi"
+   },
+   "lowestAvgViewTimeChannelAuditInfo": {
+      "message": "İşte ortalama en düşük izleme süresi olan videolar. Bu tür içerikleri üretmekten vazgeçerseniz veya değiştirirseniz onları ortaya çıkarmak için çalışmanızı öneririz."
+   },
+   "lowestEngagement": {
+      "message": "En düşük etkileşim"
+   },
+   "lowestEngagementChannelAuditInfo": {
+      "message": "İşte en düşük etkileşimli videolar. Etkileşimin niçin bu kadar düşük olduğunu ortaya çıkarmak için onları incelemenizi öneririz. Soru sordunuz mu? İçerik doğru seyirci kitlesine hitap ediyor mu?"
+   },
+   "lowestLikeRatio": {
+      "message": "En düşük like oranları"
+   },
+   "lowestLikeRatioChannelAuditInfo": {
+      "message": "İzleyicileriniz bu tür videolara iyi cevap vermedi. Video konusunu gözden geçirin ve niçin böyle olduğunu keşfetmek için yorumları okuyun."
+   },
+   "lowestRetention": {
+      "message": "En düşük elde tutma %"
+   },
+   "lowestRetentionChannelAuditInfo": {
+      "message": "İşte en düşük tutulan videolar. Bu tür içerikleri üretmekten vazgeçerseniz veya süresini değiştirirseniz onları ortaya çıkarmak için çalışmanızı öneririz."
+   },
+   "lowestSubscribers": {
+      "message": "Abone kaybeden videolar"
+   },
+   "lowestSubscribersChannelAuditInfo": {
+      "message": "İşte en fazla abone kaybeden videolar. Not: birçok canlı yayın kanalı abone kaybeder ancak yüksek izlenme süresi vardır. Bunun sebebini anlamaya çalışın ve ayarlayın."
+   },
+   "lowestViews": {
+      "message": "En düşük görüntülenme"
+   },
+   "lowestViewsChannelAuditInfo": {
+      "message": "İşte en düşük izlenen videolar. Bu tür içerikleri üretmeye devam edecekseniz bu videoları ortaya çıkarmak için onları incelemenizi öneririz."
+   },
+   "markAllForDeletionTitle": {
+      "message": "Silinme İçin Hepsini İşaretle"
+   },
+   "massCSVExportTitle": {
+      "message": "Tüm veriler CSV olarak indir"
+   },
+   "massEditCardsAndAnns": {
+      "message": "Kartları ve Ek Açıklamaları Toplu Düzenle"
+   },
+   "massEditCardsAndEnds": {
+      "message": "Kartları ve Bitiş Ekranlarını Düzenle"
+   },
+   "massEditVideosTitle": {
+      "message": "Videoları Toplu Düzenle"
+   },
+   "massLikeFail": {
+      "message": "Videonu toplu beğenmede hata oluştu: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "massLikeThisVideo": {
+      "message": "Bu videoyu toplu beğen"
+   },
+   "massLikeTitle": {
+      "message": "Toplu Beğen"
+   },
+   "matches": {
+      "message": "Eşleşir"
+   },
+   "maxRes": {
+      "message": "Uygun olan en yüksek çözünürlük"
+   },
+   "mcnStatLabel": {
+      "message": "mcn"
+   },
+   "measurePerformance": {
+      "message": "Performansı ölç"
+   },
+   "mediumScore": {
+      "message": "Orta"
+   },
+   "merchandiseTitle": {
+      "message": "Ürün"
+   },
+   "message": {
+      "message": "Mesaj"
+   },
+   "mfaCodeRequestFail": {
+      "message": "Doğrulama kodu istenilemedi"
+   },
+   "mfaCodeSent": {
+      "message": "Doğrulama kodunuz gönderildi"
+   },
+   "mfaCodeSentExplain": {
+      "message": "Eger size ulaşmadı ise, bir daha isteyebilirsiniz"
+   },
+   "mfaCodeSubmitFail": {
+      "message": "Doğrulama kodu gönderilemedi"
+   },
+   "mfaComplete": {
+      "message": "Doğrulama tamamlandı!"
+   },
+   "mfaInfoEmail": {
+      "message": "İsteğiniz üzerine, kodunuz email ile size gönderilecektir. "
+   },
+   "mfaInfoSMS": {
+      "message": "İsteğiniz üzerine, kodunuz \u003Cb>$phoneNumber$\u003C/b> numarasına SMS gönderilecektir.",
+      "placeholders": {
+         "phoneNumber": {
+            "content": "$1"
+         }
+      }
+   },
+   "mfaRequired": {
+      "message": "2 aşamalı doğrulama gereklidir. "
+   },
+   "minimumSubs": {
+      "message": "En az abone sayısı"
+   },
+   "minuteAbbreviation": {
+      "message": "dk."
+   },
+   "minutePlural": {
+      "message": "dakika"
+   },
+   "minuteSingular": {
+      "message": "dakika"
+   },
+   "minutesWatchedLower": {
+      "message": "İzlenen dakikalar"
+   },
+   "minutesWatchedTitle": {
+      "message": "İzlenen Dakikalar"
+   },
+   "mobileTitle": {
+      "message": "Mobil"
+   },
+   "modalErrorUnauthenticatedButton": {
+      "message": "Kanalınızı doğrulayınız."
+   },
+   "modalErrorUnauthenticatedHint": {
+      "message": "Kanalınızı doğruladıktan sonra, lütfen sayfayı yenileyiniz. "
+   },
+   "modalErrorUnauthenticatedMessage": {
+      "message": "Bu özelliği kullanabilmek için kanalınızı doğrulamanız gerekiyor."
+   },
+   "modalErrorUnknownButton": {
+      "message": "YouTube'a Geri Dön"
+   },
+   "modalErrorUnknownMessage": {
+      "message": "Bilinmeyen bir hata oluşmuştur. Durumdan haberimiz vardır ve en yakın zamanda çözmek için uğraşmaktayız. "
+   },
+   "modalUpsellButton": {
+      "message": "Hesabımı yükselt"
+   },
+   "modalVideoEngagementRate": {
+      "message": "etkileşim oranı"
+   },
+   "modalVideoSubsDriven": {
+      "message": "kazanılan aboneler"
+   },
+   "modeTitle": {
+      "message": "Mod"
+   },
+   "mondayPlural": {
+      "message": "Pazartesileri"
+   },
+   "monetizableTooltip": {
+      "message": "YouTube Partner Programina kalifiye olmak için gerekli olan 4000 saat izlenme şartını yerine getirdiniz!"
+   },
+   "monthOverMonth": {
+      "message": "Aydan Aya"
+   },
+   "monthOverMonthAbbreviation": {
+      "message": "Aydan Aya"
+   },
+   "monthlySearches": {
+      "message": "Aylık Aranmalar"
+   },
+   "monthsIntervalOption": {
+      "message": "Ay"
+   },
+   "mostRecentUpload": {
+      "message": "En son yükleme"
+   },
+   "mostUsed": {
+      "message": "En çok kullanılan"
+   },
+   "mostUsedTooltip": {
+      "message": "En trend 10 videoda en çok kullanılan anahtar kelimeler"
+   },
+   "mostViewedFilter100Kto1M": {
+      "message": "100K - 1M"
+   },
+   "mostViewedFilter10Kto100K": {
+      "message": "10K - 100K"
+   },
+   "mostViewedFilter1Kto10K": {
+      "message": "1K - 10K"
+   },
+   "mostViewedFilter1MorMore": {
+      "message": "1M+"
+   },
+   "mostViewedVideo": {
+      "message": "En Çok Görüntü Alan Video: $stat$",
+      "placeholders": {
+         "stat": {
+            "content": "$1"
+         }
+      }
+   },
+   "multipleFilters": {
+      "message": "Çoklu filtre uygula"
+   },
+   "mustAgreeToTOS": {
+      "message": "Servis Şartnamemizi kabul etmeniz gerekiyor."
+   },
+   "mustBeValidEmail": {
+      "message": "Geçerli bir e-posta adresi olmalı"
+   },
+   "mustLinkChannel": {
+      "message": "Bu özelliği kullanabilmeniz için, YouTube kanalınızı vidIQ hesabınıza bağlamanız gerekiyor. "
+   },
+   "myVideosTitle": {
+      "message": "Videolarım"
+   },
+   "nDaysAfterPublish": {
+      "message": "Yayınlandıktan $num$ gün sonra",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "nItemsSelected": {
+      "message": "$n$ tane seçildi",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nResults": {
+      "message": "$n$ sonuç",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nVideos": {
+      "message": "$vids$ video",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Ad"
+   },
+   "nature": {
+      "message": "Doğa "
+   },
+   "negDemonetizationWord": {
+      "message": "Negatiflik"
+   },
+   "neverMissATrendingVideo": {
+      "message": "Asla trend bir videoyu kaçırma"
+   },
+   "newPeriodStartsNDays": {
+      "message": "Yeni periyot $n$ gün içinde başlayacaktır.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "newPeriodStartsTomorrow": {
+      "message": "Yeni periyot yarın başlayacaktır."
+   },
+   "newTemplate": {
+      "message": "Yeni Şablon "
+   },
+   "newTitle": {
+      "message": "Yeni"
+   },
+   "newVidiqFeature": {
+      "message": "Yeni vidIQ özelliği"
+   },
+   "next": {
+      "message": "Sonraki"
+   },
+   "niceYouViewedIdeas": {
+      "message": "Güzel! $num$ günlük fikirlerini görüntüledin",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "no": {
+      "message": "Hayır"
+   },
+   "noAccountYet": {
+      "message": "Hesabınız yok mu?"
+   },
+   "noChannelAccess": {
+      "message": "vidIQ hesabınızın bu kanala erişimi yoktur."
+   },
+   "noCommentTemplates": {
+      "message": "Kaydedilmiş yorum şablonu bulunamadı. Başlamak için yeni bir tane ekle!"
+   },
+   "noControversialKeywords": {
+      "message": "Başlık, açıklama veya etiketlerinizde tartışmalı anahtar kelime bulunamadı!"
+   },
+   "noDataForChart": {
+      "message": "$chart$'i için veri yok",
+      "placeholders": {
+         "chart": {
+            "content": "$1"
+         }
+      }
+   },
+   "noHistoricalData": {
+      "message": "Veri Alınamadı"
+   },
+   "noNevermind": {
+      "message": "Hayır, öenmşi değil"
+   },
+   "noOtherVideosFound": {
+      "message": "Başka video bulunamadı"
+   },
+   "noRelatedKeywords": {
+      "message": "İlgili ahahtar kelime bulunamadı"
+   },
+   "noRelatedTrendingVideos": {
+      "message": "İlgili yükselen video bulunamadı"
+   },
+   "noReplies": {
+      "message": "Cevap verilmedi"
+   },
+   "noResourcesFound": {
+      "message": "Video için $resources$ bulunamadı",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noResourcesFoundHint": {
+      "message": "Aradığınız videoların sayısını arttırmak için, geriye gidip \u003Cb>All\u003C/b> kaynak türlerini seçiniz. "
+   },
+   "noResourcesFoundTitle": {
+      "message": "Kaynak Bulunamadı"
+   },
+   "noResultsFound": {
+      "message": "Sonuç bulunamadı"
+   },
+   "noSearchResultsFound": {
+      "message": "$term$' için hiç sonuç bulunamadı",
+      "placeholders": {
+         "term": {
+            "content": "$1"
+         }
+      }
+   },
+   "noTags": {
+      "message": "Etiket yok"
+   },
+   "noTagsDetected": {
+      "message": "Video açıklamalarınızda herhangi bir anahtar kelime bulunamadı. En güçlü anahtar kelimelerinizin başlık, etiket ve açıklamalarınızda kullanıldığından emin olunuz."
+   },
+   "noTagsFound": {
+      "message": "Etiket bulunamadı"
+   },
+   "noTemplatesToLoad": {
+      "message": "Yüklemek için şablon bulunamadı!\u003Cbr> $resources$ başka videolarda kullanmak için bir video kaydet.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noTemplatesToLoad2": {
+      "message": "Kaydedilmiş şablon yoktur, oluşturmak için nesne ekleyiniz"
+   },
+   "noTemplatesToLoad3": {
+      "message": "Henüz kaydedilmiş şablon yoktur, yukarıda yeni bir tane oluşturunuz"
+   },
+   "noTemplatesToLoad4": {
+      "message": "Şablonlar yüklenemedi"
+   },
+   "noTopChannels": {
+      "message": "Bu arama terimi için kanal bulunamadı"
+   },
+   "noTopics": {
+      "message": "Konu yok"
+   },
+   "noTrending": {
+      "message": "Yükselen video bulunamadı"
+   },
+   "noTweets": {
+      "message": "Twit bulunamadı"
+   },
+   "noVideoIdsFound": {
+      "message": "Herhangi bir video ID bulunamadı"
+   },
+   "noVideosFound": {
+      "message": "Bu kanal için herhangi bir video bulunamadı"
+   },
+   "none": {
+      "message": "Yok"
+   },
+   "nonzeroLimit": {
+      "message": "Lütfen sıfırdan daha yüksek bir limit seçiniz."
+   },
+   "notEnoughDataForSearchTerm": {
+      "message": "Bu arama terimi için yeterli veri mevcut değil"
+   },
+   "notEnoughSVIOT": {
+      "message": "Zaman içindeki popülerlik raporunu göstermek için yeterinde arama hacmi yoktur"
+   },
+   "notEnoughSVQueries": {
+      "message": "Arama sorgusu raporu göstermek için yeterinde arama hacmi yoktur"
+   },
+   "notEnoughSVReports": {
+      "message": "Raporu göstermek için yeterinde arama hacmi yoktur"
+   },
+   "notMonetizableTooltip": {
+      "message": "YouTube Partner Programına kalifiye olmak için, 4000 saatlik izlenme, ve 1000 abonenizin olması gerekir. "
+   },
+   "noteTitle": {
+      "message": "Not"
+   },
+   "numCharacters": {
+      "message": "$stat$: $num$ karakterler",
+      "placeholders": {
+         "num": {
+            "content": "$2"
+         },
+         "stat": {
+            "content": "$1"
+         }
+      }
+   },
+   "numGoogleEmbedSourcesStatLabel": {
+      "message": "yerleştirilmiş linkler"
+   },
+   "numGoogleTrafficSourcesStatLabel": {
+      "message": "tavsiye eden linkler "
+   },
+   "numOfTotal": {
+      "message": "$total$ sayının $num$ ",
+      "placeholders": {
+         "num": {
+            "content": "$2"
+         },
+         "total": {
+            "content": "$1"
+         }
+      }
+   },
+   "numResultsAreShown": {
+      "message": "$num$ sonuç gösteriliyor",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "numberOfViewsTitle": {
+      "message": "Görüntülenme Sayısı"
+   },
+   "occurrences": {
+      "message": "Tekralanma Sayısı"
+   },
+   "okGotIt": {
+      "message": "Tamam anladım!"
+   },
+   "onNumViewSingular": {
+      "message": "1 görüntülenmede"
+   },
+   "onNumViews": {
+      "message": "$num$ görüntülenmelerde",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "oneDayAfterPublish": {
+      "message": "Yayınlandıktan 1 gün sonra"
+   },
+   "oneItemSelected": {
+      "message": "1 tane seçildi"
+   },
+   "oneResult": {
+      "message": "1 sonuç"
+   },
+   "oneVideo": {
+      "message": "1 video"
+   },
+   "only4endscreensAllowed": {
+      "message": "Her videoya sadece 4 bitiş ekranı eklenebilir"
+   },
+   "oopsWereInTrouble": {
+      "message": "Tüh... bir hata oldu!"
+   },
+   "opacityTitle": {
+      "message": "Saydamlık"
+   },
+   "open": {
+      "message": "Aç"
+   },
+   "openInKwins": {
+      "message": "Anahtar kelime denetçisini aç"
+   },
+   "optimize": {
+      "message": "Optimize et"
+   },
+   "optimizeNMoreVideos": {
+      "message": "$n$ tane video optimize edebilirsiniz.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "optimizeOneMoreVideo": {
+      "message": "1 tane video optimize edebilirsiniz."
+   },
+   "or": {
+      "message": "veya"
+   },
+   "order": {
+      "message": "Sipariş Et"
+   },
+   "organicViewsStatLabel": {
+      "message": "organik görüntülenme"
+   },
+   "organicViewsTooltip": {
+      "message": "Organik Görüntülenmeler: Reklam ile kazanılmamış görüntülenmelerin sayısıdır. YouTube'dan(YouTube API) alınan reklamlı görüntülenmelerin yine YouTube'dan(YouTube API)  alınan toplam görüntülenmelerden çıkarılması ile elde edilen sayıdır. "
+   },
+   "organizeTagsMessage": {
+      "message": "Etiketleri sürükleyip yeniden düzenlemek için üstlerine tiklayin!"
+   },
+   "organizeTagsTitle": {
+      "message": "Etiketleri Düzenle"
+   },
+   "otherImageTitle": {
+      "message": "Diğer Resim"
+   },
+   "outOfHundred": {
+      "message": "100 üzerinden"
+   },
+   "outOfOptimizationsNDays": {
+      "message": "Bu periyot için optimizasyon hakkınız kalmamıştır. $start$Upgrade$end$ ve ya $n$ gün sonra tekrar deneyiniz. ",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "n": {
+            "content": "$3"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "outOfOptimizationsTomorrow": {
+      "message": "Bu periyot için optimizasyon hakkınız kalmamıştır. $start$Yükselt$end$ ve ya yarın tekrar deneyiniz. ",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "overall": {
+      "message": "Genel"
+   },
+   "overallInfoCardText": {
+      "message": "Genel skor, bu anahtar kelimenin video optimizasyon çabalarınızda ne kadar etkili olacağını ortaya çıkarmaya yardımcı olmak için belirlenir. \u003Cbr>\u003Cbr>1M+ çok aboneye sahip bir kanalsanız, oldukça yüksek rekabetli arama terimlerine erişebilirsiniz, ancak daha küçük bir kanalsanız, rekabeti düşük orta seviyedeki arama terimlerine odaklanmanız daha iyi olur."
+   },
+   "overallScore": {
+      "message": "Toplam Skor"
+   },
+   "overviewTitle": {
+      "message": "Genel Görünüm"
+   },
+   "overwriteEndscreen": {
+      "message": "Bu videodaki bitiş ekranlarını ve ek açıklamaları yenileri ile değiştir. "
+   },
+   "overwriteTitle": {
+      "message": "Üzerine Yaz"
+   },
+   "pageStatus": {
+      "message": "Sayfa \u003Cb>$page$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         }
+      }
+   },
+   "pageStatusTotalKnown": {
+      "message": "Sayfa \u003Cb>$page$\u003C/b> of \u003Cb>$total$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "passwordLengthValidation": {
+      "message": "Parola en az $number$ karakter olmalıdır.",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "passwordRequired": {
+      "message": "Şifre gerekli"
+   },
+   "passwordTitle": {
+      "message": "Parola"
+   },
+   "pastDaysRangeOption": {
+      "message": "Son $range$ Gün",
+      "placeholders": {
+         "range": {
+            "content": "$1"
+         }
+      }
+   },
+   "pastTwoWeeksRangeOption": {
+      "message": "Son 2 Hafta"
+   },
+   "pastWeekRangeOption": {
+      "message": "Geçen Hafta"
+   },
+   "peakTimeToPost": {
+      "message": "En yoğun saatler \u003Cb>$time$\u003C/b>.",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "peakTimeToPostOnDay": {
+      "message": "En yoğun zaman $days$ is \u003Cb>$time$.\u003C/b>",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         },
+         "time": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentChangeTooltip": {
+      "message": "Geçen periyot ile karşılaştığında $change$% değişmiştir. ($previous$)",
+      "placeholders": {
+         "change": {
+            "content": "$1"
+         },
+         "previous": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentOfEngagements": {
+      "message": "$name$: $percent$ etkileşim",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         },
+         "percent": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentSubViewsStatLabel": {
+      "message": "abone görüntülemeleri"
+   },
+   "percentageOfTotalForPeriod": {
+      "message": "(bu pediyodun tamamı \u003Cb>$percentage$%\u003C/b>)",
+      "placeholders": {
+         "percentage": {
+            "content": "$1"
+         }
+      }
+   },
+   "performanceTitle": {
+      "message": "Performans"
+   },
+   "pinCommentMessage": {
+      "message": "Daha önce yorum önemsediysen, şuan bununla değiştirilecektir. "
+   },
+   "pinCommentTitle": {
+      "message": "Bu yorumu önemse"
+   },
+   "pinCommentTooltip": {
+      "message": "Yorumu önemse(by vidIQ)"
+   },
+   "pinExtensionInstructions": {
+      "message": "Kolay erişim için vidIQ Vision'ı sabitlemek için yukarıdaki simgeye tıkla."
+   },
+   "pinnedComment": {
+      "message": "Işaretlenmiş Yorum"
+   },
+   "playVideoFrom": {
+      "message": "Videoyu oynat"
+   },
+   "playerSize": {
+      "message": "Oynatıcı büyüklüğü"
+   },
+   "playlistTitle": {
+      "message": "Oynatma listesi"
+   },
+   "playlistsTitle": {
+      "message": "Oynatma Listeleri"
+   },
+   "pleaseConfirmEmailBeforeUsingFeature": {
+      "message": "Bu özelliği kullanmadan önce lütfen e-postanızı doğrulayın. \u003Ca href=\\\"https://app.vidiq.com/welcome\\\" rel=\\\"noopener noreferrer\\\" ziyaret ederek yeni bir doğrulama e-postası isteyebilirsiniz."
+   },
+   "pleaseEndCampaign": {
+      "message": "Devam etmek için lütfen bu kampanyayı bitiriniz"
+   },
+   "pleaseSelectPlaylist": {
+      "message": "Lüttfen oynatma listesi seçiniz."
+   },
+   "pleaseWaitThumbnail": {
+      "message": "Video yüklendiğinde veya yükleme işlemi bittiğinde ekran resmini değiştirebilirsiniz"
+   },
+   "pluralPagesLeftTitle": {
+      "message": "$pages$ Sayfa kaldı",
+      "placeholders": {
+         "pages": {
+            "content": "$1"
+         }
+      }
+   },
+   "pollTitle": {
+      "message": "Oy"
+   },
+   "postingScheduleInfo": {
+      "message": "Süreklilik YouTube'da kral! Daha fazla video yayınladıkça, kitlenizi daha sık etkilersiniz. Haftada bir kez minimum hedefiniz olmalı. Günde bir video harika!"
+   },
+   "postingScheduleSubtextBad": {
+      "message": "Her hafta en az bir video yayımlayın."
+   },
+   "postingScheduleSubtextGood": {
+      "message": "Harika, haftada en az bir video yayımlıyorsunuz."
+   },
+   "postingScheduleText": {
+      "message": "Yaklaşık $numVideos$ $videos$ her $range$ ",
+      "placeholders": {
+         "numVideos": {
+            "content": "$1"
+         },
+         "range": {
+            "content": "$3"
+         },
+         "videos": {
+            "content": "$2"
+         }
+      }
+   },
+   "postingScheduleTitle": {
+      "message": "Yayımlama çizelgesi"
+   },
+   "poweredBy": {
+      "message": "by"
+   },
+   "poweredByVidIQ": {
+      "message": "vidIQ tarafından kurulmuştur"
+   },
+   "preThumbnailSaveInfo": {
+      "message": "Küçük resminiz bu şekilde görünecektir. Hazır olduğuzda \"Küçük Resmi Kaydet\" butonuna tıklayın."
+   },
+   "preferencesTitle": {
+      "message": "Tercih Edilenler"
+   },
+   "prev": {
+      "message": "Önceki"
+   },
+   "preview": {
+      "message": "Önizleme"
+   },
+   "previewButton": {
+      "message": "Önizleme düğmesi"
+   },
+   "previewChanges": {
+      "message": "Değişikleri önizleyin"
+   },
+   "previewInSearch": {
+      "message": "Arama sonuçlarını önizleyin"
+   },
+   "processingEllipsis": {
+      "message": "Tamamlanıyor..."
+   },
+   "productTitle": {
+      "message": "Ürün"
+   },
+   "profDemonetizationWord": {
+      "message": "Küfür"
+   },
+   "public": {
+      "message": "Herkese Açık"
+   },
+   "quality": {
+      "message": "Kalite"
+   },
+   "quotaLimitTooltip": {
+      "message": "Hesabız ayda $quota$ video ile limitlidir. Daha fazla isterseniz, bizimle iletişime geçiniz.",
+      "placeholders": {
+         "quota": {
+            "content": "$1"
+         }
+      }
+   },
+   "rankedTagsStatLabel": {
+      "message": "rütbeli etiketler"
+   },
+   "reactions": {
+      "message": "tepkiler"
+   },
+   "readyCopyResources": {
+      "message": "Hazırım, $resources$'ı kopyala!",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "readyMakeChanges": {
+      "message": "Hazırım, düzenle!"
+   },
+   "recentChannelSubsStatLabel": {
+      "message": "son $period$ gündeki aboneler",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentChannelViewsStatLabel": {
+      "message": "son $period$ gündeki görüntülenme",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentEstimatedRevenueStatLabel": {
+      "message": "son $period$ gündeki tahmini gelir",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentVideosStatLabel": {
+      "message": "son $period$ günde yayinlanan videolar",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recommendedBy": {
+      "message": "tarafından tavsiye edilmiştir"
+   },
+   "recommendedKeywordsForDescription": {
+      "message": "Etiketlere göre açıklamanız için tavsiye edilen anahtar kelimeler"
+   },
+   "recommendedKeywordsForTitle": {
+      "message": "Etiketlere göre başlığınız için tavsiye edilen anahtar kelimeler"
+   },
+   "recommendedTagsTitle": {
+      "message": "Tavsiye Edilen Etiketler"
+   },
+   "reconnectYourYtAccount": {
+      "message": "Youtube hesabınızı tekrar bağlayın"
+   },
+   "reconnectYourYtChannel": {
+      "message": "Youtube kanalınızı tekrar bağlayın"
+   },
+   "recoverPasswordTitle": {
+      "message": "Paroları Kurtar"
+   },
+   "redditCommentsStatLabel": {
+      "message": "reddit yorumları"
+   },
+   "redditCommentsStatTitle": {
+      "message": "Reddit Yorumları"
+   },
+   "redditLikesStatLabel": {
+      "message": "reddit oyları"
+   },
+   "redditPostsStatLabel": {
+      "message": "reddit postları"
+   },
+   "redditPostsStatTitle": {
+      "message": "Reddit İlanları"
+   },
+   "redditUpvotesStatTitle": {
+      "message": "Reddit Oyları"
+   },
+   "referredSourcesTitle": {
+      "message": "Öneren Kaynaklar"
+   },
+   "referredViewsStatLabel": {
+      "message": "tavsiye edilen görüntülenme"
+   },
+   "referrersTooltip": {
+      "message": "Önerenler: Başka websitelerinden bu videoya bağlanan sayfaların sayısıdır."
+   },
+   "refineSearchWithFilters": {
+      "message": "vidIQ Boost'daki filtrelerimizle aramanızı geliştirin ve zaman kazanın"
+   },
+   "refresh": {
+      "message": "Yenileyin"
+   },
+   "refreshDataTitle": {
+      "message": "Veriyi Yenile"
+   },
+   "refreshTagsButton": {
+      "message": "Etiketleri yenileyin"
+   },
+   "refreshTagsMessage": {
+      "message": "Sizin için yeni önerilerimiz var"
+   },
+   "relatedKeywords": {
+      "message": "İlgili anahtar kelimeler"
+   },
+   "relatedQueriesTitle": {
+      "message": "Bağlantılı Sorgulamalar"
+   },
+   "relatedScore": {
+      "message": "İlgili skor"
+   },
+   "relatedScoreTip": {
+      "message": "İlgili skor, bu anahtar kelimenin aradığınız anahtar kelimeyle ne kadar yakından ilişkili olduğunun bir ölçüsüdür."
+   },
+   "relatedTo": {
+      "message": "ile ilgili "
+   },
+   "relatedTrendingVideos": {
+      "message": "İlgili yükselen videolar"
+   },
+   "relevancyTitle": {
+      "message": "İlgililik"
+   },
+   "rememberToRefresh": {
+      "message": "Yükselttikten sonra yenilemeyi unutma!"
+   },
+   "removalNoticePart1": {
+      "message": "Onaylı YouTube partneri olarak, yeni uyumluluk esasları doğrultusunda, video panelinde bazı değişiklikler yaptık."
+   },
+   "removalNoticePart2": {
+      "message": "Eğer Tahmini Kazanç ve Etkileşim Oranının neden kaldırıldığını öğrenmek istiyorsanız, "
+   },
+   "removalNoticePart3": {
+      "message": "buradaki mesajı okuyunuz"
+   },
+   "replace": {
+      "message": "Yer değiştir"
+   },
+   "replaceCurrentObjects": {
+      "message": "Varolan nesneleri değiştir"
+   },
+   "replaceWith": {
+      "message": "Bununda yer değiştir"
+   },
+   "reports": {
+      "message": "Raporlar"
+   },
+   "requestCodeTitle": {
+      "message": "Kod Talep Et"
+   },
+   "research": {
+      "message": "Araştır"
+   },
+   "researchAllResultsLoaded": {
+      "message": "Tüm sonuçlar yüklendi"
+   },
+   "researchChannelSubs": {
+      "message": "Kanal Abonesi"
+   },
+   "researchChannelSubs2": {
+      "message": "kanal abonesi"
+   },
+   "researchClearAll": {
+      "message": "Hepsini sil"
+   },
+   "researchDuration": {
+      "message": "Süre"
+   },
+   "researchErrorNoResults": {
+      "message": "Sonuç bulunamadı. Arama seçeneklerini değiştirmeyi deneyiniz."
+   },
+   "researchEstimatedEarnings": {
+      "message": "tahmini kazanç"
+   },
+   "researchFilterBronze": {
+      "message": "Bronz (10k ile 100k arası abone)"
+   },
+   "researchFilterEngagements": {
+      "message": "Etkileşimler "
+   },
+   "researchFilterGold": {
+      "message": "Altın ( 1m ve üstü abone)"
+   },
+   "researchFilterGraphite": {
+      "message": "Grafit (1k aboneye kadar)"
+   },
+   "researchFilterOpal": {
+      "message": "Opal (1k ile 10k arasi abone)"
+   },
+   "researchFilterOver100": {
+      "message": "100'ün üzerinde"
+   },
+   "researchFilterOver100k": {
+      "message": "100k'nin üzerinde"
+   },
+   "researchFilterOver100m": {
+      "message": "100m'nin üzerinde"
+   },
+   "researchFilterOver10k": {
+      "message": "10k'nin üzerinde"
+   },
+   "researchFilterOver10m": {
+      "message": "10m'nin üzerinde"
+   },
+   "researchFilterOver1b": {
+      "message": "1b'nin üzerinde"
+   },
+   "researchFilterOver1k": {
+      "message": "1k'nin üzerinde"
+   },
+   "researchFilterOver1m": {
+      "message": "1m'nin üzerinde"
+   },
+   "researchFilterOver30s": {
+      "message": "30s'nin üzerinde"
+   },
+   "researchFilterOver50k": {
+      "message": "50k'nın üzerinde"
+   },
+   "researchFilterOver5k": {
+      "message": "5k'nın üzerinde"
+   },
+   "researchFilterOver5m": {
+      "message": "5m'nin üzerinde"
+   },
+   "researchFilterPast48Hours": {
+      "message": "Son 48 saat"
+   },
+   "researchFilterPast6Months": {
+      "message": "Son 6 ay"
+   },
+   "researchFilterSilver": {
+      "message": "Gümüş (100k ile 1m arası abone) "
+   },
+   "researchFilterThisMonth": {
+      "message": "Bu ay"
+   },
+   "researchFilterThisWeek": {
+      "message": "Bu hafta"
+   },
+   "researchFilterUpTo100": {
+      "message": "100'e kadar"
+   },
+   "researchFilterUpTo1k": {
+      "message": "1k'e kadar "
+   },
+   "researchFilterUpTo30s": {
+      "message": "30s'ye kadar"
+   },
+   "researchFilterUpsell": {
+      "message": "Sonuçları filtrelemek için \u003Cb>Boost\u003C/b>'a yükseltiniz. "
+   },
+   "researchFilterViews": {
+      "message": "Görüntülenmeler"
+   },
+   "researchFilterVph": {
+      "message": "VPH"
+   },
+   "researchFiltersUpsell": {
+      "message": "Güçlü Boost plan filtreleriyle video aramalarınızı güçlendirin"
+   },
+   "researchFiltersUpsellAlt": {
+      "message": "Güçlü filtrelerle video araştırmanı en üst seviyeye çıkar"
+   },
+   "researchLoadMore": {
+      "message": "Daha fazla yükle"
+   },
+   "researchMostViewed": {
+      "message": "En fazla görüntülenenler"
+   },
+   "researchMostViewedTitle": {
+      "message": "En Fazla Görüntülenenler"
+   },
+   "researchPastNDays": {
+      "message": "Geçen $num$ gün",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "researchQueryPlaceholder": {
+      "message": "ör: oyun, müzik"
+   },
+   "researchSearch": {
+      "message": "Arama "
+   },
+   "researchSearchKeywordPlaceholder": {
+      "message": "Görmek istediğiniz trend videolar için bir anahtar kelime ekleyin"
+   },
+   "researchSearchOptions": {
+      "message": "Arama Filtreleri"
+   },
+   "researchSearchTerms": {
+      "message": "Arama Terimleri"
+   },
+   "researchSearchUpsell": {
+      "message": "Videoları arayip sıralayabilmek için \u003Cstrong>Pro\u003C/strong>'ya yükseltin. "
+   },
+   "researchSortLockedMessage": {
+      "message": "Sıralama özellikleri için hesabinizi yükseltin."
+   },
+   "researchSuggestedSearches": {
+      "message": "Önerilen aramalar"
+   },
+   "researchTopVidiqScores": {
+      "message": "Üst sıralardaki vidIQ Skorları"
+   },
+   "researchTrendingGamingVideos": {
+      "message": "Trend olan oyun videoları"
+   },
+   "researchTrendingMusicVideos": {
+      "message": "Trend olan müzik videoları"
+   },
+   "researchTrendingVideosFromEmergingChannels": {
+      "message": "Yeni çıkan kanalların trend olan videoları"
+   },
+   "researchVidiqScore": {
+      "message": "vidIQ Skoru"
+   },
+   "researchVidiqScore2": {
+      "message": "vidIQ skoru"
+   },
+   "researchViews": {
+      "message": "Görüntülenmeler"
+   },
+   "researchVph": {
+      "message": "Saatteki Görüntülenmeler(VPH)"
+   },
+   "resendTheConfirmationLink": {
+      "message": "doğrulama linkini yeniden gönder"
+   },
+   "reset": {
+      "message": "Yeniden Kur"
+   },
+   "resetSession": {
+      "message": "\u003Cb>vidIQ\u003C/b>'u yeniden kurun ve tekrar deneyin."
+   },
+   "resource": {
+      "message": "kaynak"
+   },
+   "resources": {
+      "message": "kaynaklar"
+   },
+   "restore": {
+      "message": "Yenile"
+   },
+   "restoreAll": {
+      "message": "Hepsini yenile"
+   },
+   "retentionStatLabel": {
+      "message": "Elde tutma"
+   },
+   "retryAllTitle": {
+      "message": "Hepsini Tekrar Dene"
+   },
+   "retryTitle": {
+      "message": "Tekrar Dene"
+   },
+   "reviewUs": {
+      "message": "Hakkımızda yorum yazın!"
+   },
+   "risingSearchQueriesTitle": {
+      "message": "Yükselen Arama Sorguları"
+   },
+   "risingTitle": {
+      "message": "Yükselen "
+   },
+   "saturdayPlural": {
+      "message": "Cumartesileri"
+   },
+   "saveChangesTitle": {
+      "message": "Değişiklikleri Kaydet"
+   },
+   "saveName": {
+      "message": "Adını kaydet"
+   },
+   "saveTemplateTitle": {
+      "message": "Şablonu kaydet"
+   },
+   "saveThisVideoTooltip": {
+      "message": "Bu videoyu şablon olarak kaydet, sonra da videonun kartarı ile ek açıklamalarını başka videoya yükle!"
+   },
+   "saveThumbnailTitle": {
+      "message": "Küçük Resmi Kaydet"
+   },
+   "saveTitle": {
+      "message": "Kaydet"
+   },
+   "saved": {
+      "message": "Kaydedildi"
+   },
+   "savedIdeasLabel": {
+      "message": "Kaydedilen fikirler"
+   },
+   "savedIdeasTabTooltip": {
+      "message": "Kayıtlı tüm fikirlerine buradan erişebilirsin"
+   },
+   "savingEllipsis": {
+      "message": "Kaydediyor..."
+   },
+   "savingThumbnailEllipsis": {
+      "message": "Küçük resim kaydediliyor..."
+   },
+   "scAddedLast7DaysTitle": {
+      "message": "Son 7 Günde Eklendi"
+   },
+   "scAvgAgeTitle": {
+      "message": "Ort. Yaş"
+   },
+   "scAvgViewsTitle": {
+      "message": "Ort. Görüntülenme"
+   },
+   "scCcTitle": {
+      "message": "Altyazı"
+   },
+   "scHighestViewsTitle": {
+      "message": "En yüksek Görüntülenme"
+   },
+   "scStatisticsProcessingResults": {
+      "message": "Sonuçlar İşleniyor."
+   },
+   "scTimesInDescTitle": {
+      "message": "Açıklamadaki Sayı"
+   },
+   "scTimesInTitleTitle": {
+      "message": "Başlıktaki Sayı"
+   },
+   "scTopCreatorTitle": {
+      "message": "Baş İçerik Oluşturucu"
+   },
+   "search": {
+      "message": "Ara"
+   },
+   "searchAndReplace": {
+      "message": "Ara ve yerlerini değiştir"
+   },
+   "searchByKeyword": {
+      "message": "Anahtar kelime ile ara"
+   },
+   "searchByList": {
+      "message": "CSV listesi ile ara"
+   },
+   "searchByPhrases": {
+      "message": "Terim ile ara..."
+   },
+   "searchByUsername": {
+      "message": "Yorumları kullanıcı adı ile ara"
+   },
+   "searchForKeyword": {
+      "message": "Anahtar kelime ara"
+   },
+   "searchInKwins": {
+      "message": "Anahtar kelime denetçisinde araştır"
+   },
+   "searchKeyword": {
+      "message": "Anahtar kelime ara"
+   },
+   "searchOnYouTube": {
+      "message": "Youtube'da ara"
+   },
+   "searchPanel": {
+      "message": "Arama paneli"
+   },
+   "searchQueriesTitle": {
+      "message": "Arama Sorguları"
+   },
+   "searchScreen": {
+      "message": "Arama ekranı"
+   },
+   "searchTermTitle": {
+      "message": "Aranma Terimi"
+   },
+   "searchThisTerm": {
+      "message": "Bu terimi arayın"
+   },
+   "searchUpTo5InSingleSearch": {
+      "message": "Tek bir aramada 5 anahtar kelimeye kadar yükseltin"
+   },
+   "searchUpToNKeywords": {
+      "message": "$num$ anahtar kelimeye kadar ara",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchVolume": {
+      "message": "Aranma hacmi"
+   },
+   "searchVolumePastMonth": {
+      "message": "Son 30 günde arama hacmi"
+   },
+   "searchVolumeTitle": {
+      "message": "Aranma Hacmi"
+   },
+   "searchingFor": {
+      "message": "Aranıyor"
+   },
+   "secondPlural": {
+      "message": "saniye"
+   },
+   "secondSingular": {
+      "message": "saniye"
+   },
+   "seeAllResults": {
+      "message": "Tüm sonuçları görüntüle"
+   },
+   "seeMoreStats": {
+      "message": "Daha fazla istatistik?"
+   },
+   "selectAYouTubeChannel": {
+      "message": "Bir Youtube kanalı aç"
+   },
+   "selectAllNum": {
+      "message": "Tüm $num$ seç",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "selectAllTitle": {
+      "message": "Hepsini Seç"
+   },
+   "selectLikingChannels": {
+      "message": "Videonu beğenebilecek kanalları seç, sonra da \u003Cb>Mass like this video\u003C/b>  butonuna tıkla. "
+   },
+   "selectNoneTitle": {
+      "message": "Hiçbirini Seçme"
+   },
+   "selectOption": {
+      "message": "Bir seçenek seçin..."
+   },
+   "selected": {
+      "message": "Seçildi"
+   },
+   "sendFeedbackTitle": {
+      "message": "Geri bildirim"
+   },
+   "senshockDemonetizationWord": {
+      "message": "Sansasyonel ve Sarsıcı"
+   },
+   "seoScoreChannelAuditInfo": {
+      "message": "Video başlıklarınızı, etiketlerinizi ve açıklamalarınızı iyileştirmek kitle erişimi için maksimum potansiyele sahip olmasını sağlar. Bu skoru 40'ın üzerinde tutmaya çalışın."
+   },
+   "seoScoreChecklistTitle": {
+      "message": "Seo Skoru & Kontrol Listesi"
+   },
+   "seoScoreStatLabel": {
+      "message": "vidIQ SEO Skoru"
+   },
+   "seoTagsTitle": {
+      "message": "SEO | Etiketler"
+   },
+   "seoTitle": {
+      "message": "SEO"
+   },
+   "separateKeywordsWithComma": {
+      "message": "Bir virgülle anahtar kelimelerinizi ayırın"
+   },
+   "setCustomRange": {
+      "message": "Aralığı değiştiriniz"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "sexDemonetizationWord": {
+      "message": "Cinsellik Içeren Içerik"
+   },
+   "shapeCircle": {
+      "message": "Çember"
+   },
+   "shapeEllipse": {
+      "message": "Elips"
+   },
+   "shapeRect": {
+      "message": "Dikdörtgen"
+   },
+   "shapeTitle": {
+      "message": "Şekil"
+   },
+   "shapeTriangle": {
+      "message": "Üçgen"
+   },
+   "shareTitle": {
+      "message": "Paylaş"
+   },
+   "sharedOnFacebook": {
+      "message": "Facebook'ta Paylaşıldı"
+   },
+   "shares": {
+      "message": "paylaşılanlar"
+   },
+   "sharesAndComments": {
+      "message": "paylaşımlar + yorumlar"
+   },
+   "shop": {
+      "message": "Alışveriş Yap"
+   },
+   "shortLabel": {
+      "message": "kısa"
+   },
+   "shortcutsOnHomePage": {
+      "message": "Anasayfadaki Kısayollar"
+   },
+   "shortcutsOnVideoManager": {
+      "message": "Video Sayfasındaki Kısayollar"
+   },
+   "shortenUrls": {
+      "message": "URL kısalt"
+   },
+   "shortsViewsStatLabel": {
+      "message": "Kısa Görüntülenmeler"
+   },
+   "showAllIdeas": {
+      "message": "Tüm $num$ fikirleri göster",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllKeywords": {
+      "message": "Tüm $num$ anahtar kelimeleri göster",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllNumVideos": {
+      "message": "Tüm $num$ trend videoları göster",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllTitle": {
+      "message": "Hepsini Göster"
+   },
+   "showAnnotations": {
+      "message": "Ek açıklamaları göster"
+   },
+   "showCaptions": {
+      "message": "Altyazıları göster"
+   },
+   "showChannelInfoTitle": {
+      "message": "Kanal Bilgilerini Göster"
+   },
+   "showFewerTitle": {
+      "message": "Daha Az Göster"
+   },
+   "showMoreTitle": {
+      "message": "Daha fazla göster ($number$)",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "showPlayerControls": {
+      "message": "Oynatma seçeneklerini göster"
+   },
+   "showRelatedVideos": {
+      "message": "Bağlantılı videoları göster "
+   },
+   "showVideoInfo": {
+      "message": "Video bilgilerini göster (başlık, sahibi, vb.)"
+   },
+   "showingCommentThreads": {
+      "message": "$total$ yorumun $current$ u gösteriliyor. ",
+      "placeholders": {
+         "current": {
+            "content": "$2"
+         },
+         "total": {
+            "content": "$1"
+         }
+      }
+   },
+   "signIn": {
+      "message": "Oturum açın"
+   },
+   "signInToExistingVidiqAccount": {
+      "message": "Var olan vidIQ hesabınıza giriş yapın"
+   },
+   "signInToYourAccount": {
+      "message": "Hesabınıza giriş yapın"
+   },
+   "signInWithGoogle": {
+      "message": "Google ile oturum açın"
+   },
+   "signUp": {
+      "message": "Kaydol"
+   },
+   "signUpForNewAccount": {
+      "message": "\u003Cb>vidIQ\u003C/b> hesabı kurun"
+   },
+   "signUpForVidIQ": {
+      "message": "vidIQ'ya Kaydol"
+   },
+   "signUpFree": {
+      "message": "Ücretsiz kaydolun!"
+   },
+   "signUpWithGoogle": {
+      "message": "Google ike kaydolun"
+   },
+   "signUpWithVidiq": {
+      "message": "vidIQ ile Kaydolun"
+   },
+   "signupThanks": {
+      "message": "Kaydolduğunuz için teşekkürler!"
+   },
+   "singularPageLeftTitle": {
+      "message": "1 Sayfa kaldı"
+   },
+   "socDemonetizationWord": {
+      "message": "Hassas Sosyal Sorunlar"
+   },
+   "socialTitle": {
+      "message": "Sosyal"
+   },
+   "solidColorTitle": {
+      "message": "Katı Renk"
+   },
+   "somethingWentWrong": {
+      "message": "Bir şey yanlış gitti"
+   },
+   "sortBy": {
+      "message": "ile sırala"
+   },
+   "sourceGoogleTrends": {
+      "message": "Kaynak: Google Trends (Youtube Aramaları)"
+   },
+   "speechBubbleTitle": {
+      "message": "Konuşma Kutucuğu"
+   },
+   "spotlightTitle": {
+      "message": "Gündem"
+   },
+   "startCampaignTitle": {
+      "message": "Kampanyayı Başlat"
+   },
+   "startResearchingSavedIdeas": {
+      "message": "Kaydedilen listendeki fikirleri araştırmaya başla"
+   },
+   "startResearchingSavedIdeasAlt": {
+      "message": "Kayıt listendeki fikirleri araştırmaya başla"
+   },
+   "startTime": {
+      "message": "Başlama süresi"
+   },
+   "stats": {
+      "message": "Istatistikler"
+   },
+   "statsOverview": {
+      "message": "Analizlere genel bakış"
+   },
+   "statusTitle": {
+      "message": "Statü"
+   },
+   "stayTuned": {
+      "message": "Hatta kalın..."
+   },
+   "stepThroughFrame": {
+      "message": "Her video karesini\u003Cbr />tarayın"
+   },
+   "stopCampaignTitle": {
+      "message": "Kampanyayı Bitir"
+   },
+   "studioBetaBestTimeToPostUpsell": {
+      "message": "en iyi yayınlama zamanlarınızı görmek için \u003Cb>vidIQ Pro\u003C/b> yükseltin"
+   },
+   "studioBetaChooseVideoStillMessage": {
+      "message": "Özür dileriz! YouTube Studio Beta'da video seçmeyi destekleyemiyoruz. "
+   },
+   "studioBetaGeneralError": {
+      "message": "$name$ açarken hata olustu. Lütfen birkaç dakika sonra tekrar deneyiniz!",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "studioBetaTagsUpsell": {
+      "message": "\u003Cb>$num$\u003C/b>  tane daha tavsiye edilen etiket görmek için \u003Cb>vidIQ Boost\u003C/b>'a yükseltin. ",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "studioBetaTrendingVidsUpsell2": {
+      "message": "görüntülenme getiren videoları görmek için \u003Cb>vidIQ Boost\u003C/b>a yükseltin"
+   },
+   "stumbleuponStatLabel": {
+      "message": "stumbleupon"
+   },
+   "stumbleuponStatTitle": {
+      "message": "Stumbleupon"
+   },
+   "subViewsTooltip": {
+      "message": "Bu sayı, bu video için abonelerden elde edilen görüntülenme sayısıdır."
+   },
+   "submit": {
+      "message": "Işleme koy"
+   },
+   "subs": {
+      "message": "Aboneler"
+   },
+   "subsBestMonth": {
+      "message": "En Çok Abone Kazanılan Ay"
+   },
+   "subsDrivenStatLabel": {
+      "message": "kazanılan aboneler"
+   },
+   "subsPer1kViews": {
+      "message": "1k izlenme başına $num$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "subscribeForTricks": {
+      "message": "İpucu ve daha fazla bilgi için kanalımıza abone olun!"
+   },
+   "subscribeTitle": {
+      "message": "Abone"
+   },
+   "subscriberAnalysis": {
+      "message": "Abone Analizi"
+   },
+   "subscriberInsightsTitle": {
+      "message": "Abone Analizi"
+   },
+   "subscriberRank": {
+      "message": "abone sıralaması"
+   },
+   "subscribersGainedTitle": {
+      "message": "Kazanilan Aboneler"
+   },
+   "subscribersTitle": {
+      "message": "Aboneler"
+   },
+   "successfullyAddedNLikes": {
+      "message": "$n$ tane yeni beğeni, videona başarıyla eklendi!",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "successfullyAddedOneLike": {
+      "message": "Bir tane yeni beğeni, videona başarıyla eklendi!"
+   },
+   "successfullyAuthed": {
+      "message": "Başarılı bir şekilde doğrulandı"
+   },
+   "suggestedVideoTagsTitle": {
+      "message": "Tavsiye Edilen Video Etiketleri"
+   },
+   "suggestedViewsStatLabel": {
+      "message": "yt tavsiyesinden görüntülenme"
+   },
+   "suggestion": {
+      "message": "Öneri"
+   },
+   "sundayPlural": {
+      "message": "Pazarları"
+   },
+   "tabletTitle": {
+      "message": "Tablet"
+   },
+   "tagAutocompleteTitle": {
+      "message": "Etiket Otomatik Tamamlama Tavsiyeleri"
+   },
+   "tagCountMessage": {
+      "message": "Etiketler YouTube'un videoların amacını anlamasında yardımcı oluyor böylece etiketler videolar arama sonuçlarında çıkıyor. \u003Cbr>\u003Cbr>Eklemek \u003Cb>en az 20 etiket\u003C/b> bir videoya burada tam puan getiriyor."
+   },
+   "tagCountStatLabel": {
+      "message": "etiket sayısı"
+   },
+   "tagTemplatesCreateMessage": {
+      "message": "Etiket eklemek için yeni şablon yarat!"
+   },
+   "tagTemplatesInputPlaceholder": {
+      "message": "Etiket ve ya virgülle ayrılmış liste"
+   },
+   "tagTemplatesNote": {
+      "message": "Not: Genel etiketlerden önce spesifik etiketleri ekleyiniz."
+   },
+   "tagTemplatesTitle": {
+      "message": "Etiket Şablonları"
+   },
+   "tagVolumeStatLabel": {
+      "message": "etiket hacmi"
+   },
+   "tags": {
+      "message": "Etiketler"
+   },
+   "tagsLengthChannelAuditTitle": {
+      "message": "Etiketlerin uzunluğu"
+   },
+   "teaserText": {
+      "message": "Önizleme Metni"
+   },
+   "templateDeleteProblem": {
+      "message": "\"$template$\"ı silerken hata oluştu: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateDeleted": {
+      "message": "$template$ başarıyla silindi!",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateNameTitle": {
+      "message": "Şablon adı"
+   },
+   "templatePlaceholder1": {
+      "message": "ör: Teşekkürler"
+   },
+   "templatePlaceholder2": {
+      "message": "ör: Abone olduğunuz için teşekkürler"
+   },
+   "templateSaveProblem": {
+      "message": "$template$\"ı kaydederken hata oluştu: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateSaved": {
+      "message": "$template$ başarıyla kaydedildi!",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateTextHint": {
+      "message": "İpucu: \u003Ci>&lt;user-name&gt;\u003C/i> cevap vereğiniz kanalın adı ile değiştirilecektir."
+   },
+   "templateTextTitle": {
+      "message": "Şablon Metin"
+   },
+   "templatesTitle": {
+      "message": "Şablonlar"
+   },
+   "text": {
+      "message": "Metin"
+   },
+   "thatsEnoughTitle": {
+      "message": "Bu Yeterli"
+   },
+   "theLastVideoWatched": {
+      "message": "Son görüntülenen video"
+   },
+   "thisChannelAverage": {
+      "message": "Bu kanal ortalaması"
+   },
+   "thisMonth": {
+      "message": "bu ay"
+   },
+   "thisPeriod": {
+      "message": "bu periyod"
+   },
+   "thisVideo": {
+      "message": "Bu video"
+   },
+   "thumbnail": {
+      "message": "Küçük ekran resmi"
+   },
+   "thumbnailEditorTitle": {
+      "message": "Küçük Resim Düzenleyicisi"
+   },
+   "thumbnailPlural": {
+      "message": "küçük resimler"
+   },
+   "thumbnailRatingBarTitle": {
+      "message": "Küçük Resim Derecendirme Çubuğu"
+   },
+   "thumbnailSavedNotice": {
+      "message": "Küçük resminiz kaydedildi! YouTube'da görünmesi bir kaç dakika alabilir."
+   },
+   "thumbnailSection": {
+      "message": "Küçük ekran resmi bölümü"
+   },
+   "thumbnailSingular": {
+      "message": "küçük resim"
+   },
+   "thumbnailSizeError": {
+      "message": "Dosya çok büyük, lütfen $maxSize$ kadar dosya yükleyin",
+      "placeholders": {
+         "maxSize": {
+            "content": "$1"
+         }
+      }
+   },
+   "thursdayPlural": {
+      "message": "Perşembeleri"
+   },
+   "time": {
+      "message": "Süre"
+   },
+   "timesUsedInTopVids": {
+      "message": "En iyi 10 videoda kez kullanıldı"
+   },
+   "timezone": {
+      "message": "Saat dilimi"
+   },
+   "title": {
+      "message": "Başlık"
+   },
+   "titleAverageSubtextBad": {
+      "message": "Ortalama başlık uzunluğunuz çok $status$. 20 ile  karakter arasında tutunuz.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleAverageSubtextGood": {
+      "message": "Ortalama başık uzunluğunuz iyi"
+   },
+   "titleChannelAuditEdit": {
+      "message": "Başlığı güncelleyin"
+   },
+   "titleDescSuggestionTitle": {
+      "message": "Başlık & Açıklama Tavsiyeleri"
+   },
+   "titleGeneratorNonBoostUsersGuide": {
+      "message": "Boost kullanıcısı olmadığın için kullanacak kredin sınırlıdır. Boost'a tam erişim için planını yükselt."
+   },
+   "titleGeneratorRecommendation": {
+      "message": "\\\"$currentTitle$\\\"'lık başlık önerileri",
+      "placeholders": {
+         "currentTitle": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleGeneratorRemainingCredits": {
+      "message": "Kalan miktar $num$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleGeneratorUpsellHint": {
+      "message": "Tüm bakiyeni harcadın. Lütfen hesabını yükselt!"
+   },
+   "titleLengthChannelAuditTitle": {
+      "message": "Başlık uzunluğu"
+   },
+   "to": {
+      "message": "e"
+   },
+   "toDismissAnIdea": {
+      "message": "bir fikri çıkarmak için."
+   },
+   "toSaveAnIdea": {
+      "message": "bir fikri kaydetmek için."
+   },
+   "todayLabel": {
+      "message": "Bugün"
+   },
+   "tooLong": {
+      "message": "Çok Uzun"
+   },
+   "tooLow": {
+      "message": "Çok düşük"
+   },
+   "tooShort": {
+      "message": "Çok Kısa"
+   },
+   "toolbarStatsDropdownTitle": {
+      "message": "Araç Çubuğu İstatistikleri "
+   },
+   "topAvgViewTimeChannelAuditInfo": {
+      "message": "En iyi izlenme zamanına göre işte videolar. Bu videolarda kullanılan içeriği ve video kullanımını incelemenizi ve bu kavramları kullanarak iki katına çıkarmanızı öneriyoruz."
+   },
+   "topAvgWatchtimeNonLive": {
+      "message": "Ort. İzleme zamanı"
+   },
+   "topChannels": {
+      "message": "Bu arama terimi için en iyi kanallar"
+   },
+   "topCompetitorVideos": {
+      "message": "Rakipler (VPH göre)"
+   },
+   "topCompetitorVideosChannelAuditInfo": {
+      "message": "Saat başı izlenmeye (VPH) göre rakiplerinizin en çok izlenen videoları. Bu videolardan öğrenmenizi öneririz ve bu öğrenimlerden herhangi birini kanalınıza uygulayıp uygulayamayacağınızı görün."
+   },
+   "topCountriesStatLabel": {
+      "message": "izleyen ülkeler"
+   },
+   "topDevicesStatLabel": {
+      "message": "kullanılan cihazlar"
+   },
+   "topEmbedsTitle": {
+      "message": "Baş. Yerlş. Linkler"
+   },
+   "topEngagementChannelAuditInfo": {
+      "message": "İşte en meşgul videolarınız. Bu kavramları kullanarak niçin daha çok meşgul olduklarını ve ikiye katlandıklarını görmek için onları incelemenizi öneririz."
+   },
+   "topKeywords": {
+      "message": "Anahtar Kelimeler"
+   },
+   "topKeywordsUpsell": {
+      "message": "Proya yükselttiğinizde üstlerdeki tüm anahtar kelimeleri görebilirsiniz"
+   },
+   "topKwinsKeywords": {
+      "message": "İlişkili Anahtar Kelime Denetçisi"
+   },
+   "topPlaylists": {
+      "message": "En üst oynatma listesi"
+   },
+   "topPlaylistsChannelAuditInfo": {
+      "message": "En fazla izlenen oynatma listeleri işte burada. Benzer oynatma listeleri oluşturmanızı ömeririz."
+   },
+   "topReferrersTitle": {
+      "message": "Önerenler"
+   },
+   "topRelatedKeywords": {
+      "message": "İlişkili en iyi anahtar kelimeler"
+   },
+   "topRelatedOpportunities": {
+      "message": "En iyi ilişkili fırsatlar"
+   },
+   "topRetention": {
+      "message": "En Yüksek Tutulma %"
+   },
+   "topRetentionChannelAuditInfo": {
+      "message": "Seyirciniz bu videoları seviyor ve muhtemelen de bu tür içeriğiğe sahip daha fazla video izlemek istiyor. Bu içeriği iki katına çıkarmak için mükemmeldir."
+   },
+   "topSearchKeywordsTitle": {
+      "message": "Tepedeki Aranan Anahtar Kelimeler"
+   },
+   "topSearchQueriesTitle": {
+      "message": "Üstteki Arama Sorguları"
+   },
+   "topSearchTermsChannelAuditInfo": {
+      "message": "İşte en üstteki anahtar kelimeleriniz"
+   },
+   "topSearchTermsTitle": {
+      "message": "En çok aranan terimler"
+   },
+   "topSearchVideos": {
+      "message": "\u003Cb>\\\"$query$\\\"\u003Cb/> Youtube araştırmasında için en üstte yer alan 10 video",
+      "placeholders": {
+         "query": {
+            "content": "$1"
+         }
+      }
+   },
+   "topStatLabel": {
+      "message": "en üst"
+   },
+   "topSubscribersChannelAuditInfo": {
+      "message": "İzlenen videolar için en iyi izleniminiz. Bu videoların neden bu kavramları kullanarak en iyi ve iki kat daha iyi performans gösterdiğini görmek için başlıkları ve küçük resimleri incelemenizi öneririz."
+   },
+   "topSuggested": {
+      "message": "en çok tavsiye edilen (sahibi olmayan)"
+   },
+   "topSuggestedChannelAuditInfo": {
+      "message": "İşte içeriğinizin önerdiği en üst videolar. Benzer içerik oluşturmanızı ve korelasyonu incelemenizi ve sonrasında iki katına çıkarmanıza öneririz."
+   },
+   "topTenTrendingVideos": {
+      "message": "En iyi 10 Trend Video"
+   },
+   "topTitle": {
+      "message": "Üst"
+   },
+   "topViewsChannelAuditInfo": {
+      "message": "En fazla izlenen videolar işte burada. Trafik kaynaklarını incelemenizi ve bunun neden olduğunu ve bu kavramları kullanarak iki katına çıktıklarını anlamanızı tavsiye ediyoruz."
+   },
+   "topViewsChannelAuditRank": {
+      "message": "en üst görüntülenmelerde"
+   },
+   "topVphChannelAuditInfo": {
+      "message": "Bunlar saatteki izlenme oranına(VPH) göre en yüksekte olan videolardir. Bunlara benzer videolar yapmanızı öneririz. "
+   },
+   "topWatchTimeChannelAuditInfo": {
+      "message": "Bu videolarınız en uzun izleniyor ve bu videolarınızı artırmanızı ve böyle videolar üretmenizi öneririz."
+   },
+   "topWatchTimeChannelAuditRank": {
+      "message": "en üst izlenme süresinde"
+   },
+   "topics": {
+      "message": "Konular"
+   },
+   "totalEstimatedRevenue": {
+      "message": "tahmini toplam gelir"
+   },
+   "totalWatchTimeTitle": {
+      "message": "Toplam Izlenme Süresi "
+   },
+   "trackingRequest1": {
+      "message": "Ürünlerimizi kullanıcılarımız için sürekli olarak geliştirmemize yardımcı olmak için, en yararlı bulduğunuz özelliklerle birlikte aşağıdaki gibi diğer bilgileri toplamak istiyoruz:"
+   },
+   "trackingRequest2": {
+      "message": "Oturum açıp kapattığınızda, eklentiyi kurup kaldırdığınızda belirli özellikleri kullanın"
+   },
+   "trackingRequest3": {
+      "message": "Tarayıcınızın teknik ve cihaz verileri, IP adresiniz tarafından gösterilen konum bilgisi dahil kullanım tarih ve zamanı, dil tercihleri ve işletim sistemi"
+   },
+   "trackingRequest4": {
+      "message": "Bu veri ürünümüzü geliştirmemize ve müşterilerimiz için daha iyi bir deneyim sağlamamıza yardımcı olacak. "
+   },
+   "trackingRequestButton": {
+      "message": "Çalıştırın"
+   },
+   "trackingRequestFirefoxTitle": {
+      "message": "vidIQ Firefox'u kurduğunuz için teşekkürler"
+   },
+   "tragconDemonetizationWord": {
+      "message": "Facia ve Anlaşmazlık"
+   },
+   "translateKeywordsTitle": {
+      "message": "Anahtar Kelimeleri Tercüme Et"
+   },
+   "translateTitle": {
+      "message": "Tercüme Et"
+   },
+   "translationNotSupported": {
+      "message": "Bu dil için çeviri desteklenmiyor"
+   },
+   "translationProblem": {
+      "message": "Tercümenizi yaparken bir hata oluştu"
+   },
+   "translationRequiresVidiqPro": {
+      "message": "Çeviri için vidIQ Pro gereklidir"
+   },
+   "trendAlerts": {
+      "message": "Trend Bildirimleri"
+   },
+   "trendAlertsAlertNameLabel": {
+      "message": "Bildrimine isim ver"
+   },
+   "trendAlertsAlertNamePlaceholder": {
+      "message": "Benim yeni trendim"
+   },
+   "trendAlertsAlertNameTooltip": {
+      "message": "Ne izlediğini anımsatması için bildirimini adlandır"
+   },
+   "trendAlertsCancel": {
+      "message": "İptal et"
+   },
+   "trendAlertsCategoryLabel": {
+      "message": "Bir kategori seç"
+   },
+   "trendAlertsCategoryTooltip": {
+      "message": "Bildirimin için bir video kategorisi seç"
+   },
+   "trendAlertsCompetitorsEmptyMessage": {
+      "message": "Henüz rakip eklemediysen, ekleyebilirsin"
+   },
+   "trendAlertsCompetitorsEmptyMessageLink": {
+      "message": "rakiplerini buraya ekle"
+   },
+   "trendAlertsCompetitorsLabel": {
+      "message": "Rakip ekle"
+   },
+   "trendAlertsCompetitorsLink": {
+      "message": "Daha çok raikp ekle"
+   },
+   "trendAlertsCompetitorsTooltip": {
+      "message": "Bu bildirimi sınırlandırmak için rakip kanalları seç"
+   },
+   "trendAlertsCreateANewTrendAlert": {
+      "message": "Yeni bir trend bildirimi oluştur"
+   },
+   "trendAlertsCreateAlert": {
+      "message": "Bildirim oluştur"
+   },
+   "trendAlertsCreateFirstAlert": {
+      "message": "ilk bildirimini oluştur"
+   },
+   "trendAlertsCreateNewAlert": {
+      "message": "Yeni bildirim oluştur"
+   },
+   "trendAlertsCreateNewTrendAlert": {
+      "message": "Yeni trend bildirimi oluştur"
+   },
+   "trendAlertsDefaultName": {
+      "message": "Bildirimlerim"
+   },
+   "trendAlertsDeleteMsg": {
+      "message": "\\\"$alertName$\\\" bidirimini silmek istediğinizden emin misiniz?",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsDeleteTrendAlert": {
+      "message": "Trend bildirimini sil"
+   },
+   "trendAlertsEditTrendAlert": {
+      "message": "Trend bildirimini düzenle"
+   },
+   "trendAlertsEditTrendAlertWithName": {
+      "message": "\\\"$alertName$\\\" için trend bildirimini düzenle",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsEditYourTrendAlert": {
+      "message": "Trend bildirimini düzenle"
+   },
+   "trendAlertsEmailFrequencyLabel": {
+      "message": "Ne sıklıkla bildirim e-postası almak istersin?"
+   },
+   "trendAlertsEmailFrequencyTooltip": {
+      "message": "Bildiriminle eşleşen yeni trend videolarına ilişkin e-posta al"
+   },
+   "trendAlertsErrorUnauthenticatedMessage": {
+      "message": "Trend bildirimi oluşturmak için kanalınız doğrulamanız gerekiyor. "
+   },
+   "trendAlertsFilter10k": {
+      "message": "10k"
+   },
+   "trendAlertsFilter1k": {
+      "message": "1k"
+   },
+   "trendAlertsFilter5k": {
+      "message": "5k"
+   },
+   "trendAlertsFilterEachMonth": {
+      "message": "Her ay"
+   },
+   "trendAlertsFilterEachWeek": {
+      "message": "Her hafta"
+   },
+   "trendAlertsFilterEvery2Days": {
+      "message": "Iki haftada bir"
+   },
+   "trendAlertsFilterEveryDay": {
+      "message": "Her gün"
+   },
+   "trendAlertsFormAddAnotherCompetitor": {
+      "message": "Başka rakip ekle"
+   },
+   "trendAlertsFormAlertNameHelpText": {
+      "message": "Kolaylıkla bulabilmek için bildiriminizi adlandırın. Eger adlandırmazsanız, otomatik olarak \\\"$alertName$\\\" kullanılacaktır. ",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormAlertNameLabel": {
+      "message": "Bildirim adı"
+   },
+   "trendAlertsFormAlertNamePlaceholder": {
+      "message": "Ör: Rakipten ve saatte 5K fazla izlenme alan"
+   },
+   "trendAlertsFormCategoryHelpText": {
+      "message": "Sonuçlarda yer alacak videonun kategorisini seçiniz."
+   },
+   "trendAlertsFormCategoryLabel": {
+      "message": "Kategori"
+   },
+   "trendAlertsFormChannelTagsLabel": {
+      "message": "Kanalınızdan tavsiye edilen anahtar kelimeler"
+   },
+   "trendAlertsFormCompetitorsHelpText": {
+      "message": "Bildirimin gelmesini istediğiniz rakip kanalı seçiniz. Eger özellikle rakip kanal seçmezseniz, tüm YouTube taranacaktır."
+   },
+   "trendAlertsFormCompetitorsLabel": {
+      "message": "Rakipler"
+   },
+   "trendAlertsFormEmailFrequencyHelpText": {
+      "message": "Bu bildirimle uyuşan trend videoları email adresinize göndereceğiz. Ayrıca bidirimleri şuan canlı olarak görmek istiyorsanız, yandaki bildirimler kısmına tıklayınız."
+   },
+   "trendAlertsFormEmailFrequencyLabel": {
+      "message": "Email sıklığı "
+   },
+   "trendAlertsFormKeywordsHelpText": {
+      "message": "Bu sorgulamayı sizin için takip edip, trend olduğu takdirde size bildireceğiz. Arama terimlerini virgül ile ayırınız."
+   },
+   "trendAlertsFormKeywordsLabel": {
+      "message": "Anahtar Kelimeler"
+   },
+   "trendAlertsFormKeywordsPlaceholder": {
+      "message": "Ör: mobile, ios, android"
+   },
+   "trendAlertsFormLanguageHelpText": {
+      "message": "Size gönderilecek olan bidirimldeki videonun dilini seçiniz."
+   },
+   "trendAlertsFormLanguageLabel": {
+      "message": "Dil"
+   },
+   "trendAlertsFormUpsellMessage": {
+      "message": "Ayarları değiştirmek için, lütfen \u003Ca href=\\\"$upgradeUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">Pro'ya yükseltiniz\u003C/a> ",
+      "placeholders": {
+         "upgradeUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormVphThresholdHelpText": {
+      "message": "Bildirimin size gönderilmesi için, videonun saatte en az kaç görüntülenme alması gerektiğini seçiniz."
+   },
+   "trendAlertsFormVphThresholdLabel": {
+      "message": "VPH sınırı"
+   },
+   "trendAlertsGetEmailAlerts": {
+      "message": "Bldirim ayrıntılarınla ilgili videolar trend olduğunda bildirim e-postaları al."
+   },
+   "trendAlertsHideOptions": {
+      "message": "Gelişmiş seçenekleri gizle"
+   },
+   "trendAlertsLanguageLabel": {
+      "message": "Bir dil seç"
+   },
+   "trendAlertsLanguageTooltip": {
+      "message": "Bildirimin için bir video dili seç"
+   },
+   "trendAlertsLivePreviewNoResults": {
+      "message": "Bu bildirim için herhangi bir sonuç göremeyeceksiniz. Sonuç alma olasılığını arttırmak için, VPH'i düşürünüz ya da anahtar kelimeleri değiştiriniz."
+   },
+   "trendAlertsLivePreviewResults": {
+      "message": "Bu bildiriminizin ilk $numResultsShown$ sonucunun canlı önizlemesidir. ",
+      "placeholders": {
+         "numResultsShown": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsMostViewedFeatureInfo": {
+      "message": "Hangi konuların revaçta olduğunu hemen keşfet!"
+   },
+   "trendAlertsNoTrendAlertsFound": {
+      "message": "Trend bildirimi bulunamadı"
+   },
+   "trendAlertsPanelPopover": {
+      "message": "Trend Bildirimleri bu konular için bildirimler almanı ve belli başlı konuları takip etmeni sağlar. \u003Ca href=\\\"https://www.youtube.com/watch?v=8QPmaFFqyPA&t=196s\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">Learn more\u003C/a>."
+   },
+   "trendAlertsPreviewFooterFewResults": {
+      "message": "Bu bildirimin sadece $numResults$ sonucu vardır, ama yakında daha fazla olacaktır. Bildirimle ilgili \u003Cstrong>$frequency$\u003C/strong> aralıklarla email alacaksınız.",
+      "placeholders": {
+         "frequency": {
+            "content": "$2"
+         },
+         "numResults": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterManyResults": {
+      "message": "Bu bildiriminin $previewLength$ sonucunun önizlemesidir. Bildirimle ilgili \u003Cstrong>$frequency$\u003C/strong> aralıklarla email alacaksınız.",
+      "placeholders": {
+         "frequency": {
+            "content": "$2"
+         },
+         "previewLength": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterNoResults": {
+      "message": "Şuan bu bildirim için herhangi bir sonuç görünmüyor, ama yakın zamana görünmesi gerekiyor. Bildirimle ilgili \u003Cstrong>$frequency$\u003C/strong> aralıkla email alacaksınız. ",
+      "placeholders": {
+         "frequency": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewNoResults": {
+      "message": "İsteginizle uyuşan video bulunamadı. Daha sonra tekrar deneyiniz!"
+   },
+   "trendAlertsPreviewTitle": {
+      "message": "\\\"$alertName$\\\" bildirimini görüntüleyin. ",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsSearchTermLabel": {
+      "message": "Hangi anahtar kelime için bildirim oluşturmak istersin?"
+   },
+   "trendAlertsSearchTermPlaceholder": {
+      "message": "Anahtar kelime gir"
+   },
+   "trendAlertsSearchTermTooltip": {
+      "message": "Bu anahtar kelime için yeni trend videolar göründüğünde bildirim al"
+   },
+   "trendAlertsShowOptions": {
+      "message": "Gelişmiş seçenekleri göster"
+   },
+   "trendAlertsSubmitLabel": {
+      "message": "Bildirimini kaydet"
+   },
+   "trendAlertsUnableToCreateAlert": {
+      "message": "Şuan trend bildirimi oluşturamıyoruz. Lütfen sayfayı tekrar yükleyip deneyiniz. "
+   },
+   "trendAlertsUnableToDeleteAlert": {
+      "message": "Şuan bu bildirimi silemiyoruz. Lütfen sayfayı tekrar yükleyip deneyiniz."
+   },
+   "trendAlertsUnableToUpdateAlert": {
+      "message": "Şuan bu bildirimi güncelleyemiyoruz. Lütfen sayfayı tekrar yükleyip deneyiniz."
+   },
+   "trendAlertsUpdateAlert": {
+      "message": "Bidirimi güncelle"
+   },
+   "trendAlertsUpsellMessage": {
+      "message": "  $userType$ ile gelen maximum bildirim sayısına ulaştınız. Eger daha fazla oluşturmak istiyorsanız, lütfen hesabınızı yükseltiniz. ",
+      "placeholders": {
+         "userType": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsVphThresholdLabel": {
+      "message": "Bu bildirim oluşmadan önce, bir videonun saat başına kaç görüntülenme alması gerektiğini seç"
+   },
+   "trendAlertsVphThresholdTooltip": {
+      "message": "Bildiriminin, bir videonun saat başına kaç görüntülenme alması gerektiğini seç"
+   },
+   "trendAlertsWelcome": {
+      "message": "Trend Bildirimlerine hoş geldiniz! Bu özelliği birçok yararlı şekilde kullanabilirsiniz. Mesela:"
+   },
+   "trendAlertsWelcomeIdea1": {
+      "message": "\\\"apple\\\" ve \\\"iphone\\\" anahtar kelimeleri ile ilgili videoları takip edebilirsiniz."
+   },
+   "trendAlertsWelcomeIdea2": {
+      "message": "Rakiplerinizin trend olmakta olan videolarını takip edebilirsiniz."
+   },
+   "trendAlertsWelcomeIdea3": {
+      "message": "Saatte 500 görüntülenmeden fazla alan oyun videolarını takip edebilirsiniz."
+   },
+   "trending": {
+      "message": "Yükselenler"
+   },
+   "trendingVideosTitle": {
+      "message": "Yükselen Videolar "
+   },
+   "trendingVidsForTerm": {
+      "message": "Bu arama terimi için trend videolar"
+   },
+   "tripledKeywordsStatLabel": {
+      "message": "üçlenmiş anahtar kelimeler"
+   },
+   "troubleLoading": {
+      "message": "\u003Cb>vidIQ\u003C/b> yüklemede zorluk çekiyor. Lütfen yenileyiniz."
+   },
+   "troubleLoggingIn": {
+      "message": "Giriş yaparken sıkınt mı yaşıyorsunuz?"
+   },
+   "tryAgain": {
+      "message": "Tekrar dene"
+   },
+   "tryAnotherSearch": {
+      "message": "Yukarıdaki başka arama terimini girmeye çalışın"
+   },
+   "tryRemovingFilters": {
+      "message": "Başka bir anahtar kelime içim filtreleri veya aramayı kaldırmayı dene"
+   },
+   "tuesdayPlural": {
+      "message": "Salıları"
+   },
+   "tvTitle": {
+      "message": "TV"
+   },
+   "tweets": {
+      "message": "Twitler "
+   },
+   "twitterFollowersStatLabel": {
+      "message": "twitter takipçileri "
+   },
+   "twitterTitle": {
+      "message": "Twitter"
+   },
+   "unableToGetFullResults": {
+      "message": "Kota limitinden dolayı tüm sonuçlar gösterilemiyor"
+   },
+   "unexpectedError": {
+      "message": "Beklenmedik bir hata oluştu"
+   },
+   "unknownError": {
+      "message": "Bilinmeyen hata"
+   },
+   "unknownErrorOccurred": {
+      "message": "Bilinmeyen bir hata oluştu"
+   },
+   "unlimitedPreviewsUpsell": {
+      "message": "vidIQ Boost ile sınırsız önizleme alın"
+   },
+   "unlockTooltip": {
+      "message": "Boosta yükselttiğinizde ülke, dil ve sıralama seçeneklerini ortaya çıkarın!"
+   },
+   "unpinCommentMessage": {
+      "message": "Bu yorum önemsenmeyecektir. "
+   },
+   "unpinCommentTitle": {
+      "message": "Bu yorumu önemseme"
+   },
+   "unpinCommentTooltip": {
+      "message": "Yorumu önemseme(by vidIQ)"
+   },
+   "updateDefaultNote": {
+      "message": "Aşağıdaki her videonun $resources$ \u003Cb>Text\u003C/b>  ve \u003Cb>Link\u003C/b> değerlerini varsayilan olarak güncelleyebilirsiniz.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "updatePerVideoNote": {
+      "message": "Aşağıdaki her videonun $resources$ \u003Cb>Text\u003C/b> ve \u003Cb>Link\u003C/b> değerlerini güncelleyebilirsiniz.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgrade": {
+      "message": "Yükseltin"
+   },
+   "upgradeBoostTagRecs": {
+      "message": "Ek olarak $n$ tavsiye edilen etiket ve kalan 9 trend olan videoyu görmek için $start$vidIQ Boost$end$'a yükseltiniz.  ",
+      "placeholders": {
+         "end": {
+            "content": "$3"
+         },
+         "n": {
+            "content": "$1"
+         },
+         "start": {
+            "content": "$2"
+         }
+      }
+   },
+   "upgradeForFullAccess": {
+      "message": "Tam erişim için yükseltin"
+   },
+   "upgradeForMoreRelatedKeywords": {
+      "message": "Daha fazla ilgili anahtar kelime görmek için $before$Upgrade$after$",
+      "placeholders": {
+         "after": {
+            "content": "$2"
+         },
+         "before": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeForPreviews": {
+      "message": "Sınırsız önizleme için Boost'a yükseltin"
+   },
+   "upgradeForUnlimitedSearches": {
+      "message": "Sınırsız arama için Pro'ya yükselt"
+   },
+   "upgradeNow": {
+      "message": "Şimdi Yükseltin"
+   },
+   "upgradeNowTitle": {
+      "message": "Şimdi Yükselt!"
+   },
+   "upgradeProTranslate": {
+      "message": "Tercümeleri görmek için $start$vidIQ Pro$end$ planına yükselt! ",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeToBoost": {
+      "message": "\u003Cb>vidIQ Boost\u003C/b>'a yükselt"
+   },
+   "upgradeToBoostCsvExport": {
+      "message": "Veri olarak indirmek için planınızı Boost'a yükseltin"
+   },
+   "upgradeToBoostForDescriptionRecs": {
+      "message": "Açıklama tavsiyelerini almak için Boost'a yükseltin"
+   },
+   "upgradeToBoostForTitleRecs": {
+      "message": "Başlık tavsiyelerini almak için Boost'a yükseltin"
+   },
+   "upgradeToCreateAnEmailAlert": {
+      "message": "Yeni bir bildirim oluşturmak için tıkla"
+   },
+   "upgradeToGetThemNow": {
+      "message": "Erişmek için plan yükselt"
+   },
+   "upgradeToPlan": {
+      "message": "vidIQ $plan$ yükselt",
+      "placeholders": {
+         "plan": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeToViewInsights": {
+      "message": "Daha fazla özellik için yükselt"
+   },
+   "uploadThumbnail": {
+      "message": "Küçük ekran resmi yükleyin"
+   },
+   "uploadTitle": {
+      "message": "Yükle"
+   },
+   "uploadUpgradeBoost": {
+      "message": "\u003Cb>unlimited\u003C/b> video için \u003Cb>Boost\u003C/b>'a yükseltiniz!"
+   },
+   "uploadUpgradeProBoost": {
+      "message": "$limit$ tane video için \u003Cb>Pro\u003C/b>'a ve ya  \u003Cb>unlimited\u003C/b> video için \u003Cb>Boost\u003C/b>'a yükseltiniz!",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploadsBestMonth": {
+      "message": "En Çok Yükleme Olan Ay"
+   },
+   "uploadsTitle": {
+      "message": "Yüklemeler"
+   },
+   "upsellSuperchargeSubTitle": {
+      "message": "İçerik oluşturucular için en gelişmiş büyüme özelliklerini aktive edin"
+   },
+   "upsellSuperchargeTitle": {
+      "message": "Youtube Kanalınızı Aşırı Güçlendirin"
+   },
+   "upsellViewPlans": {
+      "message": "Planları görün"
+   },
+   "velocityViewHeading": {
+      "message": "Saatte izlenme oranı en yüksek videolar( VPH - Saatteki Izlenme Oranı)"
+   },
+   "verificationCodeTitle": {
+      "message": "Doğrulama Kodu"
+   },
+   "veryHighScore": {
+      "message": "Çok Yüksek"
+   },
+   "veryLowScore": {
+      "message": "Çok Düşük"
+   },
+   "vidIQShortcutsTitle": {
+      "message": "vidIQ Kısayolları"
+   },
+   "vidIQVisionOptions": {
+      "message": "vidIQ Vision - Seçenekler"
+   },
+   "vidNumber": {
+      "message": "video sayısı"
+   },
+   "videoIdeasAuthMessage": {
+      "message": "\u003Cb>Kanalını henüz doğrulamadın. \u003Cb>\u003Cbr>Video fikirleri almak için Youtube kanalını doğrulaman gerekir\u003C/b>"
+   },
+   "videoIdeasNoIdeasSecondary": {
+      "message": "\u003Cb> Kanalında sana video fikirleri vermek için yeterli veriye sahip değiliz. Aşağıda durumuna bağlı olarak bir zamanlama verilmiştir. Kanalının kimlik doğrulamasından \u003C/\u003C>\u003Cbr>\u003Cbr>\u003Cb>1 - 3 gün sonra \u003C/b> \u003Cbr> (son videonun 7 - 90 gün arasında olduğu sürece) \u003Cbr> \u003Cbr>\u003Cb> İlk videon yayınlandıktan 7 gün sonra \u003C/b>"
+   },
+   "videoIdeasTip": {
+      "message": "Bunlar Yapay Zeka destekli günlük fikirlerin! Her gün yeni fikirler alacaksın"
+   },
+   "videoIdeasUnexpectedErrorPrimary": {
+      "message": "Video fikri bulunamadı "
+   },
+   "videoIdeasUnexpectedErrorSecondary": {
+      "message": "Beklenmeyen bir hata oluştu ve durumdan haberdarız.\u003Cbr>Lütfen daha sonra tekrar deneyin."
+   },
+   "videoNeedsAtLeastOneVideoOrPlaylistEndscreen": {
+      "message": "En az bir bitiş ekranı öğesinin video veya oynatma listesi olması gerekir"
+   },
+   "videoOptimizationChecklist": {
+      "message": "Video Optimizasyon Listesi"
+   },
+   "videoPlaylistTitle": {
+      "message": "Video/Oynatma Listesi"
+   },
+   "videoPlural": {
+      "message": "videolar"
+   },
+   "videoPreviewNewFeatureMessage": {
+      "message": "Arama sonuçlarındahangi video ve küçük ekran resminin benzediğini görün!\u003Cbr>Küçük ekran resminiz ve başlığınız rakipleriniz arasında yeterince cezbedici mi?"
+   },
+   "videoPublished": {
+      "message": "Video yayınlandı"
+   },
+   "videoSingular": {
+      "message": "video"
+   },
+   "videoStatusGreat": {
+      "message": "Harika!."
+   },
+   "videoStatusOkay": {
+      "message": "Tamam"
+   },
+   "videoStillTitle": {
+      "message": "Durgun Video Karesi"
+   },
+   "videoTagsTitle": {
+      "message": "Video Etiketleri"
+   },
+   "videoTitle": {
+      "message": "Video"
+   },
+   "videoToBeMassLiked": {
+      "message": "Toplu beğenilecek video"
+   },
+   "videoTooShortForEndScreen": {
+      "message": "Bu video çok kısa. Videolara bitiş ekranı eklenebilmesi için en az 25 saniye süresi olmak zorunda."
+   },
+   "videoUpdated": {
+      "message": "Video güncellendi!"
+   },
+   "videosPublished": {
+      "message": "yayınlanan videolar"
+   },
+   "videosPublishedStatLabel": {
+      "message": "yayınlanan videolar"
+   },
+   "videosToGainViewsFromTitle": {
+      "message": "Size Görüntülenme Kazandırabilecek Videolar "
+   },
+   "vidiqAcademy": {
+      "message": "vidIQ Akademi"
+   },
+   "vidiqBoostUpgradeViews": {
+      "message": "Daha fazla görüntülenme için \u003Cb>vidIQ Boost\u003C/b>'a yükselt"
+   },
+   "vidiqDashboard": {
+      "message": "vidIQ Kontrol Paneli"
+   },
+   "vidiqGeneratedMetric": {
+      "message": "Bu, YouTube Analitik metriği değildir, vidIQ tarafından türetilmiştir."
+   },
+   "vidiqRewards": {
+      "message": "vidIQ Ödülleri"
+   },
+   "vidiqScoreStatLabel": {
+      "message": "vidIQ Skoru"
+   },
+   "vidiqScoreTooltip": {
+      "message": "vidIQ skoru, videonun etkileşimleri ve başka videolarla karşılaştırmalı olarak görüntülenmesinin birleşmesi baz alınarak popülerliği belirler. Mesela 99/100, videonun etkileşim ve görüntülenme açısından yüzde 99'luk kesimde bulunduğunu gösterir."
+   },
+   "vidiqSeoReport": {
+      "message": "vidIQ SEO raporu"
+   },
+   "vidiqVisionInstalled": {
+      "message": "vidIQ Vision Chrome'da başarıyla kuruldu!"
+   },
+   "viewAllAnalyticsForYourChannel": {
+      "message": "Kanalınızın tüm analitiklerini görün"
+   },
+   "viewAllTimes": {
+      "message": "Tüm zamanları görüntüle"
+   },
+   "viewComparisonError": {
+      "message": "Üzgünüz! Bu vide için hiç veri bulunmuyor. \u003Cbr> Başka bir sefer kontrol edin veya farklı bir video deneyin."
+   },
+   "viewComparisonErrorNotEnoughViews": {
+      "message": "Bu video analiz edebilmemiz için yeterli görüntülenmeye sahip değil"
+   },
+   "viewComparisonErrorOurIssue": {
+      "message": "Bunun için hiç veri yok. Bunun bir hata olduğunu düşünüyorsanız, lütfen bize email atarak iletişime geçin: support@vidiq.com"
+   },
+   "viewComparisonErrorTooOld": {
+      "message": "Bunun gibi eski videolar için veri mevcut değil"
+   },
+   "viewComparisonHeading": {
+      "message": "İlk 28 Gündeki Görüntülenmeleri Karşılaştır"
+   },
+   "viewComparisonNewFeature": {
+      "message": "Yeni Özellik! İlk 28 gündeki görüntülenmeleri karşılaştırın. \u003Cbr> Nasıl çalıştığını görmek için aşağıdaki videoyu izleyin!"
+   },
+   "viewComparisonSparklineDownTooltip": {
+      "message": "Bu video \u003Cbr>\u003Cb>$selected$\u003C/b>dan daha kötü.",
+      "placeholders": {
+         "selected": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewComparisonSparklineUpTooltip": {
+      "message": "Bu video \u003Cbr>\u003Cb>$selected$\u003C/b>dan daha iyi.",
+      "placeholders": {
+         "selected": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewComparisonTrialNumber": {
+      "message": "$num$/5 kaldı",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewCountTitle": {
+      "message": "Sayiyi göster"
+   },
+   "viewFullReport": {
+      "message": "Tüm raporu görüntüle"
+   },
+   "viewFullThumbnail": {
+      "message": "Küçük ekran resmini tam görüntüle"
+   },
+   "viewInKeywordInspector": {
+      "message": "anahtar kelime denetçisinde görüntüle"
+   },
+   "viewInYouTube": {
+      "message": "Youtube'da kanalı görüntüle"
+   },
+   "viewMoreLabel": {
+      "message": "Daha fazla izleyin."
+   },
+   "viewOnYouTube": {
+      "message": "Youtube'da görüntüle"
+   },
+   "viewPotentialHeaderTooltip": {
+      "message": "Bu fikir için kanalının alabileceği görüntülenmeleri göster"
+   },
+   "viewPrediction": {
+      "message": "Görüntülenme tahmini"
+   },
+   "viewRank": {
+      "message": "sıralamayı görüntüle"
+   },
+   "viewTools": {
+      "message": "Özellikler"
+   },
+   "viewsBestMonth": {
+      "message": "En Çok Görüntülenme Olan Ay"
+   },
+   "viewsPerHour": {
+      "message": "Saat başı görüntülenme"
+   },
+   "viewsPerHourTitle": {
+      "message": "Saatlik İzlenme"
+   },
+   "viewsStatLabel": {
+      "message": "görüntülenme"
+   },
+   "viewsTitle": {
+      "message": "Görüntülenmeler"
+   },
+   "visit": {
+      "message": "Ziyaret et"
+   },
+   "visitVidIQ": {
+      "message": "vidIQ'u ziyaret et"
+   },
+   "volume": {
+      "message": "vidIQ Anahtar Kelime Hacmi "
+   },
+   "volumeLabel": {
+      "message": "Hacim"
+   },
+   "vph": {
+      "message": "VPH"
+   },
+   "vphIsViewsPerHour": {
+      "message": "VPH = Saat Başı Görüntülenmeler"
+   },
+   "vphStatLabel": {
+      "message": "saatteki ort. izlenme"
+   },
+   "vphTooltipDetailedBigger": {
+      "message": "Şuan bu video saatte $value$ kere görüntülenmektedir. Bu sayı $avg$'dan $diff$ kadar fazladır. ",
+      "placeholders": {
+         "avg": {
+            "content": "$2"
+         },
+         "diff": {
+            "content": "$3"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipDetailedSmaller": {
+      "message": "Şuan bu video saatte $value$ kere görüntülenmektedir. Bu sayı $avg$'dan $diff$ kadar azdır.",
+      "placeholders": {
+         "avg": {
+            "content": "$2"
+         },
+         "diff": {
+            "content": "$3"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipSimple": {
+      "message": "Şuan bu video saatte $value$ kere görüntülenmektedir. ",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "wantExtraStats": {
+      "message": "Geçmiş sosyal ve görüntülenme verilerini ister misiniz?"
+   },
+   "wantNMoreRecs": {
+      "message": "Bu aranma terimi için $number$ tane daha tavsiye edilen kelime ister misin?",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "wantTrendingVideos": {
+      "message": "Yükselen videoları görmek ister misiniz?"
+   },
+   "warningPlural": {
+      "message": "uyarı"
+   },
+   "warningSingular": {
+      "message": "uyarı"
+   },
+   "watchTheVideo": {
+      "message": "Videoyu izleyin"
+   },
+   "watchTimeAverage": {
+      "message": "İzlenme süresi normal"
+   },
+   "watchTimeGood": {
+      "message": "İzlenme süresi yuksek"
+   },
+   "watchTimeIncredible": {
+      "message": "İzlenme süresi muhteşem!"
+   },
+   "watchTimeLow": {
+      "message": "İzlenme süresi düşük"
+   },
+   "watchTimeTitle": {
+      "message": "Izlenme Süresi"
+   },
+   "watchingNowStatLabel": {
+      "message": "şimdi izliyor"
+   },
+   "wednesdayPlural": {
+      "message": "Çarşambaları"
+   },
+   "week": {
+      "message": "Hafta"
+   },
+   "weeksIntervalOption": {
+      "message": "Hafta"
+   },
+   "weightClassBad": {
+      "message": "bu etiket için rekabet skorunun altındadır"
+   },
+   "weightClassGood": {
+      "message": "bu etiket için rekaber skorunun üstündedir"
+   },
+   "weightClassMiddlin": {
+      "message": "bu etiket için rekaber skorunun civarındadır"
+   },
+   "whatDoYouThinkTitle": {
+      "message": "Ne düşünüyorsunuz?"
+   },
+   "whatSearchTermRank": {
+      "message": "Sıralamak istediğiniz arama terimi nedir?"
+   },
+   "whichKeywordsToTrack": {
+      "message": "Hangi anahtar kelimeleri takip etmek istersin?"
+   },
+   "widthTitle": {
+      "message": "Kalınlık"
+   },
+   "wordsPerMinuteStatLabel": {
+      "message": "dakika başına düşen kelime sayısı"
+   },
+   "worstStatLabel": {
+      "message": "en kötü"
+   },
+   "yearAbbreviation": {
+      "message": "y"
+   },
+   "yes": {
+      "message": "Evet"
+   },
+   "yesImSure": {
+      "message": "Evet, eminim"
+   },
+   "youHaveNoCompetitors": {
+      "message": "Hiç rakip eklemediniz. Sol taraftaki çubuktaki Rakipler modunu açın."
+   },
+   "youTubeSearchTitle": {
+      "message": "YouTube(Aranma)"
+   },
+   "youTubeShortcuts": {
+      "message": "YouTube Kısayolları"
+   },
+   "yourChannelAverage": {
+      "message": "Kanal ortalamanız"
+   },
+   "yourCompetitorsAverage": {
+      "message": "Rakiplerinizin ortalaması"
+   },
+   "yourEmail": {
+      "message": "E-postanız"
+   },
+   "yourPassword": {
+      "message": "Şifreniz"
+   },
+   "yourVideoDetails": {
+      "message": "Video detaylarınız"
+   },
+   "yourWeightClass": {
+      "message": "Siklet aralığı"
+   },
+   "youtubeBackoff": {
+      "message": "YouTube bekleniyor. Yaklaşık 1 dakika sürer."
+   },
+   "youtubeChannelId": {
+      "message": "Youtube Kanal ID"
+   },
+   "ytCommentsStatLabel": {
+      "message": "yt yorumları"
+   },
+   "ytCommentsStatTitle": {
+      "message": "YouTube Yorumları"
+   },
+   "ytDislikesStatLabel": {
+      "message": "yt beğenmeyenleri"
+   },
+   "ytDislikesStatTitle": {
+      "message": "Youtube Beğenmemeleri"
+   },
+   "ytEngagementsStatLabel": {
+      "message": "yt etkileşimleri"
+   },
+   "ytEngagementsStatTitle": {
+      "message": "YouTube Etkileşimleri "
+   },
+   "ytLikesStatLabel": {
+      "message": "yt beğenenleri"
+   },
+   "ytLikesStatTitle": {
+      "message": "Youtube Beğenmeleri"
+   },
+   "ytSearchTitle": {
+      "message": "YT Aramaları"
+   },
+   "ytSearchViewsStatLabel": {
+      "message": "yt aranma görüntülenmeleri"
+   },
+   "ytSharesStatLabel": {
+      "message": "yt paylaşımları"
+   },
+   "ytSharesStatTitle": {
+      "message": "Youtube Paylaşımları"
+   },
+   "ytSharesTooltipPopular": {
+      "message": "Bu video çokça paylaşılmıştır!"
+   },
+   "ytSharesTooltipUnpopular": {
+      "message": "Bu video çokça paylaşılmamıştır!"
+   },
+   "ytSuggestedTitle": {
+      "message": "TT Tavsiye Edilen"
+   }
+}

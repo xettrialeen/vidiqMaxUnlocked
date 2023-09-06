@@ -1,0 +1,6776 @@
+{
+   "CSVPreview": {
+      "message": "aperçu CSV"
+   },
+   "account": {
+      "message": "Compte"
+   },
+   "accountCreationProblem": {
+      "message": "Une erreur s'est produite lors de la création de votre compte"
+   },
+   "accountSettings": {
+      "message": "Paramètres du compte"
+   },
+   "achievedDate": {
+      "message": "Atteint le \u003Cb>$date$\u003C/b>",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementValueVariantMinutes": {
+      "message": "ou \u003Cb>$num$ minutes\u003C/b> visionnés",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementValueVariantYears": {
+      "message": "ou \u003Cb>$num$ années\u003C/b> visionnés",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsBestMonthCurrentMonth": {
+      "message": "Vous êtes actuellement dans votre meilleur mois pour $name$ !",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsBestMonthProgress": {
+      "message": "\u003Cb>$percentage$%\u003C/b> du chemin parcouru ce mois-ci",
+      "placeholders": {
+         "percentage": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsErrorMessage": {
+      "message": "Une erreur s'est produite. Veuillez actualiser et réessayer dans quelques minutes. Si le problème persiste, contactez notre support technique à support@vidiq.com."
+   },
+   "achievementsFeatureInfo": {
+      "message": "Laissez-nous vous aider à célébrer vos jalons ! Cliquez dessus pour télécharger un certificat que vous pouvez partager via les réseaux sociaux."
+   },
+   "achievementsLoadingBestVideo": {
+      "message": "Récupération des statistiques de durée de vie pour votre vidéo la plus visionnée"
+   },
+   "achievementsLoadingLifetime": {
+      "message": "Récupération des statistiques de durée de vie pour votre chaîne"
+   },
+   "achievementsLoadingParsing": {
+      "message": "Calcul de vos réalisations et des mois les plus performants"
+   },
+   "achievementsOnPaceFor": {
+      "message": "En avance pour \u003Cb>$nextValue$\u003C/b> d'ici le \u003Cb>$date$\u003C/b>",
+      "placeholders": {
+         "date": {
+            "content": "$2"
+         },
+         "nextValue": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsTitle": {
+      "message": "Accomplissements"
+   },
+   "actionableSeoScore": {
+      "message": "Score SEO Exploitable"
+   },
+   "actionableSeoScoreAverageSubtextBad": {
+      "message": "Vos scores SEO exploitables sont en moyenne bons !"
+   },
+   "actionableSeoScoreAverageSubtextGood": {
+      "message": "Vos longueurs de tags sont en moyenne trop courtes. Essayez de les amener à au moins 400 caractères."
+   },
+   "actionableSeoScoreChannelAuditEdit": {
+      "message": "Score SEO Exploitable"
+   },
+   "actionableSeoScoreEditTitle": {
+      "message": "Score SEO Exploitable devrait être d'au moins 40"
+   },
+   "actionableTitle": {
+      "message": "Actionable"
+   },
+   "addAllTitle": {
+      "message": "Tout Ajouter"
+   },
+   "addAnnotationsToSave": {
+      "message": "Ajouter des annotations pour enregistrer !"
+   },
+   "addAnotherKeyword": {
+      "message": "Ajouter un autre mot-clé"
+   },
+   "addCardsToSave": {
+      "message": "Ajoutez des fiches à enregistrer !"
+   },
+   "addChangesToVideo": {
+      "message": "Ajouter des modifications à la vidéo"
+   },
+   "addCreateOverwrite": {
+      "message": "Ajouter des objets pour créer ou remplacer des modèles"
+   },
+   "addFilters": {
+      "message": "Ajouter des filtres"
+   },
+   "addKeySearchTerm": {
+      "message": "Ajoutez votre terme de recherche clé"
+   },
+   "addKeyword": {
+      "message": "Ajouter ce mot-clé"
+   },
+   "addMoreChannelsToCompare": {
+      "message": "Ajouter plus de chaînes à comparer"
+   },
+   "addMoreTagsForDescriptionRecs": {
+      "message": "Ajoutez plus de tags pour obtenir des recommandations pour votre description !"
+   },
+   "addMoreTagsForTitleRecs": {
+      "message": "Ajoutez plus de tags pour obtenir des recommandations pour votre titre !"
+   },
+   "addShapeTitle": {
+      "message": "Ajoutter la Forme"
+   },
+   "addStuffToThumbnail": {
+      "message": "Ajoutez des superpositions de texte, d'image et de forme à votre miniature."
+   },
+   "addTagTitle": {
+      "message": "Ajouter le Tag"
+   },
+   "addTagsForRecs": {
+      "message": "Ajouter quelques tagss pour obtenir des recommandations !"
+   },
+   "addTextTitle": {
+      "message": "Ajouter du Texte"
+   },
+   "addToThisSearch": {
+      "message": "Ajouter à cette recherche"
+   },
+   "addedToPlaylistAverageSubtextBad": {
+      "message": "Il n'y a pas assez de vidéos dans les playlists. Nous vous suggérons d'ajouter chaque vidéo à au moins une playlist."
+   },
+   "addedToPlaylistAverageSubtextGood": {
+      "message": "Vos vidéos sont ajoutées à suffisamment de playlists en moyenne !"
+   },
+   "addedToPlaylistAverageSubtextOkay": {
+      "message": "Pensez à ajouter vos vidéos à beaucoup de playlists. Ajoutez chaque vidéo dans deux playlists ou plus!"
+   },
+   "addedToPlaylistChannelAuditEdit": {
+      "message": "Mettre à jour les Playlists"
+   },
+   "addedToPlaylistChannelAuditHas": {
+      "message": "Vidéo ajoutée à $numPlaylists$ playlists",
+      "placeholders": {
+         "numPlaylists": {
+            "content": "$1"
+         }
+      }
+   },
+   "addedToPlaylistChannelAuditInfo": {
+      "message": "Chaque vidéo publique devrait être dans au moins 1 playlist"
+   },
+   "addedToPlaylistChannelAuditMissing": {
+      "message": "Aucune Playlist"
+   },
+   "addedToPlaylistChannelAuditMissingMessage": {
+      "message": "Ajouter la vidéo à au moins une playlist"
+   },
+   "addedToPlaylistMissingInfo": {
+      "message": "Les vidéos listées ne sont pas dans suffisamment de playlists. Nous suggérons de les ajouter à chaque playlist."
+   },
+   "addedToPlaylistMissingSubtextBad": {
+      "message": "Ajouter chaque vidéo à au moins une playlist"
+   },
+   "addedToPlaylistMissingSubtextGood": {
+      "message": "Toutes vos vidéos sont ajoutées aux playlists !"
+   },
+   "addedToPlaylistMissingTitle": {
+      "message": "Vidéos Non Ajoutées aux Playlists"
+   },
+   "addingTranslatedKeywords": {
+      "message": "L'ajout des mots-clés traduits en cours..."
+   },
+   "advancedEmbedInfo": {
+      "message": "Cette boîte de dialogue vous permet de profiter des options d'intégration que YouTube fournit. Pour en savoir plus sur ces options, voir \u003Ca$href$>documentation sur le lecteur intégré de YouTube\u003C/a>",
+      "placeholders": {
+         "href": {
+            "content": "$1"
+         }
+      }
+   },
+   "advancedEmbedTitle": {
+      "message": "Intégration Avancée"
+   },
+   "agreeToTOS": {
+      "message": "Accepter nos$begin$Conditions d'utilisation$end$",
+      "placeholders": {
+         "begin": {
+            "content": "$1"
+         },
+         "end": {
+            "content": "$2"
+         }
+      }
+   },
+   "all": {
+      "message": "Tout"
+   },
+   "allCommentThreads": {
+      "message": "Tous les fils de discussion (choisissez un filtre)"
+   },
+   "allDismissedVisibleHere": {
+      "message": "Toutes vos idées rejetées seront visibles ici."
+   },
+   "allFieldsRequired": {
+      "message": "Tous les champs sont requis"
+   },
+   "allLanguages": {
+      "message": "Toutes les langues"
+   },
+   "allSavedVisibleHere": {
+      "message": "Toutes vos idées enregistrées seront visibles ici."
+   },
+   "allTimeTitle": {
+      "message": "Tous les Temps"
+   },
+   "allVideosLoaded": {
+      "message": "Toutes les vidéos ont été chargées!"
+   },
+   "allVideosUpTo": {
+      "message": "Toutes les vidéos (jusqu'a $limit$)",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "allowFullscreen": {
+      "message": "Permettre le plein écran"
+   },
+   "almostThere": {
+      "message": "On y est presque ! "
+   },
+   "alreadyHaveAnAccount": {
+      "message": "Vous avez déjà un compte?"
+   },
+   "analyticsTitle": {
+      "message": "Analytics"
+   },
+   "and": {
+      "message": "et"
+   },
+   "annotation": {
+      "message": "annotation"
+   },
+   "annotationTemplates": {
+      "message": "Modèles d'Annotations"
+   },
+   "annotationsStatLabel": {
+      "message": "annotations"
+   },
+   "annotationsTooltip": {
+      "message": "Le nombre d'annotations sur cette vidéo."
+   },
+   "anyChannel": {
+      "message": "Toute chaîne"
+   },
+   "anyLabel": {
+      "message": "Tout"
+   },
+   "anyPlaylist": {
+      "message": "Toute playlist"
+   },
+   "anyVideo": {
+      "message": "Toute vidéo"
+   },
+   "appDesc": {
+      "message": "Découvrez ce qui fait qu'une vidéo se propage comme une traînée de poudre et optimisez vos vidéos pour qu'elles soient regardées par plus de gens!\n\nAvec des indicateurs qui vont au delà de YouTube Analytics, vidiQ Vision fournit un rapport d'optimisation exhaustif pour toute vidéo sur YouTube - directement sur votre navigateur!\n\nQue vous soyez un créateur de contenus, un responsable marketing ou un civil de YouTube, vous vous êtes sans doute demandé:\n\n-   Qu'est-ce qui rend les Vidéos Similaires similaires?\n-   Comment les vidéos sont-elles classées dans Recherche?\n-   D'où viennent les vidéos dans Recommandations?\n-   À quoi ressemble une bonne YouTube SEO?\n-   Comment Réseaux Sociaux rentre-t-il dans le développement de l'audience?\n\nNous fournissons des réponses et des données d'optimisation qui peuvent radicalement améliorer la performance de vos vidéos, l'engagement des abonnés, et les opportunités promotionnelles.\n\nCette extension comprend:\n\nScore vidiQ - Nous classons chaque vidéo sur YouTube selon un algorithme breveté trans-plate-formes, et lui attribuons un score d'optimisation pour prévoir la probabilité qu'elle soit promue dans Vidéos Similaires, Recherche, Recommandations, et bien d'autres.\n\nVélocité - La fonction Vélocité, mesurée en Vues par heure, vous permet d'identifier quelles vidéos sont en train de se propager comme une traînée de poudre en voyant la vitesse à laquelle le nombre de vues augmente - en temps réel!\n\nTemps moyen de visualisation - Faites-vous une idée exacte de la durée moyenne de visualisation à la fois pour vos vidéos et pour celles que vous regardez.\n\nJ'aime/Partager/Commentaires sur les réseaux sociaux - Regardez combien de fois quelqu'un sur Facebook, Twitter, ou Reddit a aimé, partagé ou inclus l'URL de votre vidéo dans un commentaire.\n\nTags - Regardez des données SEO comme des méta-tags à propos de n'importe quelle vidéo sur YouTube pour obtenir un avantage lorsque vous optimisez le contenu de votre propre chaîne.\n\nMots par minute - Cette fonction rapporte le nombre de mots à la durée des vidéos pour révéler des ingrédients inattendus de la réussite de contenus originaux enjôleurs et faits de coupes franches.\n\nNombre de Liens dans la Description - Nous proposons des suggestions de valorisation et les bonnes pratiques pour ajouter des liens dans les descriptions de vos vidéos.\n\nNombre de Mots dans la Description - Nous vous alertons lorsque la description de votre vidéo est trop courte et vous faisons savoir lorsqu'elle est d'une longueur parfaite pour l'optimisation sur YouTube.\n\nProfitez davantage de vidiQ grâce à nos options de mises à jour:\n\nvidIQ Pro - Accédez à des données historiques pour remonter le temps pour des vidéos populaires. Réalisez des recherches par mots clés pour avoir les meilleurs mots clés pour votre prochaine vidéo. Suivez vos concurrents. Promouvez vos vidéos via Campagnes de Descriptions.\n\nvidIQ Boost - Boostez la SEO de vos vidéos rapidement et simplement avec le moteur de recommandation de mots clés breveté pour optimiser les tags, le titre, et la description. Accès illimité à des outils Pro et capacité de suivre et optimiser davantage de chaînes.\n\nVision n'est qu'une partie de l'ensemble fiable de vidiQ de logiciels de marketing de vidéos et d'outils de développement de l'audience sur YouTube. Pour accéder à ces derniers et pour voir le Livre Blanc de notre secteur, rendez-nous visite à @http://www.vidIQ.com.\n\nRestez en contact :\nAimez-nous sur Facebook : http://facebook.com/vidIQapp\nSuivez-nous sur Twitter: http://twitter.com/vidIQ\n\nAssistance :\nVous avez des questions ou des remarques? Veuillez contacter notre équipe d'assistance à contact@vidIQ.com."
+   },
+   "apply": {
+      "message": "Appliquer"
+   },
+   "archivedCampaignsTitle": {
+      "message": "Campagnes Archivées"
+   },
+   "areYouSureDeleteIdea": {
+      "message": "Êtes-vous sûr de vouloir supprimer cette idée ?"
+   },
+   "associatedWebsiteTitle": {
+      "message": "Site web Similaire"
+   },
+   "authChannelTitle": {
+      "message": "Authentifier cette Chaîne"
+   },
+   "authChannelWithVidIQ": {
+      "message": "Authentifier votre chaîne avec \u003Cb>vidIQ\u003C/b>"
+   },
+   "authFacebookTitle": {
+      "message": "Authentifier Facebook"
+   },
+   "authForShortcuts": {
+      "message": "Authentifier pour utiliser les raccourcis de vidIQ "
+   },
+   "authThanks": {
+      "message": "Merci pour l'authentification!"
+   },
+   "authYourChannel": {
+      "message": "Authentifier votre chaîne avec"
+   },
+   "autoDetect": {
+      "message": "Détection automatique"
+   },
+   "automaticallyLoadMoreComments": {
+      "message": "Charger automatiquement plus de commentaires jusqu'à ce que ..."
+   },
+   "autoplayVideo": {
+      "message": "lecture automatique de la vidéo "
+   },
+   "averageMinutesWatched": {
+      "message": "minutes moyennes visionnées"
+   },
+   "averagesChannelAuditError": {
+      "message": "Importer plus de vidéos pour afficher les statistiques telles que la longueure moyenne de titre et le score SEO moyen au cours des 30 derniers jours."
+   },
+   "avgDailySubsStatLabel": {
+      "message": "abonnés moyens quotidiens"
+   },
+   "avgDailyViewsStatLabel": {
+      "message": "vues moyennes quotidiennes"
+   },
+   "avgEngagementRate": {
+      "message": "Taux moyen d'Interaction"
+   },
+   "avgPerViewSingular": {
+      "message": "$values$ par vue",
+      "placeholders": {
+         "values": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPerViews": {
+      "message": "$values$ par $numViews$ vues",
+      "placeholders": {
+         "numViews": {
+            "content": "$2"
+         },
+         "values": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPerWatchTime": {
+      "message": "$value$ par $minutes$ min regardé(s)",
+      "placeholders": {
+         "minutes": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPercentViewedStatLabel": {
+      "message": "pourcentage moyen visionné"
+   },
+   "avgRevenuePerDay": {
+      "message": "revenu journalier moy."
+   },
+   "avgRevenuePerMonth": {
+      "message": "revenu mens. moy."
+   },
+   "avgRevenuePerWeek": {
+      "message": "revenu hebdo. moy."
+   },
+   "avgSubsPerMonth": {
+      "message": "abonnés mens. moyens"
+   },
+   "avgSubsPerWeek": {
+      "message": "abonnés hebdo. moy."
+   },
+   "avgSubscribers": {
+      "message": "Abonnés Moy"
+   },
+   "avgVideosPerDay": {
+      "message": "vidéos qtidiennes moyennes publiées"
+   },
+   "avgVideosPerMonth": {
+      "message": "vidéos mens. publiées"
+   },
+   "avgVideosPerWeek": {
+      "message": "vidéos hebdos. moys. publiées"
+   },
+   "avgViewTimeStatLabel": {
+      "message": "Le temp moyen de visionnage"
+   },
+   "avgViewsPerMonth": {
+      "message": "vues mens. moys."
+   },
+   "avgViewsPerWeek": {
+      "message": "vues hebdos. moyennes"
+   },
+   "back": {
+      "message": "Retourner"
+   },
+   "backTitle": {
+      "message": "Retour"
+   },
+   "backToLogin": {
+      "message": "Retour à la page de connexion"
+   },
+   "basedOnLast30Days": {
+      "message": "Basé sur les 30 derniers jours"
+   },
+   "bestForViewer": {
+      "message": "Idéal pour le spectateur"
+   },
+   "bestMonthPerformance": {
+      "message": "Performance le $date$: $number$",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         },
+         "number": {
+            "content": "$2"
+         }
+      }
+   },
+   "bestMonthsTitle": {
+      "message": "Mois Plus performants"
+   },
+   "bestTimeToPostAuthMessage": {
+      "message": "Veuillez \u003Ca href=\"https://app.vidiq.com/welcome\" target=\"_blank\">authentifier votre chaîne avec vidIQ\u003C/a> pour voir les meilleurs temps de publication"
+   },
+   "bestTimeToPostHeader": {
+      "message": "Meilleur temps pour publier sur votre chaîne ($timezone$)",
+      "placeholders": {
+         "timezone": {
+            "content": "$1"
+         }
+      }
+   },
+   "bestTimeToPostPopoverMessage": {
+      "message": "Quand vous avez publié cette vidéo"
+   },
+   "bestTimeToPostTitle": {
+      "message": "Meilleur Temps de Publication"
+   },
+   "bestTimeToPostUpgrade": {
+      "message": "Passez à Pro pour voir vos meilleurs moments pour publier"
+   },
+   "bestTimesFetchFailed": {
+      "message": "Échec de la récupération des meilleurs temps de publication"
+   },
+   "bestTimesToPost": {
+      "message": "Meilleurs temps pour publier"
+   },
+   "bestVideoTitle": {
+      "message": "Vidéo Plus Performante"
+   },
+   "beta": {
+      "message": "beta"
+   },
+   "billing": {
+      "message": "Facturation"
+   },
+   "blog": {
+      "message": "Blog"
+   },
+   "boostLearnMore": {
+      "message": "Vous pouvez en savoir plus sur l'amélioration de nouvelles vidéos dans ce $start$tutoriel vidéo$fin$ !",
+      "placeholders": {
+         "fin": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "boostToGetDescriptionRecs": {
+      "message": "Boostez cette vidéo pour obtenir des recommandations de description !"
+   },
+   "boostToGetTitleRecs": {
+      "message": "Boostez cette vidéo pour obtenir les recommmandations du titre !"
+   },
+   "boostUpgradeTitle": {
+      "message": "Mettre à niveau vers Boost"
+   },
+   "boostVideoTitle": {
+      "message": "Boostez Cette Vidéo"
+   },
+   "boostYourYoutubeViews": {
+      "message": "Boostez vos vues YouTube"
+   },
+   "borderTitle": {
+      "message": "Bordure"
+   },
+   "borderWidthTitle": {
+      "message": "Largeur de la Bordure"
+   },
+   "bulkProcessFail": {
+      "message": "\u003Cb>$number$ $resources$ n'ont pas pu être modifiées. Veuillez vérifier les vidéos dans la liste ci-dessus pour voir lesquelles n'ont pas été mises à jour.",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessFailSingular": {
+      "message": "\u003Cb>Votre $resource$ n'a pas pu être modifiée.\u003C/b>",
+      "placeholders": {
+         "resource": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessSuccess": {
+      "message": "Succès, vos $number$ $resources$ ont été modifiées !",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessSuccessSingular": {
+      "message": "Succès, vos $resource$ a été modifiée!",
+      "placeholders": {
+         "resource": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessorBeforeHeading": {
+      "message": "Vous êtes sur le point de \u003Cb>$task$\u003C/b>",
+      "placeholders": {
+         "task": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkSeo": {
+      "message": "Référencement en masse"
+   },
+   "buy": {
+      "message": "Acheter"
+   },
+   "by": {
+      "message": "par"
+   },
+   "bySigningUpAgreeTOS": {
+      "message": "En m'inscrivant, j'accepte les \u003Ca href=\\\"$tosUrl$\\\" target=\\\"_blank\\\">Conditions d'utilisation\u003C/a> de vidIQ et les \u003Ca href=\\\"$privacyUrl$\\\" target=\\\" _blank\\\">Politique de confidentialité\u003C/a>.",
+      "placeholders": {
+         "privacyUrl": {
+            "content": "$2"
+         },
+         "tosUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "byVidIQ": {
+      "message": "Par vidIQ"
+   },
+   "callToAction": {
+      "message": "Incitation à l'action"
+   },
+   "campaignErrorTitle": {
+      "message": "Sur la vidéo $link$ pour $campaignId$",
+      "placeholders": {
+         "campaignId": {
+            "content": "$2"
+         },
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignErrorTitleCurrent": {
+      "message": "Sur la vidéo $link$ pour la campagne en cours",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignProcessFinished": {
+      "message": "Traitement terminé! Cela peut prendre environ 10 minutes pour que les modifications apparaissent sur chaque vidéo. Mais ses modifications devraient être visibles en cliquant sur l'option Modifier de chaque vidéo."
+   },
+   "campaignStatusEnded": {
+      "message": "Termine"
+   },
+   "campaignStatusPending": {
+      "message": "En attente"
+   },
+   "campaignStatusPreparing": {
+      "message": "Préparation en cours"
+   },
+   "campaignStatusRestoring": {
+      "message": "Restauration en cours"
+   },
+   "campaignStatusRunning": {
+      "message": "En cours de Fonctionnement"
+   },
+   "campaignTextInvalid": {
+      "message": "Le texte de la Campagne doit contenir plus qu'un espace blanc"
+   },
+   "campaignTextTitle": {
+      "message": "Texte de la Campagne"
+   },
+   "campaignUpgradePrompt": {
+      "message": "Mettre à niveau vers Pro pour obtenir toutes les fonctionnalités de la Campagne de Description"
+   },
+   "campaignUpgradeReason1": {
+      "message": "Supprimer la limite de 30 vidéo"
+   },
+   "campaignUpgradeReason2": {
+      "message": "Choisissez de importer des vidéos par date de mise en ligne, playlist, ou liste d'IDs"
+   },
+   "campaignUpgradeReason3": {
+      "message": "Désactiver le raccourcissement d'URL"
+   },
+   "campaignVideoChoice": {
+      "message": "Quelles vidéos devraient être associées à cette campagne?"
+   },
+   "canNotAddEndscreenToPrivateVideos": {
+      "message": "Impossible d'ajouter un écran de fin aux vidéos privées"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "cantLoadSeoScoreChecklist": {
+      "message": "Impossible de charger le score du référenceur (SEO) ou la liste de contrôle"
+   },
+   "card": {
+      "message": "fiche"
+   },
+   "cardClickRates": {
+      "message": "Taux de Clicks sur les Fiches"
+   },
+   "cardTemplates": {
+      "message": "Modèles de Fiche"
+   },
+   "cardsChannelAuditEdit": {
+      "message": "Mettre à jour les Cartes"
+   },
+   "cardsChannelAuditHas": {
+      "message": "La vidéo a $numCards$ carte(s)",
+      "placeholders": {
+         "numCards": {
+            "content": "$1"
+         }
+      }
+   },
+   "cardsChannelAuditInfo": {
+      "message": "Les cartes interactives affichées pendant la vidéo aident votre engagement et augmentent votre durée de session de visionnage."
+   },
+   "cardsChannelAuditMissing": {
+      "message": "Aucune Carte"
+   },
+   "cardsChannelAuditMissingMessage": {
+      "message": "Ajouter au moins une carte"
+   },
+   "cardsInvalidError": {
+      "message": "Impossible de modifier les cartes en raison d'arguments non valides envoyés à YouTube"
+   },
+   "cardsMissingInfo": {
+      "message": "Les vidéos listées n'ont aucune carte. Nous suggérons de les ajouter à chaque vidéo."
+   },
+   "cardsMissingSubtextBad": {
+      "message": "Ajouter des cartes à toutes vos vidéos"
+   },
+   "cardsMissingSubtextGood": {
+      "message": "Aucune carte manquantes sur vos vidéos!"
+   },
+   "cardsMissingTitle": {
+      "message": "Vidéos Sans Cartes"
+   },
+   "cardsStatLabel": {
+      "message": "fiches"
+   },
+   "cardsTooltip": {
+      "message": "Les nombre des fiches sur cette vidéo."
+   },
+   "caseSensitiveQ": {
+      "message": "Sensible à la casse?"
+   },
+   "categoryAny": {
+      "message": "Toutes Catégories"
+   },
+   "categoryAutosAndVehicles": {
+      "message": "Autos & véhicules"
+   },
+   "categoryComedy": {
+      "message": "Comédie"
+   },
+   "categoryDocumentary": {
+      "message": "Documentaire"
+   },
+   "categoryDrama": {
+      "message": "Drame"
+   },
+   "categoryEducation": {
+      "message": "Éducation"
+   },
+   "categoryEntertainment": {
+      "message": "Divertissement"
+   },
+   "categoryFamily": {
+      "message": "Famille"
+   },
+   "categoryFilmAndAnimation": {
+      "message": "Film & animation"
+   },
+   "categoryGaming": {
+      "message": "Jeux"
+   },
+   "categoryHorror": {
+      "message": "Horreur"
+   },
+   "categoryHowtoAndStyle": {
+      "message": "Comment & Style"
+   },
+   "categoryMovies": {
+      "message": "Films"
+   },
+   "categoryMusic": {
+      "message": "Musique"
+   },
+   "categoryNewsAndPolitics": {
+      "message": "Nouvelles & Politique"
+   },
+   "categoryNonprofitsAndActivism": {
+      "message": "Organismes sans but lucratif & Activisme"
+   },
+   "categoryPeopleAndBlogs": {
+      "message": "Personnes & Blogs"
+   },
+   "categoryPetsAndAnimals": {
+      "message": "Animaux domestiques & Animaux"
+   },
+   "categoryScienceAndTechnology": {
+      "message": "Science & Technologie"
+   },
+   "categoryShows": {
+      "message": "Émissions"
+   },
+   "categorySports": {
+      "message": "Sports"
+   },
+   "categoryThriller": {
+      "message": "Thriller"
+   },
+   "categoryTitle": {
+      "message": "Catégorie"
+   },
+   "categoryTravelAndEvents": {
+      "message": "Voyages et Événements"
+   },
+   "change": {
+      "message": "Changer"
+   },
+   "changePastSevenDays": {
+      "message": "au cours des 7 derniers jours"
+   },
+   "channelAudit": {
+      "message": "Audit de la chaîne"
+   },
+   "channelAuditAverageMetricsHeader": {
+      "message": "Moyenne des métriques au cours des 30 derniers jours"
+   },
+   "channelAuditAverageMetricsInfo": {
+      "message": "Il s'agit des statistiques moyennes pour les vidéos que vous avez importées au cours des 30 derniers jours. Cliquez sur une statistique pour voir une liste de vidéos avec des liens pour modifier ces valeurs."
+   },
+   "channelAuditContentNotWorking": {
+      "message": "Contenu Qui Peut Être Amélioré"
+   },
+   "channelAuditContentNotWorkingInfo": {
+      "message": "Voici vos vidéos les moins performantes sur YouTube au cours des derniers $numDays$ jours. Étudiez leur contenu, la réponse de la communauté et la fidélisation de l'audience pour déterminer pourquoi.",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditDoubleDownHeader": {
+      "message": "Contenu sur Lequel Doubler la mise"
+   },
+   "channelAuditDoubleDownInfo": {
+      "message": "Ce sont vos vidéos les plus performantes sur YouTube au cours des 30 derniers jours. Passez en revue le sujet, le contenu et la production de chaque vidéo pour voir pourquoi elle a été si réussie et répétez-la."
+   },
+   "channelAuditError": {
+      "message": "Pas assez de données pour récupérer les statistiques"
+   },
+   "channelAuditFeatureInfo": {
+      "message": "Accédez rapidement et facilement à des conseils exploitables à partir de vos propres analyses !"
+   },
+   "channelAuditFeedbackErrorMessage": {
+      "message": "Une erreur s'est produite. Veuillez-vous assurer que vous êtes connecté à vidIQ à partir de l’extension vidIQ de Chrome et contactez support@vidiq.com si le problème persiste."
+   },
+   "channelAuditFeedbackRatingMessage": {
+      "message": "Comment évalueriez-vous votre expérience d'utilisation de l'Audit de Chaîne ?"
+   },
+   "channelAuditFeedbackSubmittedMessage": {
+      "message": "Merci ! Votre commentaire a été envoyé."
+   },
+   "channelAuditItemsToImproveHeader": {
+      "message": "Articles à Améliorer"
+   },
+   "channelAuditItemsToImproveInfo": {
+      "message": "Ce sont des éléments cruciaux qui contribuent au succès d'une vidéo. Résolvez ces problèmes pour vous assurer que votre contenu est cliqué et propulse les internautes vers encore plus de vos vidéos!"
+   },
+   "channelAuditShowMoreHeader": {
+      "message": "Vos vidéos $type$ pour $stat$ au cours des $numDays$ précédents jours, classées",
+      "placeholders": {
+         "numDays": {
+            "content": "$3"
+         },
+         "stat": {
+            "content": "$2"
+         },
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditShowMoreHeaderSearchTerms": {
+      "message": "Vos principaux termes de recherche au cours des derniers $numDays$ jours, classés",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditStatsUpsellMessage": {
+      "message": "Passez au niveau supérieur VidIQ Pro ou Boost pour révéler encore plus d’informations sur votre chaîne !"
+   },
+   "channelAuditStatsUpsellMessageAlt": {
+      "message": "Passez à VidIQ Pro ou Boost pour révéler encore plus d'informations sur les chaînes !"
+   },
+   "channelAuditTimeframe": {
+      "message": "Période : $numDays$ jours",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditTitle": {
+      "message": "Audit de la Chaîne"
+   },
+   "channelAuditUpsellMessage": {
+      "message": "\u003Cstrong>Passer à vidIQ Pro\u003C/ strong> ou mieux pour voir tous les résultats"
+   },
+   "channelCountryStatLabel": {
+      "message": "pays de la chaîne"
+   },
+   "channelEndscreensNeedCustomMessage": {
+      "message": "L'écran de fin de la chaîne nécessite un message personnalisé"
+   },
+   "channelGrowthTooltip": {
+      "message": "Compare la croissance au cours des 30 derniers jours à la période précédente ($value$)",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelNotAuthed": {
+      "message": "Votre chaîne n'est pas authentifiée"
+   },
+   "channelStatsNotEnoughData": {
+      "message": "Pas assez de données disponibles pour afficher un graphique"
+   },
+   "channelSubscribers": {
+      "message": "Abonnés à la chaîne"
+   },
+   "channelSubscribersStatLabel": {
+      "message": "abonnés"
+   },
+   "channelTagsTitle": {
+      "message": "Tags de la Chaîne"
+   },
+   "channelTitle": {
+      "message": "Chaîne"
+   },
+   "channelTrendingUpsellMessage": {
+      "message": "Mettre à jour vers vidIQ Pro pour voir toutes les vidéos par vélocité"
+   },
+   "channelViewsStatLabel": {
+      "message": "nombre total de vues"
+   },
+   "characterCountersTitle": {
+      "message": "Compteurs de caractères"
+   },
+   "checkEmailForInfo": {
+      "message": "Vérifiez votre addresse e-mail pour plus d'instructions!"
+   },
+   "checkOutVidiqBoost": {
+      "message": "Consultez \u003Ca href=\\\"$videoUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">vidIQ Boost\u003C/a>",
+      "placeholders": {
+         "videoUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "checkOutYourSavedIdeas": {
+      "message": "Consultez vos idées enregistrées"
+   },
+   "checkYouOut": {
+      "message": "Jetez un œil !\u003Cbr>Vous avez examiné les 50 idées !"
+   },
+   "checklistCC": {
+      "message": "Sous-titre (manuel)"
+   },
+   "checklistCard": {
+      "message": "Au moins une fiche"
+   },
+   "checklistComment": {
+      "message": "Répondu à un commentaire récent\r\n"
+   },
+   "checklistDescRangeTooltip": {
+      "message": "Les descriptions doivent être plus de 300 caractères"
+   },
+   "checklistEndScreen": {
+      "message": "Au moins un écran de fin"
+   },
+   "checklistFacebook": {
+      "message": "Partagé sur Facebook avec au moins 1 \"J'aime\""
+   },
+   "checklistHasChapters": {
+      "message": "Inclu un chapitre de la vidéo en description"
+   },
+   "checklistHasClosedCaptions": {
+      "message": "Sous-titrages"
+   },
+   "checklistHasCustomThumbnail": {
+      "message": "Miniature personalisée"
+   },
+   "checklistHasEndscreenCard": {
+      "message": "Au moins une "
+   },
+   "checklistHasPlaylist": {
+      "message": "La vidéo fait partie d'une playlist"
+   },
+   "checklistMoney": {
+      "message": "Monétisation activée"
+   },
+   "checklistPlaylist": {
+      "message": "Ajouter à une playlist"
+   },
+   "checklistPublic": {
+      "message": "Rendre publique"
+   },
+   "checklistTagsRangeTooltip": {
+      "message": "Tous les tags combinés doivent comporter plus de 200 caractères"
+   },
+   "checklistTitle": {
+      "message": "Liste de contrôle"
+   },
+   "checklistTitleRangeTooltip": {
+      "message": "Les titres doivent avoir entre 20 et 60 caractères"
+   },
+   "checklistTwitter": {
+      "message": "Partagé sur Twitter"
+   },
+   "checklistValidTitleLength": {
+      "message": "Titre est moins de 60 caractères"
+   },
+   "chooseATemplate": {
+      "message": "Choisir un modèle"
+   },
+   "chooseCurrentThumb": {
+      "message": "Choisissir la miniature actuelle"
+   },
+   "chooseEllipses": {
+      "message": "Choisir...."
+   },
+   "chooseLanguage": {
+      "message": "Choisissez une langue pour traduire en !"
+   },
+   "chooseLanguage2": {
+      "message": "Choisir une langue...."
+   },
+   "choosePlaylist": {
+      "message": "Choisissez une playlist"
+   },
+   "chooseResourcesToCopy": {
+      "message": "Choisissez les $resources$ que vous voulez copier",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "chooseResourcesToEditTitle": {
+      "message": "Choisissez les Ressources pour Modifier ou Supprimer"
+   },
+   "chooseSourceVideoTitle": {
+      "message": "Choisissez la source de la vidéo"
+   },
+   "chooseTemplate": {
+      "message": "Choisir le modèle"
+   },
+   "chooseThumbBgColor": {
+      "message": "Choisir la couleur de fond désirée pour votre miniature"
+   },
+   "chooseThumbStill": {
+      "message": "Pour utiliser une image vidéo fixe pour votre miniature, mettez la vidéo en pause sur l'image desirée"
+   },
+   "chooseTwoLangs": {
+      "message": "Choisissez deux langues différentes pour traduire!"
+   },
+   "chooseVideoCopyTargets": {
+      "message": "Choisissez les vidéos auxquelles vous souhaitez copier ces $resources$",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "clearAllFilters": {
+      "message": "Effacer tous les filtres"
+   },
+   "clearKeywordsTitle": {
+      "message": "Effacer les Mots-clés"
+   },
+   "clearPendingDeletionsTitle": {
+      "message": "Effacer les Suppressions en Attente"
+   },
+   "clearPendingEditsTitle": {
+      "message": "Effacer les Modifications en Attente"
+   },
+   "clearTitle": {
+      "message": "Effacer"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "closestAchievement": {
+      "message": "Vous êtes à peu près \u003Cp class='time-away'>$timeAway$\u003C/p> loin de \u003Cp class='next-achievement'>$achievement$\u003C/p>",
+      "placeholders": {
+         "achievement": {
+            "content": "$2"
+         },
+         "timeAway": {
+            "content": "$1"
+         }
+      }
+   },
+   "commentTemplatesTitle": {
+      "message": "Modèles des commentaires"
+   },
+   "comments": {
+      "message": "commentaires"
+   },
+   "commentsMadeBy": {
+      "message": "Commentaires faits par......."
+   },
+   "commentsTitle": {
+      "message": "Commentaires"
+   },
+   "communityCcTitle": {
+      "message": "Sous-titres contribués par la communauté"
+   },
+   "compareCompetitors": {
+      "message": "Comparer avec des concurrents"
+   },
+   "compareThumbInSearch": {
+      "message": "Comparer la miniature dans les résultats de recherche"
+   },
+   "comparisonLabel": {
+      "message": "$value$ période précédente",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "competition": {
+      "message": "Score de Concurrence de vidIQ"
+   },
+   "competitionLabel": {
+      "message": "Concurrence"
+   },
+   "competitors": {
+      "message": "Concurrents"
+   },
+   "competitorsAdd": {
+      "message": "Ajouter"
+   },
+   "competitorsAllTime": {
+      "message": "Tout les temps"
+   },
+   "competitorsAverage": {
+      "message": "Moyenne des concurrents"
+   },
+   "competitorsCompetitorChannels": {
+      "message": "chaines concurrentes"
+   },
+   "competitorsDateUploaded": {
+      "message": "Date de mise en ligne"
+   },
+   "competitorsErrorNoChannelId": {
+      "message": "Cet Identifiant de la chaîne n'existe pas. Assurez-vous d'avoir copier l'Identifiant de l'URL YouTube comme indiqué ci-dessus."
+   },
+   "competitorsErrorNoCompetitors": {
+      "message": "Pour voir les dernières vidéos de tendance de vos concurrents, ajoutez des chaînes concurrentes en utilisant le formulaire à droite"
+   },
+   "competitorsErrorNoCompetitorsFound": {
+      "message": "Aucun concurrent trouvé"
+   },
+   "competitorsErrorNoTrendingVideosButton": {
+      "message": "Affichez-moi des vidéos tendance pour tous les temps"
+   },
+   "competitorsErrorNoTrendingVideosMessage": {
+      "message": "Vos concurrents n'ont pas de vidéos tendance pour la période sélectionnée. Essayez de changer la période en utilisant les boutons ci-dessus ou vérifiez plus tard."
+   },
+   "competitorsErrorUnableToRemove": {
+      "message": "Nous n'avons pas pu supprimer ce concurrent. Veuillez s'il vous plait recharger la page et réessayer."
+   },
+   "competitorsErrorUnauthenticatedMessage": {
+      "message": "Vous devez authentifier votre chaîne avec vidIQ pour voir les vidéos tendances de vos concurrents."
+   },
+   "competitorsFeatureInfo": {
+      "message": "Ajoutez des concurrents et voyez quelles vidéos fonctionnent le mieux pour eux"
+   },
+   "competitorsPast48Hours": {
+      "message": "48 dernières heures"
+   },
+   "competitorsRemoveCompetitor": {
+      "message": "Supprimer le concurrent"
+   },
+   "competitorsThisMonth": {
+      "message": "Ce mois-ci"
+   },
+   "competitorsThisWeek": {
+      "message": "Cette semaine"
+   },
+   "competitorsUpsellMessage": {
+      "message": "Vous avez atteint la $userType$limite de votre compte de\u003Cstrong>$limite$ concurrents suivis\u003C/ strong>. Veuillez faire une mise à niveau de votre compte pour suivre encore plus de chaînes.",
+      "placeholders": {
+         "limite": {
+            "content": "$2"
+         },
+         "userType": {
+            "content": "$1"
+         }
+      }
+   },
+   "competitorsViewChannel": {
+      "message": "Afficher la chaîne"
+   },
+   "competitorsViews": {
+      "message": "Vues"
+   },
+   "competitorsVph": {
+      "message": "VPH"
+   },
+   "configureInSettings": {
+      "message": "Régler dans les paramètres de Configuration de vidiQ"
+   },
+   "confirmEmailTitle": {
+      "message": "Confirmer Address e-mail"
+   },
+   "confirmYourEmail": {
+      "message": "confirme ton email"
+   },
+   "connectYourYtAccount": {
+      "message": "Connectez votre compte YouTube"
+   },
+   "connectYourYtChannel": {
+      "message": "Connectez votre chaîne YouTube"
+   },
+   "considerIncludingDescription": {
+      "message": "Envisager d'inclure ces mots clés hautement recherchés dans votre description"
+   },
+   "considerIncludingTitle": {
+      "message": "Envisagez d'inclure ces mots-clés hautement recherchés dans votre titre"
+   },
+   "considerPostingBefore": {
+      "message": "Pensez à poster avant que le trafic de spectateur augmente."
+   },
+   "containNegativeWords": {
+      "message": "Contient un(des) mot(s) négative(s)"
+   },
+   "containPositiveWords": {
+      "message": "Contient un(des) mot(s) positif(s)"
+   },
+   "containProfanity": {
+      "message": "Contient des jurons"
+   },
+   "containQuestions": {
+      "message": "Contient une (des) question(s)"
+   },
+   "continueWhenReady": {
+      "message": "Continuer lquand vous êtes prêt"
+   },
+   "controversialKeywords": {
+      "message": "Mots-clés controversés"
+   },
+   "controversialKeywordsUpgrade": {
+      "message": "Mettre à niveau vers Pro pour voir les mots clés controversés qui pourraient être signalés pour démonétisation"
+   },
+   "controversialKeywordsUpgradeShort": {
+      "message": "Passez à Pro pour voir les mots-clés controversés"
+   },
+   "copyAnnotationsTitle": {
+      "message": "Copier les Annotations"
+   },
+   "copyCardsTitle": {
+      "message": "Copier les Fiches"
+   },
+   "copyEndScreenNote": {
+      "message": "Remarque : Copier les éléments d'écran de fin sur une vidéo contenant des annotations causera la suppression des annotations afin de permettre la copie du fin d'écran."
+   },
+   "copyEndScreenTitle": {
+      "message": "Copier les Écrans de Fin"
+   },
+   "copyIdeas": {
+      "message": "Copier des idées"
+   },
+   "copyKeywordsTitle": {
+      "message": "Copier les Mots-clés"
+   },
+   "copyTags": {
+      "message": "Copier les tags dans le presse-papiers"
+   },
+   "copyTagsTitle": {
+      "message": "Copier les Tags"
+   },
+   "copyToClipboard": {
+      "message": "Copier dans le presse-papier"
+   },
+   "copyVideoResourcesFail": {
+      "message": "\u003Cb>Nous avons copié vos $resources$, mais $number$ n'ont pas pu être enregistrerées.\u003C/b> Veuillez vérifier les vidéos dans la liste ci-dessus pour voir lesquelles sont celle qui n'ont pas été mises à jour. Pour afficher les $resources$, il suffit de cliquer sur n'importe quelle vidéo.",
+      "placeholders": {
+         "number": {
+            "content": "$2"
+         },
+         "resources": {
+            "content": "$3"
+         }
+      }
+   },
+   "copyVideoResourcesSuccess": {
+      "message": "\u003Cb>Succès, vos $resources$ sélectionnées ont été copiées !\u003C/b> Si vous souhaitez voir les $resources$, cliquez simplement sur n'importe qu'elle vidéo dans la liste ci-dessus.",
+      "placeholders": {
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "copyVideoResourcesTask": {
+      "message": "Copier $resources$",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotFindOwnedChannels": {
+      "message": "Impossible de trouver les chaînes que vous possédez"
+   },
+   "couldNotFindThisChannelId": {
+      "message": "Impossible de trouver l'Identifiant de cette chaîne"
+   },
+   "couldNotFindYourChannelId": {
+      "message": "Impossible de trouver l'identifiant de votre chaîne"
+   },
+   "couldNotGetTemplates": {
+      "message": "Impossible d'obtenir des modèles: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotRetrieveCurrThumb": {
+      "message": "Impossible de récupérer la miniature actuelle"
+   },
+   "couldNotShortenUrls": {
+      "message": "Impossible de raccourcir les URLs"
+   },
+   "couldntGetIdeasError": {
+      "message": "Oups... il y a eu une erreur et nous n'avons trouvé aucune idée."
+   },
+   "countryAfghanistan": {
+      "message": "Afghanistan"
+   },
+   "countryAlbania": {
+      "message": "Albanie"
+   },
+   "countryAlgeria": {
+      "message": "Algérie"
+   },
+   "countryAmericanSamoa": {
+      "message": "Samoa américaines"
+   },
+   "countryAndorra": {
+      "message": "Andorre"
+   },
+   "countryAngola": {
+      "message": "Angola"
+   },
+   "countryAnguilla": {
+      "message": "Anguilla"
+   },
+   "countryAntarctica": {
+      "message": "Antarctique"
+   },
+   "countryAntiguaandBarbuda": {
+      "message": "Antigua-et-Barbuda"
+   },
+   "countryArgentina": {
+      "message": "Argentine"
+   },
+   "countryArmenia": {
+      "message": "Arménie"
+   },
+   "countryAruba": {
+      "message": "Aruba"
+   },
+   "countryAustralia": {
+      "message": "Australie"
+   },
+   "countryAustria": {
+      "message": "L'Autriche"
+   },
+   "countryAzerbaijan": {
+      "message": "Azerbaïdjan"
+   },
+   "countryBahamas": {
+      "message": "Bahamas"
+   },
+   "countryBahrain": {
+      "message": "Bahreïn"
+   },
+   "countryBangladesh": {
+      "message": "Bangladesh"
+   },
+   "countryBarbados": {
+      "message": "Barbade"
+   },
+   "countryBelarus": {
+      "message": "Biélorussie"
+   },
+   "countryBelgium": {
+      "message": "la Belgique"
+   },
+   "countryBelize": {
+      "message": "Belize"
+   },
+   "countryBenin": {
+      "message": "Bénin"
+   },
+   "countryBermuda": {
+      "message": "Bermudes"
+   },
+   "countryBhutan": {
+      "message": "Bhoutan"
+   },
+   "countryBoliviaPlurinationalStateof": {
+      "message": "Bolivie, État plurinational de"
+   },
+   "countryBonaireSintEustatiusandSaba": {
+      "message": "Bonaire, Sint Eustatius et Saba"
+   },
+   "countryBosniaandHerzegovina": {
+      "message": "Bosnie Herzégovine"
+   },
+   "countryBotswana": {
+      "message": "Botswana"
+   },
+   "countryBouvetIsland": {
+      "message": "Île de Bouvet"
+   },
+   "countryBrazil": {
+      "message": "Brésil"
+   },
+   "countryBritishIndianOceanTerritory": {
+      "message": "Territoire Britannique de l'océan Indien"
+   },
+   "countryBruneiDarussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "countryBulgaria": {
+      "message": "Bulgarie"
+   },
+   "countryBurkinaFaso": {
+      "message": "Burkina Faso"
+   },
+   "countryBurundi": {
+      "message": "Burundi"
+   },
+   "countryCambodia": {
+      "message": "Cambodge"
+   },
+   "countryCameroon": {
+      "message": "Cameroun"
+   },
+   "countryCanada": {
+      "message": "Canada"
+   },
+   "countryCapeVerde": {
+      "message": "Cap-Vert"
+   },
+   "countryCaymanIslands": {
+      "message": "Îles Caïmans"
+   },
+   "countryCentralAfricanRepublic": {
+      "message": "République centrafricaine"
+   },
+   "countryChad": {
+      "message": "Tchad"
+   },
+   "countryChile": {
+      "message": "Chili"
+   },
+   "countryChina": {
+      "message": "Chine"
+   },
+   "countryChristmasIsland": {
+      "message": "L'île de noël"
+   },
+   "countryCocosKeelingIslands": {
+      "message": "Îles Cocos (Keeling)"
+   },
+   "countryColombia": {
+      "message": "Colombie"
+   },
+   "countryComoros": {
+      "message": "Comores"
+   },
+   "countryCongo": {
+      "message": "Congo"
+   },
+   "countryCongotheDemocraticRepublicofthe": {
+      "message": "Congo, République démocratique du"
+   },
+   "countryCookIslands": {
+      "message": "les Îles Cook"
+   },
+   "countryCostaRica": {
+      "message": "Costa Rica"
+   },
+   "countryCroatia": {
+      "message": "Croatie"
+   },
+   "countryCtedIvoire": {
+      "message": "Côte d'Ivoire"
+   },
+   "countryCuba": {
+      "message": "Cuba"
+   },
+   "countryCuraao": {
+      "message": "Curacao"
+   },
+   "countryCyprus": {
+      "message": "Chypre"
+   },
+   "countryCzechRepublic": {
+      "message": "République Tchèque"
+   },
+   "countryDenmark": {
+      "message": "Danemark"
+   },
+   "countryDjibouti": {
+      "message": "Djibouti"
+   },
+   "countryDominica": {
+      "message": "Dominique"
+   },
+   "countryDominicanRepublic": {
+      "message": "République Dominicaine"
+   },
+   "countryEcuador": {
+      "message": "Équateur"
+   },
+   "countryEgypt": {
+      "message": "Egypte"
+   },
+   "countryElSalvador": {
+      "message": "Le Salvador"
+   },
+   "countryEquatorialGuinea": {
+      "message": "Guinée Équatoriale"
+   },
+   "countryEritrea": {
+      "message": "Érythrée"
+   },
+   "countryEstonia": {
+      "message": "Estonie"
+   },
+   "countryEthiopia": {
+      "message": "Ethiopie"
+   },
+   "countryFalklandIslandsMalvinas": {
+      "message": "Îles Falkland (Malvinas)"
+   },
+   "countryFaroeIslands": {
+      "message": "Îles Féroé"
+   },
+   "countryFiji": {
+      "message": "Fidji"
+   },
+   "countryFinland": {
+      "message": "Finlande"
+   },
+   "countryFrance": {
+      "message": "France"
+   },
+   "countryFrenchGuiana": {
+      "message": "Guinée Française"
+   },
+   "countryFrenchPolynesia": {
+      "message": "Polynésie française"
+   },
+   "countryFrenchSouthernTerritories": {
+      "message": "Terres australes françaises"
+   },
+   "countryGabon": {
+      "message": "Gabon"
+   },
+   "countryGambia": {
+      "message": "Gambie"
+   },
+   "countryGeorgia": {
+      "message": "Géorgie"
+   },
+   "countryGermany": {
+      "message": "Allemagne"
+   },
+   "countryGhana": {
+      "message": "Ghana"
+   },
+   "countryGibraltar": {
+      "message": "Gibraltar"
+   },
+   "countryGreece": {
+      "message": "Grèce"
+   },
+   "countryGreenland": {
+      "message": "Groenland"
+   },
+   "countryGrenada": {
+      "message": "Grenade"
+   },
+   "countryGuadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "countryGuam": {
+      "message": "Guam"
+   },
+   "countryGuatemala": {
+      "message": "Guatemala"
+   },
+   "countryGuernsey": {
+      "message": "Guernesey"
+   },
+   "countryGuinea": {
+      "message": "Guinée"
+   },
+   "countryGuineaBissau": {
+      "message": "Guinée-Bissau"
+   },
+   "countryGuyana": {
+      "message": "Guyane"
+   },
+   "countryHaiti": {
+      "message": "Haïti"
+   },
+   "countryHeardIslandandMcDonaldIslands": {
+      "message": "Îles Heard et McDonald"
+   },
+   "countryHolySeeVaticanCityState": {
+      "message": "Saint-Siège (État de la Cité du Vatican)"
+   },
+   "countryHonduras": {
+      "message": "Honduras"
+   },
+   "countryHongKong": {
+      "message": "Hong Kong"
+   },
+   "countryHungary": {
+      "message": "Hongrie"
+   },
+   "countryIceland": {
+      "message": "Islande"
+   },
+   "countryIndia": {
+      "message": "Inde"
+   },
+   "countryIndonesia": {
+      "message": "Indonésie"
+   },
+   "countryIranIslamicRepublicof": {
+      "message": "Iran (République islamique d"
+   },
+   "countryIraq": {
+      "message": "Irak"
+   },
+   "countryIreland": {
+      "message": "Irlande"
+   },
+   "countryIsleofMan": {
+      "message": "Île de Man"
+   },
+   "countryIsrael": {
+      "message": "Israël"
+   },
+   "countryItaly": {
+      "message": "Italie"
+   },
+   "countryJamaica": {
+      "message": "Jamaïque"
+   },
+   "countryJapan": {
+      "message": "Japon"
+   },
+   "countryJersey": {
+      "message": "Jersey"
+   },
+   "countryJordan": {
+      "message": "Jordan"
+   },
+   "countryKazakhstan": {
+      "message": "Kazakhstan"
+   },
+   "countryKenya": {
+      "message": "Kenya"
+   },
+   "countryKiribati": {
+      "message": "Kiribati"
+   },
+   "countryKoreaDemocraticPeoplesRepublicof": {
+      "message": "République populaire démocratique de Corée"
+   },
+   "countryKoreaRepublicof": {
+      "message": "Corée, République de"
+   },
+   "countryKuwait": {
+      "message": "Koweit"
+   },
+   "countryKyrgyzstan": {
+      "message": "Kirghizistan"
+   },
+   "countryLaoPeoplesDemocraticRepublic": {
+      "message": "République Démocratique Populaire Lao"
+   },
+   "countryLatvia": {
+      "message": "Lettonie"
+   },
+   "countryLebanon": {
+      "message": "Liban"
+   },
+   "countryLesotho": {
+      "message": "Lesotho"
+   },
+   "countryLiberia": {
+      "message": "Libéria"
+   },
+   "countryLibya": {
+      "message": "Libye"
+   },
+   "countryLiechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "countryLithuania": {
+      "message": "Lituanie"
+   },
+   "countryLuxembourg": {
+      "message": "Luxembourg"
+   },
+   "countryMacao": {
+      "message": "Macao"
+   },
+   "countryMacedonia": {
+      "message": "Macédoine"
+   },
+   "countryMacedoniatheFormerYugoslavRepublicof": {
+      "message": "Macédoine, l'ex-République Yougoslave de"
+   },
+   "countryMadagascar": {
+      "message": "Madagascar"
+   },
+   "countryMalawi": {
+      "message": "Malawi"
+   },
+   "countryMalaysia": {
+      "message": "Malaisie"
+   },
+   "countryMaldives": {
+      "message": "Maldives"
+   },
+   "countryMali": {
+      "message": "Mali"
+   },
+   "countryMalta": {
+      "message": "Malte"
+   },
+   "countryMarshallIslands": {
+      "message": "Iles Marshall"
+   },
+   "countryMartinique": {
+      "message": "Martinique"
+   },
+   "countryMauritania": {
+      "message": "Mauritanie"
+   },
+   "countryMauritius": {
+      "message": "Ile Maurice"
+   },
+   "countryMayotte": {
+      "message": "Mayotte"
+   },
+   "countryMexico": {
+      "message": "Mexique"
+   },
+   "countryMicronesiaFederatedStatesof": {
+      "message": "Micronésie, États fédérés de"
+   },
+   "countryMoldovaRepublicof": {
+      "message": "Moldavie, République de"
+   },
+   "countryMonaco": {
+      "message": "Monaco"
+   },
+   "countryMongolia": {
+      "message": "Mongolie"
+   },
+   "countryMontenegro": {
+      "message": "Monténégro"
+   },
+   "countryMontserrat": {
+      "message": "Montserrat"
+   },
+   "countryMorocco": {
+      "message": "Maroc"
+   },
+   "countryMozambique": {
+      "message": "Mozambique"
+   },
+   "countryMyanmar": {
+      "message": "Myanmar"
+   },
+   "countryNamibia": {
+      "message": "Namibie"
+   },
+   "countryNauru": {
+      "message": "Nauru"
+   },
+   "countryNepal": {
+      "message": "Népal"
+   },
+   "countryNetherlands": {
+      "message": "Pays-Bas"
+   },
+   "countryNewCaledonia": {
+      "message": "Nouvelle Calédonie"
+   },
+   "countryNewZealand": {
+      "message": "Nouvelle-Zélande"
+   },
+   "countryNicaragua": {
+      "message": "Nicaragua"
+   },
+   "countryNiger": {
+      "message": "Niger"
+   },
+   "countryNigeria": {
+      "message": "Nigeria"
+   },
+   "countryNiue": {
+      "message": "Niue"
+   },
+   "countryNorfolkIsland": {
+      "message": "Île Norfolk"
+   },
+   "countryNorthernMarianaIslands": {
+      "message": "Îles Mariannes du Nord"
+   },
+   "countryNorway": {
+      "message": "Norvège"
+   },
+   "countryOman": {
+      "message": "Oman"
+   },
+   "countryPakistan": {
+      "message": "Pakistan"
+   },
+   "countryPalau": {
+      "message": "Palaos"
+   },
+   "countryPalestineStateof": {
+      "message": "Palestine, État de"
+   },
+   "countryPanama": {
+      "message": "Panama"
+   },
+   "countryPapuaNewGuinea": {
+      "message": "Papouasie Nouvelle Guinée"
+   },
+   "countryParaguay": {
+      "message": "Paraguay"
+   },
+   "countryPeru": {
+      "message": "Pérou"
+   },
+   "countryPhilippines": {
+      "message": "Philippines"
+   },
+   "countryPitcairn": {
+      "message": "Pitcairn"
+   },
+   "countryPoland": {
+      "message": "Pologne"
+   },
+   "countryPortugal": {
+      "message": "Portugal"
+   },
+   "countryPuertoRico": {
+      "message": "Porto Rico"
+   },
+   "countryQatar": {
+      "message": "Qatar"
+   },
+   "countryRomania": {
+      "message": "Roumanie"
+   },
+   "countryRunion": {
+      "message": "Réunion"
+   },
+   "countryRussia": {
+      "message": "Russie"
+   },
+   "countryRussianFederation": {
+      "message": "Fédération Russe"
+   },
+   "countryRwanda": {
+      "message": "Rwanda"
+   },
+   "countrySaintBarthlemy": {
+      "message": "Saint Barthélemy"
+   },
+   "countrySaintHelenaAscensionandTristandaCunha": {
+      "message": "Sainte-Hélène, Ascension et Tristan da Cunha"
+   },
+   "countrySaintKittsandNevis": {
+      "message": "Saint-Christophe-et-Niévès"
+   },
+   "countrySaintLucia": {
+      "message": "Sainte-Lucie"
+   },
+   "countrySaintMartinFrenchpart": {
+      "message": "Saint Martin (partie Française)"
+   },
+   "countrySaintPierreandMiquelon": {
+      "message": "Saint Pierre et Miquelon"
+   },
+   "countrySaintVincentandtheGrenadines": {
+      "message": "Saint-Vincent-et-les-Grenadines"
+   },
+   "countrySamoa": {
+      "message": "Samoa"
+   },
+   "countrySanMarino": {
+      "message": "Saint Marin"
+   },
+   "countrySaoTomeandPrincipe": {
+      "message": "Sao Tomé et Principe"
+   },
+   "countrySaudiArabia": {
+      "message": "Arabie Saoudite"
+   },
+   "countrySenegal": {
+      "message": "Sénégal"
+   },
+   "countrySerbia": {
+      "message": "Serbie"
+   },
+   "countrySeychelles": {
+      "message": "les Seychelles"
+   },
+   "countrySierraLeone": {
+      "message": "Sierra Leone"
+   },
+   "countrySingapore": {
+      "message": "Singapour"
+   },
+   "countrySintMaartenDutchpart": {
+      "message": "Sint Maarten (partie Hollandaise)"
+   },
+   "countrySlovakia": {
+      "message": "Slovaquie"
+   },
+   "countrySlovenia": {
+      "message": "Slovénie"
+   },
+   "countrySolomonIslands": {
+      "message": "Les Île Salomon"
+   },
+   "countrySomalia": {
+      "message": "Somalie"
+   },
+   "countrySouthAfrica": {
+      "message": "Afrique du Sud"
+   },
+   "countrySouthGeorgiaandtheSouthSandwichIslands": {
+      "message": "Géorgie du Sud et les Îles Sandwich du Sud"
+   },
+   "countrySouthKorea": {
+      "message": "Corée du Sud"
+   },
+   "countrySouthSudan": {
+      "message": "Soudan du sud"
+   },
+   "countrySpain": {
+      "message": "Espagne"
+   },
+   "countrySriLanka": {
+      "message": "Sri Lanka"
+   },
+   "countrySudan": {
+      "message": "Soudan"
+   },
+   "countrySuriname": {
+      "message": "Suriname"
+   },
+   "countrySvalbardandJanMayen": {
+      "message": "Svalbard et Jan Mayen"
+   },
+   "countrySwaziland": {
+      "message": "Swaziland"
+   },
+   "countrySweden": {
+      "message": "Suède"
+   },
+   "countrySwitzerland": {
+      "message": "Suisse"
+   },
+   "countrySyrianArabRepublic": {
+      "message": "République arabe syrienne"
+   },
+   "countryTaiwan": {
+      "message": "Taïwan"
+   },
+   "countryTaiwanProvinceofChina": {
+      "message": "Taïwan, Province de Chine"
+   },
+   "countryTajikistan": {
+      "message": "Tadjikistan"
+   },
+   "countryTanzaniaUnitedRepublicof": {
+      "message": "Tanzanie, République-Unie de"
+   },
+   "countryThailand": {
+      "message": "Thaïlande"
+   },
+   "countryTimorLeste": {
+      "message": "Timor-Leste"
+   },
+   "countryTitle": {
+      "message": "Pays"
+   },
+   "countryTogo": {
+      "message": "Aller"
+   },
+   "countryTokelau": {
+      "message": "Tokélaou"
+   },
+   "countryTonga": {
+      "message": "Tonga"
+   },
+   "countryTrinidadandTobago": {
+      "message": "Trinité-et-Tobago"
+   },
+   "countryTunisia": {
+      "message": "Tunisie"
+   },
+   "countryTurkey": {
+      "message": "dinde"
+   },
+   "countryTurkmenistan": {
+      "message": "Turkménistan"
+   },
+   "countryTurksandCaicosIslands": {
+      "message": "Îles Turques-et-Caïques"
+   },
+   "countryTuvalu": {
+      "message": "Tuvalu"
+   },
+   "countryUganda": {
+      "message": "Ouganda"
+   },
+   "countryUkraine": {
+      "message": "Ukraine"
+   },
+   "countryUnitedArabEmirates": {
+      "message": "Emirats Arabes Unis"
+   },
+   "countryUnitedKingdom": {
+      "message": "Royaume-Uni"
+   },
+   "countryUnitedStates": {
+      "message": "États Unis"
+   },
+   "countryUnitedStatesMinorOutlyingIslands": {
+      "message": "Îles Mineures Éloignées des États-Unis"
+   },
+   "countryUnitedStatesWorldwide": {
+      "message": "États-Unis / Monde entier"
+   },
+   "countryUruguay": {
+      "message": "Uruguay"
+   },
+   "countryUzbekistan": {
+      "message": "Ouzbékistan"
+   },
+   "countryVanuatu": {
+      "message": "Vanuatu"
+   },
+   "countryVenezuelaBolivarianRepublicof": {
+      "message": "Venezuela, République bolivarienne de"
+   },
+   "countryVietnam": {
+      "message": "Vietnam"
+   },
+   "countryVirginIslandsBritish": {
+      "message": "Îles Vierges Britanniques"
+   },
+   "countryVirginIslandsUS": {
+      "message": "Îles Vierges, États-Unis"
+   },
+   "countryWallisandFutuna": {
+      "message": "Wallis et Futuna"
+   },
+   "countryWesternSahara": {
+      "message": "Sahara occidental"
+   },
+   "countryYemen": {
+      "message": "Yémen"
+   },
+   "countryZambia": {
+      "message": "Zambie"
+   },
+   "countryZimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "countrylandIslands": {
+      "message": "Iles Aland"
+   },
+   "createAccountTitle": {
+      "message": "Créer un Compte"
+   },
+   "createAnEmailAlert": {
+      "message": "Créer une alerte email"
+   },
+   "createNewCommentTemplateTitle": {
+      "message": "Créer un nouveau modèle de commentaires\n"
+   },
+   "createNewTitle": {
+      "message": "Créer un Nouveau"
+   },
+   "createNewVidiqAccount": {
+      "message": "Créer un nouveau compte vidIQ"
+   },
+   "createThumbnailTitle": {
+      "message": "Créer une Miniature"
+   },
+   "createTitle": {
+      "message": "Créer "
+   },
+   "createVidiqAccount": {
+      "message": "Créez votre compte vidIQ"
+   },
+   "createdAtStatLabel": {
+      "message": "Créé à"
+   },
+   "createdCampaign": {
+      "message": "Campagne créée !"
+   },
+   "creatorSuggestedStatLabel": {
+      "message": "créateur suggéré"
+   },
+   "creatorSuggestedTooltip": {
+      "message": "Suggestion du Créateur : Le nombre de vidéos dans la section \"À suivre\" qui proviennent de la chaîne du créateur. Cela indique à quel point la chaîne du créateur est optimisé pour retenir les utilisateurs."
+   },
+   "creatorsForPeaceButtonText": {
+      "message": "Découvrez comment aider maintenant"
+   },
+   "creatorsForPeaceHeader": {
+      "message": "NOUS AVONS BESOIN DE VOTRE AIDE !"
+   },
+   "creatorsForPeaceMessage": {
+      "message": "Soutenez plus d'un million d'Ukrainiens déplacés."
+   },
+   "crowdfundingTitle": {
+      "message": "Financement participatif"
+   },
+   "csvExportTitle": {
+      "message": "Exportation en CSV "
+   },
+   "current": {
+      "message": "Actuel"
+   },
+   "currentBestTimes": {
+      "message": "Les meilleurs temps de pubication actuel sont: \u003Cb>entre $start$ et $send$\u003C/b>",
+      "placeholders": {
+         "send": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "currentCampaignTitle": {
+      "message": "Campagne Actuelle"
+   },
+   "currentThumbnailTitle": {
+      "message": "Miniature Actuelle"
+   },
+   "custom": {
+      "message": "Personnalisé"
+   },
+   "customThumbnail": {
+      "message": "Miniature Personnalisée"
+   },
+   "customThumbnailChannelAuditEdit": {
+      "message": "Mise à jour Miniatures"
+   },
+   "customThumbnailChannelAuditHas": {
+      "message": "Miniature Personnalisée Importée"
+   },
+   "customThumbnailChannelAuditMissing": {
+      "message": "Aucune Miniature Personnalisée"
+   },
+   "customThumbnailChannelAuditMissingMessage": {
+      "message": "Mettre à jour une Miniature Personnalisée"
+   },
+   "customThumbnailMissingInfo": {
+      "message": "Les vidéos répertoriées n'ont pas de miniaturess personnalisées. Nous suggérons de les ajouter à chaque vidéo."
+   },
+   "customThumbnailMissingSubtextBad": {
+      "message": "Importer des vignettes personnalisées pour toutes vos vidéos"
+   },
+   "customThumbnailMissingSubtextGood": {
+      "message": "Toutes vos vidéos ont des miniatures personnalisées!"
+   },
+   "customThumbnailMissingTitle": {
+      "message": "Vidéos Sans Miniatures Personnalisées"
+   },
+   "customThumbnailUsageNotice": {
+      "message": "Pour utiliser les miniatures personnalisées, votre compte doit être $start$vérifié et en bonne et du forme$end$",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "customUrlWarning": {
+      "message": "Les URL personnalisées peuvent entraîner un échec lors de l'enregistrements"
+   },
+   "dailyIdeasLabel": {
+      "message": "Idées quotidiennes"
+   },
+   "dailyIdeasNoVideosExplainOne": {
+      "message": "Notre intelligence artificielle génère des idées à partir de votre historique de vidéos. "
+   },
+   "dailyIdeasNoVideosExplainTwo": {
+      "message": "Publiez une vidéo et revenez dans 7 jours pour vos recommendations personnalisées ! "
+   },
+   "dailyIdeasNoVideosPrimary": {
+      "message": "Publiez une nouvelle vidéo. L'intelligence artificelle vous donne des idées.  "
+   },
+   "dailyIdeasTitle": {
+      "message": "Idées quotidiennes"
+   },
+   "dailyIdeasUpsellAlt": {
+      "message": "Revenez demain pour $num$ d'idées supplémentaires ou mettez à niveau pour en obtenir plus maintenant !",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "dashboardTitle": {
+      "message": "Tableau de board"
+   },
+   "dataFromGoogleTrends": {
+      "message": "Données de Google Trends"
+   },
+   "datePublishedTitle": {
+      "message": "Date de Publication"
+   },
+   "dateRange": {
+      "message": "Plage de dates"
+   },
+   "dateSaved": {
+      "message": "Date d'enregistrement"
+   },
+   "day": {
+      "message": "jour"
+   },
+   "dayAbbreviation": {
+      "message": "j"
+   },
+   "daysIntervalOption": {
+      "message": "Jours"
+   },
+   "default": {
+      "message": "Défaut"
+   },
+   "deleteAllKeywordsQ": {
+      "message": "Supprimer tous les mots-clés?"
+   },
+   "deleteNThings": {
+      "message": "supprimer $n$ $things$",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "things": {
+            "content": "$2"
+         }
+      }
+   },
+   "deleteOneThing": {
+      "message": "supprimer 1 $thing$",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTheTemplate": {
+      "message": "Supprimer le modèle \"$template$\" ?",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTitle": {
+      "message": "Supprimer "
+   },
+   "descAverageSubtextBad": {
+      "message": "Vos longueurs de description sont en moyenne trop courtes. Essayez de les amener à au moins 300 caractères."
+   },
+   "descAverageSubtextGood": {
+      "message": "Vos longueurs de description sont en moyenne bonnes !"
+   },
+   "descChannelAuditEdit": {
+      "message": "Mettre à jour les Descriptions"
+   },
+   "descLengthChannelAuditTitle": {
+      "message": "Longueur de la Description"
+   },
+   "descLinkCountStatLabel": {
+      "message": "nombre de liens de la description"
+   },
+   "descWordCountStatLabel": {
+      "message": "nombre de mots de la description"
+   },
+   "descWordCountTooltip": {
+      "message": "C'est le nombre de mots dérivés de la description de la vidéo."
+   },
+   "description": {
+      "message": "Description"
+   },
+   "descriptionCampaignIntro": {
+      "message": "Créez une Campagne de Description pour ajouter du texte de campagne spécial aux descriptions de vos vidéos. Les campagnes en cours d'exécution peuvent être arrêtées pour restaurer les descriptions à leur état d'origine."
+   },
+   "descriptionCampaignsTitle": {
+      "message": "Campagnes de Description"
+   },
+   "descriptionTooLongToTranslate": {
+      "message": "La description est trop longue pour être traduite !"
+   },
+   "descriptionsTitle": {
+      "message": "Descriptions"
+   },
+   "desktopTitle": {
+      "message": "Ordinateur"
+   },
+   "disableInlineKeywords": {
+      "message": "Désactiver les Mots-clés en ligne"
+   },
+   "disableKeyboardControls": {
+      "message": "Désactiver les contrôles du clavier"
+   },
+   "dislikes": {
+      "message": "Je n'aime pas"
+   },
+   "dismissTitle": {
+      "message": "Rejeter"
+   },
+   "dismissWarningsTitle": {
+      "message": "Rejeter les alertes"
+   },
+   "dismissed": {
+      "message": "Rejeté"
+   },
+   "dismissedIdeasLabel": {
+      "message": "Idées ignorées"
+   },
+   "dismissedIdeasTabTooltip": {
+      "message": "Vous ne reverrez plus cette idée. Vous pouvez changer cela ici"
+   },
+   "doNotLoadMoreComments": {
+      "message": "Ne pas charger automatiquement plus de commentaires"
+   },
+   "domainNameTitle": {
+      "message": "Nom de domaine"
+   },
+   "donationTitle": {
+      "message": "Don"
+   },
+   "doneExclaim": {
+      "message": "Terminé !"
+   },
+   "doneTitle": {
+      "message": "Terminé"
+   },
+   "dontForgetRefresh": {
+      "message": "N'oubliez pas d'actualiser après le mise à niveau !"
+   },
+   "dontKnowWhatVideoToCreate": {
+      "message": "Vous ne savez pas quelles vidéos créer ? "
+   },
+   "doubleDownChannelAuditError": {
+      "message": "Importer plus de vidéos pour voir les statistiques telles que top de vidéos VPH et les top termes de recherche au cours des 30 derniers jours"
+   },
+   "download": {
+      "message": "Télécharger"
+   },
+   "downloadAsCsv": {
+      "message": "Télécharger en format CSV"
+   },
+   "downloadCSVTitle": {
+      "message": "Télécharger le CSV "
+   },
+   "downloadName": {
+      "message": "exportation vidIQ CSV pour $id$",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "dragDropKeywordsTitle": {
+      "message": "Glisser & Déposer les Mots-clés"
+   },
+   "dropFileHere": {
+      "message": "Déposez le fichier ici, ou cliquez pour parcourir les fichiers"
+   },
+   "dropdownAddCompetitor": {
+      "message": "Ajouter concurrent"
+   },
+   "dropdownRemoveCompetitor": {
+      "message": "Supprimer concurrent"
+   },
+   "durationStatLabel": {
+      "message": "Durée"
+   },
+   "edit": {
+      "message": "Modifier"
+   },
+   "editDetailsTask": {
+      "message": "modifiez les détailes de $nVideos$",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "editNThings": {
+      "message": "modifier $n$ $things$",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "things": {
+            "content": "$2"
+         }
+      }
+   },
+   "editName": {
+      "message": "Modifier le nom"
+   },
+   "editOneThing": {
+      "message": "modifier 1 $thing$",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "editSelectedObjectTitle": {
+      "message": "Modifier l'Objet Sélectionné"
+   },
+   "editThumbnailsTask": {
+      "message": "modifiez les miniatures de $nVideos$",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "editableCardMerchWarningCopy": {
+      "message": "La copie des fiches Lien peut entraîner une erreur si vous ne faites pas partie du programme partenaire YouTube"
+   },
+   "editableCardMerchWarningEdit": {
+      "message": "La modification des fiches Lien peut entraîner une erreur si vous ne faites pas partie du programme partenaire YouTube"
+   },
+   "emailAddressInvalid": {
+      "message": "l'addresse e-mail doît être valide"
+   },
+   "emailConfirmationMessagePartOne": {
+      "message": "\u003Cstrong>Merci d'avoir rejoint vidIQ !\u003C/ strong> Nous vous avons envoyé le lien de confirmation de votre compte par email à \u003Cstrong>$userEmail$\u003C/strong>. Si vous ne l'avez pas encore reçu, vous pouvez",
+      "placeholders": {
+         "userEmail": {
+            "content": "$1"
+         }
+      }
+   },
+   "emailConfirmationMessagePartTwo": {
+      "message": "ou contactez \u003Ca href=\\\"mailto:support@vidiq.com\\\" target=\\\"_blank\\\">support@vidiq.com\u003C/a>."
+   },
+   "emailMustMatch": {
+      "message": "Les adresses e-mail doivent correspondre"
+   },
+   "emailRequired": {
+      "message": "L'adresse e-mail est obligatoire"
+   },
+   "emailSuggestion": {
+      "message": "Vouliez-vous dire \u003Cstrong> \u003C/strong>?"
+   },
+   "emailTaken": {
+      "message": "Cet adresse e-mail a déjà été utilisé. Veuillez-en essayer un autre."
+   },
+   "emailTitle": {
+      "message": "Addresse e-mail"
+   },
+   "emailsMustMatch": {
+      "message": "Les addresse e-mails doivent correspondre"
+   },
+   "embedCodeCopy": {
+      "message": "Code intégré (cliquez pour copier)"
+   },
+   "embedSourcesTitle": {
+      "message": "Sources intégrées"
+   },
+   "embedSrcsTooltip": {
+      "message": "Ce sont les liens qui mènent à cette page."
+   },
+   "embeddedViewsStatLabel": {
+      "message": "vues intégrées\r\n"
+   },
+   "emojiMenusTitle": {
+      "message": "Menus Emoji"
+   },
+   "enableInlineKeywords": {
+      "message": "Activez les Mots-clés en ligne"
+   },
+   "enablePrivacy": {
+      "message": "Permettre une confidentialité avancée (c'est-à-dire pas de cookies)"
+   },
+   "endOfResults": {
+      "message": "Fin des résultats"
+   },
+   "endScreens": {
+      "message": "écrans de fin"
+   },
+   "endscreenClickRates": {
+      "message": "Taux de Clics sur l'écran de fin"
+   },
+   "endscreensChannelAuditEdit": {
+      "message": "Mettre à jour les Écrans de fin"
+   },
+   "endscreensChannelAuditHas": {
+      "message": "La vidéo a $numEndscreens$ écran(s) de fin",
+      "placeholders": {
+         "numEndscreens": {
+            "content": "$1"
+         }
+      }
+   },
+   "endscreensChannelAuditInfo": {
+      "message": "À la fin de chaque vidéo, le spectateur peut cliquer sur les fiches que vous leur montrez."
+   },
+   "endscreensChannelAuditMissing": {
+      "message": "Aucun écran de fin"
+   },
+   "endscreensChannelAuditMissingMessage": {
+      "message": "Ajouter au moins une écran de fin"
+   },
+   "endscreensMissingInfo": {
+      "message": "Les vidéos répertoriées n'ont aucun écran de fin. Nous suggérons de les ajouter à chaque vidéo."
+   },
+   "endscreensMissingSubtextBad": {
+      "message": "Ajouter des écrans de fin à toutes vos vidéos"
+   },
+   "endscreensMissingSubtextGood": {
+      "message": "Aucun écran de fin manquant sur vos vidéos!"
+   },
+   "endscreensMissingTitle": {
+      "message": "Vidéos Sans Écran de fin"
+   },
+   "engagementBreakdownTitle": {
+      "message": "Répartition d'Interactions"
+   },
+   "engagementRateER": {
+      "message": "TI"
+   },
+   "engagementRatePopoverText": {
+      "message": "Une mesure de l'engagement découvert en pourcentage du nombre total de vues"
+   },
+   "engagementRateStatLabel": {
+      "message": "taux d'Interaction"
+   },
+   "engagementRateTitle": {
+      "message": "Taux d'Interactions"
+   },
+   "engagementRateTooltip": {
+      "message": "Le Taux d'Interaction (TI) et une mesure de toutes les interactions découvertes en pourcentage des vues totales."
+   },
+   "engagementTooltipTiktok": {
+      "message": "Le taux d'interaction est un super indicateur de performance d'une vidéo. Il est calculé en utilisant le nombre de j'aime, de commentaires, de partages et de vues. "
+   },
+   "engagementsBreakdown": {
+      "message": "Détail des intéractions"
+   },
+   "engagementsStatLabel": {
+      "message": "les interactions"
+   },
+   "enterSearchTermRank": {
+      "message": "Entrez le terme de recherche pour lequel vous souhaitez vous classer"
+   },
+   "enterText": {
+      "message": "Entrer du texte"
+   },
+   "errorOrNoEmail": {
+      "message": "Une erreur s'est produite ou cette adresse e-mail n'existe pas"
+   },
+   "errorPlural": {
+      "message": "Erreurs"
+   },
+   "errorSingular": {
+      "message": "Erreur"
+   },
+   "errorWhileSavingEndscreen": {
+      "message": "Impossible de copier les écrans de fin en raison d'arguments non valides envoyés à YouTube"
+   },
+   "estimatedEarningsStatLabel": {
+      "message": "revenus estimés"
+   },
+   "estimatedEarningsTooltip": {
+      "message": "Revenus estimés sont basé sur un CPM de $cpm$ pour cette vidéo.",
+      "placeholders": {
+         "cpm": {
+            "content": "$1"
+         }
+      }
+   },
+   "estimatedMonthlyRevenueStatLabel": {
+      "message": "≈ revenu mensuel"
+   },
+   "estimatedRevenue": {
+      "message": "revenus estimés"
+   },
+   "estimatedRevenueStatLabel": {
+      "message": "revenus estimés"
+   },
+   "estimatedTime": {
+      "message": "$timeFromNow$ (estimé)",
+      "placeholders": {
+         "timeFromNow": {
+            "content": "$1"
+         }
+      }
+   },
+   "exampleTemplateName": {
+      "message": "Nom (ex. mon-modèle-1)"
+   },
+   "expandAllTitle": {
+      "message": "Tout Développer"
+   },
+   "expandNoneTitle": {
+      "message": "Ne Rien Développer"
+   },
+   "exportExplainMine": {
+      "message": "Utilisez cette fonctionnalité pour télécharger toutes vos données vidéo publiques, privées et non répertoriées en tant que fichier CSV"
+   },
+   "exportExplainMineLimited": {
+      "message": "Utilisez cette fonctionnalité pour télécharger certaines des données vidéo publiques de \u003Cb>$channel$\u003C/b> en tant que fichier CSV\n",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirs": {
+      "message": "Utilisez cette fonctionnalité pour télécharger toutes les données vidéo publiques de \u003Cb>$channel$\u003C/b> en tant que fichier CSV\n",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirsLimited": {
+      "message": "Utilisez cette fonctionnalité pour télécharger certaines des données vidéo publiques de \u003Cb>$channel$\u003C/b> en tant que fichier CSV\n",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportIdeas": {
+      "message": "Exporter des idées"
+   },
+   "exportMyVideos": {
+      "message": "Exporter toutes mes vidéos"
+   },
+   "exportTheirVideos": {
+      "message": "Exporter toutes leurs vidéos"
+   },
+   "exportUpTo": {
+      "message": "Exporter jusqu'à $limit$ vidéos",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportedNVideos": {
+      "message": "\u003Cb>$n$ videos\u003C/b> ont été exportées en \u003Cb>$time$\u003C/b>",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "time": {
+            "content": "$2"
+         }
+      }
+   },
+   "exportedOneVideo": {
+      "message": "\u003Cb>1 vidéo\u003C/b> a été exportée en \u003Cb>$time$\u003C/b>",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionSettingsTitle": {
+      "message": "Paramètres Extension"
+   },
+   "facebookApiChanges": {
+      "message": "Facebook a récemment apporté des modifications à leur API nécessitant une authentification des clients directement. Je vous remercie de votre compréhension."
+   },
+   "facebookAuthTitle": {
+      "message": "Authentifier avec Facebook"
+   },
+   "facebookFollowersStatLabel": {
+      "message": "abonnés facebook"
+   },
+   "facebookGetMoreStats": {
+      "message": "Se connecter pour obtenir plus de statistiques de \u003Cb>FB\u003C/b>"
+   },
+   "facebookTitle": {
+      "message": "Facebook"
+   },
+   "failedToDeleteSavedIdea": {
+      "message": "Échec de la suppression de l'idée enregistrée"
+   },
+   "failedToDismissIdea": {
+      "message": "Échec du rejet de l'idée"
+   },
+   "failedToLoadAnnsNoAnns": {
+      "message": "Impossible de charger les annotations : Aucune annotation n'existe pour ce modèle"
+   },
+   "failedToLoadAnnsNoVideo": {
+      "message": "Impossible de charger les annotations : Cette vidéo n'existe plus"
+   },
+   "failedToLoadAnnsOther": {
+      "message": "Impossible de charger les annotations : $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "failedToLoadCardsNoCards": {
+      "message": "Impossible de charger les fiches : aucune fiche n'existe pour ce modèle"
+   },
+   "failedToLoadCardsNoVideo": {
+      "message": "Impossible de charger les fiches : Cette vidéo n'existe plus"
+   },
+   "failedToLoadCardsOther": {
+      "message": "Impossible de charger les fiches : $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "failedToRestoreDismissedIdea": {
+      "message": "Échec de la restauration de l'idée ignorée"
+   },
+   "failedToSaveIdea": {
+      "message": "Échec de l'enregistrement de l'idée"
+   },
+   "fbCommentsStatLabel": {
+      "message": "commentaires fb"
+   },
+   "fbCommentsStatTitle": {
+      "message": "les Commentaires Facebook"
+   },
+   "fbEngagementsStatLabel": {
+      "message": "les interactions facebook"
+   },
+   "fbEngagementsTooltip": {
+      "message": "Comprend les mentions \"J'aime\", les partages et les commentaires. En raison des restrictions de FB, nous ne pouvons pas recevoir des rapports séparés pour chaque statistique."
+   },
+   "fbLikesStatLabel": {
+      "message": "mentions \"J'aime\" de fb"
+   },
+   "fbLikesStatTitle": {
+      "message": "Mentions \"J'aime\" de Facebook"
+   },
+   "fbLikesTooltipPopular": {
+      "message": "Cette vidéo est très aimé sur Facebook!\n"
+   },
+   "fbLikesTooltipUnpopular": {
+      "message": "Cette vidéo n'a pas un grand pourcentage de \"J'aime\" sur Facebook."
+   },
+   "fbReactionsStatLabel": {
+      "message": "réactions fb"
+   },
+   "fbSharesCommentsStatLabel": {
+      "message": "les partages facebook + commentaires"
+   },
+   "fbSharesStatLabel": {
+      "message": "fb partages"
+   },
+   "fbSharesStatTitle": {
+      "message": "Les Partages Facebook "
+   },
+   "featureFail": {
+      "message": "\u003Cb>Hu oh, votre vidéo n'a pas pu être promue ! \u003C/b> Notez que vous ne pouvez uniquement faire la promotion des vidéos que si elles sont publiques ou non répertoriées. Pour essayer de promouvoir cette vidéo manuellement, veuillez visiter \u003Ca$atag$>$url$>/a>.",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "featureSuccess": {
+      "message": "\u003Cb>Succès, votre vidéo est maintenant présenté!\u003C/b> Pour mettre à jour ou supprimer cette vidéo recommandée, veuillez visiter \u003Ca$atag$>$url$\u003C/a>.",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "featuredVideoCardTitle": {
+      "message": "Education YouTube"
+   },
+   "featuredVideoCardWatchLink": {
+      "message": "Regardez sur YouTube"
+   },
+   "feedbackPopoverPlaceholder": {
+      "message": "Nous aimerions en savoir plus afin d'améliorer votre expérience :)"
+   },
+   "feedbackRatingMessage": {
+      "message": "Comment évalueriez-vous votre expérience en utilisant $feature$ ?",
+      "placeholders": {
+         "feature": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedbackSentMessage": {
+      "message": "Commentaires envoyés. Merci d'avoir partagé !"
+   },
+   "feedbackTextareaPlaceholder": {
+      "message": "Dites-nous ce que vous avez aimé ou pas aimé. Nous aimerions vos commentaires afin que nous puissions rendre cela encore meilleur pour vous !"
+   },
+   "fieldIsRequired": {
+      "message": "Champ requis"
+   },
+   "fileTitle": {
+      "message": "Fichier"
+   },
+   "filterByList": {
+      "message": "Filtrer par liste séparée par des virgules"
+   },
+   "filterByPlaylist": {
+      "message": "Filtrer par playlist"
+   },
+   "filterBySubscribers": {
+      "message": "Filtrer les commentaires par compte d'abonné"
+   },
+   "filterMostViewedVideos": {
+      "message": "Filtrer les vidéos les plus vues"
+   },
+   "filterMyVideos": {
+      "message": "Filtrer mes vidéos"
+   },
+   "filterNItems": {
+      "message": "Filtrer $n$ éléments",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "filterOneItem": {
+      "message": "Filtrer 1 élément"
+   },
+   "filterOutPhrases": {
+      "message": "Filtrer les expressions..."
+   },
+   "filterOutVideos": {
+      "message": "Filtrer les vidéos..."
+   },
+   "filterResults": {
+      "message": "Filtrer les résultats"
+   },
+   "filters": {
+      "message": "Filtres"
+   },
+   "firstPage": {
+      "message": "Première page ($vids$)",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "followMoreChannels": {
+      "message": "Suivre plus de chaînes"
+   },
+   "forDailyIdeasAuthChannel": {
+      "message": "Pour obtenir des idées au quotidien, vous devez authentifier votre chaîne YouTube."
+   },
+   "forgotPassword": {
+      "message": "Mot de passe oublié ?"
+   },
+   "found": {
+      "message": "Trouvé"
+   },
+   "foundControversialKeywords": {
+      "message": "L'utilisation de ces mots clés controversés, combinée à d'autres facteurs tels que le contenu de la vidéo, peut entraîner automatiquement à la démonétisation de votre vidéo et/ou chaîne."
+   },
+   "freeDailyIdeas": {
+      "message": "Idées de vidéos quotidiennes gratuites alimentées par l'IA"
+   },
+   "freePreviewsUsed": {
+      "message": "$utilisé$/$total$ aperçus gratuits utilisés",
+      "placeholders": {
+         "total": {
+            "content": "$2"
+         },
+         "utilis_": {
+            "content": "$1"
+         }
+      }
+   },
+   "fridayPlural": {
+      "message": "vendredis"
+   },
+   "fundraisingTitle": {
+      "message": "Collecte de fonds"
+   },
+   "gameConsoleTitle": {
+      "message": "Console de Jeux"
+   },
+   "getAccessToMoreRelatedKeywords": {
+      "message": "Accédez à $num$ de mots clés associés supplémentaires pour ce terme de recherche avec vidIQ Pro",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "getAccessToMoreRelatedKeywordsAlt": {
+      "message": "Accédez à $num$ de mots-clés associés supplémentaires",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "getAccessToTrendingVideos": {
+      "message": "Obtenez encore plus de mots-clés pour dynamiser vos vidéos parmi les vidéos tendances pour ce terme de recherche avec vidIQ Pro"
+   },
+   "getAccessToTrendingVideosAlt": {
+      "message": "Obtenez encore plus de mots-clés pour booster vos vidéos à partir des vidéos tendance"
+   },
+   "getMoreViews": {
+      "message": "Obtenir plus de vues sur cette vidéo"
+   },
+   "getResults": {
+      "message": "Obtenir des résultats"
+   },
+   "getSomeHelp": {
+      "message": "On vous aide ! "
+   },
+   "getStarted": {
+      "message": "Démarrer"
+   },
+   "getTopKeywordAccess": {
+      "message": "Accédez aux mots-clés similaires et aux vidéos tendance les plus populaires qui pourront vous aider à améliorer votre classement dans la recherche"
+   },
+   "getVidiqPro": {
+      "message": "Obtenez vidIQ Pro maintenant"
+   },
+   "goToDailyIdeasAndClick": {
+      "message": "Allez dans l'onglet Idées quotidiennes et cliquez sur le bouton"
+   },
+   "googleAuthMissingPermission": {
+      "message": "Nous avons besoin de l'autorisation d'identité pour utiliser l'authentification Google"
+   },
+   "googleLoginFailed": {
+      "message": "Impossible de se connecter avec Google"
+   },
+   "googlePlusStatLabel": {
+      "message": "google plus"
+   },
+   "googlePlusStatTitle": {
+      "message": "Google+"
+   },
+   "growthChannelAuditError": {
+      "message": "Importez plus de vidéos pour voir les variations de pourcentages pour les vues, les abonnés et la durée de visionnage de votre chaîne au cours des 30 derniers jours. \u003Cbr>\u003Cbr>Remarque: Si vous rencontrez des erreurs inattendues, essayez de désactiver votre bloqueur de publicité et recharger la page."
+   },
+   "hasReplies": {
+      "message": "A des réponses"
+   },
+   "heartedComment": {
+      "message": "Commentaire aimé"
+   },
+   "help": {
+      "message": "Aide"
+   },
+   "helpCenter": {
+      "message": "Centre d'aide"
+   },
+   "hiddenSecretsOfYoutube": {
+      "message": "Secrets cachés de YouTube"
+   },
+   "hide": {
+      "message": "Masquer"
+   },
+   "hideChannelInfoTitle": {
+      "message": "Cacher les Informations de la Chaîne"
+   },
+   "hideKwinsTitle": {
+      "message": "Masquer l'inspecteur des mots-clés"
+   },
+   "hideRelatedVideos": {
+      "message": "Masquer les vidéos associées"
+   },
+   "hideYouTubeLogo": {
+      "message": "Masquer le logo de YouTube"
+   },
+   "highScore": {
+      "message": "Élevé"
+   },
+   "highVolumeRankedTagsStatLabel": {
+      "message": "Tags classés de volume élevé"
+   },
+   "highlightSearchTerm": {
+      "message": "Mettre le terme de recherche en surbrillance"
+   },
+   "highresThumbnail": {
+      "message": "Miniature haute résolution"
+   },
+   "highresThumbnailChannelAuditEdit": {
+      "message": "Mettre à jour les miniatures"
+   },
+   "highresThumbnailChannelAuditHas": {
+      "message": "Vignette haute résolution ajoutée"
+   },
+   "highresThumbnailMissingInfo": {
+      "message": "Les vidéos répertoriées n'ont pas de vignettes haute résolution. Nous vous suggérons de les ajouter à chaque vidéo."
+   },
+   "highresThumbnailMissingSubtextBad": {
+      "message": "Téléchargez des vignettes haute résolution pour toutes vos vidéos"
+   },
+   "highresThumbnailMissingSubtextGood": {
+      "message": "Toutes vos vidéos ont des vignettes haute résolution !"
+   },
+   "highresThumbnailMissingTitle": {
+      "message": "Vidéos sans miniatures haute résolution"
+   },
+   "historical": {
+      "message": "Historique"
+   },
+   "homeScreen": {
+      "message": "Écran d'accueil"
+   },
+   "homeTitle": {
+      "message": "Page d'accueil"
+   },
+   "hourAbbreviation": {
+      "message": "h"
+   },
+   "hourPlural": {
+      "message": "heures"
+   },
+   "hourSingular": {
+      "message": "heure"
+   },
+   "hoursWatchedTitle": {
+      "message": "heures de visionnage"
+   },
+   "howsExpWithDailyIdeas": {
+      "message": "Quelle est votre expérience avec Daily Ideas aujourd'hui ?"
+   },
+   "idTitle": {
+      "message": "Identifiant"
+   },
+   "idea": {
+      "message": "Idée"
+   },
+   "ideaDismissed": {
+      "message": "Idée rejetée"
+   },
+   "ideaSaved": {
+      "message": "Idée enregistrée"
+   },
+   "ideasJustAuthedPartOne": {
+      "message": "Attends"
+   },
+   "ideasJustAuthedPartTwo": {
+      "message": "et actualisez cette page pour obtenir des idées quotidiennes"
+   },
+   "ideasJustUploadedErr": {
+      "message": "Vous venez de publier une nouvelle vidéo sur YouTube, veuillez revenir dans $num$ jours pour obtenir vos idées du jour !",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "ignoreByList": {
+      "message": "Ignorer par liste d'identifiants vidéo"
+   },
+   "imageThumbInfo": {
+      "message": "Pour utiliser une image pour votre miniature de fond, choisissez une image à importer dans la liste ou glisser-déposer une image dans la boîte."
+   },
+   "imageTitle": {
+      "message": "Image"
+   },
+   "imageTooLarge": {
+      "message": "Image trop grande, la taille limite de l’image doit être de $limit$ MB",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "improvePerformanceWithBoost": {
+      "message": "Avec \u003Cb>vidIQ Boost\u003C/b> nous pouvons vous aider à améliorer la performance de votre vidéo!"
+   },
+   "improveSearchTagsTooltip": {
+      "message": "Ces tags sont axés sur l'amélioration des vues de recherche"
+   },
+   "improveVideosBestTags": {
+      "message": "Améliorez vos vidéos et\u003Cbr>utilisez les meilleures étiquettes possibles"
+   },
+   "improveVideosSearchTraffic": {
+      "message": "Améliorez le trafic de recherche de vos vidéos\r\n"
+   },
+   "improveYourViews": {
+      "message": "Voulez-vous améliorer vos vues ?"
+   },
+   "improvementsChannelAuditError": {
+      "message": "Importer plus de vidéos pour voir les éléments à améliorer pour vos vidéos au cours des 30 derniers jours, comme le nombre total de cartes manquantes et d'écrans de fin"
+   },
+   "includeScreenshot": {
+      "message": "Inclure une Capture d'écran"
+   },
+   "inconsistent": {
+      "message": "Inconsitant"
+   },
+   "inlineKeywordsTitle": {
+      "message": "Mots-clés en ligne "
+   },
+   "insertAfter": {
+      "message": "Insérer après"
+   },
+   "insertBefore": {
+      "message": "Insérer avant"
+   },
+   "insertReplyTitle": {
+      "message": "Insérer une réponse\r\n"
+   },
+   "instagramFollowersStatLabel": {
+      "message": "abonnés instagram"
+   },
+   "interestOverTimeTitle": {
+      "message": "Intérêt au Fil du Temps"
+   },
+   "invalidChannelId": {
+      "message": "Identifiant de chaîne ou nom d'utilisateur invalide"
+   },
+   "invalidLogin": {
+      "message": "L'adresse e-mail et le mot de passe fournis sont invalides"
+   },
+   "invalidPlaylistId": {
+      "message": "Identifiant de playlist invalide"
+   },
+   "invalidVideoId": {
+      "message": "Identifiant vidéo invalide"
+   },
+   "issueGettingIdeas": {
+      "message": "Un problème est survenu lors de l'obtention de vos idées quotidiennes, veuillez réessayer plus tard."
+   },
+   "itsFree": {
+      "message": "C'est gratuit!"
+   },
+   "iveNotRepliedTo": {
+      "message": "Je n'ai pas encore répondu à"
+   },
+   "iveRepliedTo": {
+      "message": "J'ai répondu à"
+   },
+   "keyAchievementsTitle": {
+      "message": "Principales Réalisations"
+   },
+   "keyword": {
+      "message": "Mot-clé"
+   },
+   "keywordInspectorFeatureInfo": {
+      "message": "Aidez les téléspectateurs à trouver vos vidéos sur YouTube en utilisant des mots-clés à score élevé dans votre titre, votre description et vos balises"
+   },
+   "keywordInspectorTitle": {
+      "message": "Inspecteur de Mot-clés"
+   },
+   "keywordProvided": {
+      "message": "Mot-clé fourni"
+   },
+   "keywordRankTooltip": {
+      "message": "La classification de cette vidéo dans la recherche YouTube lors de la recherche de ce mot-clé"
+   },
+   "keywordScoreTitle": {
+      "message": "Score de Mots-clé"
+   },
+   "keywordScoreTooltip": {
+      "message": "Le score de mot-clé est déterminé pour évaluer l'efficacité de ce mot-clé dans vos efforts d'optimiser votre vidéo. Si vous disposez d'une chaîne avec 1M+ d'abonnés, vous pourriez accéder à des termes de recherche très compétitifs. Si vous avez plutôt une petite chaîne, il est préférable de se concentré sur les termes de recherche moyen avec une faible concurrence"
+   },
+   "keywordsAverageSubtextBad": {
+      "message": "Vos longueurs de tags sont en moyenne trop courtes. Essayez de les amener à au moins 400 caractères."
+   },
+   "keywordsAverageSubtextGood": {
+      "message": "Vos longueurs de tags sont en moyenne bonnes !"
+   },
+   "keywordsChannelAuditEdit": {
+      "message": "Mettre à jour les Tags"
+   },
+   "keywordsInDescriptionStatLabel": {
+      "message": "mots-clés dans la description"
+   },
+   "keywordsInTitleStatLabel": {
+      "message": "mots-clés dans le titre"
+   },
+   "keywordsRelatedTo": {
+      "message": "Mots clés similaires à '$keyword$'",
+      "placeholders": {
+         "keyword": {
+            "content": "$1"
+         }
+      }
+   },
+   "keywordsRelatedToSearch": {
+      "message": "Mots-clés liés à votre recherche"
+   },
+   "keywordsTitle": {
+      "message": "Mots-clés"
+   },
+   "kwinsErrorContact": {
+      "message": "Veuillez réessayer. Si le problème persiste, contactez-nous à support@vidiq.com."
+   },
+   "kwinsErrorOops": {
+      "message": "Oups, nous avons rencontré les erreurs suivantes:"
+   },
+   "labelTitle": {
+      "message": "Libellé"
+   },
+   "langAfrikaans": {
+      "message": "Afrikaans"
+   },
+   "langAlbanian": {
+      "message": "Albanais"
+   },
+   "langAmharic": {
+      "message": "Amharique"
+   },
+   "langArabic": {
+      "message": "Arabe"
+   },
+   "langArmenian": {
+      "message": "Arménien"
+   },
+   "langAzerbaijani": {
+      "message": "Azerbaïdjanais"
+   },
+   "langBasque": {
+      "message": "Basque"
+   },
+   "langBelarusian": {
+      "message": "Biélorusse"
+   },
+   "langBengali": {
+      "message": "Bengali"
+   },
+   "langBosnian": {
+      "message": "Bosniaque"
+   },
+   "langBulgarian": {
+      "message": "Bulgare"
+   },
+   "langBurmese": {
+      "message": "Birman"
+   },
+   "langCatalan": {
+      "message": "Catalan"
+   },
+   "langCebuano": {
+      "message": "Cebuano"
+   },
+   "langChichewa": {
+      "message": "Chichewa"
+   },
+   "langChinese": {
+      "message": "Chinois"
+   },
+   "langChineseHongKong": {
+      "message": "Chinois (Hong Kong)"
+   },
+   "langChineseSimplified": {
+      "message": "Chinois (Simplifié)"
+   },
+   "langChineseTaiwan": {
+      "message": "Chinois (Taïwan)"
+   },
+   "langChineseTraditional": {
+      "message": "Chinois (Traditionnel)"
+   },
+   "langCorsican": {
+      "message": "Corse"
+   },
+   "langCroatian": {
+      "message": "Croate"
+   },
+   "langCzech": {
+      "message": "Tchèque"
+   },
+   "langDanish": {
+      "message": "Danois"
+   },
+   "langDutch": {
+      "message": "Néerlandais"
+   },
+   "langEnglish": {
+      "message": "Anglais"
+   },
+   "langEnglishUnitedKingdom": {
+      "message": "Anglais (Royaume Uni)"
+   },
+   "langEsperanto": {
+      "message": "Espéranto"
+   },
+   "langEstonian": {
+      "message": "Estonien"
+   },
+   "langFilipino": {
+      "message": "Philippin"
+   },
+   "langFinnish": {
+      "message": "Finlandais"
+   },
+   "langFrench": {
+      "message": "Français"
+   },
+   "langFrenchCanada": {
+      "message": "Français (Canada)"
+   },
+   "langGalician": {
+      "message": "Galicien"
+   },
+   "langGeorgian": {
+      "message": "Géorgien"
+   },
+   "langGerman": {
+      "message": "Allemand"
+   },
+   "langGreek": {
+      "message": "Grec"
+   },
+   "langGujarati": {
+      "message": "Gujarati"
+   },
+   "langHaitianCreole": {
+      "message": "Créole haïtien"
+   },
+   "langHausa": {
+      "message": "Hausa"
+   },
+   "langHawaiian": {
+      "message": "hawaïen"
+   },
+   "langHebrew": {
+      "message": "Hébreu"
+   },
+   "langHindi": {
+      "message": "Hindi"
+   },
+   "langHmong": {
+      "message": "Hmong"
+   },
+   "langHungarian": {
+      "message": "Hongrois"
+   },
+   "langIcelandic": {
+      "message": "Islandais"
+   },
+   "langIgbo": {
+      "message": "Igbo"
+   },
+   "langIndonesian": {
+      "message": "Indonésien"
+   },
+   "langIrish": {
+      "message": "Irlandais"
+   },
+   "langItalian": {
+      "message": "Italien"
+   },
+   "langJapanese": {
+      "message": "Japonais"
+   },
+   "langJavanese": {
+      "message": "Javanais"
+   },
+   "langKannada": {
+      "message": "Kannada"
+   },
+   "langKazakh": {
+      "message": "Kazakh"
+   },
+   "langKhmer": {
+      "message": "Khmer"
+   },
+   "langKorean": {
+      "message": "Coréen"
+   },
+   "langKurdish": {
+      "message": "kurde"
+   },
+   "langKyrgyz": {
+      "message": "Kirghizistan"
+   },
+   "langLao": {
+      "message": "Lao"
+   },
+   "langLatin": {
+      "message": "Latin"
+   },
+   "langLatvian": {
+      "message": "Letton"
+   },
+   "langLithuanian": {
+      "message": "Lituanien"
+   },
+   "langLuxembourgish": {
+      "message": "Luxembourgeois"
+   },
+   "langMacedonian": {
+      "message": "Macédonien"
+   },
+   "langMalagasy": {
+      "message": "Malgache"
+   },
+   "langMalay": {
+      "message": "Malaisien"
+   },
+   "langMalayalam": {
+      "message": "Malayalam"
+   },
+   "langMaltese": {
+      "message": "Maltais"
+   },
+   "langMaori": {
+      "message": "Maori"
+   },
+   "langMarathi": {
+      "message": "Marathi"
+   },
+   "langMongolian": {
+      "message": "Mongol"
+   },
+   "langMyanmarBurmese": {
+      "message": "Myanmar (Birman)"
+   },
+   "langNepali": {
+      "message": "Népalais"
+   },
+   "langNorwegian": {
+      "message": "norvégien"
+   },
+   "langPashto": {
+      "message": "Pashto"
+   },
+   "langPersian": {
+      "message": "Persan"
+   },
+   "langPolish": {
+      "message": "Polonais"
+   },
+   "langPortuguese": {
+      "message": "Portugais"
+   },
+   "langPortugueseBrazil": {
+      "message": "Portugais (Brésil)"
+   },
+   "langPortuguesePortugal": {
+      "message": "Portugais (Portugal)"
+   },
+   "langPunjabi": {
+      "message": "Punjabi"
+   },
+   "langRomanian": {
+      "message": "Roumain"
+   },
+   "langRussian": {
+      "message": "Russe"
+   },
+   "langSamoan": {
+      "message": "Samoan"
+   },
+   "langScottishGaelic": {
+      "message": "Gaélique écossais"
+   },
+   "langSerbian": {
+      "message": "Serbe"
+   },
+   "langSesotho": {
+      "message": "Sesotho"
+   },
+   "langShona": {
+      "message": "Shona"
+   },
+   "langSindhi": {
+      "message": "Sindhi"
+   },
+   "langSinhala": {
+      "message": "Sinhala"
+   },
+   "langSlovak": {
+      "message": "Slovaque"
+   },
+   "langSlovenian": {
+      "message": "Slovène"
+   },
+   "langSomali": {
+      "message": "Somali"
+   },
+   "langSpanish": {
+      "message": "Espanol"
+   },
+   "langSpanishLatinAmerica": {
+      "message": "Espagnol (Amérique Latine)"
+   },
+   "langSpanishSpain": {
+      "message": "Espagnol (Espagne)"
+   },
+   "langSudanese": {
+      "message": "Soudanais"
+   },
+   "langSwahili": {
+      "message": "Swahili"
+   },
+   "langSwedish": {
+      "message": "Suédois"
+   },
+   "langTagalog": {
+      "message": "Tagalog"
+   },
+   "langTajik": {
+      "message": "Tadjik"
+   },
+   "langTamil": {
+      "message": "Tamil"
+   },
+   "langTelugu": {
+      "message": "Telugu"
+   },
+   "langThai": {
+      "message": "Thaïlandais"
+   },
+   "langTurkish": {
+      "message": "Turc"
+   },
+   "langUkrainian": {
+      "message": "Ukrainien"
+   },
+   "langUrdu": {
+      "message": "Ourdou"
+   },
+   "langUzbek": {
+      "message": "Ouzbékistan"
+   },
+   "langVietnamese": {
+      "message": "Vietnamien"
+   },
+   "langWelsh": {
+      "message": "Gallois"
+   },
+   "langWesternFrisian": {
+      "message": "Frison"
+   },
+   "langXhosa": {
+      "message": "Xhosa"
+   },
+   "langYiddish": {
+      "message": "Yiddish"
+   },
+   "langYoruba": {
+      "message": "Yoruba"
+   },
+   "langZulu": {
+      "message": "Zoulou"
+   },
+   "last12Months": {
+      "message": "12 derniers mois"
+   },
+   "last30DaysTitle": {
+      "message": "30 Derniers Jours"
+   },
+   "last48Hours": {
+      "message": "48 dernières heures"
+   },
+   "last60Minutes": {
+      "message": "60 dernières minutes"
+   },
+   "last7Days": {
+      "message": "7 derniers jours"
+   },
+   "lastDays": {
+      "message": "$n$ Derniers Jours",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastMonth": {
+      "message": "le mois dernier"
+   },
+   "lastMonths": {
+      "message": "$n$ Derniers Mois",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastPeriod": {
+      "message": "période précédente"
+   },
+   "lastVideoWatched": {
+      "message": "Dernière vidéo visionnée"
+   },
+   "lastVideoWatchedNoData": {
+      "message": "Aucune donnée pour la dernière vidéo visionnée"
+   },
+   "lastYearTitle": {
+      "message": "L'année dernière"
+   },
+   "learnIfVideoIsTrendingNow": {
+      "message": "Découvrez si une vidéo est à la mode en ce moment"
+   },
+   "learnMore": {
+      "message": "En savoir plus"
+   },
+   "learnMoreAboutBoost": {
+      "message": "En savoir plus sur \u003Cb>vidIQ Boost\u003C/b>"
+   },
+   "learnMoreAboutThisFeature": {
+      "message": "En savoir plus sur cette fonctionnalité"
+   },
+   "leaveFeedback": {
+      "message": "Laisser les commentaires"
+   },
+   "legacyCampaignRunning": {
+      "message": "Vous avez une campagne de description ancienne en cours d'exécution."
+   },
+   "letsGo": {
+      "message": "Allons-y"
+   },
+   "likeRatio": {
+      "message": "Le ratio des \"J'aime\" aux nombre total des \"J'aime\" et des \"Je n'aime pas\""
+   },
+   "likeRatioStatLabel": {
+      "message": "le ratio de \"J'aime\""
+   },
+   "likeToDislikeRatio": {
+      "message": "Le Rapport entre \"J'aime\" et \"Je n'aime pas\""
+   },
+   "likes": {
+      "message": "J'aime"
+   },
+   "likesTitle": {
+      "message": "Les \"J'aimes\""
+   },
+   "limitToRangeOptionText": {
+      "message": "Limiter aux vidéos dans la plage de temps"
+   },
+   "limitedCampaign": {
+      "message": "Cette campagne fonctionnera sur vos $num$ dernières vidéos.",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "link": {
+      "message": "Lien"
+   },
+   "linkedInStatTitle": {
+      "message": "LinkedIn"
+   },
+   "linkedinStatLabel": {
+      "message": "linkedin"
+   },
+   "listEntryRules": {
+      "message": "Entrer l'URL ou l 'identifiant de la vidéo. Séparé par des virgules, des espaces ou des sauts de ligne."
+   },
+   "livePreview": {
+      "message": "Aperçu en direct"
+   },
+   "loadByList": {
+      "message": "Charger par liste"
+   },
+   "loadByNumber": {
+      "message": "Charger par nombre de vidéos"
+   },
+   "loadByPlaylist": {
+      "message": "Charger par playlist"
+   },
+   "loadMoreTitle": {
+      "message": "Charger plus"
+   },
+   "loadPlaylistsTitle": {
+      "message": "Chargement des Playlists"
+   },
+   "loadTemplate": {
+      "message": "Charger un modèle"
+   },
+   "loadTitle": {
+      "message": "Charger"
+   },
+   "loading": {
+      "message": "Chargement "
+   },
+   "loadingBatch": {
+      "message": "Chargement du lot"
+   },
+   "loadingVideoDataEllipsis": {
+      "message": "Chargement des données vidéo..."
+   },
+   "loadingVideosEllipsis": {
+      "message": "Chargement des vidéos..."
+   },
+   "loadingVideosTitle": {
+      "message": "Chargement des vidéos"
+   },
+   "locations": {
+      "message": "Emplacement (s)"
+   },
+   "logIn": {
+      "message": "Connexion"
+   },
+   "logInToVidiq": {
+      "message": "Connectez-vous à vidIQ"
+   },
+   "logInWithGoogle": {
+      "message": "Connectez-vous avec Google"
+   },
+   "logInWithVidiq": {
+      "message": "Connectez-vous avec vidIQ"
+   },
+   "loginExistingAccount": {
+      "message": "Connectez vous à votre compte \u003Cb>vidIQ\u003C/b> existant"
+   },
+   "loginTitle": {
+      "message": "Connexion"
+   },
+   "loginToUseShortcuts": {
+      "message": "Se connecter pour utiliser les raccourcis !"
+   },
+   "logoutTitle": {
+      "message": "Se déconnecter"
+   },
+   "longLabel": {
+      "message": "long"
+   },
+   "loopVideo": {
+      "message": "Reboucler la Vidéo"
+   },
+   "lowScore": {
+      "message": "Bas"
+   },
+   "lowestAvgViewTime": {
+      "message": "Plus petite Durée Moy. de visionnage"
+   },
+   "lowestAvgViewTimeChannelAuditInfo": {
+      "message": "Voici les vidéos avec les durées moyenne de visionnage les plus basse. Nous vous suggérons de les étudier pour déterminer si vous devez changer ou cesser de produire ce type de contenu."
+   },
+   "lowestEngagement": {
+      "message": "Engagement Le Plus bas"
+   },
+   "lowestEngagementChannelAuditInfo": {
+      "message": "Voici les vidéos avec les engagements les plus faible. Nous vous suggérons de les étudier pour déterminer pourquoi l'engagement est si faible. Avez-vous posé des questions? Le contenu a-t-il touché le bon public?"
+   },
+   "lowestLikeRatio": {
+      "message": "Ratios des \"J'aime\" les Plus bas"
+   },
+   "lowestLikeRatioChannelAuditInfo": {
+      "message": "Votre audience n'a pas répondu favorablement à ces vidéos. Passez en revue le sujet de chaque vidéo et lisez les commentaires pour découvrir pourquoi."
+   },
+   "lowestRetention": {
+      "message": "% de Rétention Le Plus bas"
+   },
+   "lowestRetentionChannelAuditInfo": {
+      "message": "Voici les vidéos avec les fidélisations de l'audience les plus faible. Nous vous suggérons d'étudier ces vidéos pour déterminer si vous devez modifier la longueur ou arrêter de produire ce type de contenu."
+   },
+   "lowestSubscribers": {
+      "message": "Vidéos Perdant des Abonnés"
+   },
+   "lowestSubscribersChannelAuditInfo": {
+      "message": "Voici les vidéos qui perdent le plus d’abonnés. Remarque: pour de nombreuses chaînes, les flux en direct perdent des abonnés mais ont une durée de visionnage élevée. Essayez de comprendre pourquoi cela se produit et ajustez."
+   },
+   "lowestViews": {
+      "message": "Vues Les Plus basses"
+   },
+   "lowestViewsChannelAuditInfo": {
+      "message": "Voici les vidéos avec les vues les plus basses. Nous vous suggérons d'étudier ces vidéos pour déterminer si vous devez continuer à produire ce type de contenu."
+   },
+   "markAllForDeletionTitle": {
+      "message": "Marquer tout pour la supprimer"
+   },
+   "massCSVExportTitle": {
+      "message": "Exportation CSV en Groupe"
+   },
+   "massEditCardsAndAnns": {
+      "message": "Modifier les Fiches et Annotations en Groupe"
+   },
+   "massEditCardsAndEnds": {
+      "message": "Modifier les Fiches et les Écrans de fin en Groupe"
+   },
+   "massEditVideosTitle": {
+      "message": "Modifier les Vidéos en Groupe"
+   },
+   "massLikeFail": {
+      "message": "Impossible d’aimer votre vidéo en groupe : $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "massLikeThisVideo": {
+      "message": "Aimer cette vidéo en Groupe"
+   },
+   "massLikeTitle": {
+      "message": "Aimer en Groupe"
+   },
+   "matches": {
+      "message": "Correspondance"
+   },
+   "maxRes": {
+      "message": "Résolution maximale disponible\r\n"
+   },
+   "mcnStatLabel": {
+      "message": "réseau multichaîne"
+   },
+   "measurePerformance": {
+      "message": "Mesure de la performance"
+   },
+   "mediumScore": {
+      "message": "Moyen"
+   },
+   "merchandiseTitle": {
+      "message": "Produit"
+   },
+   "message": {
+      "message": "Message"
+   },
+   "mfaCodeRequestFail": {
+      "message": "Impossible de demander le code de vérification\r\n"
+   },
+   "mfaCodeSent": {
+      "message": "Nous vous avons envoyé un code de vérification"
+   },
+   "mfaCodeSentExplain": {
+      "message": "Si vous ne le recevez pas, vous pouvez le demander à nouveau"
+   },
+   "mfaCodeSubmitFail": {
+      "message": "Impossible de soumettre le code de vérification\r\n"
+   },
+   "mfaComplete": {
+      "message": "Autorisation complète!"
+   },
+   "mfaInfoEmail": {
+      "message": "À votre demande, nous enverrons un e-mail avec votre code de vérification"
+   },
+   "mfaInfoSMS": {
+      "message": "À la demande, nous enverrons un message SMS avec votre code de vérification à \u003Cb>$phoneNumber$\u003C/b>",
+      "placeholders": {
+         "phoneNumber": {
+            "content": "$1"
+         }
+      }
+   },
+   "mfaRequired": {
+      "message": "Autorisation à deux facteurs requise"
+   },
+   "minimumSubs": {
+      "message": "Nombre minimum d'abonnés"
+   },
+   "minuteAbbreviation": {
+      "message": "m"
+   },
+   "minutePlural": {
+      "message": "minutes"
+   },
+   "minuteSingular": {
+      "message": "minute"
+   },
+   "minutesWatchedLower": {
+      "message": "minutes visionnées"
+   },
+   "minutesWatchedTitle": {
+      "message": "Minutes Visionnées"
+   },
+   "mobileTitle": {
+      "message": "Téléphone portable"
+   },
+   "modalErrorUnauthenticatedButton": {
+      "message": "Authentifiez votre chaîne"
+   },
+   "modalErrorUnauthenticatedHint": {
+      "message": "N'oubliez pas d'actualiser cette page après avoir authentifié votre chaîne"
+   },
+   "modalErrorUnauthenticatedMessage": {
+      "message": "Vous devez authentifier votre chaîne avec vidIQ pour utiliser cette fonctionnalité."
+   },
+   "modalErrorUnknownButton": {
+      "message": "Retourner à YouTube "
+   },
+   "modalErrorUnknownMessage": {
+      "message": "Une erreur inconnue s'est produite. Nous avons été avisés et nous le réglerons dès que possible."
+   },
+   "modalUpsellButton": {
+      "message": "Mettez à niveau votre compte"
+   },
+   "modalVideoEngagementRate": {
+      "message": "taux d'Interaction"
+   },
+   "modalVideoSubsDriven": {
+      "message": "abonnés guidés"
+   },
+   "modeTitle": {
+      "message": "Mode"
+   },
+   "mondayPlural": {
+      "message": "lundis"
+   },
+   "monetizableTooltip": {
+      "message": "Vous avez rempli le critère de 4 000 heures de visionnage requis pour être éligible au programme Partenaire YouTube!"
+   },
+   "monthOverMonth": {
+      "message": "Mensuelle"
+   },
+   "monthOverMonthAbbreviation": {
+      "message": "MaM"
+   },
+   "monthlySearches": {
+      "message": "Recherches Mensuelles"
+   },
+   "monthsIntervalOption": {
+      "message": "Mois"
+   },
+   "mostRecentUpload": {
+      "message": "Mise en ligne la plus récente"
+   },
+   "mostUsed": {
+      "message": "Plus utilisé"
+   },
+   "mostUsedTooltip": {
+      "message": "Mots clés les plus utilisés dans les 10 vidéos les plus populaires"
+   },
+   "mostViewedFilter100Kto1M": {
+      "message": "100K - 1M"
+   },
+   "mostViewedFilter10Kto100K": {
+      "message": "10K - 100K"
+   },
+   "mostViewedFilter1Kto10K": {
+      "message": "1K - 10K"
+   },
+   "mostViewedFilter1MorMore": {
+      "message": "1M+"
+   },
+   "mostViewedVideo": {
+      "message": "Vidéo la plus visionnée: $stat$",
+      "placeholders": {
+         "stat": {
+            "content": "$1"
+         }
+      }
+   },
+   "multipleFilters": {
+      "message": "Appliquer plusieurs filtres"
+   },
+   "mustAgreeToTOS": {
+      "message": "Vous devez accepter les conditions d'utilisation"
+   },
+   "mustBeValidEmail": {
+      "message": "Doit être une adresse e-mail valide"
+   },
+   "mustLinkChannel": {
+      "message": "Vous devez lier votre chaîne YouTube actuelle avec votre compte vidIQ afin d'utiliser cette fonctionnalité"
+   },
+   "myVideosTitle": {
+      "message": "Mes vidéos"
+   },
+   "nDaysAfterPublish": {
+      "message": "$num$ jour après publication",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "nItemsSelected": {
+      "message": "$n$ articles sélectionnés",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nResults": {
+      "message": "$n$ résultats",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nVideos": {
+      "message": "$vids$ vidéos",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Nom"
+   },
+   "nature": {
+      "message": "Nature"
+   },
+   "negDemonetizationWord": {
+      "message": "Négativité"
+   },
+   "neverMissATrendingVideo": {
+      "message": "Ne manquez jamais une vidéo tendance"
+   },
+   "newPeriodStartsNDays": {
+      "message": "La nouvelle période commence dans $n$ jours.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "newPeriodStartsTomorrow": {
+      "message": "La nouvelle période commence demain."
+   },
+   "newTemplate": {
+      "message": "Nouveau modèle"
+   },
+   "newTitle": {
+      "message": "Nouveau"
+   },
+   "newVidiqFeature": {
+      "message": "Nouvelle fonctionnalité vidIQ"
+   },
+   "next": {
+      "message": "Suivant"
+   },
+   "niceYouViewedIdeas": {
+      "message": "Joli! Vous avez consulté vos $num$ idées quotidiennes",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "no": {
+      "message": "Non"
+   },
+   "noAccountYet": {
+      "message": "Vous n'avez pas un compte ?"
+   },
+   "noChannelAccess": {
+      "message": "Votre compte vidIQ n'a pas accès à \ncette chaîne."
+   },
+   "noCommentTemplates": {
+      "message": "Aucun modèle de commentaires enregistrés. Ajouter-en un pour commencer !"
+   },
+   "noControversialKeywords": {
+      "message": "Aucun mot-clé controversé trouvé dans votre titre, description ou tags !"
+   },
+   "noDataForChart": {
+      "message": "Aucune donnée pour le graphique $chart$",
+      "placeholders": {
+         "chart": {
+            "content": "$1"
+         }
+      }
+   },
+   "noHistoricalData": {
+      "message": "Impossible d'obtenir des données historiques"
+   },
+   "noNevermind": {
+      "message": "Non laisse tomber"
+   },
+   "noOtherVideosFound": {
+      "message": "Aucune autre vidéo n'a été trouvée"
+   },
+   "noRelatedKeywords": {
+      "message": "Aucun mot-clé similaire trouvé\n"
+   },
+   "noRelatedTrendingVideos": {
+      "message": "Aucune vidéos tendance similaires trouvées"
+   },
+   "noReplies": {
+      "message": "N'a pas des réponses"
+   },
+   "noResourcesFound": {
+      "message": "Aucune $resources$ trouvée pour cette vidéo",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noResourcesFoundHint": {
+      "message": "Essayez de revenir en arrière et choisissez \u003Cb>Tous\u003C/b> les types de ressources ou augmentez la quantité de vidéo à parcourir."
+   },
+   "noResourcesFoundTitle": {
+      "message": "Aucune Ressource Trouvée"
+   },
+   "noResultsFound": {
+      "message": "Aucun résultat trouvé"
+   },
+   "noSearchResultsFound": {
+      "message": "Aucun résultat de recherche trouvé pour '$term$'",
+      "placeholders": {
+         "term": {
+            "content": "$1"
+         }
+      }
+   },
+   "noTags": {
+      "message": "Pas de tags"
+   },
+   "noTagsDetected": {
+      "message": "Nous n'avons détecté aucun de vos tags dans la description de la vidéo. Assurez-vous que vos mots clés les plus forts apparaissent dans votre description, votre titre et vos tags."
+   },
+   "noTagsFound": {
+      "message": "Pas des mots-clés trouvés"
+   },
+   "noTemplatesToLoad": {
+      "message": "Aucun modèle à charger !\u003Cbr>Enregistrer une vidéo comme modèle pour charger ses $resources$ vers d'autres vidéos",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noTemplatesToLoad2": {
+      "message": "Pas de modèles enregistrés, ajouter des objets pour créer un nouveau modèle"
+   },
+   "noTemplatesToLoad3": {
+      "message": "Aucun modèle enregistré encore, créer un ci-dessus"
+   },
+   "noTemplatesToLoad4": {
+      "message": "Pas de modèles à charger"
+   },
+   "noTopChannels": {
+      "message": "Aucune chaîne trouvée pour ce terme de recherche"
+   },
+   "noTopics": {
+      "message": "Aucun sujet"
+   },
+   "noTrending": {
+      "message": "Aucune vidéo tendance trouvée"
+   },
+   "noTweets": {
+      "message": "Aucun Tweets trouvée"
+   },
+   "noVideoIdsFound": {
+      "message": "Aucune ID de vidéo trouvée"
+   },
+   "noVideosFound": {
+      "message": "Aucune vidéo trouvée pour cette chaîne"
+   },
+   "none": {
+      "message": "Aucun"
+   },
+   "nonzeroLimit": {
+      "message": "Veuillez choisir une limite supérieure à zéro"
+   },
+   "notEnoughDataForSearchTerm": {
+      "message": "Pas assez de données pour ce terme de recherche"
+   },
+   "notEnoughSVIOT": {
+      "message": "Pas assez de volume de recherche pour afficher le rapport d'Intérêt au Fil du Temps"
+   },
+   "notEnoughSVQueries": {
+      "message": "Pas assez de volume de recherche pour afficher les rapports des Recherches"
+   },
+   "notEnoughSVReports": {
+      "message": "Pas assez de volume de recherche pour afficher les differents rapports"
+   },
+   "notMonetizableTooltip": {
+      "message": "Pour être admissible au programme Partenaire YouTube, vous devez atteindre 4 000 heures de visionnage et 1 000 abonnés."
+   },
+   "noteTitle": {
+      "message": "Remarque"
+   },
+   "numCharacters": {
+      "message": "$stat$: $num$ caractères",
+      "placeholders": {
+         "num": {
+            "content": "$2"
+         },
+         "stat": {
+            "content": "$1"
+         }
+      }
+   },
+   "numGoogleEmbedSourcesStatLabel": {
+      "message": "sources intégrées "
+   },
+   "numGoogleTrafficSourcesStatLabel": {
+      "message": "référents"
+   },
+   "numOfTotal": {
+      "message": "$num$ de $total$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "numResultsAreShown": {
+      "message": "$num$ résultats sont affichés",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "numberOfViewsTitle": {
+      "message": "Nombre de Vues"
+   },
+   "occurrences": {
+      "message": "Occurrences"
+   },
+   "okGotIt": {
+      "message": "OK, j'ai compris !"
+   },
+   "onNumViewSingular": {
+      "message": "ssur 1 vue"
+   },
+   "onNumViews": {
+      "message": "sur $num$ vues",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "oneDayAfterPublish": {
+      "message": "1 jour après publication"
+   },
+   "oneItemSelected": {
+      "message": "1 élément sélectionné"
+   },
+   "oneResult": {
+      "message": "1 résultat"
+   },
+   "oneVideo": {
+      "message": "1 vidéo"
+   },
+   "only4endscreensAllowed": {
+      "message": "Seuls 4 écrans de fin sont autorisés par vidéo"
+   },
+   "oopsWereInTrouble": {
+      "message": "Oups, nous avons des problèmes !"
+   },
+   "opacityTitle": {
+      "message": "Opacité"
+   },
+   "open": {
+      "message": "Ouvrir"
+   },
+   "openInKwins": {
+      "message": "Ouvrir dans l'inspecteur de mots clés"
+   },
+   "optimize": {
+      "message": "Optimiser"
+   },
+   "optimizeNMoreVideos": {
+      "message": "Vous pouvez optimiser $n$ vidéos de plus.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "optimizeOneMoreVideo": {
+      "message": "Vous pouvez optimiser 1 vidéo de plus."
+   },
+   "or": {
+      "message": "ou"
+   },
+   "order": {
+      "message": "Commander"
+   },
+   "organicViewsStatLabel": {
+      "message": "vues naturelles"
+   },
+   "organicViewsTooltip": {
+      "message": "Vues organiques: Le nombre de vues non annoncés. Calculé en prenant le nombre total de vues (provenant de l'API de YouTube) et en le soustrayant des vues publiées (de l'API de YouTube)."
+   },
+   "organizeTagsMessage": {
+      "message": "Cliquez et faites glisser les tags pour les réorganiser!"
+   },
+   "organizeTagsTitle": {
+      "message": "Organiser les tags"
+   },
+   "otherImageTitle": {
+      "message": "Autre Image"
+   },
+   "outOfHundred": {
+      "message": "sur 100"
+   },
+   "outOfOptimizationsNDays": {
+      "message": "Vous n'avez plus d'optimisation pour cette période. $start$Mettez votre compte à jour$end$ ou réessayez dans $n$ jours.",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "n": {
+            "content": "$3"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "outOfOptimizationsTomorrow": {
+      "message": "Vous n'avez plus d'optimisation pour cette période. $start$Mettez votre compte  à jour$end$ ou réessayez demain.",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "overall": {
+      "message": "Dans l'ensemble"
+   },
+   "overallInfoCardText": {
+      "message": "Le score global est définie pour vous aider à évaluer l'efficacité de ce mot clé dans vos efforts d'optimisation vidéo.\u003Cbr>\u003Cbr> Si vous avez une chaîne YouTube avec plus d'1M d'abonné, vous pourriez être en mesure de percer dans des termes de recherche très compétitifs, mais si vous êtes une petite chaîne, il est préférable de rester concentré sur les termes de recherche de milieu de gamme avec une faible concurrence."
+   },
+   "overallScore": {
+      "message": "Score global"
+   },
+   "overviewTitle": {
+      "message": "Vue d'ensemble"
+   },
+   "overwriteEndscreen": {
+      "message": "Remplacer les annotations d'écran de fin de ces vidéos"
+   },
+   "overwriteTitle": {
+      "message": "Remplacer"
+   },
+   "pageStatus": {
+      "message": "Page \u003Cb>$page$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         }
+      }
+   },
+   "pageStatusTotalKnown": {
+      "message": "Page \u003Cb>$page$\u003C/b> de \u003Cb>$total$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "passwordLengthValidation": {
+      "message": "Le mot de passe doit être d'au moins $nombre$ caractères long",
+      "placeholders": {
+         "nombre": {
+            "content": "$1"
+         }
+      }
+   },
+   "passwordRequired": {
+      "message": "Password is required"
+   },
+   "passwordTitle": {
+      "message": "Mots de passe"
+   },
+   "pastDaysRangeOption": {
+      "message": "$range$ Derniers Jours",
+      "placeholders": {
+         "range": {
+            "content": "$1"
+         }
+      }
+   },
+   "pastTwoWeeksRangeOption": {
+      "message": "2 Dernières Semaines "
+   },
+   "pastWeekRangeOption": {
+      "message": "Semaine Dernière"
+   },
+   "peakTimeToPost": {
+      "message": "L’heure de pointe est \u003Cb>$time$\u003C/b>.",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "peakTimeToPostOnDay": {
+      "message": "L’heure de pointe le $days$ est \u003Cb> $ time $ \u003C/ b>.",
+      "placeholders": {
+         "_time_": {
+            "content": "$2"
+         },
+         "days": {
+            "content": "$1"
+         }
+      }
+   },
+   "percentChangeTooltip": {
+      "message": "$change$% comparé à la periode précédente ($previous$)",
+      "placeholders": {
+         "change": {
+            "content": "$1"
+         },
+         "previous": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentOfEngagements": {
+      "message": "$name$: $percent$% d'interactions",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         },
+         "percent": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentSubViewsStatLabel": {
+      "message": "vues d'abonnés"
+   },
+   "percentageOfTotalForPeriod": {
+      "message": "(\u003Cb>$percentage$%\u003C/b> du total pour cette période)",
+      "placeholders": {
+         "percentage": {
+            "content": "$1"
+         }
+      }
+   },
+   "performanceTitle": {
+      "message": "Performances"
+   },
+   "pinCommentMessage": {
+      "message": "Si vous avez déjà épinglé un commentaire, cela le remplacera"
+   },
+   "pinCommentTitle": {
+      "message": "Épingler ce commentaire"
+   },
+   "pinCommentTooltip": {
+      "message": "Épingler Commentaire (alimenté par vidIQ)"
+   },
+   "pinExtensionInstructions": {
+      "message": "Cliquez sur l'icône ci-dessus pour épingler vidIQ Vision pour un accès facile."
+   },
+   "pinnedComment": {
+      "message": "Commentaire Épingle"
+   },
+   "playVideoFrom": {
+      "message": "Jouez la vidéo depuis"
+   },
+   "playerSize": {
+      "message": "Taille du lecteur"
+   },
+   "playlistTitle": {
+      "message": "Playlist"
+   },
+   "playlistsTitle": {
+      "message": "Playlists"
+   },
+   "pleaseConfirmEmailBeforeUsingFeature": {
+      "message": "Veuillez confirmer votre e-mail avant d'utiliser cette fonctionnalité. Vous pouvez demander un nouvel e-mail de confirmation en visitant l'\u003Ca href=\\\"https://app.vidiq.com/welcome\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\">application Web vidIQ\u003C/ un>."
+   },
+   "pleaseEndCampaign": {
+      "message": "Veuillez mettre fin à cette campagne pour continuer"
+   },
+   "pleaseSelectPlaylist": {
+      "message": "Veuillez sélectionner une playlist"
+   },
+   "pleaseWaitThumbnail": {
+      "message": "Vous pouvez changer votre vignette une fois que votre vidéo a fini de télécharger et de traiter"
+   },
+   "pluralPagesLeftTitle": {
+      "message": "$pages$ Pages restantes",
+      "placeholders": {
+         "pages": {
+            "content": "$1"
+         }
+      }
+   },
+   "pollTitle": {
+      "message": "Sondage"
+   },
+   "postingScheduleInfo": {
+      "message": "La cohérence est roi sur YouTube! Plus vous publiez de vidéos, plus souvent vous avez un impact sur votre audience. Une fois par semaine devrait être votre cible minimale. Une fois par jour c'est génial!"
+   },
+   "postingScheduleSubtextBad": {
+      "message": "Publiez au moins une nouvelle vidéo chaque semaine."
+   },
+   "postingScheduleSubtextGood": {
+      "message": "Super, vous publiez des vidéos au moins une fois par semaine!"
+   },
+   "postingScheduleText": {
+      "message": "Environ $numVideos$ $videos$ chaque $range$",
+      "placeholders": {
+         "numVideos": {
+            "content": "$1"
+         },
+         "range": {
+            "content": "$3"
+         },
+         "videos": {
+            "content": "$2"
+         }
+      }
+   },
+   "postingScheduleTitle": {
+      "message": "Calendrier de publication"
+   },
+   "poweredBy": {
+      "message": "Alimentés par"
+   },
+   "poweredByVidIQ": {
+      "message": "Alimentés par vidiQ"
+   },
+   "preThumbnailSaveInfo": {
+      "message": "Voilà à quoi ressemblera votre miniature sur le web. Cliquez sur le bouton \"Enregistrer la Miniature\" quand vous êtes prêt."
+   },
+   "preferencesTitle": {
+      "message": "Préférences"
+   },
+   "prev": {
+      "message": "Précédent"
+   },
+   "preview": {
+      "message": "Aperçu"
+   },
+   "previewButton": {
+      "message": "Bouton Aperçu"
+   },
+   "previewChanges": {
+      "message": "Aperçu des modifications"
+   },
+   "previewInSearch": {
+      "message": "Aperçu dans les résultats de recherche"
+   },
+   "processingEllipsis": {
+      "message": "Traitement en cours..."
+   },
+   "productTitle": {
+      "message": "Produit"
+   },
+   "profDemonetizationWord": {
+      "message": "Jurons"
+   },
+   "public": {
+      "message": "Publique"
+   },
+   "quality": {
+      "message": "Qualité"
+   },
+   "quotaLimitTooltip": {
+      "message": "Votre compte est limité à $quota$ videos par mois. Si vous êtes intéressé par plus, contactez-nous.",
+      "placeholders": {
+         "quota": {
+            "content": "$1"
+         }
+      }
+   },
+   "rankedTagsStatLabel": {
+      "message": "Tags classés"
+   },
+   "reactions": {
+      "message": "réactions"
+   },
+   "readyCopyResources": {
+      "message": "Je suis prêt, copier mes $resources$!",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "readyMakeChanges": {
+      "message": "Je suis prêt, affirmer mes modifications !"
+   },
+   "recentChannelSubsStatLabel": {
+      "message": "abonnés des $period$ derniers jours",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentChannelViewsStatLabel": {
+      "message": "vues sur les $period$ derniers jours",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentEstimatedRevenueStatLabel": {
+      "message": "revenus estimés les $period$ derniers jours",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentVideosStatLabel": {
+      "message": "vidéos publiées les $period$ derniers jours",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recommendedBy": {
+      "message": "Recommandé par"
+   },
+   "recommendedKeywordsForDescription": {
+      "message": "Mots clés recommandés pour votre description en fonction de vos tags"
+   },
+   "recommendedKeywordsForTitle": {
+      "message": "Mots clés recommandés pour le titre de votre vidéo en fonction de vos tags"
+   },
+   "recommendedTagsTitle": {
+      "message": "Tags Recommandés"
+   },
+   "reconnectYourYtAccount": {
+      "message": "Reconnectez votre compte YouTube"
+   },
+   "reconnectYourYtChannel": {
+      "message": "Reconnectez votre chaîne YouTube"
+   },
+   "recoverPasswordTitle": {
+      "message": "Récupérer Mot de passe"
+   },
+   "redditCommentsStatLabel": {
+      "message": "commentaires reddit"
+   },
+   "redditCommentsStatTitle": {
+      "message": "Les Commentaires Reddit"
+   },
+   "redditLikesStatLabel": {
+      "message": "votes positifs de reddit"
+   },
+   "redditPostsStatLabel": {
+      "message": "messages reddit"
+   },
+   "redditPostsStatTitle": {
+      "message": "Les Messages Reddit"
+   },
+   "redditUpvotesStatTitle": {
+      "message": "Les Votes positifs Reddit"
+   },
+   "referredSourcesTitle": {
+      "message": "Sources Référencées"
+   },
+   "referredViewsStatLabel": {
+      "message": "Vues référées"
+   },
+   "referrersTooltip": {
+      "message": "Référents: nombre de pages Web externes liées à cette vidéo."
+   },
+   "refineSearchWithFilters": {
+      "message": "Affinez votre recherche et gagnez du temps avec nos filtres sur vidIQ Boost"
+   },
+   "refresh": {
+      "message": "Rafraîchir"
+   },
+   "refreshDataTitle": {
+      "message": "Actualiser les Données"
+   },
+   "refreshTagsButton": {
+      "message": "Actualiser les balises"
+   },
+   "refreshTagsMessage": {
+      "message": "Nous avons de nouvelles recommandations pour vous"
+   },
+   "relatedKeywords": {
+      "message": "Mots-clés similaires"
+   },
+   "relatedQueriesTitle": {
+      "message": "Requêtes similaires"
+   },
+   "relatedScore": {
+      "message": "Score associé"
+   },
+   "relatedScoreTip": {
+      "message": "Le score associé est une mesure de la proximité de ce mot-clé avec le mot-clé que vous avez recherché."
+   },
+   "relatedTo": {
+      "message": "Similaire à"
+   },
+   "relatedTrendingVideos": {
+      "message": "Vidéos tendances similaires"
+   },
+   "relevancyTitle": {
+      "message": "Pertinence"
+   },
+   "rememberToRefresh": {
+      "message": "N'oubliez pas de rafraichir la page après la mise à niveau !"
+   },
+   "removalNoticePart1": {
+      "message": "En tant qu'un partenaire certifié de YouTube, suivant les nouvelles directives de conformité, nous apportons quelques modifications au tableaux de données de la vidéo."
+   },
+   "removalNoticePart2": {
+      "message": "Si vous vous demandez où sont passés les Revenus Estimés et le Taux d'Engagement,"
+   },
+   "removalNoticePart3": {
+      "message": "lisez notre article à ce sujet ici"
+   },
+   "replace": {
+      "message": "Remplacer"
+   },
+   "replaceCurrentObjects": {
+      "message": "Remplacer les objets actuels"
+   },
+   "replaceWith": {
+      "message": "Remplacer par"
+   },
+   "reports": {
+      "message": "Rapports"
+   },
+   "requestCodeTitle": {
+      "message": "Demander un code"
+   },
+   "research": {
+      "message": "Recherche"
+   },
+   "researchAllResultsLoaded": {
+      "message": "Tous les résultats chargés"
+   },
+   "researchChannelSubs": {
+      "message": "Abonnés de la Chaîne"
+   },
+   "researchChannelSubs2": {
+      "message": "abonnés de la chaîne"
+   },
+   "researchClearAll": {
+      "message": "Tout effacer"
+   },
+   "researchDuration": {
+      "message": "Durée"
+   },
+   "researchErrorNoResults": {
+      "message": "Aucun résultat trouvé. Essayez de modifier les options de recherche."
+   },
+   "researchEstimatedEarnings": {
+      "message": "revenus estimés"
+   },
+   "researchFilterBronze": {
+      "message": "Bronze (10 k - 100 k abonnés)"
+   },
+   "researchFilterEngagements": {
+      "message": "Engagements"
+   },
+   "researchFilterGold": {
+      "message": "Or (plus d'1 M d'abonnés)"
+   },
+   "researchFilterGraphite": {
+      "message": "Graphite (jusqu'à 1 k abonnés)"
+   },
+   "researchFilterOpal": {
+      "message": "Opale (1 k -10 k abonnés)"
+   },
+   "researchFilterOver100": {
+      "message": "Plus de 100"
+   },
+   "researchFilterOver100k": {
+      "message": "PLus de 100 k"
+   },
+   "researchFilterOver100m": {
+      "message": "Plus de 100 M"
+   },
+   "researchFilterOver10k": {
+      "message": "Plus de 10 k"
+   },
+   "researchFilterOver10m": {
+      "message": "Plus de 10 M"
+   },
+   "researchFilterOver1b": {
+      "message": "Plus de 1 G"
+   },
+   "researchFilterOver1k": {
+      "message": "Plus de 1 k"
+   },
+   "researchFilterOver1m": {
+      "message": "Plus de 1 M"
+   },
+   "researchFilterOver30s": {
+      "message": "Plus de 30s"
+   },
+   "researchFilterOver50k": {
+      "message": "Plus de 50 k"
+   },
+   "researchFilterOver5k": {
+      "message": "Plus de 5 k"
+   },
+   "researchFilterOver5m": {
+      "message": "Plus de 5 M"
+   },
+   "researchFilterPast48Hours": {
+      "message": "48 dernières heures"
+   },
+   "researchFilterPast6Months": {
+      "message": "6 Derniers mois"
+   },
+   "researchFilterSilver": {
+      "message": "Argent (100 k - 1 M abonnés)"
+   },
+   "researchFilterThisMonth": {
+      "message": "Ce mois-ci"
+   },
+   "researchFilterThisWeek": {
+      "message": "Cette semaine"
+   },
+   "researchFilterUpTo100": {
+      "message": "Jusqu'à 100"
+   },
+   "researchFilterUpTo1k": {
+      "message": "Jusqu'à 1 k"
+   },
+   "researchFilterUpTo30s": {
+      "message": "Jusqu'à 30s"
+   },
+   "researchFilterUpsell": {
+      "message": "Obtenez \u003Cb>Boost\u003C/b> pour filtrer les résultats"
+   },
+   "researchFilterViews": {
+      "message": "Vues"
+   },
+   "researchFilterVph": {
+      "message": "VPH"
+   },
+   "researchFiltersUpsell": {
+      "message": "Boostez votre recherche vidéo avec des filtres puissants sur le plan Boost"
+   },
+   "researchFiltersUpsellAlt": {
+      "message": "Boostez votre recherche vidéo avec des filtres puissants"
+   },
+   "researchLoadMore": {
+      "message": "Charger plus"
+   },
+   "researchMostViewed": {
+      "message": "Vidéos Plus Visionnées"
+   },
+   "researchMostViewedTitle": {
+      "message": "Vidéos Plus Visionnées"
+   },
+   "researchPastNDays": {
+      "message": "$num$ jours passés",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "researchQueryPlaceholder": {
+      "message": "ex. jeux, musique"
+   },
+   "researchSearch": {
+      "message": "Recherche"
+   },
+   "researchSearchKeywordPlaceholder": {
+      "message": "Ajoutez un mot clé pour lequel vous aimeriez voir des vidéos tendance"
+   },
+   "researchSearchOptions": {
+      "message": "Filtres de recherche"
+   },
+   "researchSearchTerms": {
+      "message": "Termes de Recherche"
+   },
+   "researchSearchUpsell": {
+      "message": "Obtenez \u003Cstrong>Pro\u003C/ strong> pour rechercher et trier des vidéos"
+   },
+   "researchSortLockedMessage": {
+      "message": "Veuillez mettre à niveau pour activer les fonctionnalités de tri"
+   },
+   "researchSuggestedSearches": {
+      "message": "Recherches suggérées"
+   },
+   "researchTopVidiqScores": {
+      "message": "Top des scores vidIQ"
+   },
+   "researchTrendingGamingVideos": {
+      "message": "Vidéos de jeu populaires"
+   },
+   "researchTrendingMusicVideos": {
+      "message": "Vidéos de musique populaires"
+   },
+   "researchTrendingVideosFromEmergingChannels": {
+      "message": "Vidéos tendance des chaînes émergentes"
+   },
+   "researchVidiqScore": {
+      "message": "Score vidIQ"
+   },
+   "researchVidiqScore2": {
+      "message": "score vidIQ"
+   },
+   "researchViews": {
+      "message": "Vues"
+   },
+   "researchVph": {
+      "message": "Vues Par Heure (VPH)"
+   },
+   "resendTheConfirmationLink": {
+      "message": "renvoyer le lien de confirmation"
+   },
+   "reset": {
+      "message": "Réinitialiser"
+   },
+   "resetSession": {
+      "message": "Réinitialiser votre \u003Cb>vidIQ\u003C/b> session, puis réessayer."
+   },
+   "resource": {
+      "message": "ressource"
+   },
+   "resources": {
+      "message": "ressources"
+   },
+   "restore": {
+      "message": "Restaurer"
+   },
+   "restoreAll": {
+      "message": "Tout restaurer"
+   },
+   "retentionStatLabel": {
+      "message": "fidélisation de l'audience"
+   },
+   "retryAllTitle": {
+      "message": "Tout Réessayer"
+   },
+   "retryTitle": {
+      "message": "Réessayer"
+   },
+   "reviewUs": {
+      "message": "Donnez-nous votre avis !"
+   },
+   "risingSearchQueriesTitle": {
+      "message": "Hausse des Recherches"
+   },
+   "risingTitle": {
+      "message": "En hausse"
+   },
+   "saturdayPlural": {
+      "message": "samedis"
+   },
+   "saveChangesTitle": {
+      "message": "Sauvegarder les Modifications"
+   },
+   "saveName": {
+      "message": "Enregistrer le nom"
+   },
+   "saveTemplateTitle": {
+      "message": "Enregistrer le Modèle"
+   },
+   "saveThisVideoTooltip": {
+      "message": "Enregistrer cette vidéo comme un modèle, puis charger ses fiches et annotations vers d'autres vidéos !"
+   },
+   "saveThumbnailTitle": {
+      "message": "Enregistrer la Miniature"
+   },
+   "saveTitle": {
+      "message": "Enregistrer"
+   },
+   "saved": {
+      "message": "Enregistré"
+   },
+   "savedIdeasLabel": {
+      "message": "Idées enregistrées"
+   },
+   "savedIdeasTabTooltip": {
+      "message": "Vous pouvez accéder à toutes vos idées enregistrées ici"
+   },
+   "savingEllipsis": {
+      "message": "Sauvegarde en cours..."
+   },
+   "savingThumbnailEllipsis": {
+      "message": "Sauvegarde de la miniature en cours..."
+   },
+   "scAddedLast7DaysTitle": {
+      "message": "Ajouté 7 Derniers Jours"
+   },
+   "scAvgAgeTitle": {
+      "message": "Nombre moyen de vues"
+   },
+   "scAvgViewsTitle": {
+      "message": "Moyen Visionne"
+   },
+   "scCcTitle": {
+      "message": "Sous-titres"
+   },
+   "scHighestViewsTitle": {
+      "message": "Nombre maximum de vues"
+   },
+   "scStatisticsProcessingResults": {
+      "message": "Traitement des Résultats ..."
+   },
+   "scTimesInDescTitle": {
+      "message": "Nombre de fois dans la Description"
+   },
+   "scTimesInTitleTitle": {
+      "message": "Nombre de fois dans le titre"
+   },
+   "scTopCreatorTitle": {
+      "message": "Top Créateur"
+   },
+   "search": {
+      "message": "Rechercher"
+   },
+   "searchAndReplace": {
+      "message": "Rechercher et remplacer"
+   },
+   "searchByKeyword": {
+      "message": "Recherche par mots-clé"
+   },
+   "searchByList": {
+      "message": "Recherche par une liste séparée par des virgules"
+   },
+   "searchByPhrases": {
+      "message": "Recherche par expressions......"
+   },
+   "searchByUsername": {
+      "message": "Rechercher des commentaires par nom d'utilisateur"
+   },
+   "searchForKeyword": {
+      "message": "Rechercher un mot-clé"
+   },
+   "searchInKwins": {
+      "message": "Rechercher dans l'inspecteur de mots clés"
+   },
+   "searchKeyword": {
+      "message": "Recherche mot-clé"
+   },
+   "searchOnYouTube": {
+      "message": "Rechercher sur YouTube"
+   },
+   "searchPanel": {
+      "message": "Panneau de recherche"
+   },
+   "searchQueriesTitle": {
+      "message": "Recherches"
+   },
+   "searchScreen": {
+      "message": "Écran de recherche"
+   },
+   "searchTermTitle": {
+      "message": "Terme de Recherche"
+   },
+   "searchThisTerm": {
+      "message": "Rechercher ce terme"
+   },
+   "searchUpTo5InSingleSearch": {
+      "message": "Recherchez jusqu'à 5 mots-clés en une seule recherche."
+   },
+   "searchUpToNKeywords": {
+      "message": "Rechercher jusqu'à $num$ mots-clés",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchVolume": {
+      "message": "Volume de recherche"
+   },
+   "searchVolumePastMonth": {
+      "message": "Volume de recherche au cours des 30 derniers jours"
+   },
+   "searchVolumeTitle": {
+      "message": "Volume de Recherche"
+   },
+   "searchingFor": {
+      "message": "Recherche de"
+   },
+   "secondPlural": {
+      "message": "secondes"
+   },
+   "secondSingular": {
+      "message": "second"
+   },
+   "seeAllResults": {
+      "message": "Voir tous les résultats"
+   },
+   "seeMoreStats": {
+      "message": "Vous-voulez voir plus de statistiques ?"
+   },
+   "selectAYouTubeChannel": {
+      "message": "Sélectionnez une chaîne YouTube"
+   },
+   "selectAllNum": {
+      "message": "Tout sélectionner ($num$)",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "selectAllTitle": {
+      "message": "Tout Sélectionner"
+   },
+   "selectLikingChannels": {
+      "message": "Sélectionner les chaines qui devraient aimer votre vidéo, puis cliquez sur le bouton \u003Cb>Aimer cette vidéo en groupe\u003C/b>"
+   },
+   "selectNoneTitle": {
+      "message": "Ne rien sélectionner"
+   },
+   "selectOption": {
+      "message": "Sélectionner une option..."
+   },
+   "selected": {
+      "message": "Sélectionné"
+   },
+   "sendFeedbackTitle": {
+      "message": "Envoyer des commentaires"
+   },
+   "senshockDemonetizationWord": {
+      "message": "Sensationnel et choquant"
+   },
+   "seoScoreChannelAuditInfo": {
+      "message": "L'optimisation des titres, des tags et des descriptions de vos vidéos garantit que votre contenu a le potentiel maximal pour atteindre l'audience. Essayez de garder ce score au-dessus de 40."
+   },
+   "seoScoreChecklistTitle": {
+      "message": "Le Score du Référenceur (SEO) & de Liste de Contrôle"
+   },
+   "seoScoreStatLabel": {
+      "message": "Score SEO de vidIQ"
+   },
+   "seoTagsTitle": {
+      "message": "Référenceur (SEO) | Tags"
+   },
+   "seoTitle": {
+      "message": "Référenceur (SEO)"
+   },
+   "separateKeywordsWithComma": {
+      "message": "Séparez vos mots-clés par une virgule"
+   },
+   "setCustomRange": {
+      "message": "Définir une intervalle personnalisée"
+   },
+   "settings": {
+      "message": "Paramètres"
+   },
+   "sexDemonetizationWord": {
+      "message": "Contenu sexuellement suggestif"
+   },
+   "shapeCircle": {
+      "message": "Cercle "
+   },
+   "shapeEllipse": {
+      "message": "Ellipse"
+   },
+   "shapeRect": {
+      "message": "Rectangle"
+   },
+   "shapeTitle": {
+      "message": "Forme"
+   },
+   "shapeTriangle": {
+      "message": "Triangle"
+   },
+   "shareTitle": {
+      "message": "Partager"
+   },
+   "sharedOnFacebook": {
+      "message": "Partagé sur Facebook"
+   },
+   "shares": {
+      "message": "partages"
+   },
+   "sharesAndComments": {
+      "message": "partages + commentaires"
+   },
+   "shop": {
+      "message": "Boutique"
+   },
+   "shortLabel": {
+      "message": "court"
+   },
+   "shortcutsOnHomePage": {
+      "message": "Raccourcis sur la Page d'accueil"
+   },
+   "shortcutsOnVideoManager": {
+      "message": "Raccourcis sur le Gestionnaire de vidéos"
+   },
+   "shortenUrls": {
+      "message": "Raccourcir les URL"
+   },
+   "shortsViewsStatLabel": {
+      "message": "Vues des shorts"
+   },
+   "showAllIdeas": {
+      "message": "Afficher toutes les $num$ idées",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllKeywords": {
+      "message": "Afficher tous les $num$ mots-clés",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllNumVideos": {
+      "message": "Afficher toutes les $num$ vidéos tendances",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllTitle": {
+      "message": "Afficher Tout"
+   },
+   "showAnnotations": {
+      "message": "Afficher les annotations"
+   },
+   "showCaptions": {
+      "message": "Afficher les sous-titres"
+   },
+   "showChannelInfoTitle": {
+      "message": "Afficher  les Informations de la Chaîne"
+   },
+   "showFewerTitle": {
+      "message": "Afficher Moins"
+   },
+   "showMoreTitle": {
+      "message": "Afficher Plus ($number$)",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "showPlayerControls": {
+      "message": "Afficher les commandes du lecteur"
+   },
+   "showRelatedVideos": {
+      "message": "Affiches les vidéos similaires"
+   },
+   "showVideoInfo": {
+      "message": "Afficher les informations de la vidéo (titre, propriétaire, etc.)\r\n"
+   },
+   "showingCommentThreads": {
+      "message": "Affichant $current$ des $total$ fils de discussion.",
+      "placeholders": {
+         "current": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "signIn": {
+      "message": "Connectez-vous"
+   },
+   "signInToExistingVidiqAccount": {
+      "message": "Connectez-vous à votre compte vidIQ existant"
+   },
+   "signInToYourAccount": {
+      "message": "Connectez-vous à votre compte"
+   },
+   "signInWithGoogle": {
+      "message": "Connectez-vous avec Google"
+   },
+   "signUp": {
+      "message": "S'inscrire"
+   },
+   "signUpForNewAccount": {
+      "message": "Inscrivez-vous pour un nouveau compte \u003Cb>vidiQ\u003C/b>"
+   },
+   "signUpForVidIQ": {
+      "message": "S'inscrire à vidIQ"
+   },
+   "signUpFree": {
+      "message": "Inscrivez-vous gratuitement !"
+   },
+   "signUpWithGoogle": {
+      "message": "Inscrivez-vous avec Google"
+   },
+   "signUpWithVidiq": {
+      "message": "Inscrivez-vous avec vidIQ"
+   },
+   "signupThanks": {
+      "message": "Merci de vous êtes s'inscrit !"
+   },
+   "singularPageLeftTitle": {
+      "message": "1 page restante"
+   },
+   "socDemonetizationWord": {
+      "message": "Problèmes Sociaux Sensibles"
+   },
+   "socialTitle": {
+      "message": "Social"
+   },
+   "solidColorTitle": {
+      "message": "Couleur Unie"
+   },
+   "somethingWentWrong": {
+      "message": "Quelque chose s'est mal passé"
+   },
+   "sortBy": {
+      "message": "Trier par"
+   },
+   "sourceGoogleTrends": {
+      "message": "Source: Tendances Google  (Recherche YouTube)"
+   },
+   "speechBubbleTitle": {
+      "message": "Bulle de Texte"
+   },
+   "spotlightTitle": {
+      "message": "Projecteur"
+   },
+   "startCampaignTitle": {
+      "message": "Démarrer la Campagne"
+   },
+   "startResearchingSavedIdeas": {
+      "message": "Commencez à rechercher les idées dans votre liste enregistrée."
+   },
+   "startResearchingSavedIdeasAlt": {
+      "message": "Commencez à rechercher les idées que vous avez dans votre liste enregistrée."
+   },
+   "startTime": {
+      "message": "Début"
+   },
+   "stats": {
+      "message": "Statistiques"
+   },
+   "statsByVidIQ": {
+      "message": "Statistiques par vidIQ"
+   },
+   "statsOverview": {
+      "message": "Aperçu des statistiques"
+   },
+   "statusTitle": {
+      "message": "Statut"
+   },
+   "stayTuned": {
+      "message": "Restez à l'écoute..."
+   },
+   "stepThroughFrame": {
+      "message": "Passer à travers \u003Cbr /> chaque image vidéo"
+   },
+   "stopCampaignTitle": {
+      "message": "Arrêter la Campagne"
+   },
+   "studioBetaBestTimeToPostUpsell": {
+      "message": "Passez à \u003Cb>vidIQ Pro\u003C/b> pour découvrir vos meilleurs temps pour publier"
+   },
+   "studioBetaChooseVideoStillMessage": {
+      "message": "Désolé! Nous ne supportons pas encore le choix de vidéo dans YouTube Studio Beta."
+   },
+   "studioBetaGeneralError": {
+      "message": "Une erreur s'est produite lors de l'extraction de $ name $. Veuillez, réessayez dans quelques minutes.",
+      "placeholders": {
+         "_name_": {
+            "content": "$1"
+         }
+      }
+   },
+   "studioBetaTagsUpsell": {
+      "message": "Passez à \u003Cb>vidIQ Boost\u003C/b> pour afficher \u003Cb>$num$\u003C/b> tags recommandés de plus",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "studioBetaTrendingVidsUpsell2": {
+      "message": "Passez à \u003Cb>vidIQ Pro\u003C/b> pour voir des vidéos et obtenir des vues de"
+   },
+   "stumbleuponStatLabel": {
+      "message": "stumbleupon"
+   },
+   "stumbleuponStatTitle": {
+      "message": "Stumbleupon"
+   },
+   "subViewsTooltip": {
+      "message": "Ce sont des vues générées sur cette vidéo par les abonnés."
+   },
+   "submit": {
+      "message": "Soumettre"
+   },
+   "subs": {
+      "message": "Abonnés"
+   },
+   "subsBestMonth": {
+      "message": "Mois avec le Plus des Abonnés Gagnés"
+   },
+   "subsDrivenStatLabel": {
+      "message": "abonnés guidés"
+   },
+   "subsPer1kViews": {
+      "message": "$num$ pour 1 k vues",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "subscribeForTricks": {
+      "message": "S'abonner à la chaîne vidIQ pour des conseils et des astues!"
+   },
+   "subscribeTitle": {
+      "message": "S'abonner"
+   },
+   "subscriberAnalysis": {
+      "message": "Analyse des abonnés"
+   },
+   "subscriberInsightsTitle": {
+      "message": "Informations des Abonnés"
+   },
+   "subscriberRank": {
+      "message": "classement d'abonné"
+   },
+   "subscribersGainedTitle": {
+      "message": "Nouveaux Abonnés"
+   },
+   "subscribersTitle": {
+      "message": "Abonnés"
+   },
+   "successfullyAddedNLikes": {
+      "message": "$n$ nouvelles mentions \"J'aime\" ont été ajoutées avec succès à votre vidéo !",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "successfullyAddedOneLike": {
+      "message": "Une nouvelle mention \"J'aime\" a été ajoutée avec succès à votre vidéo !"
+   },
+   "successfullyAuthed": {
+      "message": "Authentifié avec succès"
+   },
+   "suggestedVideoTagsTitle": {
+      "message": "Suggestion de Tags de Vidéo "
+   },
+   "suggestedViewsStatLabel": {
+      "message": "Suggestions de vues"
+   },
+   "suggestion": {
+      "message": "Suggestion"
+   },
+   "sundayPlural": {
+      "message": "dimanches"
+   },
+   "tabletTitle": {
+      "message": "Tablette"
+   },
+   "tagAutocompleteTitle": {
+      "message": "Suggestions de Saisie Semi-automatique de Tag"
+   },
+   "tagCountMessage": {
+      "message": "Les tags aident YouTube à comprendre le but des vidéos. Elles apparaissent alors dans les résultats de recherche pertinents. \u003Cbr>\u003Cbr>L'ajout\u003Cb>d'au moins 20 tags\u003C/b> à une vidéo génère le nombre de points total ici."
+   },
+   "tagCountStatLabel": {
+      "message": "Nombre de tags"
+   },
+   "tagTemplatesCreateMessage": {
+      "message": "Créer un nouveau modèle pour ajouter des tags!"
+   },
+   "tagTemplatesInputPlaceholder": {
+      "message": "Tag ou liste séparée par des virgules"
+   },
+   "tagTemplatesNote": {
+      "message": "Remarque: Ajoutez des tags spécifiques à la vidéo avant d'ajouter des tags de modèle générique"
+   },
+   "tagTemplatesTitle": {
+      "message": "Modèles de Tags"
+   },
+   "tagVolumeStatLabel": {
+      "message": "volume de tags"
+   },
+   "tags": {
+      "message": "Mots-clés"
+   },
+   "tagsLengthChannelAuditTitle": {
+      "message": "Longueur de Tags"
+   },
+   "teaserText": {
+      "message": "Texte de l'accroche"
+   },
+   "templateDeleteProblem": {
+      "message": "Un erreur s'est produite lor de la suppression du modèle \"$template$\" : $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateDeleted": {
+      "message": "Le modèle $template$ a ete supprimé avec succès!",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateNameTitle": {
+      "message": "Modèle de Nom"
+   },
+   "templatePlaceholder1": {
+      "message": "ex. Merci"
+   },
+   "templatePlaceholder2": {
+      "message": "ex. Merci de votre abonnement !"
+   },
+   "templateSaveProblem": {
+      "message": "Une erreur s'est produite lors de l'enregistrement du modèle \"$template$\" : $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateSaved": {
+      "message": "$template$ enregistré avec succès !",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateTextHint": {
+      "message": "Astuce: \u003Ci>&lt;user-name&gt;\u003C/i> sera remplacé par le nom de la chaîne à laquelle vous répondez."
+   },
+   "templateTextTitle": {
+      "message": "Modèle de Texte"
+   },
+   "templatesTitle": {
+      "message": "Modèles"
+   },
+   "text": {
+      "message": "Texte"
+   },
+   "thatsEnoughTitle": {
+      "message": "C'est Assez"
+   },
+   "theLastVideoWatched": {
+      "message": "la Dernière vidéo visionnée"
+   },
+   "thisChannelAverage": {
+      "message": "Moyenne de cette chaîne"
+   },
+   "thisMonth": {
+      "message": "ce mois-ci"
+   },
+   "thisPeriod": {
+      "message": "cette période"
+   },
+   "thisVideo": {
+      "message": "Cette vidéo"
+   },
+   "thumbnail": {
+      "message": "Miniatures"
+   },
+   "thumbnailEditorTitle": {
+      "message": "Éditeur de Miniatures"
+   },
+   "thumbnailPlural": {
+      "message": "miniatures"
+   },
+   "thumbnailRatingBarTitle": {
+      "message": "Barre d'Évaluation des Miniatures"
+   },
+   "thumbnailSavedNotice": {
+      "message": "Votre miniature a été enregistrée ! Cela peut prendre quelques minutes pour que YouTube reflète le changement."
+   },
+   "thumbnailSection": {
+      "message": "Section des miniatures"
+   },
+   "thumbnailSingular": {
+      "message": "miniature"
+   },
+   "thumbnailSizeError": {
+      "message": "Le fichier est trop volumineux, veuillez télécharger un fichier jusqu'à $maxSize$",
+      "placeholders": {
+         "maxSize": {
+            "content": "$1"
+         }
+      }
+   },
+   "thursdayPlural": {
+      "message": "jeudis"
+   },
+   "time": {
+      "message": "Temps"
+   },
+   "timesUsedInTopVids": {
+      "message": "Temps utilisés dans les 10 meilleures vidéos"
+   },
+   "timezone": {
+      "message": "Fuseau horaire"
+   },
+   "title": {
+      "message": "Titre"
+   },
+   "titleAverageSubtextBad": {
+      "message": "Les longueurs de vos titres sont en moyenne trop $status$. Essayez de les garder entre 20 et 60 caractères.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleAverageSubtextGood": {
+      "message": "Vos longueurs de titres sont en moyenne bonnes !"
+   },
+   "titleChannelAuditEdit": {
+      "message": "Mettre à jour les Titres"
+   },
+   "titleDescSuggestionTitle": {
+      "message": "Suggestions de Titre et de Description"
+   },
+   "titleGeneratorNonBoostUsersGuide": {
+      "message": "En tant qu'utilisateur non boosté, vous disposez d'un nombre limité de crédits à utiliser. Passez à Boost pour un accès complet."
+   },
+   "titleGeneratorRecommendation": {
+      "message": "Titres recommandés pour \\\"$currentTitle$\\\"",
+      "placeholders": {
+         "currentTitle": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleGeneratorRemainingCredits": {
+      "message": "$num$ de crédits restants",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleLengthChannelAuditTitle": {
+      "message": "Longueur du Titre"
+   },
+   "to": {
+      "message": "Pour"
+   },
+   "toDismissAnIdea": {
+      "message": "rejeter une idée."
+   },
+   "toSaveAnIdea": {
+      "message": "pour enregistrer une idée."
+   },
+   "todayLabel": {
+      "message": "Aujourd'hui"
+   },
+   "tooLong": {
+      "message": "Trop Long"
+   },
+   "tooLow": {
+      "message": "Trop bas"
+   },
+   "tooShort": {
+      "message": "Trop Court"
+   },
+   "toolbarStatsDropdownTitle": {
+      "message": "Barre d'outils du Menu déroulant des Statistiques"
+   },
+   "topAvgViewTimeChannelAuditInfo": {
+      "message": "Voici vos vidéos avec les meilleures durées de visionnage. Nous vous suggérons d'étudier le contenu et la production vidéos utilisés dans ces vidéos et de doubler la mise en les utilisant ses concepts."
+   },
+   "topAvgWatchtimeNonLive": {
+      "message": "Durée Moy. de visionnage"
+   },
+   "topChannels": {
+      "message": "Top chaînes pour ce terme de recherche"
+   },
+   "topCompetitorVideos": {
+      "message": "Concurrents (par VPH)"
+   },
+   "topCompetitorVideosChannelAuditInfo": {
+      "message": "Voici les vidéos les plus visionnées de vos concurrents, basées sur le nombre de vues par heure (VPH). Nous vous suggérons d'apprendre de ces vidéos et de voir si vous pouvez appliquer ces connaissances à votre chaîne."
+   },
+   "topCountriesStatLabel": {
+      "message": "top pays"
+   },
+   "topDevicesStatLabel": {
+      "message": "top appareils"
+   },
+   "topEmbedsTitle": {
+      "message": "Top Intégrations"
+   },
+   "topEngagementChannelAuditInfo": {
+      "message": "Voici vos vidéos les plus engagées. Nous suggérons de les étudier pour comprendre pourquoi ils sont plus engagés et doubler la mise en utilisant ces concepts."
+   },
+   "topKeywords": {
+      "message": "Top Mots-clés"
+   },
+   "topKeywordsUpsell": {
+      "message": "Voir tous les tops mots clés lorsque vous effectuez une mise à niveau vers vidIQ Pro"
+   },
+   "topKwinsKeywords": {
+      "message": "Inspecteur de Mots-clés Mots-clés Similaires"
+   },
+   "topPlaylists": {
+      "message": "To Playlists"
+   },
+   "topPlaylistsChannelAuditInfo": {
+      "message": "Voici vos playlists les plus regardées. Nous vous suggérons de créer des playlists similaires."
+   },
+   "topReferrersTitle": {
+      "message": "Top Référents "
+   },
+   "topRelatedKeywords": {
+      "message": "Top mots-clés associés"
+   },
+   "topRelatedOpportunities": {
+      "message": "Meilleures opportunités associées"
+   },
+   "topRetention": {
+      "message": "% de fidélisation de l’audience au top"
+   },
+   "topRetentionChannelAuditInfo": {
+      "message": "Votre audience aime ces vidéos et aimerait probablement regarder plus ce type de contenu. C'est du contenu sur lequel vous devez doubler la mise."
+   },
+   "topSearchKeywordsTitle": {
+      "message": "Top Mots-clés"
+   },
+   "topSearchQueriesTitle": {
+      "message": "Top Recherches"
+   },
+   "topSearchTermsChannelAuditInfo": {
+      "message": "Voici vos mots clés les mieux classés."
+   },
+   "topSearchTermsTitle": {
+      "message": "Top Termes de Recherche"
+   },
+   "topSearchVideos": {
+      "message": "Top 10 des vidéos classées dans la recherche YouTube pour \\\"$query$\\\"",
+      "placeholders": {
+         "query": {
+            "content": "$1"
+         }
+      }
+   },
+   "topStatLabel": {
+      "message": "top"
+   },
+   "topSubscribersChannelAuditInfo": {
+      "message": "Voici votre meilleure impression de vidéos visionnées. Nous vous suggérons d'étudier les titres et les vignettes pour comprendre pourquoi ces vidéos fonctionnent le mieux et de doubler la mise en utilisant ces concepts."
+   },
+   "topSuggested": {
+      "message": "Top Suggéré (non-possédé)"
+   },
+   "topSuggestedChannelAuditInfo": {
+      "message": "Voici les meilleures vidéos suggérant votre contenu. Nous vous suggérons de créer un contenu similaire et d'étudier la corrélation avec vos vidéos, puis de doubler la mise sur cela."
+   },
+   "topTenTrendingVideos": {
+      "message": "Top 10 des vidéos les plus tendances"
+   },
+   "topTitle": {
+      "message": "Top"
+   },
+   "topViewsChannelAuditInfo": {
+      "message": "Voici vos vidéos les plus visionnées. Nous vous suggérons d'étudier les sources de trafic et de comprendre pourquoi cela se produit et de doubler la mise sur ces concepts."
+   },
+   "topViewsChannelAuditRank": {
+      "message": "dans le top des vues"
+   },
+   "topVphChannelAuditInfo": {
+      "message": "Ces vidéos ont les plus hautes vues par heure, nous vous suggérons de doubler la mise et de créer plus de vidéos comme celles-ci."
+   },
+   "topWatchTimeChannelAuditInfo": {
+      "message": "Ces vidéos sont regardées le plus longtemps et nous vous suggérons de doubler la mise et de créer plus de vidéos comme celles-ci."
+   },
+   "topWatchTimeChannelAuditRank": {
+      "message": "dans le top de la durée de visionnage"
+   },
+   "topics": {
+      "message": "Sujets"
+   },
+   "totalEstimatedRevenue": {
+      "message": "total des revenus estimées"
+   },
+   "totalWatchTimeTitle": {
+      "message": "Durée Total de Visionnage (minutes)"
+   },
+   "trackingRequest1": {
+      "message": "Pour nous aider à améliorer continuellement nos produits pour nos utilisateurs, nous aimerions collecter des données sur les fonctionnalités que vous trouvez les plus utiles ainsi que d'autres informations telles que :"
+   },
+   "trackingRequest2": {
+      "message": "Lorsque vous vous connectez ou vous déconnectez, installez/désinstallez et utilisez des fonctionnalités spécifiques"
+   },
+   "trackingRequest3": {
+      "message": "Données techniques et de l'appareil de votre navigateur, y compris l'emplacement indiqué par l'adresse IP, la date et l'heure d'utilisation, la préférence de langue et le système d'exploitation"
+   },
+   "trackingRequest4": {
+      "message": "Ces données nous aident à améliorer notre produit et à créer une meilleure expérience pour nos clients"
+   },
+   "trackingRequestButton": {
+      "message": "Activer"
+   },
+   "trackingRequestFirefoxTitle": {
+      "message": "Merci d'avoir installé vidIQ pour Firefox"
+   },
+   "tragconDemonetizationWord": {
+      "message": "Tragédie et Conflit"
+   },
+   "translateKeywordsTitle": {
+      "message": "Traduire Mots-clés"
+   },
+   "translateTitle": {
+      "message": "Traduire"
+   },
+   "translationNotSupported": {
+      "message": "La traduction n'est pas prise en charge pour cette langue !"
+   },
+   "translationProblem": {
+      "message": "Une erreur s'est produite lors de la récupération de vos traductions."
+   },
+   "translationRequiresVidiqPro": {
+      "message": "La traduction nécessite vidIQ Pro"
+   },
+   "trendAlerts": {
+      "message": "Alertes Tendance"
+   },
+   "trendAlertsAlertNameLabel": {
+      "message": "Nommez votre alerte"
+   },
+   "trendAlertsAlertNamePlaceholder": {
+      "message": "Ma nouvelle alerte"
+   },
+   "trendAlertsAlertNameTooltip": {
+      "message": "Nommez votre alerte afin de vous rappler ce qu'elle suit"
+   },
+   "trendAlertsCancel": {
+      "message": "Annuler"
+   },
+   "trendAlertsCategoryLabel": {
+      "message": "Sélectionnez une catégorie"
+   },
+   "trendAlertsCategoryTooltip": {
+      "message": "Choisissez une catégorie de vidéos pour votre alerte"
+   },
+   "trendAlertsCompetitorsEmptyMessage": {
+      "message": "Vous n'avez pas encore ajouté des concurrents, vous pouvez"
+   },
+   "trendAlertsCompetitorsEmptyMessageLink": {
+      "message": "Ajoutez des concourrents ici"
+   },
+   "trendAlertsCompetitorsLabel": {
+      "message": "Ajouter des concurrents"
+   },
+   "trendAlertsCompetitorsLink": {
+      "message": "Ajouter d'autres concurrents"
+   },
+   "trendAlertsCompetitorsTooltip": {
+      "message": "Sélectionnez les chaînes concurrentes pour limiter cette alerte à"
+   },
+   "trendAlertsCreateANewTrendAlert": {
+      "message": "Créer une nouvelle alerte tendance"
+   },
+   "trendAlertsCreateAlert": {
+      "message": "Créer une alerte"
+   },
+   "trendAlertsCreateFirstAlert": {
+      "message": "Créez votre première alerte"
+   },
+   "trendAlertsCreateNewAlert": {
+      "message": "Créer une nouvelle alerte"
+   },
+   "trendAlertsCreateNewTrendAlert": {
+      "message": "Créer une nouvelle alerte de tendance"
+   },
+   "trendAlertsDefaultName": {
+      "message": "Mon alerte"
+   },
+   "trendAlertsDeleteMsg": {
+      "message": "Êtes-vous sûr de vouloir supprimer votre alerte de tendance \\\"$alertName$\\\"?",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsDeleteTrendAlert": {
+      "message": "Supprimer l'alerte"
+   },
+   "trendAlertsEditTrendAlert": {
+      "message": "Modifier l'alerte de tendance"
+   },
+   "trendAlertsEditTrendAlertWithName": {
+      "message": "Modifier l'alerte de tendance pour \\\"$alertName$\\\"",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsEditYourTrendAlert": {
+      "message": "Modifier vos alertes tendance"
+   },
+   "trendAlertsEmailFrequencyLabel": {
+      "message": "À quelle fréquence souhaitez-vous recevoir l'alerte e-mail"
+   },
+   "trendAlertsEmailFrequencyTooltip": {
+      "message": "Recevez un e-mail avec des nouvelles vidéos tendances qui correspondent à votre alerte"
+   },
+   "trendAlertsErrorUnauthenticatedMessage": {
+      "message": "Vous devez authentifier votre chaîne avec vidIQ pour créer des alertes de tendance."
+   },
+   "trendAlertsFilter10k": {
+      "message": "10 k"
+   },
+   "trendAlertsFilter1k": {
+      "message": "1 k"
+   },
+   "trendAlertsFilter5k": {
+      "message": "5 k"
+   },
+   "trendAlertsFilterEachMonth": {
+      "message": "Chaque mois"
+   },
+   "trendAlertsFilterEachWeek": {
+      "message": "Chaque semaine"
+   },
+   "trendAlertsFilterEvery2Days": {
+      "message": "Tous les 2 jours"
+   },
+   "trendAlertsFilterEveryDay": {
+      "message": "Tous les jours"
+   },
+   "trendAlertsFormAddAnotherCompetitor": {
+      "message": "Ajouter un autre concurrent"
+   },
+   "trendAlertsFormAlertNameHelpText": {
+      "message": "Nommez cette alerte pour se rappeler ce qu'elle suit. Si vous ne spécifiez pas de nom, un nom par défaut de \\\"$defaultName$\\\" sera utilisé.",
+      "placeholders": {
+         "defaultName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormAlertNameLabel": {
+      "message": "Nom de l'alerte"
+   },
+   "trendAlertsFormAlertNamePlaceholder": {
+      "message": "ex. > 5K VPH des concurrents"
+   },
+   "trendAlertsFormCategoryHelpText": {
+      "message": "Choisissez la catégorie qu'une vidéo doit correspondre pour être incluse dans les résultats."
+   },
+   "trendAlertsFormChannelTagsLabel": {
+      "message": "Mots-clés suggérés dans votre chaîne"
+   },
+   "trendAlertsFormCompetitorsHelpText": {
+      "message": "Sélectionnez les chaînes concurrentes auxquelle limiter cette alerte. Si vous ne sélectionnez pas de chaînes concurrentes, nous surveillerons tout YouTube."
+   },
+   "trendAlertsFormCompetitorsLabel": {
+      "message": "Concurrents"
+   },
+   "trendAlertsFormEmailFrequencyHelpText": {
+      "message": "Nous vous enverrons un e-mail avec de nouvelles vidéos de tendance qui correspondent à cette alerte. Vous pouvez également voir un flux en direct de nouvelles vidéos de tendance en cliquant sur vos alertes dans la barre latérale."
+   },
+   "trendAlertsFormEmailFrequencyLabel": {
+      "message": "Fréquence d'e-mails"
+   },
+   "trendAlertsFormKeywordsHelpText": {
+      "message": "Nous surveillerons cette requête et vous informerons chaque fois que de nouvelles vidéos de tendance s'affichent. Séparez les termes de recherche par des virgules."
+   },
+   "trendAlertsFormKeywordsLabel": {
+      "message": "Mots-clés"
+   },
+   "trendAlertsFormKeywordsPlaceholder": {
+      "message": "ex. mobile, ios, android"
+   },
+   "trendAlertsFormLanguageHelpText": {
+      "message": "Choisissez la langue à laquelle une vidéo doit correspondre pour être incluse dans les résultats."
+   },
+   "trendAlertsFormLanguageLabel": {
+      "message": "Langue"
+   },
+   "trendAlertsFormUpsellMessage": {
+      "message": "Veuillez \u003Ca href=\\\"$upgradeUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">mettre à niveau vers Pro\u003C/a>pour modifier ce paramètre.",
+      "placeholders": {
+         "upgradeUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormVphThresholdHelpText": {
+      "message": "Choisissez le nombre de vues par heure qu'une vidéo doit avoir avant de déclencher cette alerte."
+   },
+   "trendAlertsFormVphThresholdLabel": {
+      "message": "Seuil VPH"
+   },
+   "trendAlertsGetEmailAlerts": {
+      "message": "Recevez des alertes par e-mail lorsque des vidéos liées à votre alerte spécifique sont tendances."
+   },
+   "trendAlertsHideOptions": {
+      "message": "Cacher les options avancées"
+   },
+   "trendAlertsLanguageLabel": {
+      "message": "Sélectionnez une langue"
+   },
+   "trendAlertsLanguageTooltip": {
+      "message": "Choisissez la langue pour les vidéos correspondant à votre alerte"
+   },
+   "trendAlertsLivePreviewNoResults": {
+      "message": "Il n'y aura pas de correspondance pour cette alerte. Essayez d'abaisser le seuil VPH ou de modifier les mots-clés pour élargir la recherche."
+   },
+   "trendAlertsLivePreviewResults": {
+      "message": "Ceci est un aperçu en direct des premiers $numResultsShown$ résultats pour vous montrer à quoi cette alerte pourrait ressembler.",
+      "placeholders": {
+         "numResultsShown": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsMostViewedFeatureInfo": {
+      "message": "Découvrez quels sujets sont chauds en ce moment!"
+   },
+   "trendAlertsNoTrendAlertsFound": {
+      "message": "Aucune alerte de tendance trouvée"
+   },
+   "trendAlertsPanelPopover": {
+      "message": "Les alertes de tendance vous permettent de suivre des sujets spécifiques et de recevoir des alertes pour les vidéos tendance pour ces sujets. \u003Ca href=\\\"https://www.youtube.com/watch?v=8QPmaFFqyPA&t=196s\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">En savoir plus\u003C/a>."
+   },
+   "trendAlertsPreviewFooterFewResults": {
+      "message": "Cette alerte n'a actuellement que les $numResults$ résultats ci-dessus, mais cela devrait en avoir plus bientôt ! Vous recevrez un courriel avec les derniers résultats \u003Cstrong> $ frequency $ \u003C/ strong>.",
+      "placeholders": {
+         "_frequency_": {
+            "content": "$2"
+         },
+         "numResults": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterManyResults": {
+      "message": "Voici un aperçu des $previewLength$ derniers résultats pour cette alerte. Vous recevrez un email contenant tous les résultats de cette alerte \u003Cstrong>$frequency$\u003C/strong>.",
+      "placeholders": {
+         "frequency": {
+            "content": "$2"
+         },
+         "previewLength": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterNoResults": {
+      "message": "Cette alerte n'a actuellement aucun résultat, mais ça devrait en avoir bientôt ! Vous recevrez un email avec les derniers résultats \u003Cstrong>$frequency$\u003C/strong>.",
+      "placeholders": {
+         "frequency": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewNoResults": {
+      "message": "Aucune vidéo ne correspond à cette alerte pour le moment. Revenez bientôt !"
+   },
+   "trendAlertsPreviewTitle": {
+      "message": "Aperçu de votre alerte de tendance \\\"$alertName$\\\"",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsSearchTermLabel": {
+      "message": "Pour quel mot-clé souhaitez-vous créer une alerte"
+   },
+   "trendAlertsSearchTermPlaceholder": {
+      "message": "Entrez le mot-clé"
+   },
+   "trendAlertsSearchTermTooltip": {
+      "message": "Recevez une notification lorsque des nouvelles vidéos tendances contiennent ce mot-clé "
+   },
+   "trendAlertsShowOptions": {
+      "message": "Montrer les options avancées"
+   },
+   "trendAlertsSubmitLabel": {
+      "message": "Enregistrez votre alerte"
+   },
+   "trendAlertsUnableToCreateAlert": {
+      "message": "Nous n'avons pas pu créer une nouvelle alerte. Veuillez recharger la page et réessayer."
+   },
+   "trendAlertsUnableToDeleteAlert": {
+      "message": "Nous n'avons pas pu supprimer cette alerte. Veuillez recharger la page et réessayer."
+   },
+   "trendAlertsUnableToUpdateAlert": {
+      "message": "Nous n'avons pas pu mettre à jour cette alerte. Veuillez recharger la page et réessayer."
+   },
+   "trendAlertsUpdateAlert": {
+      "message": "Mettre à jour l'alerte"
+   },
+   "trendAlertsUpsellMessage": {
+      "message": "Vous avez atteint la limite de votre compte $userType$ de \u003Cstrong>$limits$ alertes de tendance\u003C/strong>. Pour créer plus d'alertes, mettez à jour votre compte.",
+      "placeholders": {
+         "limits": {
+            "content": "$2"
+         },
+         "userType": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsVphThresholdLabel": {
+      "message": "Choisissez combien de vues par heure la vidéo doit avoir avant de déclencher l'alerte"
+   },
+   "trendAlertsVphThresholdTooltip": {
+      "message": "Choisissez combien de vues par heure une vidéo doit avoir pour votre alerte"
+   },
+   "trendAlertsWelcome": {
+      "message": "Bienvenue dans les Alertes de Tendance ! Vous pouvez utiliser ces alertes pour faire de nombreuses choses utiles telles que :"
+   },
+   "trendAlertsWelcomeIdea1": {
+      "message": "Suivre les vidéos tendance qui correspondent aux mots-clés \\\"apple\\\" et \\\"iphone\\\""
+   },
+   "trendAlertsWelcomeIdea2": {
+      "message": "Suivre les vidéos populaires de vos concurrents"
+   },
+   "trendAlertsWelcomeIdea3": {
+      "message": "Parcourez des vidéos de jeux avec plus de 500 VPH"
+   },
+   "trending": {
+      "message": "Tendances"
+   },
+   "trendingVideosTitle": {
+      "message": "Vidéos Tendances"
+   },
+   "trendingVidsForTerm": {
+      "message": "Vidéos tendances pour ce terme de recherche"
+   },
+   "tripledKeywordsStatLabel": {
+      "message": "Mots-clés triplés"
+   },
+   "troubleLoading": {
+      "message": "\u003Cb>vidIQ\u003C/b> à un problème de chargement. Veuillez actualiser la page."
+   },
+   "troubleLoggingIn": {
+      "message": "Vous avez des problèmes pour vous connecter?"
+   },
+   "tryAgain": {
+      "message": "Réessayer"
+   },
+   "tryAnotherSearch": {
+      "message": "Essayez d'entrer un autre terme de recherche ci-dessus"
+   },
+   "tryRemovingFilters": {
+      "message": "Essayez de supprimer les filtres ou de rechercher un autre mot-clé"
+   },
+   "tuesdayPlural": {
+      "message": "mardis"
+   },
+   "turnVidiqOffForSession": {
+      "message": "Désactivez vidIQ pour cette session"
+   },
+   "turnVidiqOn": {
+      "message": "Activez vidIQ"
+   },
+   "tvTitle": {
+      "message": "TV"
+   },
+   "tweets": {
+      "message": "Tweets"
+   },
+   "twitterFollowersStatLabel": {
+      "message": "abonnés twitter"
+   },
+   "twitterTitle": {
+      "message": "Twitter"
+   },
+   "unableToGetFullResults": {
+      "message": "Impossible d'obtenir des résultats complets en raison des limites de quota"
+   },
+   "unexpectedError": {
+      "message": "Une erreur inattendue s'est produite"
+   },
+   "unknownError": {
+      "message": "Erreur inconnue"
+   },
+   "unknownErrorOccurred": {
+      "message": "Une erreur inconnue est survenue"
+   },
+   "unlimitedPreviewsUpsell": {
+      "message": "Obtenez des aperçus illimités avec vidIQ Boost"
+   },
+   "unlockTooltip": {
+      "message": "Débloquez les options de pays, de langue et de tri lorsque vous mettez à niveau vers Boost !"
+   },
+   "unpinCommentMessage": {
+      "message": "Ce commentaire sera détaché"
+   },
+   "unpinCommentTitle": {
+      "message": "Détacher ce commentaire"
+   },
+   "unpinCommentTooltip": {
+      "message": "Détacher Commentaire (alimenté par vidIQ)"
+   },
+   "updateDefaultNote": {
+      "message": "Vous pouvez mettre à jour les valeurs de \u003Cb>Text\u003C/b> et de \u003Cb>Lien\u003C/b> par défaut de chacune des $resources$ ci-dessous.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "updatePerVideoNote": {
+      "message": "Vous pouvez mettre à jour les valeurs de \u003Cb>Texte\u003C/b> et de \u003Cb>lien\u003C/b> de chaque $resources$ des vidéos ci-dessous.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgrade": {
+      "message": "Mise à niveau"
+   },
+   "upgradeBoostTagRecs": {
+      "message": "Mettre à niveau vers $start$vidIQ Boost$end$ pour voir $n$ tags recommandés de plus et 9 autres vidéos tendance !",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "n": {
+            "content": "$3"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeForFullAccess": {
+      "message": "Mise à niveau pour un accès complet"
+   },
+   "upgradeForMoreRelatedKeywords": {
+      "message": "$before$Mettre à niveau votre compte$after$ pour obtenir plus de mots-clés similaires",
+      "placeholders": {
+         "after": {
+            "content": "$2"
+         },
+         "before": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeForPreviews": {
+      "message": "Passez à Boost pour des aperçus illimités"
+   },
+   "upgradeForUnlimitedSearches": {
+      "message": "Passez à Pro pour des recherches illimitées"
+   },
+   "upgradeNow": {
+      "message": "Mettre à niveau Maintenant"
+   },
+   "upgradeNowTitle": {
+      "message": "Mettre à niveau Maintenant !"
+   },
+   "upgradeProTranslate": {
+      "message": "Mettre à niveau vers $start$vidIQ Pro$end$ pour voir toutes les traductions!",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeToBoost": {
+      "message": "Mettre à niveau vers \u003Cb>vidIQ Boost\u003C/b>"
+   },
+   "upgradeToBoostCsvExport": {
+      "message": "Mise à niveau vers Boost pour exporter au format CSV"
+   },
+   "upgradeToBoostForDescriptionRecs": {
+      "message": "Passez à Boost pour obtenir des recommandations de Description  "
+   },
+   "upgradeToBoostForTitleRecs": {
+      "message": "Passez à Boost pour obtenir des recommandations de Titres"
+   },
+   "upgradeToCreateAnEmailAlert": {
+      "message": "Mettre à niveau pour créer une nouvelle alerte"
+   },
+   "upgradeToGetThemNow": {
+      "message": "Mettez à niveau pour les obtenir maintenant"
+   },
+   "upgradeToPlan": {
+      "message": "Mettre à niveau vers vidIQ $plan$",
+      "placeholders": {
+         "plan": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeToViewInsights": {
+      "message": "Mettre à niveau pour afficher les informations sur toutes les vidéos"
+   },
+   "uploadThumbnail": {
+      "message": "Télécharger la miniature"
+   },
+   "uploadTitle": {
+      "message": "Mettre en ligne"
+   },
+   "uploadUpgradeBoost": {
+      "message": "Mettre à niveau vers \u003Cb>Boost\u003C/b> pour obtenir des vidéos \u003Cb>illimitées\u003C/b> !"
+   },
+   "uploadUpgradeProBoost": {
+      "message": "Mettre à niveau vers \u003Cb>Pro\u003C/b> pour obtenir des vidéos $limit$, ou mettre à niveau vers \u003Cb>Boost\u003C/b> pour obtenir des vidéos \u003Cb>unlimited\u003C/b> !",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploadsBestMonth": {
+      "message": "Mois avec le Plus de Publication"
+   },
+   "uploadsTitle": {
+      "message": "Mise en lignes"
+   },
+   "upsellSuperchargeSubTitle": {
+      "message": "Débloquez les outils de croissance les plus avancés pour les créateurs"
+   },
+   "upsellSuperchargeTitle": {
+      "message": "Boostez votre chaîne YouTube"
+   },
+   "upsellViewPlans": {
+      "message": "Voir les forfaits"
+   },
+   "velocityViewHeading": {
+      "message": "Vidéos avec la plus grande vélocité (vues par heure)"
+   },
+   "verificationCodeTitle": {
+      "message": "Code de Vérification"
+   },
+   "veryHighScore": {
+      "message": "Très élevé"
+   },
+   "veryLowScore": {
+      "message": "Très bas"
+   },
+   "vidIQShortcutsTitle": {
+      "message": "Raccourcis vidiQ"
+   },
+   "vidIQVisionOptions": {
+      "message": "vidiQ Vision - Options"
+   },
+   "vidNumber": {
+      "message": "# de vidéos"
+   },
+   "videoIdeasAuthMessage": {
+      "message": "\u003Cb>Vous n'avez pas encore authentifié votre chaîne.\u003Cbr>\u003Cbr>Pour obtenir des idées de vidéos, vous devez authentifier votre chaîne YouTube\u003C/b>"
+   },
+   "videoIdeasNoIdeasSecondary": {
+      "message": "\u003Cb>Nous n'avons pas encore assez de données sur votre chaîne pour vous donner des idées de vidéos. Vous trouverez ci-dessous une idée du timing en fonction de votre situation.\u003C/b>\u003Cbr>\u003Cbr>\u003Cb>1 à 3 jours après l'authentification de votre chaîne\u003C/b>\u003Cbr>(tant que votre dernière vidéo était entre 7 et 90 jours)\u003Cbr>\u003Cbr>\u003Cb>7 jours après la publication de votre première vidéo\u003C/b>"
+   },
+   "videoIdeasTip": {
+      "message": "Explorez des idées pour vous aider à créer de nouvelles vidéos sur Youtube avec la meilleure prédiction de vue"
+   },
+   "videoIdeasUnexpectedErrorPrimary": {
+      "message": "Aucune idée de vidéo disponible"
+   },
+   "videoIdeasUnexpectedErrorSecondary": {
+      "message": "Une erreur inattendue s'est produite et nous en avons été avertis.\u003Cbr>Veuillez réessayer plus tard."
+   },
+   "videoNeedsAtLeastOneVideoOrPlaylistEndscreen": {
+      "message": "Au moins un élément de l'écran de fin doit être une vidéo ou une liste de lecture"
+   },
+   "videoOptimizationChecklist": {
+      "message": "Liste de Vérification d'Optimisation Vidéo"
+   },
+   "videoPlaylistTitle": {
+      "message": "Vidéo / Playlist"
+   },
+   "videoPlural": {
+      "message": "vidéos"
+   },
+   "videoPreviewNewFeatureMessage": {
+      "message": "Découvrez à quoi ressemblent votre vidéo et votre miniature dans les résultats de recherche !\u003Cbr>Votre miniature et votre titre sont-ils suffisamment convaincants pour que vous puissiez cliquer parmi la concurrence ?"
+   },
+   "videoPublished": {
+      "message": "Vidéo publiée"
+   },
+   "videoSingular": {
+      "message": "vidéo"
+   },
+   "videoStatusGreat": {
+      "message": "Super !"
+   },
+   "videoStatusOkay": {
+      "message": "Bien"
+   },
+   "videoStillTitle": {
+      "message": "Image Vidéo Fixe"
+   },
+   "videoTagsTitle": {
+      "message": "Tags de la Vidéo"
+   },
+   "videoTitle": {
+      "message": "Vidéo"
+   },
+   "videoToBeMassLiked": {
+      "message": "Vidéo à aimer en groupe"
+   },
+   "videoTooShortForEndScreen": {
+      "message": "Les vidéos doivent être d'au moins 25 secondes pour avoir un écran de fin."
+   },
+   "videoUpdated": {
+      "message": "Vidéo mise à jour !"
+   },
+   "videosPublished": {
+      "message": "vidéos publiées"
+   },
+   "videosPublishedStatLabel": {
+      "message": "vidéos publiées"
+   },
+   "videosToGainViewsFromTitle": {
+      "message": "Vidéo Pour Bénéficier De Vues"
+   },
+   "vidiqAcademy": {
+      "message": "vidIQ Academy"
+   },
+   "vidiqBoostUpgradeViews": {
+      "message": "Mettre à niveau vers \u003Cb>vidIQ Boost\u003C/b> pour obtenir plus de vues !"
+   },
+   "vidiqDashboard": {
+      "message": "Tableau de bord vidIQ"
+   },
+   "vidiqGeneratedMetric": {
+      "message": "Ce n'est pas une statistique des Analytics de YouTube , mais une statistique générée à partir de vidIQ."
+   },
+   "vidiqRewards": {
+      "message": "Récompenses vidIQ"
+   },
+   "vidiqScoreStatLabel": {
+      "message": "score de vidIQ"
+   },
+   "vidiqScoreTooltip": {
+      "message": "Le score vidIQ souligne la popularité d'une vidéo basée sur les interactions et les vues par rapport à d'autres vidéos sur YouTube. Un score de 99/100 signifie que cette vidéo serait dans le 99ème centile des vidéos sur YouTube, calculé sur une proportion égale du nombre des vues et des interactions."
+   },
+   "vidiqSeoReport": {
+      "message": "Rapport SEO de vidIQ"
+   },
+   "vidiqVisionInstalled": {
+      "message": "vidIQ Vision pour Chrome a été installé avec succès !"
+   },
+   "vidiqVisionInstalledEdge": {
+      "message": "VidIQ Vision pour Edge a été installé avec succès"
+   },
+   "viewAllAnalyticsForYourChannel": {
+      "message": "Afficher toutes les analyses de votre chaîne"
+   },
+   "viewAllTimes": {
+      "message": "Voir toutes les périodes"
+   },
+   "viewComparisonError": {
+      "message": "Désolé! Nous ne disposons d'aucune donnée pour cette vidéo.\u003Cbr> Revenez plus tard ou essayez une autre vidéo."
+   },
+   "viewComparisonErrorNotEnoughViews": {
+      "message": "Cette vidéo n'a pas assez de vues à suivre"
+   },
+   "viewComparisonErrorOurIssue": {
+      "message": "Nous n'avons aucune donnée pour ceci. Si vous pensez que c'est une erreur, envoyez-nous un email à support@vidiq.com"
+   },
+   "viewComparisonErrorTooOld": {
+      "message": "Nous n'avons pas de données disponibles pour beaucoup d'anciennes vidéos comme celle-ci."
+   },
+   "viewComparisonHeading": {
+      "message": "Comparer les vues dans les 28 premiers jours"
+   },
+   "viewComparisonNewFeature": {
+      "message": "Nouvelle fonctionnalité! Comparez les vues au cours des 28 premiers jours.\u003Cbr> Regardez la vidéo ci-dessous pour voir comment cela fonctionne!"
+   },
+   "viewComparisonSparklineDownTooltip": {
+      "message": "Cette vidéo est moins performante que\u003Cbr>\u003Cb>$selected$\u003C/b>.",
+      "placeholders": {
+         "selected": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewComparisonSparklineUpTooltip": {
+      "message": "Cette vidéo fonctionne mieux que \u003Cbr>\u003Cb>$selected$\u003C/b>!",
+      "placeholders": {
+         "selected": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewComparisonTrialNumber": {
+      "message": "$num$ / 5 restants",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewCountTitle": {
+      "message": "Nombre de vues"
+   },
+   "viewFullReport": {
+      "message": "Voir le rapport complet"
+   },
+   "viewFullThumbnail": {
+      "message": "Voir la miniature complète"
+   },
+   "viewInKeywordInspector": {
+      "message": "voir dans l'inspecteur de mots clés"
+   },
+   "viewInYouTube": {
+      "message": "Voir la chaîne sur YouTube"
+   },
+   "viewMoreLabel": {
+      "message": "Afficher plus"
+   },
+   "viewOnYouTube": {
+      "message": "Voir sur YouTube"
+   },
+   "viewPotentialHeaderTooltip": {
+      "message": "Indique les vues que votre chaîne pourrait obtenir pour cette idée."
+   },
+   "viewPrediction": {
+      "message": "Prédiction de vues"
+   },
+   "viewRank": {
+      "message": "voir classement"
+   },
+   "viewTools": {
+      "message": "Outils"
+   },
+   "viewsBestMonth": {
+      "message": "Mois avec le Plus de Visionnage"
+   },
+   "viewsPerHour": {
+      "message": "Vues par heure"
+   },
+   "viewsPerHourTitle": {
+      "message": "Vues Par Heure"
+   },
+   "viewsStatLabel": {
+      "message": "Vues "
+   },
+   "viewsTitle": {
+      "message": "Vues"
+   },
+   "visit": {
+      "message": "Visite"
+   },
+   "visitVidIQ": {
+      "message": "Accédez à vidIQ"
+   },
+   "volume": {
+      "message": "Volume de Mots-clés de vidIQ"
+   },
+   "volumeLabel": {
+      "message": "Volume"
+   },
+   "vph": {
+      "message": "VPH"
+   },
+   "vphIsViewsPerHour": {
+      "message": "VPH=Vues par heure"
+   },
+   "vphStatLabel": {
+      "message": "vues par heure"
+   },
+   "vphTooltipDetailedBigger": {
+      "message": "Cette vidéo est actuellement reçois $value$ vue par heure, qui est $diff$ de plus que vues moyennes de cette vidéo $avg$ par heure.",
+      "placeholders": {
+         "avg": {
+            "content": "$3"
+         },
+         "diff": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipDetailedSmaller": {
+      "message": "Cette vidéo reçoit actuellement $valuer$ vues par heure, ce qui correspond à $diff$ de moins que les vues moyennes de cette vidéo par heure qui est de $avg$.\n",
+      "placeholders": {
+         "avg": {
+            "content": "$3"
+         },
+         "diff": {
+            "content": "$2"
+         },
+         "valuer": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipSimple": {
+      "message": "Le nombre de vues par heure que cette vidéo reçoit actuellement est de $value$.",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "wantExtraStats": {
+      "message": "Vous-voulez des statistiques historiques social et de vue?"
+   },
+   "wantNMoreRecs": {
+      "message": "Voulez-vous $number$ plus de recommandations pour ce terme de recherche?",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "wantTrendingVideos": {
+      "message": "Voulez-vous voir des vidéos tendances ?"
+   },
+   "warningPlural": {
+      "message": "alertes"
+   },
+   "warningSingular": {
+      "message": "alerte"
+   },
+   "watchTheVideo": {
+      "message": "Regardez la vidéo"
+   },
+   "watchTimeAverage": {
+      "message": "La durée de visionnage est moyenne"
+   },
+   "watchTimeGood": {
+      "message": "La durée de visionnage est bonne"
+   },
+   "watchTimeIncredible": {
+      "message": "La durée de visionnage est incroyable!"
+   },
+   "watchTimeLow": {
+      "message": "La durée de visionnage est faible"
+   },
+   "watchTimeTitle": {
+      "message": "Durée de Visionnage"
+   },
+   "wednesdayPlural": {
+      "message": "mercredis"
+   },
+   "week": {
+      "message": "semaine"
+   },
+   "weeksIntervalOption": {
+      "message": "Semaines"
+   },
+   "weightClassBad": {
+      "message": "en dessous de la concurrence pour ce tag"
+   },
+   "weightClassGood": {
+      "message": "au dessus de la concurrence pour ce tag"
+   },
+   "weightClassMiddlin": {
+      "message": "proche de la concurrence pour ce tag"
+   },
+   "whatDoYouThinkTitle": {
+      "message": "Qu'en pensez-vous ?"
+   },
+   "whatSearchTermRank": {
+      "message": "Pour quel terme de recherche voulez-vous vous classer ?"
+   },
+   "whichKeywordsToTrack": {
+      "message": "Quels mots clés souhaitez-vous suivre ?"
+   },
+   "widthTitle": {
+      "message": "Largeur"
+   },
+   "wordsPerMinuteStatLabel": {
+      "message": "les mots par minute"
+   },
+   "worstStatLabel": {
+      "message": "pire"
+   },
+   "yearAbbreviation": {
+      "message": "y"
+   },
+   "yes": {
+      "message": "Oui"
+   },
+   "yesImSure": {
+      "message": "Oui, je suis sûr"
+   },
+   "youHaveNoCompetitors": {
+      "message": "Vous n'avez ajouté aucun concurrent. Ouvrez le modal Concurrents dans la barre latérale gauche."
+   },
+   "youTubeSearchTitle": {
+      "message": "YouTube (recherche)"
+   },
+   "youTubeShortcuts": {
+      "message": "Raccourcis YouTube"
+   },
+   "yourChannelAverage": {
+      "message": "Votre moyenne de chaîne"
+   },
+   "yourCompetitorsAverage": {
+      "message": "la moyenne de vos Concurrents"
+   },
+   "yourEmail": {
+      "message": "Votre e-mail"
+   },
+   "yourPassword": {
+      "message": "Votre mot de passe"
+   },
+   "yourVideoDetails": {
+      "message": "Les détails de votre vidéo"
+   },
+   "yourWeightClass": {
+      "message": "Votre catégorie de poids"
+   },
+   "youtubeBackoff": {
+      "message": "En attente de YouTube. Cela ne devrait prendre qu'une minute."
+   },
+   "youtubeChannelId": {
+      "message": "Identifiant de chaîne YouTube"
+   },
+   "ytCommentsStatLabel": {
+      "message": "les commentaires yt"
+   },
+   "ytCommentsStatTitle": {
+      "message": "Les Commentaires YouTube "
+   },
+   "ytDislikesStatLabel": {
+      "message": "mentions \"Je n'aime pas\" de yt"
+   },
+   "ytDislikesStatTitle": {
+      "message": "Mentions \"Je n'aime pas\" de YouTube"
+   },
+   "ytEngagementsStatLabel": {
+      "message": "les interactions yt"
+   },
+   "ytEngagementsStatTitle": {
+      "message": "Engagements YouTube"
+   },
+   "ytLikesStatLabel": {
+      "message": "mentions \"J'aime\" de yt"
+   },
+   "ytLikesStatTitle": {
+      "message": "Mentions \"J'aime\" de YouTube "
+   },
+   "ytSearchTitle": {
+      "message": "Recherche YT"
+   },
+   "ytSearchViewsStatLabel": {
+      "message": "vues de recherche yt"
+   },
+   "ytSharesStatLabel": {
+      "message": "les partages yt"
+   },
+   "ytSharesStatTitle": {
+      "message": "Les Partages YouTube"
+   },
+   "ytSharesTooltipPopular": {
+      "message": "Cette vidéo est très partagée!"
+   },
+   "ytSharesTooltipUnpopular": {
+      "message": "Cette vidéo n'a pas un grand pourcentage de partages."
+   },
+   "ytSuggestedTitle": {
+      "message": "Suggestions YT"
+   }
+}

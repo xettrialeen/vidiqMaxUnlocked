@@ -1,0 +1,6843 @@
+{
+   "CSVPreview": {
+      "message": "Предпросмотр CSV"
+   },
+   "account": {
+      "message": "Аккаунт"
+   },
+   "accountCreationProblem": {
+      "message": "При создании аккаунта произошла ошибка"
+   },
+   "accountSettings": {
+      "message": "Настройки аккаунта"
+   },
+   "achievedDate": {
+      "message": "Заработано \u003Cb>$date$\u003C/b>",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementValueVariantMinutes": {
+      "message": "или \u003Cb>$num$ минут\u003C/b> просмотра",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementValueVariantYears": {
+      "message": "или \u003Cb>$num$ лет(годов)\u003C/b> просмотра",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsBestMonthCurrentMonth": {
+      "message": "У вас лучший месяц по показателю: $name$!",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsBestMonthProgress": {
+      "message": "\u003Cb>$percentage$%\u003C/b> в этом месяце",
+      "placeholders": {
+         "percentage": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsErrorMessage": {
+      "message": "Упс, ошибка. Пожалуйста, подождите несколько минут и перезагрузите страницу. Если проблему не удается решить, отправьте нам сообщение на support@vidiq.com"
+   },
+   "achievementsFeatureInfo": {
+      "message": "Давайте праздновать вместе! Чтобы загрузить сертификат и поделиться им в социальных сетях, кликните по любому достижению."
+   },
+   "achievementsLoadingBestVideo": {
+      "message": "Получение статистики за все время для самых популярных видео"
+   },
+   "achievementsLoadingLifetime": {
+      "message": "Получение статистики за все время для вашего канала"
+   },
+   "achievementsLoadingParsing": {
+      "message": "Вычисление ваших достижений и месяцев с наилучшими результатами"
+   },
+   "achievementsOnPaceFor": {
+      "message": "На пути к \u003Cb>$nextValue$\u003C/b> к \u003Cb>$date$\u003C/b>",
+      "placeholders": {
+         "date": {
+            "content": "$2"
+         },
+         "nextValue": {
+            "content": "$1"
+         }
+      }
+   },
+   "achievementsTitle": {
+      "message": "Достижения"
+   },
+   "actionableSeoScore": {
+      "message": "Действительная SEO оценка"
+   },
+   "actionableSeoScoreAverageSubtextBad": {
+      "message": "В целом, ваша действительная SEO оценка — низкая! Старайтесь иметь оценку выше 40 для каждого видео."
+   },
+   "actionableSeoScoreAverageSubtextGood": {
+      "message": "В целом, ваша действительная SEO оценка — хорошая!"
+   },
+   "actionableSeoScoreChannelAuditEdit": {
+      "message": "SEO оценка"
+   },
+   "actionableSeoScoreEditTitle": {
+      "message": "Действительная SEO оценка должна иметь значение 40 и более"
+   },
+   "actionableTitle": {
+      "message": "Действительные значения"
+   },
+   "addAllTitle": {
+      "message": "Добавить все"
+   },
+   "addAnnotationsToSave": {
+      "message": "Добавьте аннотации для сохранения!"
+   },
+   "addAnotherKeyword": {
+      "message": "Добавить другое ключевое слово"
+   },
+   "addCardsToSave": {
+      "message": "Добавьте карточки для сохранения!"
+   },
+   "addChangesToVideo": {
+      "message": "Применить изменения"
+   },
+   "addCreateOverwrite": {
+      "message": "Добавление объектов для создания или перезаписи шаблонов"
+   },
+   "addFilters": {
+      "message": "Добавить фильтр"
+   },
+   "addKeySearchTerm": {
+      "message": "Введите ключевое слово"
+   },
+   "addKeyword": {
+      "message": "Добавить это ключевое слово"
+   },
+   "addMoreChannelsToCompare": {
+      "message": "Добавьте больше каналов для сравнения"
+   },
+   "addMoreTagsForDescriptionRecs": {
+      "message": "Для получения рекомендаций для описаний, добавьте больше тегов!"
+   },
+   "addMoreTagsForTitleRecs": {
+      "message": "Для получения рекомендаций для заголовков, добавьте больше тегов!"
+   },
+   "addShapeTitle": {
+      "message": "Добавить форму"
+   },
+   "addStuffToThumbnail": {
+      "message": "Добавить текст, изображения и наложенные фигуры к значку видео."
+   },
+   "addTagTitle": {
+      "message": "Добавить тег"
+   },
+   "addTagsForRecs": {
+      "message": "Для получения рекомендаций, добавьте несколько тегов!"
+   },
+   "addTextTitle": {
+      "message": "Добавить текст"
+   },
+   "addToThisSearch": {
+      "message": "Добавить к данному поиску"
+   },
+   "addedToPlaylistAverageSubtextBad": {
+      "message": "В плейлистах содержится недостаточное количество ваших видео. Мы рекомендуем добавить каждое видео, по крайней мере, в один плейлист."
+   },
+   "addedToPlaylistAverageSubtextGood": {
+      "message": "В целом, ваши видео добавлены в достаточное количество плейлистов!"
+   },
+   "addedToPlaylistAverageSubtextOkay": {
+      "message": "Подумайте над добавлением вашего видео в большее количество плейлистов. Один или два плейлиста для каждого видео это отличный показатель."
+   },
+   "addedToPlaylistChannelAuditEdit": {
+      "message": "Обновление плейлистов"
+   },
+   "addedToPlaylistChannelAuditHas": {
+      "message": "Видео добавлено в $numPlaylists$ плейлист(а\\ов)",
+      "placeholders": {
+         "numPlaylists": {
+            "content": "$1"
+         }
+      }
+   },
+   "addedToPlaylistChannelAuditInfo": {
+      "message": "Каждое публичное видео должно находиться, по крайней мере, в одном плейлисте"
+   },
+   "addedToPlaylistChannelAuditMissing": {
+      "message": "Нет плейлистов"
+   },
+   "addedToPlaylistChannelAuditMissingMessage": {
+      "message": "Добавьте видео"
+   },
+   "addedToPlaylistMissingInfo": {
+      "message": "Видео в данном списке содержатся в недостаточном количестве плейлистов. Мы рекомендуем добавить их в ваши плейлисты."
+   },
+   "addedToPlaylistMissingSubtextBad": {
+      "message": "Добавьте каждое видео, по крайней мере, в один плейлист"
+   },
+   "addedToPlaylistMissingSubtextGood": {
+      "message": "Все ваши видео добавлены в плейлисты!"
+   },
+   "addedToPlaylistMissingTitle": {
+      "message": "Отсутствующие в плейлистах видео"
+   },
+   "addingTranslatedKeywords": {
+      "message": "Добавление переведенных тегов..."
+   },
+   "advancedEmbedInfo": {
+      "message": "В этом диалоговом окне, вы можете воспользоваться дополнительными опциями для встраивания видео на сторонние сайты. Узнайте больше об этих опциях, посетив \u003Ca$href$>информационную страницу параметров проигрывателя YouTube\u003C/a>.",
+      "placeholders": {
+         "href": {
+            "content": "$1"
+         }
+      }
+   },
+   "advancedEmbedTitle": {
+      "message": "Расширенное встраивание"
+   },
+   "agreeToTOS": {
+      "message": "Согласен с $begin$условиями предоставления услуг$end$",
+      "placeholders": {
+         "begin": {
+            "content": "$1"
+         },
+         "end": {
+            "content": "$2"
+         }
+      }
+   },
+   "all": {
+      "message": "Все"
+   },
+   "allCommentThreads": {
+      "message": "Все комментарии (выбрать фильтр)"
+   },
+   "allDismissedVisibleHere": {
+      "message": "Все ваши отклоненные идеи появятся здесь."
+   },
+   "allFieldsRequired": {
+      "message": "Все поля обязательны для заполнения"
+   },
+   "allLanguages": {
+      "message": "Все языки"
+   },
+   "allSavedVisibleHere": {
+      "message": "Все ваши сохраненные идеи появятся здесь."
+   },
+   "allTimeTitle": {
+      "message": "Все время"
+   },
+   "allVideosLoaded": {
+      "message": "Все видео были загружены!"
+   },
+   "allVideosUpTo": {
+      "message": "Все видео (до $limit$)",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "allowFullscreen": {
+      "message": "Разрешить полноэкранный режим"
+   },
+   "almostThere": {
+      "message": "Почти готово!"
+   },
+   "alreadyHaveAnAccount": {
+      "message": "Уже есть аккаунт?"
+   },
+   "analyticsTitle": {
+      "message": "Аналитика"
+   },
+   "and": {
+      "message": "и"
+   },
+   "annotation": {
+      "message": "аннотацию(и)"
+   },
+   "annotationTemplates": {
+      "message": "Шаблоны аннотаций"
+   },
+   "annotationsStatLabel": {
+      "message": "аннотации"
+   },
+   "annotationsTooltip": {
+      "message": "Количество аннотаций у видео."
+   },
+   "anyChannel": {
+      "message": "Любой канал"
+   },
+   "anyLabel": {
+      "message": "Любое"
+   },
+   "anyPlaylist": {
+      "message": "Любой плейлист"
+   },
+   "anyVideo": {
+      "message": "Любое видео"
+   },
+   "appDesc": {
+      "message": "Узнайте, что делает видео вирусным, и оптимизируйте ваши видео, чтобы получить больше просмотров!\n\nБлагодаря показателям, выходящим за пределы YouTube Analytics, vidIQ Vision предоставляет понятную отчетную сводку для оптимизации любого видео на YouTube - прямо в вашем браузере!\n\nЯвляетесь ли вы создателем контента, менеджером по маркетингу или обычным пользователем YouTube, вы, несомненно, задавались подобными вопросами:\n\n-   Что делает Похожие Видео похожими?\n-   Как видео ранжируются в Поиске?\n-   Откуда берутся Рекомендованные Видео?\n-   Как выглядит хорошая поисковая оптимизация на YouTube?\n-   Как Социальные Сети подстраиваются под развитие аудитории?\n\nМы предоставляем ответы и данные для оптимизации, которые могут существенно улучшить показатели ваших видео, вовлеченность подписчиков и возможности для продвижения.\n\nЭто расширение включает:\n\nvidIQ Оценка – Мы ранжируем каждое видео на YouTube в соответствии с запатентованным межплатформенным алгоритмом и присваиваем ему оптимизационную оценку для предсказания его возможного продвижения в Похожих Видео, Поиске, Рекомендованных Видео и других разделах.\n\nСкорость – характеристика Скорость, измеряемая в Просмотрах В Час, позволяет вам определять, какие видео на YouTube завоевывают вирусную популярность, видя, как быстро растут просмотры – в реальном времени!\n\nСреднее Время Просмотра – Получите точное представление о средней длине просмотра как ваших видео, так и тех, что смотрите вы. \n\nЛайки в социальных сетях/Количество поделившихся/Комментарии – Смотрите, сколько раз кто-то в Facebook, Twitter или Reddit лайкнул ваше видео, поделился им или включил ссылку на него в комментарий.\n\nТеги – Просматривайте SEO-данные, например, метатеги на любом видео на YouTube, чтобы получить преимущество при оптимизации контента вашего собственного канала. \n\nСлова В Минуту – этот показатель измеряет отношение количества слов к длине видео, давая неожиданные данные об успешности бегло говорящего, быстро сменяющего кадры создателя контента.\n\nСчетчик Ссылок в Описании – Мы предлагаем ценные идеи и лучшие методы для добавления ссылок в описания ваших видео.\n\nСчетчик Слов в Описании – Мы предостерегаем вас, когда описание вашего видео слишком короткое, и сообщаем, когда оно идеально подходит для оптимизации на YouTube.\n\nИзвлеките еще больше выгоды из vidIQ с нашими расширенными планами:\n\nvidIQ Pro - Получите доступ к данным за прошлые периоды, чтобы возвращаться к популярным ранее видео, выполнять исследование по ключевым словам для определения лучших ключевых слов для вашего следующего видео, отслеживать конкурентов и продвигать видео через Описательные Кампании.\n\nvidIQ Boost - легко и быстро улучшайте ваши SEO-показатели благодаря запатентованному движку vidIQ по рекомендации ключевых слов для оптимизации тегов, названий и описания. Неограниченный доступ к инструментам уровня Pro и возможность отслеживать и оптимизировать больше каналов.\n\nVision – это лишь одна часть из многофункционального набора программного обеспечения для видеомаркетинга и инструментов для привлечения аудитории на YouTube от vidIQs. Для доступа к ним и просмотра официальной документации, касающейся нашей деятельности, заходите на @ http://www.vidIQ.com\n\nОставайтесь на связи:\nЛайкните нас на Facebook: http://facebook.com/vidIQapp\nПодпишитесь на нас в Twitter: http://twitter.com/vidIQ\n\nПоддержка:\nЕсть вопросы или обратная связь? Пожалуйста, напишите нашей команде по адресу contact@vidIQ.com"
+   },
+   "apply": {
+      "message": "Применить"
+   },
+   "archivedCampaignsTitle": {
+      "message": "Архивированные кампании"
+   },
+   "areYouSureDeleteIdea": {
+      "message": "Вы уверены, что желаете удалить эту идею?"
+   },
+   "associatedWebsiteTitle": {
+      "message": "Связанный веб-сайт"
+   },
+   "authChannelTitle": {
+      "message": "Авторизовать этот канал"
+   },
+   "authChannelWithVidIQ": {
+      "message": "Авторизовать мой канал на \u003Cb>vidIQ\u003C/b>"
+   },
+   "authFacebookTitle": {
+      "message": "Авторизация Facebook"
+   },
+   "authForShortcuts": {
+      "message": "Авторизация для использования клавиш быстрого доступа YouTube"
+   },
+   "authThanks": {
+      "message": "Спасибо за авторизацию!"
+   },
+   "authYourChannel": {
+      "message": "Авторизовать мой канал"
+   },
+   "autoDetect": {
+      "message": "Авто-определение"
+   },
+   "automaticallyLoadMoreComments": {
+      "message": "Автоматически загружать комментарии до..."
+   },
+   "autoplayVideo": {
+      "message": "Автовоспроизведение видео"
+   },
+   "averageMinutesWatched": {
+      "message": "среднее количество минут просмотра"
+   },
+   "averagesChannelAuditError": {
+      "message": "Загрузите больше видео, чтобы увидеть статистику по длине заголовков и средние показатели SEO за последние 30 дней"
+   },
+   "avgDailySubsStatLabel": {
+      "message": "среднее кол-во подписч. в день"
+   },
+   "avgDailyViewsStatLabel": {
+      "message": "среднее кол-во просм. в день"
+   },
+   "avgEngagementRate": {
+      "message": "Средний уровень вовлеченности"
+   },
+   "avgPerViewSingular": {
+      "message": "$value$ на просмотр",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPerViews": {
+      "message": "$value$ на $numViews$ просмотров",
+      "placeholders": {
+         "numViews": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPerWatchTime": {
+      "message": "$value$ на $minutes$ минут просмотра",
+      "placeholders": {
+         "minutes": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "avgPercentViewedStatLabel": {
+      "message": "средний процент просмотра"
+   },
+   "avgRevenuePerDay": {
+      "message": "сред. дневной доход"
+   },
+   "avgRevenuePerMonth": {
+      "message": "сред. ежемесячный доход"
+   },
+   "avgRevenuePerWeek": {
+      "message": "сред. еженедельный доход"
+   },
+   "avgSubsPerMonth": {
+      "message": "сред. кол-во подписч. за мес."
+   },
+   "avgSubsPerWeek": {
+      "message": "сред. кол-во подписч. за нед."
+   },
+   "avgSubscribers": {
+      "message": "Среднее кол-во подписчиков"
+   },
+   "avgVideosPerDay": {
+      "message": "сред. кол-во опубликованных видео за день"
+   },
+   "avgVideosPerMonth": {
+      "message": "сред. кол-во опубликованных видео за мес."
+   },
+   "avgVideosPerWeek": {
+      "message": "сред. кол-во опубликованных видео за нед."
+   },
+   "avgViewTimeStatLabel": {
+      "message": "средн. время просм."
+   },
+   "avgViewsPerMonth": {
+      "message": "сред. кол-во просмотров за мес."
+   },
+   "avgViewsPerWeek": {
+      "message": "сред. кол-во просмотров за нед."
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "backTitle": {
+      "message": "Назад"
+   },
+   "backToLogin": {
+      "message": "Вернуться к странице входа"
+   },
+   "basedOnLast30Days": {
+      "message": "На основе данных за последние 30 дней"
+   },
+   "bestForViewer": {
+      "message": "Лучшее для зрителя"
+   },
+   "bestMonthPerformance": {
+      "message": "Показатели на $date$: $number$",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         },
+         "number": {
+            "content": "$2"
+         }
+      }
+   },
+   "bestMonthsTitle": {
+      "message": "Месяцы с лучшими результатами"
+   },
+   "bestTimeToPostAuthMessage": {
+      "message": "Пожалуйста, \u003Ca href=\"https://app.vidiq.com/welcome\" target=\"_blank\">авторизуйте свой канал\u003C/a> чтобы увидеть лучшее время дня для публикации видео"
+   },
+   "bestTimeToPostHeader": {
+      "message": "Лучшее время для публикации видео на вашем канале ($timezone$)",
+      "placeholders": {
+         "timezone": {
+            "content": "$1"
+         }
+      }
+   },
+   "bestTimeToPostPopoverMessage": {
+      "message": "Когда вы опубликовали это видео"
+   },
+   "bestTimeToPostTitle": {
+      "message": "Лучшее время для публикации"
+   },
+   "bestTimeToPostUpgrade": {
+      "message": "Оформить Pro подписку для просмотра лучшего времени публикации видео"
+   },
+   "bestTimesFetchFailed": {
+      "message": "Ошибка загрузки лучшего времени дня"
+   },
+   "bestTimesToPost": {
+      "message": "Лучшее время для загрузки"
+   },
+   "bestVideoTitle": {
+      "message": "Видео с лучшими результатами"
+   },
+   "beta": {
+      "message": "бета"
+   },
+   "billing": {
+      "message": "Оплата"
+   },
+   "blog": {
+      "message": "Блог"
+   },
+   "boostLearnMore": {
+      "message": "Узнайте больше об оптимизации видео с тарифным планом Boost в этой $start$видео-инструкции$end$!",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "boostToGetDescriptionRecs": {
+      "message": "Ускорить это видео для получения рекомендаций к описанию!"
+   },
+   "boostToGetTitleRecs": {
+      "message": "Ускорить это видео для получения рекомендаций к заголовку!"
+   },
+   "boostUpgradeTitle": {
+      "message": "Оформить Boost подписку"
+   },
+   "boostVideoTitle": {
+      "message": "Ускорить это видео"
+   },
+   "boostYourYoutubeViews": {
+      "message": "Органический рост YouTube просмотров"
+   },
+   "borderTitle": {
+      "message": "Граница"
+   },
+   "borderWidthTitle": {
+      "message": "Ширина рамки"
+   },
+   "bulkProcessFail": {
+      "message": "\u003Cb>$number$ $resources$ не были обновлены.\u003C/b> Пожалуйста, проверьте этот список, чтобы узнать какие из видео не удалось обновить.",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessFailSingular": {
+      "message": "\u003Cb>Не удалось обновить ваше(и) $resource$\u003C/b>",
+      "placeholders": {
+         "resource": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessSuccess": {
+      "message": "Успешно. Ваши $number$ $resources$ были изменены!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         },
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "bulkProcessSuccessSingular": {
+      "message": "Успешно. Ваш(и) $resource$ был(и) изменен(ы)!",
+      "placeholders": {
+         "resource": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkProcessorBeforeHeading": {
+      "message": "Вы собираетесь \u003Cb>$task$\u003C/b>",
+      "placeholders": {
+         "task": {
+            "content": "$1"
+         }
+      }
+   },
+   "bulkSeo": {
+      "message": "Массовое SEO"
+   },
+   "buy": {
+      "message": "Купить"
+   },
+   "by": {
+      "message": "по"
+   },
+   "bySigningUpAgreeTOS": {
+      "message": "Регистрируясь, я автоматически соглашаюсь с \u003Ca href=\\\"$tosUrl$\\\" target=\\\"_blank\\\">условиями предоставления услуг\u003C/a> и \u003Ca href=\\\"$privacyUrl$\\\" target=\\\"_blank\\\">политикой конфиденциальности\u003C/a> vidIQ.",
+      "placeholders": {
+         "privacyUrl": {
+            "content": "$2"
+         },
+         "tosUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "byVidIQ": {
+      "message": "От vidIQ"
+   },
+   "callToAction": {
+      "message": "Призыв к действию"
+   },
+   "campaignErrorTitle": {
+      "message": "На видео $link$ для $campaignId$",
+      "placeholders": {
+         "campaignId": {
+            "content": "$2"
+         },
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignErrorTitleCurrent": {
+      "message": "На видео $link$ для текущей кампании",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "campaignProcessFinished": {
+      "message": "Обработка завершена! Может потребоваться до 10 минут прежде чем изменения отобразятся для каждого видео, однако изменения уже должны быть видимы на странице редактирования для каждого из видео."
+   },
+   "campaignStatusEnded": {
+      "message": "Закончена"
+   },
+   "campaignStatusPending": {
+      "message": "Ожидание"
+   },
+   "campaignStatusPreparing": {
+      "message": "Подготовка"
+   },
+   "campaignStatusRestoring": {
+      "message": "Восстановление"
+   },
+   "campaignStatusRunning": {
+      "message": "Активна"
+   },
+   "campaignTextInvalid": {
+      "message": "Текст кампании должен содержать больше чем один пробел"
+   },
+   "campaignTextTitle": {
+      "message": "Текст кампании"
+   },
+   "campaignUpgradePrompt": {
+      "message": "Получите доступ ко всем функциям описательных кампаний, оформив подписку Pro"
+   },
+   "campaignUpgradeReason1": {
+      "message": "Отсутствие лимита в 30 видео"
+   },
+   "campaignUpgradeReason2": {
+      "message": "Возможность выбора видео: по дате загрузки, плейлисту, списку ID"
+   },
+   "campaignUpgradeReason3": {
+      "message": "Возможность отключения сокращения ссылок"
+   },
+   "campaignVideoChoice": {
+      "message": "На каких видео запустить эту кампанию?"
+   },
+   "canNotAddEndscreenToPrivateVideos": {
+      "message": "Невозможно добавить конечные заставки для видео с ограниченным доступом"
+   },
+   "cancel": {
+      "message": "Отменить"
+   },
+   "cantLoadSeoScoreChecklist": {
+      "message": "Ошибка загрузки SEO оценки или чек-листа"
+   },
+   "card": {
+      "message": "подсказку(и)"
+   },
+   "cardClickRates": {
+      "message": "Кликабельность подсказок"
+   },
+   "cardTemplates": {
+      "message": "Шаблоны подсказок"
+   },
+   "cardsChannelAuditEdit": {
+      "message": "Обновлениие подсказок"
+   },
+   "cardsChannelAuditHas": {
+      "message": "Кол-во подсказок для данного видео - $numCards$",
+      "placeholders": {
+         "numCards": {
+            "content": "$1"
+         }
+      }
+   },
+   "cardsChannelAuditInfo": {
+      "message": "Интерактивные подсказки, отображаемые во время видео помогают улучшить взаимодействие и увеличть показатель времени просмотра."
+   },
+   "cardsChannelAuditMissing": {
+      "message": "Нет подсказок"
+   },
+   "cardsChannelAuditMissingMessage": {
+      "message": "Добавьте, по крайней мере, одну подсказку"
+   },
+   "cardsInvalidError": {
+      "message": "Ошибка редактирования подсказок из-за неверных аргументов, отправленных на YouTube"
+   },
+   "cardsMissingInfo": {
+      "message": "Нижеприведенные видео не имеют подсказок. Мы рекомендуем добавить одну подсказку для каждого видео."
+   },
+   "cardsMissingSubtextBad": {
+      "message": "Добавьте подсказки ко всем видео"
+   },
+   "cardsMissingSubtextGood": {
+      "message": "Все видео имеют подсказки"
+   },
+   "cardsMissingTitle": {
+      "message": "Видео без подсказок"
+   },
+   "cardsStatLabel": {
+      "message": "подсказки"
+   },
+   "cardsTooltip": {
+      "message": "Количество подсказок у видео."
+   },
+   "caseSensitiveQ": {
+      "message": "Чувствительный к регистру?"
+   },
+   "categoryAny": {
+      "message": "Все категории"
+   },
+   "categoryAutosAndVehicles": {
+      "message": "Авто и транспорт"
+   },
+   "categoryComedy": {
+      "message": "Комедия"
+   },
+   "categoryDocumentary": {
+      "message": "Документальное"
+   },
+   "categoryDrama": {
+      "message": "Драма"
+   },
+   "categoryEducation": {
+      "message": "Образование"
+   },
+   "categoryEntertainment": {
+      "message": "Развлечения"
+   },
+   "categoryFamily": {
+      "message": "Семья"
+   },
+   "categoryFilmAndAnimation": {
+      "message": "Фильм и анимация"
+   },
+   "categoryGaming": {
+      "message": "Игры"
+   },
+   "categoryHorror": {
+      "message": "Ужасы"
+   },
+   "categoryHowtoAndStyle": {
+      "message": "Туториалы и стиль"
+   },
+   "categoryMovies": {
+      "message": "Фильмы"
+   },
+   "categoryMusic": {
+      "message": "Музыка"
+   },
+   "categoryNewsAndPolitics": {
+      "message": "Новости и политика"
+   },
+   "categoryNonprofitsAndActivism": {
+      "message": "Некоммерческие организации и активизм"
+   },
+   "categoryPeopleAndBlogs": {
+      "message": "Люди и блоги"
+   },
+   "categoryPetsAndAnimals": {
+      "message": "Животные и домашние животные"
+   },
+   "categoryScienceAndTechnology": {
+      "message": "Наука и технология"
+   },
+   "categoryShows": {
+      "message": "Шоу"
+   },
+   "categorySports": {
+      "message": "Спорт"
+   },
+   "categoryThriller": {
+      "message": "Триллер"
+   },
+   "categoryTitle": {
+      "message": "Категория"
+   },
+   "categoryTravelAndEvents": {
+      "message": "Путешествия и события"
+   },
+   "change": {
+      "message": "Изменить"
+   },
+   "changePastSevenDays": {
+      "message": "за последние 7 дней"
+   },
+   "channelAudit": {
+      "message": "Аудит канала"
+   },
+   "channelAuditAverageMetricsHeader": {
+      "message": "Средние показатели за последние 30 дней"
+   },
+   "channelAuditAverageMetricsInfo": {
+      "message": "Это средние показатели по видео, загруженным за последние 30 дней. Выполните клик по показателю для просмотра списка из видео со ссылками для редактирования данных значений."
+   },
+   "channelAuditContentNotWorking": {
+      "message": "Контент, требующий улучшений"
+   },
+   "channelAuditContentNotWorkingInfo": {
+      "message": "Список видео с худшей статистикой на YouTube за последние $numDays$ дней. Изучите контент и отзыв аудитории, чтобы найти причину.",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditDoubleDownHeader": {
+      "message": "Контент для повторения"
+   },
+   "channelAuditDoubleDownInfo": {
+      "message": "Это ваши наиболее эффективные видео на YouTube за последние 30 дней. Чтобы понять почему видео пользуется успехом, проанализируйте тему, контент и, как вы создали видео. Таким образом, попробуйте создать новое похожее видео."
+   },
+   "channelAuditError": {
+      "message": "Недостаточно данных для получения метрик"
+   },
+   "channelAuditFeatureInfo": {
+      "message": "Получите доступ к быстрым и легким советам по развитию канала!"
+   },
+   "channelAuditFeedbackErrorMessage": {
+      "message": "Произошла ошибка. Пожалуйста, убедитесь в том, что вы вошли в свой vidIQ аккаунт. Если это не помогло, свяжитесь с нами: support@vidiq.com"
+   },
+   "channelAuditFeedbackRatingMessage": {
+      "message": "Как бы вы оценили свои впечатления от использования аудита канала?"
+   },
+   "channelAuditFeedbackSubmittedMessage": {
+      "message": "Спасибо! Ваш отзыв отправлен."
+   },
+   "channelAuditItemsToImproveHeader": {
+      "message": "Что можно улучшить"
+   },
+   "channelAuditItemsToImproveInfo": {
+      "message": "Это ключевые элементы, которые определяют успех видео. Устраните данные недостатки, приблизив показатели видео к идеальным. Так, оно принесет вам еще больше просмотров и подписчиков!"
+   },
+   "channelAuditShowMoreHeader": {
+      "message": "Ваши $type$ видео по $stat$ за последние $numDays$ дней, ранжированные",
+      "placeholders": {
+         "numDays": {
+            "content": "$3"
+         },
+         "stat": {
+            "content": "$2"
+         },
+         "type": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditShowMoreHeaderSearchTerms": {
+      "message": "Лучшие ранжированные поисковые запросы для вашего канала за последние $numDays$ дней",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditStatsUpsellMessage": {
+      "message": "Оформите vidIQ Pro или Boost подписку, и откройте доступ к углубленной статистике!"
+   },
+   "channelAuditStatsUpsellMessageAlt": {
+      "message": "Оформите Pro или Boost подписку для доступа к полной аналитике канала!"
+   },
+   "channelAuditTimeframe": {
+      "message": "Временной период: $numDays$ дней",
+      "placeholders": {
+         "numDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelAuditTitle": {
+      "message": "Аудит канала"
+   },
+   "channelAuditUpsellMessage": {
+      "message": "\u003Cstrong>Оформите vidIQ Pro подписку\u003C/strong> и выше для просмотра полных результатов"
+   },
+   "channelCountryStatLabel": {
+      "message": "страна канала"
+   },
+   "channelEndscreensNeedCustomMessage": {
+      "message": "Для конечной заставки требуется кастомное сообщение"
+   },
+   "channelGrowthTooltip": {
+      "message": "Сравнивает рост за последние 30 дней к предыдущему периоду ($value$)",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "channelNotAuthed": {
+      "message": "Ваш канал не авторизован"
+   },
+   "channelStatsNotEnoughData": {
+      "message": "Недостаточно данных для отображения графика"
+   },
+   "channelSubscribers": {
+      "message": "Подписчики канала"
+   },
+   "channelSubscribersStatLabel": {
+      "message": "подписчики"
+   },
+   "channelTagsTitle": {
+      "message": "Теги канала"
+   },
+   "channelTitle": {
+      "message": "Канал"
+   },
+   "channelTrendingUpsellMessage": {
+      "message": "Получите доступ ко всем видео, отсортированным по скорости просмотров, оформив подписку Pro."
+   },
+   "channelViewsStatLabel": {
+      "message": "общее кол-во просмотров"
+   },
+   "characterCountersTitle": {
+      "message": "Счетчик символов"
+   },
+   "checkEmailForInfo": {
+      "message": "Для получения дальнейших инструкций, проверьте свой емайл"
+   },
+   "checkOutVidiqBoost": {
+      "message": "Попробуйте \u003Ca href=\\\"$videoUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">vidIQ Boost\u003C/a>",
+      "placeholders": {
+         "videoUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "checkOutYourSavedIdeas": {
+      "message": "Ознакомьтесь с сохраненными идеями."
+   },
+   "checkYouOut": {
+      "message": "Ура! Вы просмотрели все 50 идей!"
+   },
+   "checklistCC": {
+      "message": "Наличие субтитров в видео"
+   },
+   "checklistCard": {
+      "message": "По крайней мере 1 подсказка"
+   },
+   "checklistChaptersTooltip": {
+      "message": "Иметь эпизоды видео в описании"
+   },
+   "checklistComment": {
+      "message": "Ответили ли вы на последний комментарий"
+   },
+   "checklistCustomThumbnailTooltip": {
+      "message": "Иметь пользовательский значок видео"
+   },
+   "checklistDescRangeTooltip": {
+      "message": "Описания должны быть длиннее 300 символов"
+   },
+   "checklistEndScreen": {
+      "message": "По крайней мере 1 конечная заставка"
+   },
+   "checklistFacebook": {
+      "message": "Поделился ли кто на Facebook с проставлением не менее одного лайка"
+   },
+   "checklistHasChapters": {
+      "message": "Имеются эпизоды видео в описании"
+   },
+   "checklistHasClosedCaptions": {
+      "message": "Субтитры"
+   },
+   "checklistHasCustomThumbnail": {
+      "message": "Пользовательский значок видео"
+   },
+   "checklistHasEndscreenCard": {
+      "message": "По крайней мере одна конечная заставка"
+   },
+   "checklistHasPlaylist": {
+      "message": "Видео является частью плейлиста"
+   },
+   "checklistMoney": {
+      "message": "Наличие монетизации"
+   },
+   "checklistOptimizationScore": {
+      "message": "Оценка оптимизации"
+   },
+   "checklistPlaylist": {
+      "message": "Добавлено ли в плейлист"
+   },
+   "checklistPublic": {
+      "message": "Сделать публичным"
+   },
+   "checklistTagsRangeTooltip": {
+      "message": "Все вместе взятые теги должны быть более 200 символов "
+   },
+   "checklistTitle": {
+      "message": "Чек-лист"
+   },
+   "checklistTitleLengthTooltip": {
+      "message": "Иметь лаконочный заголовок"
+   },
+   "checklistTitleRangeTooltip": {
+      "message": "Заголовки должны иметь от 20 до 60 символов"
+   },
+   "checklistTwitter": {
+      "message": "Поделились на Twitter"
+   },
+   "checklistValidTitleLength": {
+      "message": "Длина заголовка менее 60 символов"
+   },
+   "chooseATemplate": {
+      "message": "Выберите шаблон"
+   },
+   "chooseCurrentThumb": {
+      "message": "Выберите текущий значок видео"
+   },
+   "chooseEllipses": {
+      "message": "Выбрать"
+   },
+   "chooseLanguage": {
+      "message": "Выберите язык на который необходимо перевести!"
+   },
+   "chooseLanguage2": {
+      "message": "Выбор языка..."
+   },
+   "choosePlaylist": {
+      "message": "Выбрать плейлист"
+   },
+   "chooseResourcesToCopy": {
+      "message": "Выберите $resources$ которые вы хотите скопировать",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "chooseResourcesToEditTitle": {
+      "message": "Выберите элементы для редактирования или удаления"
+   },
+   "chooseSourceVideoTitle": {
+      "message": "Выбрать исходные видео"
+   },
+   "chooseTemplate": {
+      "message": "Выбор шаблона"
+   },
+   "chooseThumbBgColor": {
+      "message": "Выберите желаемый цвет фона для значка видео"
+   },
+   "chooseThumbStill": {
+      "message": "Остановите видео на желаемом кадре, чтобы использовать его для значка видео"
+   },
+   "chooseTwoLangs": {
+      "message": "Выберите два разных языка!"
+   },
+   "chooseVideoCopyTargets": {
+      "message": "Выберите видео, к которому(ым) вы хотите добавить $resources$",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "clearAllFilters": {
+      "message": "Очистить все фильтры"
+   },
+   "clearKeywordsTitle": {
+      "message": "Очистить теги"
+   },
+   "clearPendingDeletionsTitle": {
+      "message": "Очистить ожидающие удаления"
+   },
+   "clearPendingEditsTitle": {
+      "message": "Очистить ожидающие изменения"
+   },
+   "clearTitle": {
+      "message": "Очистка"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "closestAchievement": {
+      "message": "Вы приблизительно в \u003Cp class='time-away'>$timeAway$\u003C/p> от получения \u003Cp class='next-achievement'>$achievement$\u003C/p>",
+      "placeholders": {
+         "achievement": {
+            "content": "$2"
+         },
+         "timeAway": {
+            "content": "$1"
+         }
+      }
+   },
+   "commentTemplatesTitle": {
+      "message": "Шаблоны комментариев"
+   },
+   "comments": {
+      "message": "комментарии"
+   },
+   "commentsMadeBy": {
+      "message": "Комментарии сделаны..."
+   },
+   "commentsTitle": {
+      "message": "Комментарии"
+   },
+   "communityCcTitle": {
+      "message": "Переводы, добавленными другими пользователями и субтитры"
+   },
+   "compareCompetitors": {
+      "message": "Сравнить с конкурентами"
+   },
+   "compareThumbInSearch": {
+      "message": "Сравнение значков видео в результатах поиска"
+   },
+   "comparisonLabel": {
+      "message": "$value$ предыдущий период",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "competition": {
+      "message": "Оценка конкуренции от vidIQ"
+   },
+   "competitionLabel": {
+      "message": "Конкуренция"
+   },
+   "competitors": {
+      "message": "Конкуренты"
+   },
+   "competitorsAdd": {
+      "message": "Добавить"
+   },
+   "competitorsAllTime": {
+      "message": "Все время"
+   },
+   "competitorsAverage": {
+      "message": "Средние показатели конкурентов"
+   },
+   "competitorsCompetitorChannels": {
+      "message": "Каналы конкурентов"
+   },
+   "competitorsDateUploaded": {
+      "message": "Дата загрузки"
+   },
+   "competitorsErrorNoChannelId": {
+      "message": "Данный ID канала не существует. Пожалуйста, убедитесь в том, что вы копируете ID канала YouTube так, как показано ниже."
+   },
+   "competitorsErrorNoCompetitors": {
+      "message": "Для просмотра последних трендовых видео от ваших конкурентов, сначала добавьте несколько каналов, используя форму справа."
+   },
+   "competitorsErrorNoCompetitorsFound": {
+      "message": "Конкуренты не найдены"
+   },
+   "competitorsErrorNoTrendingVideosButton": {
+      "message": "Отобразить трендовые видео за все время"
+   },
+   "competitorsErrorNoTrendingVideosMessage": {
+      "message": "За выбранный период трендовые видео у ваших конкурентов отсутствуют. Попробуйте выбрать другой интервал времени используя кнопки наверху или вернитесь немного позже."
+   },
+   "competitorsErrorUnableToRemove": {
+      "message": "Нам не удалось удалить этого конкурента. Пожалуйста, обновите страницу и повторите снова."
+   },
+   "competitorsErrorUnauthenticatedMessage": {
+      "message": "Для просмотра трендовых видео конкурентов, вам необходимо авторизовать свой канал на vidIQ."
+   },
+   "competitorsFeatureInfo": {
+      "message": "Добавьте конкурентов своего канала, и узнайте какие видео приносят им максимальное число просмотров и подписчиков"
+   },
+   "competitorsPast48Hours": {
+      "message": "Последние 48 часов"
+   },
+   "competitorsRemoveCompetitor": {
+      "message": "Удалить конкурента"
+   },
+   "competitorsThisMonth": {
+      "message": "Этот месяц"
+   },
+   "competitorsThisWeek": {
+      "message": "Эта неделя"
+   },
+   "competitorsUpsellMessage": {
+      "message": "Вы превысили лимит своего $userType$ аккаунта. Вы можете отслеживать только \u003Cstrong>$limit$ конкурента\u003C/strong>. Для отслеживания большего количества каналов, пожалуйста, оформите подписку.",
+      "placeholders": {
+         "limit": {
+            "content": "$2"
+         },
+         "userType": {
+            "content": "$1"
+         }
+      }
+   },
+   "competitorsViewChannel": {
+      "message": "Просмотр канала"
+   },
+   "competitorsViews": {
+      "message": "Просмотры"
+   },
+   "competitorsVph": {
+      "message": "VPH"
+   },
+   "configureInSettings": {
+      "message": "Конфигурация в настройках vidIQ"
+   },
+   "confirmEmailTitle": {
+      "message": "Подтвердить адрес электронной почты"
+   },
+   "confirmYourEmail": {
+      "message": "Подтвердите адрес электронной почты"
+   },
+   "connectYourYtAccount": {
+      "message": "Подключите свой YouTube аккаунт"
+   },
+   "connectYourYtChannel": {
+      "message": "Добавьте свой YouTube канал"
+   },
+   "considerIncludingDescription": {
+      "message": "Рассмотрите возможность добавления следующих хорошо искомых тегов к описанию"
+   },
+   "considerIncludingTitle": {
+      "message": "Рассмотрите возможность добавления следующих хорошо искомых тегов к заголовку"
+   },
+   "considerPostingBefore": {
+      "message": "Советуем начать загрузку видео во время роста пользовательской активности."
+   },
+   "containNegativeWords": {
+      "message": "Содержит негативные слова"
+   },
+   "containPositiveWords": {
+      "message": "Содержит позитивные слова"
+   },
+   "containProfanity": {
+      "message": "Содержит оскорбления"
+   },
+   "containQuestions": {
+      "message": "Содержит вопрос(ы)"
+   },
+   "continueWhenReady": {
+      "message": "Продолжайте, когда будете готовы"
+   },
+   "controversialKeywords": {
+      "message": "Спорные теги"
+   },
+   "controversialKeywordsUpgrade": {
+      "message": "Приобретите Pro подписку, чтобы увидеть спорные теги, которые могут привести к отключению монетизации"
+   },
+   "controversialKeywordsUpgradeShort": {
+      "message": "Оформите Pro подписку, чтобы увидеть спорные теги"
+   },
+   "copyAnnotationsTitle": {
+      "message": "Скопировать аннотации"
+   },
+   "copyCardsTitle": {
+      "message": "Скопировать подсказки"
+   },
+   "copyEndScreenNote": {
+      "message": "Заметка: При копировании и добавлении конечных заставок к видео с аннотациями, аннотации будут автоматически удалены для возможности копирования конечных заставок."
+   },
+   "copyEndScreenTitle": {
+      "message": "Скопировать конечные заставки"
+   },
+   "copyIdeas": {
+      "message": "Скопировать идеи"
+   },
+   "copyKeywordsTitle": {
+      "message": "Скопировать теги"
+   },
+   "copyTags": {
+      "message": "Добавить теги в буфер обмена"
+   },
+   "copyTagsTitle": {
+      "message": "Скопировать теги"
+   },
+   "copyToClipboard": {
+      "message": "Скопировать в буфер обмена"
+   },
+   "copyVideoResourcesFail": {
+      "message": "\u003Cb>Мы скопировали ваши $resources$, однако, не удалось сохранить $number$ из них.\u003C/b> В списке указаны видео, которые не были обновлены. Для просмотра $resources$, выполните клик по любому видео из списка.",
+      "placeholders": {
+         "number": {
+            "content": "$2"
+         },
+         "resources": {
+            "content": "$3"
+         }
+      }
+   },
+   "copyVideoResourcesSuccess": {
+      "message": "\u003Cb>Успешно! Выбранные $resources$ были скопированы!\u003C/b> Кликнув по видео из списка, вы можете увидеть ваши $resources$.",
+      "placeholders": {
+         "resources": {
+            "content": "$2"
+         }
+      }
+   },
+   "copyVideoResourcesTask": {
+      "message": "скопировать $resources$",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotFindOwnedChannels": {
+      "message": "Не найдено каналов принадлежащих вам"
+   },
+   "couldNotFindThisChannelId": {
+      "message": "Не удалось найти ID этого канала"
+   },
+   "couldNotFindYourChannelId": {
+      "message": "Не удалось найти ID вашего канала"
+   },
+   "couldNotGetTemplates": {
+      "message": "Не могу загрузить шаблоны: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "couldNotRetrieveCurrThumb": {
+      "message": "Не могу получить текущий значок видео"
+   },
+   "couldNotShortenUrls": {
+      "message": "Ошибка сокращения ссылки"
+   },
+   "couldntGetIdeasError": {
+      "message": "Упс... произошла ошибка и мы не смогли найти идеи для видео."
+   },
+   "countryAfghanistan": {
+      "message": "Афганистан"
+   },
+   "countryAlbania": {
+      "message": "Албания"
+   },
+   "countryAlgeria": {
+      "message": "Алжир"
+   },
+   "countryAmericanSamoa": {
+      "message": "Американское Самоа"
+   },
+   "countryAndorra": {
+      "message": "Андорра"
+   },
+   "countryAngola": {
+      "message": "Ангола"
+   },
+   "countryAnguilla": {
+      "message": "Ангилья"
+   },
+   "countryAntarctica": {
+      "message": "Антарктида"
+   },
+   "countryAntiguaandBarbuda": {
+      "message": "Антигуа и Барбуда"
+   },
+   "countryArgentina": {
+      "message": "Аргентина"
+   },
+   "countryArmenia": {
+      "message": "Армения"
+   },
+   "countryAruba": {
+      "message": "Аруба"
+   },
+   "countryAustralia": {
+      "message": "Австралия"
+   },
+   "countryAustria": {
+      "message": "Австрия"
+   },
+   "countryAzerbaijan": {
+      "message": "Азербайджан"
+   },
+   "countryBahamas": {
+      "message": "Багамские Острова"
+   },
+   "countryBahrain": {
+      "message": "Бахрейн"
+   },
+   "countryBangladesh": {
+      "message": "Бангладеш"
+   },
+   "countryBarbados": {
+      "message": "Барбадос"
+   },
+   "countryBelarus": {
+      "message": "Беларусь"
+   },
+   "countryBelgium": {
+      "message": "Бельгия"
+   },
+   "countryBelize": {
+      "message": "Белиз"
+   },
+   "countryBenin": {
+      "message": "Бенин"
+   },
+   "countryBermuda": {
+      "message": "Бермудские острова"
+   },
+   "countryBhutan": {
+      "message": "Бутан"
+   },
+   "countryBoliviaPlurinationalStateof": {
+      "message": "Боливия, Многонациональное Государство"
+   },
+   "countryBonaireSintEustatiusandSaba": {
+      "message": "Бонайре, Синт-Эстатиус и Саба"
+   },
+   "countryBosniaandHerzegovina": {
+      "message": "Босния и Герцеговина"
+   },
+   "countryBotswana": {
+      "message": "Ботсвана"
+   },
+   "countryBouvetIsland": {
+      "message": "Остров Буве"
+   },
+   "countryBrazil": {
+      "message": "Бразилия"
+   },
+   "countryBritishIndianOceanTerritory": {
+      "message": "Британская территория в Индийском океане"
+   },
+   "countryBruneiDarussalam": {
+      "message": "Бруней-Даруссалам"
+   },
+   "countryBulgaria": {
+      "message": "Болгария"
+   },
+   "countryBurkinaFaso": {
+      "message": "Буркина-Фасо"
+   },
+   "countryBurundi": {
+      "message": "Бурунди"
+   },
+   "countryCambodia": {
+      "message": "Камбоджа"
+   },
+   "countryCameroon": {
+      "message": "Камерун"
+   },
+   "countryCanada": {
+      "message": "Канада"
+   },
+   "countryCapeVerde": {
+      "message": "Кабо-Верде"
+   },
+   "countryCaymanIslands": {
+      "message": "Каймановы острова"
+   },
+   "countryCentralAfricanRepublic": {
+      "message": "Центрально-Африканская Республика"
+   },
+   "countryChad": {
+      "message": "Чад"
+   },
+   "countryChile": {
+      "message": "Чили"
+   },
+   "countryChina": {
+      "message": "Китай"
+   },
+   "countryChristmasIsland": {
+      "message": "Остров Рождества"
+   },
+   "countryCocosKeelingIslands": {
+      "message": "Кокосовые (Килинг) острова"
+   },
+   "countryColombia": {
+      "message": "Колумбия"
+   },
+   "countryComoros": {
+      "message": "Коморские острова"
+   },
+   "countryCongo": {
+      "message": "Конго"
+   },
+   "countryCongotheDemocraticRepublicofthe": {
+      "message": "Конго, Демократическая Республика"
+   },
+   "countryCookIslands": {
+      "message": "Острова Кука"
+   },
+   "countryCostaRica": {
+      "message": "Коста-Рика"
+   },
+   "countryCroatia": {
+      "message": "Хорватия"
+   },
+   "countryCtedIvoire": {
+      "message": "Кот-д'Ивуар"
+   },
+   "countryCuba": {
+      "message": "Куба"
+   },
+   "countryCuraao": {
+      "message": "Кюрасао"
+   },
+   "countryCyprus": {
+      "message": "Кипр"
+   },
+   "countryCzechRepublic": {
+      "message": "Чешская Республика"
+   },
+   "countryDenmark": {
+      "message": "Дания"
+   },
+   "countryDjibouti": {
+      "message": "Джибути"
+   },
+   "countryDominica": {
+      "message": "Доминика"
+   },
+   "countryDominicanRepublic": {
+      "message": "Доминиканская Республика"
+   },
+   "countryEcuador": {
+      "message": "Эквадор"
+   },
+   "countryEgypt": {
+      "message": "Египет"
+   },
+   "countryElSalvador": {
+      "message": "Сальвадор"
+   },
+   "countryEquatorialGuinea": {
+      "message": "Экваториальная Гвинея"
+   },
+   "countryEritrea": {
+      "message": "Эритрея"
+   },
+   "countryEstonia": {
+      "message": "Эстония"
+   },
+   "countryEthiopia": {
+      "message": "Эфиопия"
+   },
+   "countryFalklandIslandsMalvinas": {
+      "message": "Фолклендские (Мальвинские) острова"
+   },
+   "countryFaroeIslands": {
+      "message": "Фарерские острова"
+   },
+   "countryFiji": {
+      "message": "Фиджи"
+   },
+   "countryFinland": {
+      "message": "Финляндия"
+   },
+   "countryFrance": {
+      "message": "Франция"
+   },
+   "countryFrenchGuiana": {
+      "message": "Французская Гвиана"
+   },
+   "countryFrenchPolynesia": {
+      "message": "Французская Полинезия"
+   },
+   "countryFrenchSouthernTerritories": {
+      "message": "Южные Французские Территории"
+   },
+   "countryGabon": {
+      "message": "Габон"
+   },
+   "countryGambia": {
+      "message": "Гамбия"
+   },
+   "countryGeorgia": {
+      "message": "Грузия"
+   },
+   "countryGermany": {
+      "message": "Германия"
+   },
+   "countryGhana": {
+      "message": "Гана"
+   },
+   "countryGibraltar": {
+      "message": "Гибралтар"
+   },
+   "countryGreece": {
+      "message": "Греция"
+   },
+   "countryGreenland": {
+      "message": "Гренландия"
+   },
+   "countryGrenada": {
+      "message": "Гренада"
+   },
+   "countryGuadeloupe": {
+      "message": "Гваделупа"
+   },
+   "countryGuam": {
+      "message": "Гуам"
+   },
+   "countryGuatemala": {
+      "message": "Гватемала"
+   },
+   "countryGuernsey": {
+      "message": "Гернси"
+   },
+   "countryGuinea": {
+      "message": "Гвинея"
+   },
+   "countryGuineaBissau": {
+      "message": "Гвинея-Бисау"
+   },
+   "countryGuyana": {
+      "message": "Гайана"
+   },
+   "countryHaiti": {
+      "message": "Гаити"
+   },
+   "countryHeardIslandandMcDonaldIslands": {
+      "message": "Острова Херд и Макдональд"
+   },
+   "countryHolySeeVaticanCityState": {
+      "message": "Святейший Престол (Государство-город Ватикан)"
+   },
+   "countryHonduras": {
+      "message": "Гондурас"
+   },
+   "countryHongKong": {
+      "message": "Гонконг"
+   },
+   "countryHungary": {
+      "message": "Венгрия"
+   },
+   "countryIceland": {
+      "message": "Исландия"
+   },
+   "countryIndia": {
+      "message": "Индия"
+   },
+   "countryIndonesia": {
+      "message": "Индонезия"
+   },
+   "countryIranIslamicRepublicof": {
+      "message": "Иран, Исламская Республика"
+   },
+   "countryIraq": {
+      "message": "Ирак"
+   },
+   "countryIreland": {
+      "message": "Ирландия"
+   },
+   "countryIsleofMan": {
+      "message": "Остров Мэн"
+   },
+   "countryIsrael": {
+      "message": "Израиль"
+   },
+   "countryItaly": {
+      "message": "Италия"
+   },
+   "countryJamaica": {
+      "message": "Ямайка"
+   },
+   "countryJapan": {
+      "message": "Япония"
+   },
+   "countryJersey": {
+      "message": "Джерси"
+   },
+   "countryJordan": {
+      "message": "Иордания"
+   },
+   "countryKazakhstan": {
+      "message": "Казахстан"
+   },
+   "countryKenya": {
+      "message": "Кения"
+   },
+   "countryKiribati": {
+      "message": "Кирибати"
+   },
+   "countryKoreaDemocraticPeoplesRepublicof": {
+      "message": "Корейская Народно-Демократическая Республика"
+   },
+   "countryKoreaRepublicof": {
+      "message": "Корея, Республика"
+   },
+   "countryKuwait": {
+      "message": "Кувейт"
+   },
+   "countryKyrgyzstan": {
+      "message": "Кыргызстан"
+   },
+   "countryLaoPeoplesDemocraticRepublic": {
+      "message": "Лаосская Народно-Демократическая Республика"
+   },
+   "countryLatvia": {
+      "message": "Латвия"
+   },
+   "countryLebanon": {
+      "message": "Ливан"
+   },
+   "countryLesotho": {
+      "message": "Лесото"
+   },
+   "countryLiberia": {
+      "message": "Либерия"
+   },
+   "countryLibya": {
+      "message": "Ливия"
+   },
+   "countryLiechtenstein": {
+      "message": "Лихтенштейн"
+   },
+   "countryLithuania": {
+      "message": "Литва"
+   },
+   "countryLuxembourg": {
+      "message": "Люксембург"
+   },
+   "countryMacao": {
+      "message": "Макао"
+   },
+   "countryMacedonia": {
+      "message": "Македония"
+   },
+   "countryMacedoniatheFormerYugoslavRepublicof": {
+      "message": "Македония, бывшая Югославская Республика"
+   },
+   "countryMadagascar": {
+      "message": "Мадагаскар"
+   },
+   "countryMalawi": {
+      "message": "Малави"
+   },
+   "countryMalaysia": {
+      "message": "Малайзия"
+   },
+   "countryMaldives": {
+      "message": "Мальдивы"
+   },
+   "countryMali": {
+      "message": "Мали"
+   },
+   "countryMalta": {
+      "message": "Мальта"
+   },
+   "countryMarshallIslands": {
+      "message": "Маршалловы острова"
+   },
+   "countryMartinique": {
+      "message": "Мартиника"
+   },
+   "countryMauritania": {
+      "message": "Мавритания"
+   },
+   "countryMauritius": {
+      "message": "Маврикий"
+   },
+   "countryMayotte": {
+      "message": "Майотта"
+   },
+   "countryMexico": {
+      "message": "Мексика"
+   },
+   "countryMicronesiaFederatedStatesof": {
+      "message": "Микронезия, Федеративные Штаты"
+   },
+   "countryMoldovaRepublicof": {
+      "message": "Молдова, Республика"
+   },
+   "countryMonaco": {
+      "message": "Монако"
+   },
+   "countryMongolia": {
+      "message": "Монголия"
+   },
+   "countryMontenegro": {
+      "message": "Черногория"
+   },
+   "countryMontserrat": {
+      "message": "Монтсеррат"
+   },
+   "countryMorocco": {
+      "message": "Марокко"
+   },
+   "countryMozambique": {
+      "message": "Мозамбик"
+   },
+   "countryMyanmar": {
+      "message": "Мьянма"
+   },
+   "countryNamibia": {
+      "message": "Намибия"
+   },
+   "countryNauru": {
+      "message": "Науру"
+   },
+   "countryNepal": {
+      "message": "Непал"
+   },
+   "countryNetherlands": {
+      "message": "Нидерланды"
+   },
+   "countryNewCaledonia": {
+      "message": "Новая Каледония"
+   },
+   "countryNewZealand": {
+      "message": "Новая Зеландия"
+   },
+   "countryNicaragua": {
+      "message": "Никарагуа"
+   },
+   "countryNiger": {
+      "message": "Нигер"
+   },
+   "countryNigeria": {
+      "message": "Нигерия"
+   },
+   "countryNiue": {
+      "message": "Ниуэ"
+   },
+   "countryNorfolkIsland": {
+      "message": "Остров Норфолк"
+   },
+   "countryNorthernMarianaIslands": {
+      "message": "Северные Марианские острова"
+   },
+   "countryNorway": {
+      "message": "Норвегия"
+   },
+   "countryOman": {
+      "message": "Оман"
+   },
+   "countryPakistan": {
+      "message": "Пакистан"
+   },
+   "countryPalau": {
+      "message": "Палау"
+   },
+   "countryPalestineStateof": {
+      "message": "Государство Палестина"
+   },
+   "countryPanama": {
+      "message": "Панама"
+   },
+   "countryPapuaNewGuinea": {
+      "message": "Папуа - Новая Гвинея"
+   },
+   "countryParaguay": {
+      "message": "Парагвай"
+   },
+   "countryPeru": {
+      "message": "Перу"
+   },
+   "countryPhilippines": {
+      "message": "Филиппины"
+   },
+   "countryPitcairn": {
+      "message": "Питкэрн"
+   },
+   "countryPoland": {
+      "message": "Польша"
+   },
+   "countryPortugal": {
+      "message": "Португалия"
+   },
+   "countryPuertoRico": {
+      "message": "Пуэрто-Рико"
+   },
+   "countryQatar": {
+      "message": "Катар"
+   },
+   "countryRomania": {
+      "message": "Румыния"
+   },
+   "countryRunion": {
+      "message": "Реюньон"
+   },
+   "countryRussia": {
+      "message": "Россия"
+   },
+   "countryRussianFederation": {
+      "message": "Российская Федерация"
+   },
+   "countryRwanda": {
+      "message": "Руанда"
+   },
+   "countrySaintBarthlemy": {
+      "message": "Сент-Бартелеми"
+   },
+   "countrySaintHelenaAscensionandTristandaCunha": {
+      "message": "остров Св. Елены"
+   },
+   "countrySaintKittsandNevis": {
+      "message": "Сент-Китс и Невис"
+   },
+   "countrySaintLucia": {
+      "message": "Санкт-Люсия"
+   },
+   "countrySaintMartinFrenchpart": {
+      "message": "Сен-Мартен (французская часть)"
+   },
+   "countrySaintPierreandMiquelon": {
+      "message": "Сен-Пьер и Микелон"
+   },
+   "countrySaintVincentandtheGrenadines": {
+      "message": "Сент-Винсент и Гренадины"
+   },
+   "countrySamoa": {
+      "message": "Самоа"
+   },
+   "countrySanMarino": {
+      "message": "Сан-Марино"
+   },
+   "countrySaoTomeandPrincipe": {
+      "message": "Сан-Томе и Принсипи"
+   },
+   "countrySaudiArabia": {
+      "message": "Саудовская Аравия"
+   },
+   "countrySenegal": {
+      "message": "Сенегал"
+   },
+   "countrySerbia": {
+      "message": "Сербия"
+   },
+   "countrySeychelles": {
+      "message": "Сейшельские Острова"
+   },
+   "countrySierraLeone": {
+      "message": "Сьерра-Леоне"
+   },
+   "countrySingapore": {
+      "message": "Сингапур"
+   },
+   "countrySintMaartenDutchpart": {
+      "message": "Синт-Маартен (голландская часть)"
+   },
+   "countrySlovakia": {
+      "message": "Словакия"
+   },
+   "countrySlovenia": {
+      "message": "Словения"
+   },
+   "countrySolomonIslands": {
+      "message": "Соломоновы острова"
+   },
+   "countrySomalia": {
+      "message": "Сомали"
+   },
+   "countrySouthAfrica": {
+      "message": "Южная Африка"
+   },
+   "countrySouthGeorgiaandtheSouthSandwichIslands": {
+      "message": "Южная Георгия и Южные Сандвичевы острова"
+   },
+   "countrySouthKorea": {
+      "message": "Южная Корея"
+   },
+   "countrySouthSudan": {
+      "message": "Южный Судан"
+   },
+   "countrySpain": {
+      "message": "Испания"
+   },
+   "countrySriLanka": {
+      "message": "Шри-Ланка"
+   },
+   "countrySudan": {
+      "message": "Судан"
+   },
+   "countrySuriname": {
+      "message": "Суринам"
+   },
+   "countrySvalbardandJanMayen": {
+      "message": "Свалбард и Ян Мейен острова"
+   },
+   "countrySwaziland": {
+      "message": "Свазиленд"
+   },
+   "countrySweden": {
+      "message": "Швеция"
+   },
+   "countrySwitzerland": {
+      "message": "Швейцария"
+   },
+   "countrySyrianArabRepublic": {
+      "message": "Сирийская Арабская Республика"
+   },
+   "countryTaiwan": {
+      "message": "Тайвань"
+   },
+   "countryTaiwanProvinceofChina": {
+      "message": "Тайвань, провинция Китая"
+   },
+   "countryTajikistan": {
+      "message": "Таджикистан"
+   },
+   "countryTanzaniaUnitedRepublicof": {
+      "message": "Танзания, Объединенная Республика"
+   },
+   "countryThailand": {
+      "message": "Таиланд"
+   },
+   "countryTimorLeste": {
+      "message": "Тимор-Лешти"
+   },
+   "countryTitle": {
+      "message": "Страна"
+   },
+   "countryTogo": {
+      "message": "Того"
+   },
+   "countryTokelau": {
+      "message": "Токелау"
+   },
+   "countryTonga": {
+      "message": "Тонга"
+   },
+   "countryTrinidadandTobago": {
+      "message": "Тринидад и Тобаго"
+   },
+   "countryTunisia": {
+      "message": "Тунис"
+   },
+   "countryTurkey": {
+      "message": "Турция"
+   },
+   "countryTurkmenistan": {
+      "message": "Туркменистан"
+   },
+   "countryTurksandCaicosIslands": {
+      "message": "Острова Теркс и Кайкос"
+   },
+   "countryTuvalu": {
+      "message": "Тувалу"
+   },
+   "countryUganda": {
+      "message": "Уганда"
+   },
+   "countryUkraine": {
+      "message": "Украина"
+   },
+   "countryUnitedArabEmirates": {
+      "message": "Объединенные Арабские Эмираты"
+   },
+   "countryUnitedKingdom": {
+      "message": "Великобритания"
+   },
+   "countryUnitedStates": {
+      "message": "Соединенные Штаты"
+   },
+   "countryUnitedStatesMinorOutlyingIslands": {
+      "message": "Малые Удалённые Острова США"
+   },
+   "countryUnitedStatesWorldwide": {
+      "message": "Соединенные Штаты/Весь мир"
+   },
+   "countryUruguay": {
+      "message": "Уругвай"
+   },
+   "countryUzbekistan": {
+      "message": "Узбекистан"
+   },
+   "countryVanuatu": {
+      "message": "Вануату"
+   },
+   "countryVenezuelaBolivarianRepublicof": {
+      "message": "Венесуэла, Боливарианская Республика"
+   },
+   "countryVietnam": {
+      "message": "Вьетнам"
+   },
+   "countryVirginIslandsBritish": {
+      "message": "Виргинские о-ва, Великобритания"
+   },
+   "countryVirginIslandsUS": {
+      "message": "Виргинские острова, США"
+   },
+   "countryWallisandFutuna": {
+      "message": "Уоллис и Футуна"
+   },
+   "countryWesternSahara": {
+      "message": "Западная Сахара"
+   },
+   "countryYemen": {
+      "message": "Йемен"
+   },
+   "countryZambia": {
+      "message": "Замбия"
+   },
+   "countryZimbabwe": {
+      "message": "Зимбабве"
+   },
+   "countrylandIslands": {
+      "message": "Аландские острова"
+   },
+   "createAccountTitle": {
+      "message": "Создать аккаунт"
+   },
+   "createAnEmailAlert": {
+      "message": "Создать уведомление"
+   },
+   "createNewCommentTemplateTitle": {
+      "message": "Создать новый шаблон комментария"
+   },
+   "createNewTitle": {
+      "message": "Создать новый"
+   },
+   "createNewVidiqAccount": {
+      "message": "Создать новый vidIQ аккаунт"
+   },
+   "createThumbnailTitle": {
+      "message": "Создать значок видео"
+   },
+   "createTitle": {
+      "message": "Создать"
+   },
+   "createVidiqAccount": {
+      "message": "Создать vidIQ аккаунт"
+   },
+   "createdAtStatLabel": {
+      "message": "Создано"
+   },
+   "createdCampaign": {
+      "message": "Созданная кампания!"
+   },
+   "creatorSuggestedStatLabel": {
+      "message": "предложения от автора"
+   },
+   "creatorSuggestedTooltip": {
+      "message": "Предложения от автора: кол-во видео в секции \"Следующее\" от канала создателя. Этот показатель отображает как хорошо оптимизирован канал создателя для удержания аудитории."
+   },
+   "creatorsForPeaceButtonText": {
+      "message": "Узнайте, как вы можете помочь прямо сейчас."
+   },
+   "creatorsForPeaceHeader": {
+      "message": "НАМ НУЖНА ВАША ПОМОЩЬ!"
+   },
+   "creatorsForPeaceMessage": {
+      "message": "Более миллиона украинцев нуждается в вашей помощи."
+   },
+   "crowdfundingTitle": {
+      "message": "Краудфандинг"
+   },
+   "csvExportTitle": {
+      "message": "Экспорт CSV"
+   },
+   "current": {
+      "message": "Текущее"
+   },
+   "currentBestTimes": {
+      "message": "Текущее лучшее время дня для публикации: \u003Cb>между $start$ и $end$\u003C/b>",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "currentCampaignTitle": {
+      "message": "Текущая кампания"
+   },
+   "currentThumbnailTitle": {
+      "message": "Текущий значок видео"
+   },
+   "custom": {
+      "message": "Произвольно"
+   },
+   "customThumbnail": {
+      "message": "Пользовательский значок видео"
+   },
+   "customThumbnailChannelAuditEdit": {
+      "message": "Обновление миниатюр"
+   },
+   "customThumbnailChannelAuditHas": {
+      "message": "Свой значок видео загружен"
+   },
+   "customThumbnailChannelAuditMissing": {
+      "message": "Отсутствует свой значок видео"
+   },
+   "customThumbnailChannelAuditMissingMessage": {
+      "message": "Загрузите свой знакок видео"
+   },
+   "customThumbnailMissingInfo": {
+      "message": "Видео в данном списке не имеют пользовательских миниатюр. Мы рекомендуем добавить свой значок видео к каждому видео."
+   },
+   "customThumbnailMissingSubtextBad": {
+      "message": "Добавьте пользовательские миниатюры ко всем своим видео"
+   },
+   "customThumbnailMissingSubtextGood": {
+      "message": "Все ваши видео имеют пользовательские миниатюры!"
+   },
+   "customThumbnailMissingTitle": {
+      "message": "Видео без пользовательских миниатюр"
+   },
+   "customThumbnailUsageNotice": {
+      "message": "Чтобы использовать персонализированные значки, ваша учетная запись $start$должна быть подтверждена и иметь хорошую репутацию$end$",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "customUrlWarning": {
+      "message": "Произвольные URL могут вызвать проблемы при сохранении"
+   },
+   "dailyIdeasLabel": {
+      "message": "Ежедневные идеи"
+   },
+   "dailyIdeasNoVideosExplainOne": {
+      "message": "Наш ИИ рекомендует уникальные ежедневные идеи исходя из контента вашего канала."
+   },
+   "dailyIdeasNoVideosExplainTwo": {
+      "message": "Опубликуйте новое видео и возвращайтесь через 7 дней для получения индивидуальных рекомендаций!"
+   },
+   "dailyIdeasNoVideosPrimary": {
+      "message": "Опубликуйте новое видео и получите рекомендации от ИИ."
+   },
+   "dailyIdeasTitle": {
+      "message": "Ежедневные идеи"
+   },
+   "dailyIdeasUpsellAlt": {
+      "message": "Возвращайтесь завтра для просмотра еще $num$ идей или оформите подписку для получения неограниченного доступа!",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "dashboardTitle": {
+      "message": "Панель инструментов"
+   },
+   "dataFromGoogleTrends": {
+      "message": "Данные из Google Trends"
+   },
+   "datePublishedTitle": {
+      "message": "Дата публикации"
+   },
+   "dateRange": {
+      "message": "Диапазон дат"
+   },
+   "dateSaved": {
+      "message": "Дата сохранения"
+   },
+   "day": {
+      "message": "день"
+   },
+   "dayAbbreviation": {
+      "message": "дн"
+   },
+   "daysIntervalOption": {
+      "message": "Дни"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "deleteAllKeywordsQ": {
+      "message": "Удалить все теги?"
+   },
+   "deleteNThings": {
+      "message": "удалить $n$ $things$",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "things": {
+            "content": "$2"
+         }
+      }
+   },
+   "deleteOneThing": {
+      "message": "удалить одну $thing$",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTheTemplate": {
+      "message": "Удалить шаблон \"$template$\"?",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteTitle": {
+      "message": "Удалить"
+   },
+   "descAverageSubtextBad": {
+      "message": "В целом, длина описаний у ваших видео - короткая! Постарайтесь создавать описания длиннее 300 символов."
+   },
+   "descAverageSubtextGood": {
+      "message": "В целом, длина описаний у ваших видео - хорошая!"
+   },
+   "descChannelAuditEdit": {
+      "message": "Обновление описаний"
+   },
+   "descLengthChannelAuditTitle": {
+      "message": "Длина описания"
+   },
+   "descLinkCountStatLabel": {
+      "message": "кол-во ссылок в описании"
+   },
+   "descWordCountStatLabel": {
+      "message": "кол-во слов в описании"
+   },
+   "descWordCountTooltip": {
+      "message": "Это количество слов, полученное из описания видео."
+   },
+   "description": {
+      "message": "Описание"
+   },
+   "descriptionCampaignIntro": {
+      "message": "Создайте описательную кампанию для добавления дополнительного текста к описаниям видео. При остановке кампании, добавленный текст будет автоматически удален."
+   },
+   "descriptionCampaignsTitle": {
+      "message": "Описательные кампании"
+   },
+   "descriptionTooLongToTranslate": {
+      "message": "Описание слишком длинное для перевода!"
+   },
+   "descriptionsTitle": {
+      "message": "Описания"
+   },
+   "desktopTitle": {
+      "message": "Компьютеры"
+   },
+   "disableInlineKeywords": {
+      "message": "Не отображать теги под видео"
+   },
+   "disableKeyboardControls": {
+      "message": "Отключить управление клавишами"
+   },
+   "dislikes": {
+      "message": "дислайки"
+   },
+   "dismissTitle": {
+      "message": "Отклонить"
+   },
+   "dismissWarningsTitle": {
+      "message": "Игнорировать предупреждения"
+   },
+   "dismissed": {
+      "message": "Отклонено"
+   },
+   "dismissedIdeasLabel": {
+      "message": "Отклоненные идеи"
+   },
+   "dismissedIdeasTabTooltip": {
+      "message": "Вы более не увидите данную идею. Вы можете изменить это здесь"
+   },
+   "doNotLoadMoreComments": {
+      "message": "Не загружать комментарии автоматически"
+   },
+   "domainNameTitle": {
+      "message": "Доменное имя"
+   },
+   "donationTitle": {
+      "message": "Пожертвование"
+   },
+   "doneExclaim": {
+      "message": "Готово!"
+   },
+   "doneTitle": {
+      "message": "Готово"
+   },
+   "dontForgetRefresh": {
+      "message": "После смены тарифного плана не забудьте обновить страницу!"
+   },
+   "dontKnowWhatVideoToCreate": {
+      "message": "Не знаете на какую тему создать видео?"
+   },
+   "doubleDownChannelAuditError": {
+      "message": "Загрузите больше видео, чтобы увидеть статистику по скорости просмотра и лучшие поисковые запросы за последние 30 дней"
+   },
+   "download": {
+      "message": "Скачать"
+   },
+   "downloadAsCsv": {
+      "message": "Скачать как CSV"
+   },
+   "downloadCSVTitle": {
+      "message": "Скачать CSV"
+   },
+   "downloadName": {
+      "message": "vidIQ CSV экспорт для $id$",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "dragDropKeywordsTitle": {
+      "message": "Перетаскивание ключевых слов"
+   },
+   "dropFileHere": {
+      "message": "Перетащите файл сюда или нажмите, чтобы просмотреть файлы"
+   },
+   "dropdownAddCompetitor": {
+      "message": "Добавить конкурента"
+   },
+   "dropdownRemoveCompetitor": {
+      "message": "Удалить конкурента"
+   },
+   "durationStatLabel": {
+      "message": "длит."
+   },
+   "edit": {
+      "message": "Редактировать"
+   },
+   "editDetailsTask": {
+      "message": "редактировать детали для $nVideos$",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "editNThings": {
+      "message": "редактировать $n$ $things$",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "things": {
+            "content": "$2"
+         }
+      }
+   },
+   "editName": {
+      "message": "Изменить имя"
+   },
+   "editOneThing": {
+      "message": "редактировать одну $thing$",
+      "placeholders": {
+         "thing": {
+            "content": "$1"
+         }
+      }
+   },
+   "editSelectedObjectTitle": {
+      "message": "Редактирование выбранного объекта"
+   },
+   "editThumbnailsTask": {
+      "message": "редактировать значки видео для $nVideos$",
+      "placeholders": {
+         "nVideos": {
+            "content": "$1"
+         }
+      }
+   },
+   "editableCardMerchWarningCopy": {
+      "message": "Копирование ссылок на подсказки может быть неуспешным если вы не являетесь членом партнерской программы YouTube"
+   },
+   "editableCardMerchWarningEdit": {
+      "message": "Редактирование ссылок на подсказки может быть неуспешным если вы не являетесь членом партнерской программы YouTube"
+   },
+   "emailAddressInvalid": {
+      "message": "Емейл должен быть правильным"
+   },
+   "emailConfirmationMessagePartOne": {
+      "message": "\u003Cstrong>Спасибо за регистрацию на vidIQ!\u003C/strong> Мы отправили письмо, содержащее ссылку для подтверждения адреса электронной почты на \u003Cstrong>$userEmail$\u003C/strong>. Если вы не получили данное письмо, вы можете",
+      "placeholders": {
+         "userEmail": {
+            "content": "$1"
+         }
+      }
+   },
+   "emailConfirmationMessagePartTwo": {
+      "message": "или связаться с нами \u003Ca href=\\\"mailto:support@vidiq.com\\\" target=\\\"_blank\\\">support@vidiq.com\u003C/a>."
+   },
+   "emailMustMatch": {
+      "message": "Адрес электронной почты не совпадает"
+   },
+   "emailRequired": {
+      "message": "Адрес электронной почты обязателен"
+   },
+   "emailSuggestion": {
+      "message": "Возможно вы имели ввиду \u003Cstrong>\u003C/strong>?"
+   },
+   "emailTaken": {
+      "message": "Данный адрес электронной почты уже используется. Пожалуйста, попробуйте другой."
+   },
+   "emailTitle": {
+      "message": "Электронная почты"
+   },
+   "emailsMustMatch": {
+      "message": "Емейл адреса должны совпадать"
+   },
+   "embedCodeCopy": {
+      "message": "Код вставки (кликните для копирования)"
+   },
+   "embedSourcesTitle": {
+      "message": "Страницы с упоминаниями видео"
+   },
+   "embedSrcsTooltip": {
+      "message": "Это количество ссылок, которые ведут на эту страницу."
+   },
+   "embeddedViewsStatLabel": {
+      "message": "встроенные просм."
+   },
+   "emojiMenusTitle": {
+      "message": "Меню Эмодзи"
+   },
+   "enableInlineKeywords": {
+      "message": "Отображать теги под видео"
+   },
+   "enablePrivacy": {
+      "message": "Включить повышенную безопасность (отключить cookies)"
+   },
+   "endOfResults": {
+      "message": "Конец результатов"
+   },
+   "endScreens": {
+      "message": "конечные заставки"
+   },
+   "endscreenClickRates": {
+      "message": "Кликабельность конечных заставок"
+   },
+   "endscreensChannelAuditEdit": {
+      "message": "Обновление конечных заставок"
+   },
+   "endscreensChannelAuditHas": {
+      "message": "Кол-во конечных заставкок для данного видео - $numEndscreens$",
+      "placeholders": {
+         "numEndscreens": {
+            "content": "$1"
+         }
+      }
+   },
+   "endscreensChannelAuditInfo": {
+      "message": "В конце каждого видео, зритель может кликнуть по подсказкам, которые вы ему показываете."
+   },
+   "endscreensChannelAuditMissing": {
+      "message": "Нет конечных заставок"
+   },
+   "endscreensChannelAuditMissingMessage": {
+      "message": "Добавьте, по крайней мере, одну конечную заставку"
+   },
+   "endscreensMissingInfo": {
+      "message": "Видео в данном списке не имеют конечных заставок. Мы рекомендуем добавить одну конечную заставку к каждому видео."
+   },
+   "endscreensMissingSubtextBad": {
+      "message": "Добавьте конечные заставки ко всем вашим видео"
+   },
+   "endscreensMissingSubtextGood": {
+      "message": "Все видео имеют конечные заставки!"
+   },
+   "endscreensMissingTitle": {
+      "message": "Видео без конечных заставок"
+   },
+   "engagementBreakdownTitle": {
+      "message": "Анализ взаимодействий"
+   },
+   "engagementRateER": {
+      "message": "ER"
+   },
+   "engagementRatePopoverText": {
+      "message": "Показатель обнаруженного взаимодействия с видео от общего количества просмотров в процентах"
+   },
+   "engagementRateStatLabel": {
+      "message": "вовлеченность аудитории"
+   },
+   "engagementRateTitle": {
+      "message": "вовлеченность аудитории"
+   },
+   "engagementRateTooltip": {
+      "message": "Коэффициент взаимодействия (КВ) - процентная величина, показывающая отношение количества всех взаимодействий к общему количеству просмотров."
+   },
+   "engagementTooltipTiktok": {
+      "message": "Уровень вовлеченности — отличный показатель эффективности видео. Он рассчитывается с использованием количества лайков, комментариев, репостов и просмотров."
+   },
+   "engagementsBreakdown": {
+      "message": "Анализ вовлеченности"
+   },
+   "engagementsStatLabel": {
+      "message": "взаимодействия"
+   },
+   "enterSearchTermRank": {
+      "message": "Введите ключевое по которому будете искать видео"
+   },
+   "enterText": {
+      "message": "Введите текст"
+   },
+   "errorOrNoEmail": {
+      "message": "Возникла ошибка или данный емейл не существует"
+   },
+   "errorPlural": {
+      "message": "ошибки"
+   },
+   "errorSingular": {
+      "message": "ошибка"
+   },
+   "errorWhileSavingEndscreen": {
+      "message": "Невозможно скопировать конечные заставки из-за неверных параметров, отправленных на YouTube"
+   },
+   "estimatedEarningsStatLabel": {
+      "message": "примерный доход"
+   },
+   "estimatedEarningsTooltip": {
+      "message": "Для расчета приблизительного дохода этого видео мы полагаем, что цена за тысячу просмотров равна $cpm$ доллара.",
+      "placeholders": {
+         "cpm": {
+            "content": "$1"
+         }
+      }
+   },
+   "estimatedMonthlyRevenueStatLabel": {
+      "message": "≈ месячный доход"
+   },
+   "estimatedRevenue": {
+      "message": "предполагаемый доход"
+   },
+   "estimatedRevenueStatLabel": {
+      "message": "предполагаемый доход"
+   },
+   "estimatedTime": {
+      "message": "$timeFromNow$ (приблизительно)",
+      "placeholders": {
+         "timeFromNow": {
+            "content": "$1"
+         }
+      }
+   },
+   "exampleTemplateName": {
+      "message": "Имя (например: мой-шаблон-1)"
+   },
+   "expandAllTitle": {
+      "message": "Развернуть"
+   },
+   "expandNoneTitle": {
+      "message": "Свернуть"
+   },
+   "exportExplainMine": {
+      "message": "Воспользуйтесь этой функцией для загрузки всей информации по вашим публичным, приватным и неопубликованным видео в формате CSV"
+   },
+   "exportExplainMineLimited": {
+      "message": "Воспользуйтесь этой функцией для загрузки некоторых данных о публичных видео канала \u003Cb>$channel$\u003C/b> в формате CSV",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirs": {
+      "message": "Воспользуйтесь этой функцией для загрузки всех данных о публичных видео канала \u003Cb>$channel$\u003C/b> в формате CSV",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportExplainTheirsLimited": {
+      "message": "Воспользуйтесь этой функцией для загрузки некоторых данных о публичных видео канала \u003Cb>$channel$\u003C/b> в формате CSV",
+      "placeholders": {
+         "channel": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportIdeas": {
+      "message": "Экспорт идей"
+   },
+   "exportMyVideos": {
+      "message": "Экспортировать все видео"
+   },
+   "exportTheirVideos": {
+      "message": "Экспортировать все видео"
+   },
+   "exportUpTo": {
+      "message": "Экспорт до $limit$ видео",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "exportedNVideos": {
+      "message": "Экспортировано \u003Cb>$n$ видео\u003C/b> за \u003Cb>$time$\u003C/b>",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         },
+         "time": {
+            "content": "$2"
+         }
+      }
+   },
+   "exportedOneVideo": {
+      "message": "Экспортировано \u003Cb>одно видео\u003C/b> за \u003Cb>$time$\u003C/b>",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionSettingsTitle": {
+      "message": "Настройки расширения"
+   },
+   "facebookApiChanges": {
+      "message": "Facebook недавно внесли изменения в их API, требующие авторизации от клиентов напрямую. Спасибо за понимание."
+   },
+   "facebookAuthTitle": {
+      "message": "Вход с Facebook"
+   },
+   "facebookFollowersStatLabel": {
+      "message": "подписчики facebook"
+   },
+   "facebookGetMoreStats": {
+      "message": "Хотите увидеть больше \u003Cb>FB\u003C/b> статистики"
+   },
+   "facebookTitle": {
+      "message": "Facebook"
+   },
+   "failedToDeleteSavedIdea": {
+      "message": "Не удалось удалить идею"
+   },
+   "failedToDismissIdea": {
+      "message": "Не удалось отклонить идею"
+   },
+   "failedToLoadAnnsNoAnns": {
+      "message": "Ошибка загрузки аннотаций: Для данного шаблона аннотации не найдены"
+   },
+   "failedToLoadAnnsNoVideo": {
+      "message": "Ошибка загрузки аннотаций: Видео не существует"
+   },
+   "failedToLoadAnnsOther": {
+      "message": "Ошибка загрузки аннотаций: $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "failedToLoadCardsNoCards": {
+      "message": "Ошибка загрузки подсказок: Для этого шаблона нет подсказок"
+   },
+   "failedToLoadCardsNoVideo": {
+      "message": "Ошибка загрузки подсказок: Видео не существует"
+   },
+   "failedToLoadCardsOther": {
+      "message": "Ошибка загрузки подсказок: $other$",
+      "placeholders": {
+         "other": {
+            "content": "$1"
+         }
+      }
+   },
+   "failedToRestoreDismissedIdea": {
+      "message": "Не удалось восстановить отклоненную идею"
+   },
+   "failedToSaveIdea": {
+      "message": "Не удалось сохранить идею"
+   },
+   "fbCommentsStatLabel": {
+      "message": "комментарии на fb"
+   },
+   "fbCommentsStatTitle": {
+      "message": "Facebook Comments"
+   },
+   "fbEngagementsStatLabel": {
+      "message": "взаимод. на FB"
+   },
+   "fbEngagementsTooltip": {
+      "message": "Включая лайки, комментарии и нажатия кнопки \"поделиться\". Мы не можем получить раздельные показатели из-за ограничений Facebook."
+   },
+   "fbLikesStatLabel": {
+      "message": "лайки FB"
+   },
+   "fbLikesStatTitle": {
+      "message": "Facebook Лайки"
+   },
+   "fbLikesTooltipPopular": {
+      "message": "Это видео получает много лайков на Facebook!"
+   },
+   "fbLikesTooltipUnpopular": {
+      "message": "У этого видео небольшой процент лайков на Facebook."
+   },
+   "fbReactionsStatLabel": {
+      "message": "отреагировали на fb"
+   },
+   "fbSharesCommentsStatLabel": {
+      "message": "репосты FB + комментарии"
+   },
+   "fbSharesStatLabel": {
+      "message": "поделились на fb"
+   },
+   "fbSharesStatTitle": {
+      "message": "Facebook Поделиться"
+   },
+   "featureFail": {
+      "message": "\u003Cb>Ох, ваше видео не может быть установлено в качестве рекомендованного контента!\u003C/b> Вы можете продвигать только публичные или неопубликованные видео. Перейдите по ссылке \u003Ca$atag$>$url$\u003C/a>, чтобы попытаться установить это видео в качестве рекомендованного контента вручную.",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "featureSuccess": {
+      "message": "\u003Cb>Успешно! Видео сейчас установлено в качестве продвигаемого контента!\u003C/b> Для изменения этого продвигаемого контента, пожалуйста, посетите \u003Ca$atag$>$url$\u003C/a>.",
+      "placeholders": {
+         "atag": {
+            "content": "$1"
+         },
+         "url": {
+            "content": "$2"
+         }
+      }
+   },
+   "featuredVideoCardTitle": {
+      "message": "Обучение YouTube"
+   },
+   "featuredVideoCardWatchLink": {
+      "message": "Смотреть на YouTube"
+   },
+   "feedbackPopoverPlaceholder": {
+      "message": "Подскажите нам, как бы мы могли улучшить эту функцию :)"
+   },
+   "feedbackRatingMessage": {
+      "message": "Как бы вы оценили свои впечатления от использования функции $feature$?",
+      "placeholders": {
+         "feature": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedbackSentMessage": {
+      "message": "Отправлено! Мы ценим ваше мнение."
+   },
+   "feedbackTextareaPlaceholder": {
+      "message": "Поделитесь с нами вашим впечатлением. Ваши отзывы очень важны, так как они помогают нам совершенствоваться!"
+   },
+   "fieldIsRequired": {
+      "message": "Поле обязательно"
+   },
+   "fileTitle": {
+      "message": "Файл"
+   },
+   "filterByList": {
+      "message": "Фильтр по CSV-файлу (значения, разделённые запятыми)"
+   },
+   "filterByPlaylist": {
+      "message": "Фильтровать по плейлисту"
+   },
+   "filterBySubscribers": {
+      "message": "Фильтровать коммент. по кол-ву подписч."
+   },
+   "filterMostViewedVideos": {
+      "message": "Отфильтровать наиболее просматриваемые видео"
+   },
+   "filterMyVideos": {
+      "message": "Исключить собственные видео"
+   },
+   "filterNItems": {
+      "message": "Фильтровать $n$ элем.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "filterOneItem": {
+      "message": "Фильтровать 1 элемент"
+   },
+   "filterOutPhrases": {
+      "message": "Фильтровать фразы..."
+   },
+   "filterOutVideos": {
+      "message": "Фильтровать видео..."
+   },
+   "filterResults": {
+      "message": "Отфильтровать результаты"
+   },
+   "filters": {
+      "message": "Фильтры"
+   },
+   "firstPage": {
+      "message": "Первая страница ($vids$)",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "followMoreChannels": {
+      "message": "Добавить больше каналов"
+   },
+   "forDailyIdeasAuthChannel": {
+      "message": "Для получения ежедневных видео идей, пожалуйста, авторизуйте свой YouTube канал."
+   },
+   "forgotPassword": {
+      "message": "Забыли свой пароль?"
+   },
+   "found": {
+      "message": "Найдено"
+   },
+   "foundControversialKeywords": {
+      "message": "Использование данных спорных ключевых слов в сочетании с другими факторами, например: качество контента или авторские права; могут негативно сказаться на статусе монетизации видео."
+   },
+   "freeDailyIdeas": {
+      "message": "Бесплатные идеи для видео на основе ИИ"
+   },
+   "freePreviewsUsed": {
+      "message": "$used$/$total$ бесплатных превью уже использовано",
+      "placeholders": {
+         "total": {
+            "content": "$2"
+         },
+         "used": {
+            "content": "$1"
+         }
+      }
+   },
+   "fridayPlural": {
+      "message": "Пятница"
+   },
+   "fundraisingTitle": {
+      "message": "Сбор средств"
+   },
+   "gameConsoleTitle": {
+      "message": "Игровые приставки"
+   },
+   "getAccessToMoreRelatedKeywords": {
+      "message": "Откройте доступ к $num$ похожим тегам по данному поисковому запросу с vidIQ Pro",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "getAccessToMoreRelatedKeywordsAlt": {
+      "message": "Открыть доступ к еще $num$ похожим ключевым словам",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "getAccessToTrendingVideos": {
+      "message": "Получите еще больше ключевых слов с трендовых видео по данному поисковому запросу с vidIQ Pro"
+   },
+   "getAccessToTrendingVideosAlt": {
+      "message": "Откройте доступ ко всем ключевым словам, которые используют трендовые видео"
+   },
+   "getMoreViews": {
+      "message": "Получить больше просмотров для этого видео"
+   },
+   "getResults": {
+      "message": "Получить результаты"
+   },
+   "getSomeHelp": {
+      "message": "Вот подсказка!"
+   },
+   "getStarted": {
+      "message": "Начать"
+   },
+   "getTitleRecommendations": {
+      "message": "Получите доступ к рекомендациям для заголовков видео от ИИ"
+   },
+   "getTopKeywordAccess": {
+      "message": "Получите доступ к лучшим похожим тегам и трендовым видео для улучшения поискового ранжирования своих видео "
+   },
+   "getVidiqPro": {
+      "message": "Получить vidIQ Pro сейчас"
+   },
+   "goToDailyIdeasAndClick": {
+      "message": "Перейдите во вкладку \"Ежедневные идеи\" и кликните"
+   },
+   "googleAuthMissingPermission": {
+      "message": "Нам требуется разрешение идентификации для осуществления входа через Google"
+   },
+   "googleLoginFailed": {
+      "message": "Не удалось осуществить вход через Google"
+   },
+   "googlePlusStatLabel": {
+      "message": "google плюс"
+   },
+   "googlePlusStatTitle": {
+      "message": "Google+"
+   },
+   "growthChannelAuditError": {
+      "message": "Загрузите больше видео, чтобы увидеть процентные изменения для промотров, подписчиков и минут просмотра для вашего канала за последние 30 дней.\u003Cbr>\u003Cbr>Внимание: Если у вас возникают неожиданные ошибки, попробуйте отключить блокировщик рекламы и перезагрузите страницу."
+   },
+   "hasReplies": {
+      "message": "Есть ответы"
+   },
+   "heartedComment": {
+      "message": "Комментарий с сердечком"
+   },
+   "help": {
+      "message": "Помощь"
+   },
+   "helpCenter": {
+      "message": "Справочный центр"
+   },
+   "hiddenSecretsOfYoutube": {
+      "message": "Секреты YouTube"
+   },
+   "hide": {
+      "message": "Скрыть"
+   },
+   "hideChannelInfoTitle": {
+      "message": "Скрыть информацию канала"
+   },
+   "hideKwinsTitle": {
+      "message": "Скрыть инспектор тегов"
+   },
+   "hideRelatedVideos": {
+      "message": "Скрыть похожие видео"
+   },
+   "hideYouTubeLogo": {
+      "message": "Скрыть логотип YouTube"
+   },
+   "highScore": {
+      "message": "Высокая"
+   },
+   "highVolumeRankedTagsStatLabel": {
+      "message": "ранжированные теги с большим поисковым объемом"
+   },
+   "highlightSearchTerm": {
+      "message": "Подсветить ключевое слово"
+   },
+   "highresThumbnail": {
+      "message": "Значок видео в высоком разрешении"
+   },
+   "highresThumbnailChannelAuditEdit": {
+      "message": "Обновить значки видео"
+   },
+   "highresThumbnailChannelAuditHas": {
+      "message": "Значок видео в высоком разрешении добавлен"
+   },
+   "highresThumbnailMissingInfo": {
+      "message": "Эти видео не имеют значков в высоком разрешении. Мы рекомендуем добавить значки видео в высоком разрешении для каждого видео."
+   },
+   "highresThumbnailMissingSubtextBad": {
+      "message": "Добавьте значки видео в высоком разрешении для всех видео"
+   },
+   "highresThumbnailMissingSubtextGood": {
+      "message": "Все ваши видео имеют значки видео в высоком разрешении!"
+   },
+   "highresThumbnailMissingTitle": {
+      "message": "Видео без значков в высоком разрешении"
+   },
+   "historical": {
+      "message": "Исторические данные"
+   },
+   "homeScreen": {
+      "message": "Главная страница"
+   },
+   "homeTitle": {
+      "message": "Главная"
+   },
+   "hourAbbreviation": {
+      "message": "чс"
+   },
+   "hourPlural": {
+      "message": "ч"
+   },
+   "hourSingular": {
+      "message": "ч"
+   },
+   "hoursWatchedTitle": {
+      "message": "часов просмотра"
+   },
+   "howeverYoureUsingYouTubeAs": {
+      "message": "Тем не менее, вы выполнили вход в YouTube с использованием канала:"
+   },
+   "howsExpWithDailyIdeas": {
+      "message": "Поделитесь опытом использования функции \"ежедневные идеи\"."
+   },
+   "idTitle": {
+      "message": "ID"
+   },
+   "idea": {
+      "message": "Идея"
+   },
+   "ideaDismissed": {
+      "message": "Идея отклонена"
+   },
+   "ideaSaved": {
+      "message": "Идея сохранена"
+   },
+   "ideasJustAuthedPartOne": {
+      "message": "Пожалуйста, ожидайте"
+   },
+   "ideasJustAuthedPartTwo": {
+      "message": "и обновите данную страницу для получения ежедневных видео идей."
+   },
+   "ideasJustUploadedErr": {
+      "message": "Вы только что опубликовали новое видео на YouTube. Возвращайтесь через {{count}} дня(ей) за видео идеями!"
+   },
+   "ignoreByList": {
+      "message": "Игнорировать по списку из ID видео"
+   },
+   "imageThumbInfo": {
+      "message": "Чтобы загрузить изображение для фона значка видео, выберите нужное из своих файлов или перетащите его на серое поле."
+   },
+   "imageTitle": {
+      "message": "Изображение"
+   },
+   "imageTooLarge": {
+      "message": "Изображение слишком большое. Максимальный размер $limit$ МБ.",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "improvePerformanceWithBoost": {
+      "message": "С \u003Cb>vidIQ Boost\u003C/b> мы поможем вам улучшить состояние вашего видео!"
+   },
+   "improveSearchTagsTooltip": {
+      "message": "Цель этих тегов - увеличение кол-ва просмотров, приходящих из поисковых запросов"
+   },
+   "improveVideosBestTags": {
+      "message": "Улучшайте свои видео,\u003Cbr>и используйте только лучшие теги"
+   },
+   "improveVideosSearchTraffic": {
+      "message": "Улучшите поисковый трафик по вашему видео"
+   },
+   "improveYourViews": {
+      "message": "Хотите улучшить свои видео?"
+   },
+   "improvementsChannelAuditError": {
+      "message": "Загрузите больше видео, чтобы узнать, что можно улучшить за последние 30 дней из подсказок и конечных заставок"
+   },
+   "includeScreenshot": {
+      "message": "Добавить скриншот"
+   },
+   "inconsistent": {
+      "message": "Неустойчивый"
+   },
+   "inlineKeywordsTitle": {
+      "message": "Теги под видео"
+   },
+   "insertAfter": {
+      "message": "Вставить после"
+   },
+   "insertBefore": {
+      "message": "Вставить до"
+   },
+   "insertReplyTitle": {
+      "message": "Вставить ответ"
+   },
+   "instagramFollowersStatLabel": {
+      "message": "подписчики instagram"
+   },
+   "interestOverTimeTitle": {
+      "message": "Интерес на протяжении времени"
+   },
+   "invalidChannelId": {
+      "message": "Некорректный ID канала или неверное имя пользователя"
+   },
+   "invalidLogin": {
+      "message": "Введенные адрес электронной почты и пароль недействительны."
+   },
+   "invalidPlaylistId": {
+      "message": "Некорректный ID плейлиста"
+   },
+   "invalidVideoId": {
+      "message": "Некорректный ID видео"
+   },
+   "issueGettingIdeas": {
+      "message": "При получении ежедневных видео идей произошла ошибка. Попробуйте позже!"
+   },
+   "itsFree": {
+      "message": "Это бесплатно!"
+   },
+   "iveNotRepliedTo": {
+      "message": "Я не ответил"
+   },
+   "iveRepliedTo": {
+      "message": "Я ответил"
+   },
+   "keyAchievementsTitle": {
+      "message": "Ключевые достижения"
+   },
+   "keyword": {
+      "message": "Тег"
+   },
+   "keywordInspectorFeatureInfo": {
+      "message": "Помогите зрителям найти ваши видео на YouTube, используя высокоэффективные ключевые слова в заголовке, описании и тегах."
+   },
+   "keywordInspectorTitle": {
+      "message": "Инспектор тегов"
+   },
+   "keywordProvided": {
+      "message": "Искомое ключевое слово"
+   },
+   "keywordRankTooltip": {
+      "message": "Позиция, на которой выдается это видео при поиске в YouTube по данному ключевому слову"
+   },
+   "keywordScoreTitle": {
+      "message": "Оценка ключевого слова"
+   },
+   "keywordScoreTooltip": {
+      "message": "Оценка ключевого слова, поможет определить, насколько уместно и разумно использование данного тега при оптимизации видео. Если у вас канал с миллионом подписчиков, возможно, вы пробьетесь в топ по тегам с высокой конкуренцией. Если у вас небольшой канал, лучше сосредоточиться на тегах со средней и малой конкуренцией."
+   },
+   "keywordsAverageSubtextBad": {
+      "message": "В целом, объем тегов у ваших видео - недостаточный! Постарайтесь сделать так, чтобы теги одного видео составляли более 400 символов."
+   },
+   "keywordsAverageSubtextGood": {
+      "message": "В целом, объем тегов у ваших видео - хороший!"
+   },
+   "keywordsChannelAuditEdit": {
+      "message": "Обновление тегов"
+   },
+   "keywordsInDescriptionStatLabel": {
+      "message": "теги в описании"
+   },
+   "keywordsInTitleStatLabel": {
+      "message": "теги в заголовке"
+   },
+   "keywordsRelatedTo": {
+      "message": "Теги похожие на '$keyword$’",
+      "placeholders": {
+         "keyword": {
+            "content": "$1"
+         }
+      }
+   },
+   "keywordsRelatedToSearch": {
+      "message": "Теги, похожие на исходный поисковый запрос"
+   },
+   "keywordsTitle": {
+      "message": "Теги"
+   },
+   "kwinsErrorContact": {
+      "message": "Пожалуйста, повторите попытку. Если ничего не помогает, отправьте нам письмо на support@vidiq.com"
+   },
+   "kwinsErrorOops": {
+      "message": "Мы столкнулись со следующей проблемой:"
+   },
+   "labelTitle": {
+      "message": "Ярлык"
+   },
+   "langAfrikaans": {
+      "message": "Африкаанс"
+   },
+   "langAlbanian": {
+      "message": "Албанский"
+   },
+   "langAmharic": {
+      "message": "Амхарский"
+   },
+   "langArabic": {
+      "message": "Арабский"
+   },
+   "langArmenian": {
+      "message": "Армянский"
+   },
+   "langAzerbaijani": {
+      "message": "Азербайджанский"
+   },
+   "langBasque": {
+      "message": "Баскский язык"
+   },
+   "langBelarusian": {
+      "message": "Белорусский"
+   },
+   "langBengali": {
+      "message": "Бенгальский"
+   },
+   "langBosnian": {
+      "message": "Боснийский"
+   },
+   "langBulgarian": {
+      "message": "Болгарский"
+   },
+   "langBurmese": {
+      "message": "Бирманский"
+   },
+   "langCatalan": {
+      "message": "Каталанский"
+   },
+   "langCebuano": {
+      "message": "Себуанский"
+   },
+   "langChichewa": {
+      "message": "Чичева"
+   },
+   "langChinese": {
+      "message": "Китайский"
+   },
+   "langChineseHongKong": {
+      "message": "Китайский (Гонконг)"
+   },
+   "langChineseSimplified": {
+      "message": "Китайский (Упрощенный)"
+   },
+   "langChineseTaiwan": {
+      "message": "Китайский (Тайвань)"
+   },
+   "langChineseTraditional": {
+      "message": "Китайский (Традиционный)"
+   },
+   "langCorsican": {
+      "message": "Корсиканский"
+   },
+   "langCroatian": {
+      "message": "Хорватский"
+   },
+   "langCzech": {
+      "message": "Чешский"
+   },
+   "langDanish": {
+      "message": "Датский"
+   },
+   "langDutch": {
+      "message": "Голландский"
+   },
+   "langEnglish": {
+      "message": "Английский"
+   },
+   "langEnglishUnitedKingdom": {
+      "message": "Английский (Великобритания)"
+   },
+   "langEsperanto": {
+      "message": "Эсперанто"
+   },
+   "langEstonian": {
+      "message": "Эстонский"
+   },
+   "langFilipino": {
+      "message": "Филиппинский"
+   },
+   "langFinnish": {
+      "message": "Финский язык"
+   },
+   "langFrench": {
+      "message": "Французский"
+   },
+   "langFrenchCanada": {
+      "message": "Французский (Канада)"
+   },
+   "langGalician": {
+      "message": "Галисийский язык"
+   },
+   "langGeorgian": {
+      "message": "Грузинский"
+   },
+   "langGerman": {
+      "message": "Немецкий"
+   },
+   "langGreek": {
+      "message": "Греческий"
+   },
+   "langGujarati": {
+      "message": "Гуджарати"
+   },
+   "langHaitianCreole": {
+      "message": "Гаитянский креольский"
+   },
+   "langHausa": {
+      "message": "Хауса"
+   },
+   "langHawaiian": {
+      "message": "Гавайский"
+   },
+   "langHebrew": {
+      "message": "Иврит"
+   },
+   "langHindi": {
+      "message": "Хинди"
+   },
+   "langHmong": {
+      "message": "Хмонг"
+   },
+   "langHungarian": {
+      "message": "Венгерский"
+   },
+   "langIcelandic": {
+      "message": "Исландский"
+   },
+   "langIgbo": {
+      "message": "Игбо"
+   },
+   "langIndonesian": {
+      "message": "Индонезийский"
+   },
+   "langIrish": {
+      "message": "Ирландский"
+   },
+   "langItalian": {
+      "message": "Итальянский"
+   },
+   "langJapanese": {
+      "message": "Японский"
+   },
+   "langJavanese": {
+      "message": "Яванский"
+   },
+   "langKannada": {
+      "message": "Каннада"
+   },
+   "langKazakh": {
+      "message": "Казахский"
+   },
+   "langKhmer": {
+      "message": "Кхмерский"
+   },
+   "langKorean": {
+      "message": "Корейский"
+   },
+   "langKurdish": {
+      "message": "Курдский"
+   },
+   "langKyrgyz": {
+      "message": "Киргизский"
+   },
+   "langLao": {
+      "message": "Лаосский"
+   },
+   "langLatin": {
+      "message": "Татинский"
+   },
+   "langLatvian": {
+      "message": "Латышский"
+   },
+   "langLithuanian": {
+      "message": "Литовский"
+   },
+   "langLuxembourgish": {
+      "message": "Люксембургский"
+   },
+   "langMacedonian": {
+      "message": "Македонский"
+   },
+   "langMalagasy": {
+      "message": "Малагасийский"
+   },
+   "langMalay": {
+      "message": "Малайский"
+   },
+   "langMalayalam": {
+      "message": "Малаялам"
+   },
+   "langMaltese": {
+      "message": "Мальтийский"
+   },
+   "langMaori": {
+      "message": "Маори"
+   },
+   "langMarathi": {
+      "message": "Маратхи"
+   },
+   "langMongolian": {
+      "message": "Монгольский"
+   },
+   "langMyanmarBurmese": {
+      "message": "Мьянма (Бирманский)"
+   },
+   "langNepali": {
+      "message": "Непальский"
+   },
+   "langNorwegian": {
+      "message": "Норвежский"
+   },
+   "langPashto": {
+      "message": "Пушту"
+   },
+   "langPersian": {
+      "message": "Персидский"
+   },
+   "langPolish": {
+      "message": "Польский"
+   },
+   "langPortuguese": {
+      "message": "Португальский"
+   },
+   "langPortugueseBrazil": {
+      "message": "Португальский (Бразилия)"
+   },
+   "langPortuguesePortugal": {
+      "message": "Португальский (Португалия)"
+   },
+   "langPunjabi": {
+      "message": "Панджаби"
+   },
+   "langRomanian": {
+      "message": "Румынский"
+   },
+   "langRussian": {
+      "message": "Русский"
+   },
+   "langSamoan": {
+      "message": "Самоанский"
+   },
+   "langScottishGaelic": {
+      "message": "Шотландский Гаэльский"
+   },
+   "langSerbian": {
+      "message": "Сербский"
+   },
+   "langSesotho": {
+      "message": "Сесото"
+   },
+   "langShona": {
+      "message": "Шона"
+   },
+   "langSindhi": {
+      "message": "Синди"
+   },
+   "langSinhala": {
+      "message": "Сингальский"
+   },
+   "langSlovak": {
+      "message": "Словацкий"
+   },
+   "langSlovenian": {
+      "message": "Словенский"
+   },
+   "langSomali": {
+      "message": "Сомалийский"
+   },
+   "langSpanish": {
+      "message": "Испанский"
+   },
+   "langSpanishLatinAmerica": {
+      "message": "Испанский (Латинская Америка)"
+   },
+   "langSpanishSpain": {
+      "message": "Испанский (Испания)"
+   },
+   "langSudanese": {
+      "message": "Суданский"
+   },
+   "langSwahili": {
+      "message": "Суахили"
+   },
+   "langSwedish": {
+      "message": "Шведский"
+   },
+   "langTagalog": {
+      "message": "Тагальский"
+   },
+   "langTajik": {
+      "message": "Таджикский"
+   },
+   "langTamil": {
+      "message": "Тамильский"
+   },
+   "langTelugu": {
+      "message": "Телугу"
+   },
+   "langThai": {
+      "message": "Тайский язык"
+   },
+   "langTurkish": {
+      "message": "Турецкий"
+   },
+   "langUkrainian": {
+      "message": "Украинский"
+   },
+   "langUrdu": {
+      "message": "Урду"
+   },
+   "langUzbek": {
+      "message": "Узбекский"
+   },
+   "langVietnamese": {
+      "message": "Вьетнамский"
+   },
+   "langWelsh": {
+      "message": "Валлийский"
+   },
+   "langWesternFrisian": {
+      "message": "Фризский"
+   },
+   "langXhosa": {
+      "message": "Коса"
+   },
+   "langYiddish": {
+      "message": "Идиш"
+   },
+   "langYoruba": {
+      "message": "Йоруба"
+   },
+   "langZulu": {
+      "message": "Зулу"
+   },
+   "last12Months": {
+      "message": "посл. 12 месяцев"
+   },
+   "last30DaysTitle": {
+      "message": "Последние 30 дней"
+   },
+   "last48Hours": {
+      "message": "послед. 48 часов"
+   },
+   "last60Minutes": {
+      "message": "послед. 60 минут"
+   },
+   "last7Days": {
+      "message": "послед. 7 дней"
+   },
+   "lastDays": {
+      "message": "Последние $n$ дн.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastMonth": {
+      "message": "прошлый месяц"
+   },
+   "lastMonths": {
+      "message": "Последние $n$ мес.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "lastPeriod": {
+      "message": "прошлый период"
+   },
+   "lastVideoWatched": {
+      "message": "Последнее просмотренное видео"
+   },
+   "lastVideoWatchedNoData": {
+      "message": "Нет данных по последнему просмотренному видео"
+   },
+   "lastYearTitle": {
+      "message": "Последний год"
+   },
+   "learnIfVideoIsTrendingNow": {
+      "message": "Узнайте, находится ли данное видео в тренде прямо сейчас"
+   },
+   "learnMore": {
+      "message": "Узнать больше"
+   },
+   "learnMoreAboutBoost": {
+      "message": "Узнайте больше о \u003Cb>vidIQ Boost\u003C/b>"
+   },
+   "learnMoreAboutThisFeature": {
+      "message": "Узнать больше о данной функции"
+   },
+   "leaveFeedback": {
+      "message": "Оставить отзыв"
+   },
+   "legacyCampaignRunning": {
+      "message": "У вас запущена устаревшая описательная кампания."
+   },
+   "letsGo": {
+      "message": "Начнем!"
+   },
+   "likeRatio": {
+      "message": "Соотношение лайков к общему числу лайков и дислайков"
+   },
+   "likeRatioStatLabel": {
+      "message": "коэфф. лайков"
+   },
+   "likeToDislikeRatio": {
+      "message": "Отношение лайков к дислайкам"
+   },
+   "likes": {
+      "message": "лайки"
+   },
+   "likesBestMonth": {
+      "message": "Месяц с наибольшим числом лайков"
+   },
+   "likesTitle": {
+      "message": "Лайки"
+   },
+   "limitToRangeOptionText": {
+      "message": "Лимит по видео во временной рамке"
+   },
+   "limitedCampaign": {
+      "message": "Эта кампания будет запущена для $num$ самых недавних видео.",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "link": {
+      "message": "Ссылка"
+   },
+   "linkedInStatTitle": {
+      "message": "LinkedIn"
+   },
+   "linkedinStatLabel": {
+      "message": "linkedin"
+   },
+   "listEntryRules": {
+      "message": "Введите URL или ID видео. Можно ввести несколько значений, разделив их запятыми, пробелами или разрывами строк."
+   },
+   "livePreview": {
+      "message": "Предварительный просмотр"
+   },
+   "loadByList": {
+      "message": "Загрузить по списку"
+   },
+   "loadByNumber": {
+      "message": "Загрузить по количеству видео"
+   },
+   "loadByPlaylist": {
+      "message": "Загрузить по плейлисту"
+   },
+   "loadMoreTitle": {
+      "message": "Загрузить больше"
+   },
+   "loadPlaylistsTitle": {
+      "message": "Загрузить плейлист"
+   },
+   "loadTemplate": {
+      "message": "Загрузка шаблона"
+   },
+   "loadTitle": {
+      "message": "Загрузка"
+   },
+   "loading": {
+      "message": "Загрузка"
+   },
+   "loadingBatch": {
+      "message": "Загрузка данных"
+   },
+   "loadingVideoDataEllipsis": {
+      "message": "Загрузка информации о видео..."
+   },
+   "loadingVideosEllipsis": {
+      "message": "Загрузка видео..."
+   },
+   "loadingVideosTitle": {
+      "message": "Загрузка видео"
+   },
+   "locations": {
+      "message": "Местоположение(я)"
+   },
+   "logIn": {
+      "message": "Вход"
+   },
+   "logInToVidiq": {
+      "message": "Войти в vidIQ"
+   },
+   "logInWithGoogle": {
+      "message": "Войти через Google"
+   },
+   "logInWithVidiq": {
+      "message": "Войти с помощью почты и пароля"
+   },
+   "loginExistingAccount": {
+      "message": "Вход в существующий \u003Cb>vidIQ\u003C/b> аккаунт"
+   },
+   "loginTitle": {
+      "message": "Вход"
+   },
+   "loginToUseShortcuts": {
+      "message": "Войдите для использования клавиш быстрого доступа!"
+   },
+   "logoutTitle": {
+      "message": "Выход"
+   },
+   "longLabel": {
+      "message": "длинная"
+   },
+   "loopVideo": {
+      "message": "Зациклить видео"
+   },
+   "lowScore": {
+      "message": "Низкая"
+   },
+   "lowestAvgViewTime": {
+      "message": "Наиболее низкое сред. время просмотра"
+   },
+   "lowestAvgViewTimeChannelAuditInfo": {
+      "message": "Список видео с худшим временем просмотра. Рекомендуем детально изучить их, и принять решение стоит о том, стоит ли выпускать похожие видео."
+   },
+   "lowestEngagement": {
+      "message": "Наиболее низкое взаимодействие"
+   },
+   "lowestEngagementChannelAuditInfo": {
+      "message": "Список видео с худшим показателем взаимодействия. Чтобы понять, почему индекс вовлеченности аудитории такой низкий, рекомендуем детально изучить данные видео. Задаете ли вы вопрос? Нашел ли свою целевую аудиторию данный контент?"
+   },
+   "lowestLikeRatio": {
+      "message": "Худшее отношение лайков к дислайкам"
+   },
+   "lowestLikeRatioChannelAuditInfo": {
+      "message": "Ваша аудитория плохо реагирует на эти видео. Чтобы узнать причину, проверьте тему видео и ознакомьтесь с комментариями."
+   },
+   "lowestRetention": {
+      "message": "Наиболее низкое удержание %"
+   },
+   "lowestRetentionChannelAuditInfo": {
+      "message": "Список видео с худшим показателем удержания. Рекомендуем детально изучить их, и принять решение стоит о том, стоит ли выпускать похожие видео."
+   },
+   "lowestSubscribers": {
+      "message": "Видео, теряющие подписчиков"
+   },
+   "lowestSubscribersChannelAuditInfo": {
+      "message": "Список видео, которые теряют ваших подписчиков. Заметка: для многих каналов, прямые эфиры теряют подписчиков, но время просмотра повышается. Попробуйте понять почему это происхдит и оптимизируйте отношение ваших видео к прямым эфирам."
+   },
+   "lowestViews": {
+      "message": "Минимальные просмотры"
+   },
+   "lowestViewsChannelAuditInfo": {
+      "message": "Список видео с минимальным количеством просмотров. Рекомендуем детально изучить их, и принять решение стоит о том, стоит ли выпускать похожие видео."
+   },
+   "markAllForDeletionTitle": {
+      "message": "Отметить все на удаление"
+   },
+   "massCSVExportTitle": {
+      "message": "Массовый экспорт CSV"
+   },
+   "massEditCardsAndAnns": {
+      "message": "Массовый редактор подсказок и аннотаций"
+   },
+   "massEditCardsAndEnds": {
+      "message": "Массовый редактор подсказок и конечных заставок"
+   },
+   "massEditVideosTitle": {
+      "message": "Массовый редактор видео"
+   },
+   "massLikeFail": {
+      "message": "Ошибка масс лайканья вашего видео: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "massLikeThisVideo": {
+      "message": "Масс лайк этого видео"
+   },
+   "massLikeTitle": {
+      "message": "Масс лайк"
+   },
+   "matches": {
+      "message": "Совпадения"
+   },
+   "maxRes": {
+      "message": "Максимально доступное разрешение"
+   },
+   "mcnStatLabel": {
+      "message": "партнерка"
+   },
+   "measurePerformance": {
+      "message": "Анализ результатов"
+   },
+   "mediumScore": {
+      "message": "Средняя"
+   },
+   "merchandiseTitle": {
+      "message": "Рекламная аннотация"
+   },
+   "message": {
+      "message": "Сообщение"
+   },
+   "mfaCodeRequestFail": {
+      "message": "Не удалось запросить код подтверждения"
+   },
+   "mfaCodeSent": {
+      "message": "Код подтверждения был отправлен"
+   },
+   "mfaCodeSentExplain": {
+      "message": "Если вы не получили код, запросите его снова"
+   },
+   "mfaCodeSubmitFail": {
+      "message": "Не удалось отправить код подтверждения"
+   },
+   "mfaComplete": {
+      "message": "Аутентификация завершена!"
+   },
+   "mfaInfoEmail": {
+      "message": "По желанию, мы отправим вам электронное письмо с кодом подтверждения"
+   },
+   "mfaInfoSMS": {
+      "message": "По желанию, мы отправим сообщение SMS с кодом проверки на \u003Cb>$phoneNumber$\u003C/b>",
+      "placeholders": {
+         "phoneNumber": {
+            "content": "$1"
+         }
+      }
+   },
+   "mfaRequired": {
+      "message": "Требуется двухфакторная аутентификация"
+   },
+   "minimumSubs": {
+      "message": "Минимальное количество подписчиков"
+   },
+   "minuteAbbreviation": {
+      "message": "мн"
+   },
+   "minutePlural": {
+      "message": "мин"
+   },
+   "minuteSingular": {
+      "message": "мин"
+   },
+   "minutesWatchedLower": {
+      "message": "минут просмотрено"
+   },
+   "minutesWatchedTitle": {
+      "message": "Минут просмотра"
+   },
+   "mobileTitle": {
+      "message": "Мобильные"
+   },
+   "modalErrorUnauthenticatedButton": {
+      "message": "Авторизация канала"
+   },
+   "modalErrorUnauthenticatedHint": {
+      "message": "Не забудьте обновить эту страницу после авторизации канала"
+   },
+   "modalErrorUnauthenticatedMessage": {
+      "message": "Для использования данной функции вы должны авторизовать свой канал на vidIQ."
+   },
+   "modalErrorUnknownButton": {
+      "message": "Вернуться к YouTube"
+   },
+   "modalErrorUnknownMessage": {
+      "message": "Произошла неизвестная ошибка. Мы уже знаем об этом и постараемся устранить данную проблему как можно скорее."
+   },
+   "modalUpsellButton": {
+      "message": "Приобрести подписку"
+   },
+   "modalVideoEngagementRate": {
+      "message": "вовлеченность аудитории"
+   },
+   "modalVideoSubsDriven": {
+      "message": "привлеченные подписчики"
+   },
+   "modeTitle": {
+      "message": "Режим"
+   },
+   "mondayPlural": {
+      "message": "Понедельник"
+   },
+   "monetizableTooltip": {
+      "message": "Вы выполнили одно из требований для участия в партнерской программе YouTube - у вас более 4000 часов просмотра!"
+   },
+   "monthOverMonth": {
+      "message": "Месяц за месяцем"
+   },
+   "monthOverMonthAbbreviation": {
+      "message": "По сравнению с предыдущем месяцем"
+   },
+   "monthlySearches": {
+      "message": "Поисковые запросы в месяц"
+   },
+   "monthsIntervalOption": {
+      "message": "Месяцы"
+   },
+   "mostRecentUpload": {
+      "message": "Самая недавняя загрузка"
+   },
+   "mostUsed": {
+      "message": "Наиболее употребляемые"
+   },
+   "mostUsedTooltip": {
+      "message": "Наиболее употребляемые теги топ 10-и трендовых видео"
+   },
+   "mostViewedFilter100Kto1M": {
+      "message": "100K - 1M"
+   },
+   "mostViewedFilter10Kto100K": {
+      "message": "10K - 100K"
+   },
+   "mostViewedFilter1Kto10K": {
+      "message": "1K - 10K"
+   },
+   "mostViewedFilter1MorMore": {
+      "message": "1M+"
+   },
+   "mostViewedVideo": {
+      "message": "Наиболее просматриваемое видео: $stat$",
+      "placeholders": {
+         "stat": {
+            "content": "$1"
+         }
+      }
+   },
+   "multipleFilters": {
+      "message": "Применить множественные фильтры"
+   },
+   "mustAgreeToTOS": {
+      "message": "Вы должны согласиться с условиями предоставления услуг"
+   },
+   "mustBeValidEmail": {
+      "message": "Неверный адрес электронной почты"
+   },
+   "mustLinkChannel": {
+      "message": "Для использования данной функции вы должны привязать текущий YouTube канал к аккаунту vidIQ"
+   },
+   "myVideosTitle": {
+      "message": "Мои видео"
+   },
+   "nDaysAfterPublish": {
+      "message": "$num$ дня(дней) после публикации",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "nItemsSelected": {
+      "message": "Выбрано $n$ элемента(ов)",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nResults": {
+      "message": "$n$ результата(ов)",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "nVideos": {
+      "message": "$vids$ видео",
+      "placeholders": {
+         "vids": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Имя"
+   },
+   "nature": {
+      "message": "Природа"
+   },
+   "negDemonetizationWord": {
+      "message": "Негативность"
+   },
+   "neverMissATrendingVideo": {
+      "message": "Оставайтесь в курсе последних трендовых видео"
+   },
+   "newPeriodStartsNDays": {
+      "message": "Новый период начнется через $n$ дн.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "newPeriodStartsTomorrow": {
+      "message": "Новый период начнется завтра."
+   },
+   "newTemplate": {
+      "message": "Новый шаблон"
+   },
+   "newTitle": {
+      "message": "Новая"
+   },
+   "newVidiqFeature": {
+      "message": "Новая функция"
+   },
+   "next": {
+      "message": "Следующая"
+   },
+   "niceYouViewedIdeas": {
+      "message": "Отлично! Вы просмотрели $num$ идей дня",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "no": {
+      "message": "Нет"
+   },
+   "noAccountYet": {
+      "message": "Нет аккаунта?"
+   },
+   "noChannelAccess": {
+      "message": "Ваш vidIQ аккаунт не имеет доступа к этому каналу."
+   },
+   "noCommentTemplates": {
+      "message": "Нет сохраненных шаблонов комментариев. Создайте свой первый шаблон!"
+   },
+   "noControversialKeywords": {
+      "message": "Спорные ключевые слова в заголовке, описании или тегах - отсутствуют!"
+   },
+   "noDataForChart": {
+      "message": "Нет данных для диаграммы $chart$",
+      "placeholders": {
+         "chart": {
+            "content": "$1"
+         }
+      }
+   },
+   "noHistoricalData": {
+      "message": "Не удалось получить исторические данные"
+   },
+   "noNevermind": {
+      "message": "Нет"
+   },
+   "noOtherVideosFound": {
+      "message": "Видео не найдены"
+   },
+   "noRelatedKeywords": {
+      "message": "Похожие теги не найдены"
+   },
+   "noRelatedTrendingVideos": {
+      "message": "Не найдено похожих трендовых видео"
+   },
+   "noReplies": {
+      "message": "Нет ответов"
+   },
+   "noResourcesFound": {
+      "message": "$resources$ не были найдены для этого видео",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noResourcesFoundHint": {
+      "message": "Попробуйте вернуться назад, выбрав \u003Cb>Все\u003C/b> типы элементов или увеличьте количество видео для поиска. "
+   },
+   "noResourcesFoundTitle": {
+      "message": "Не найдено никаких элементов"
+   },
+   "noResultsFound": {
+      "message": "Нет результатов"
+   },
+   "noSearchResultsFound": {
+      "message": "Нет результатов для ключевого слова '$term$'",
+      "placeholders": {
+         "term": {
+            "content": "$1"
+         }
+      }
+   },
+   "noTags": {
+      "message": "Нет тегов"
+   },
+   "noTagsDetected": {
+      "message": "В описании видео нет никаких совпадений по указанным вами тегам. Убедитесь в том, чтобы самые сильные ключевые слова присутствовали в описании, заголовке и в секции тегов."
+   },
+   "noTagsFound": {
+      "message": "Теги не найдены"
+   },
+   "noTemplatesToLoad": {
+      "message": "Не найдено шаблонов для загрузки!\u003Cbr>Сохраните видео как шаблон для возможности добавления его $resources$ к другим видео.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "noTemplatesToLoad2": {
+      "message": "Нет сохраненных шаблонов, добавьте объекты для создания нового шаблона"
+   },
+   "noTemplatesToLoad3": {
+      "message": "Все еще нет сохраненных шаблонов, создайте один"
+   },
+   "noTemplatesToLoad4": {
+      "message": "Не найдено шаблонов для загрузки"
+   },
+   "noTopChannels": {
+      "message": "По данному ключевому слову каналы не найдены"
+   },
+   "noTopics": {
+      "message": "Без темы"
+   },
+   "noTrending": {
+      "message": "Не найдено трендовых видео"
+   },
+   "noTweets": {
+      "message": "Не найдено твитов"
+   },
+   "noVideoIdsFound": {
+      "message": "Не найдены ID видео"
+   },
+   "noVideosFound": {
+      "message": "Не найдено видео для этого канала"
+   },
+   "none": {
+      "message": "Отсутствует"
+   },
+   "nonzeroLimit": {
+      "message": "Пожалуйста, выберите предел больше нуля"
+   },
+   "notEnoughDataForSearchTerm": {
+      "message": "Недостаточно данных по данному поисковому запросу"
+   },
+   "notEnoughSVIOT": {
+      "message": "Недостаточно объема поискового трафика для создания отчета об интересе на протяжении времени"
+   },
+   "notEnoughSVQueries": {
+      "message": "Недостаточно объема поискового трафика для создания отчета о поисковых запросах"
+   },
+   "notEnoughSVReports": {
+      "message": "Недостаточно объема поискового трафика для отображения отчета"
+   },
+   "notMonetizableTooltip": {
+      "message": "Для того, чтобы стать участником партнерской программы YouTube необходимо, чтобы на вашем канале было более 1000 подписчиков и за последние 12 месяцев набралось 4000 часов просмотра."
+   },
+   "noteTitle": {
+      "message": "Заметка"
+   },
+   "numCharacters": {
+      "message": "$stat$: $num$ символов",
+      "placeholders": {
+         "num": {
+            "content": "$2"
+         },
+         "stat": {
+            "content": "$1"
+         }
+      }
+   },
+   "numGoogleEmbedSourcesStatLabel": {
+      "message": "упоминания"
+   },
+   "numGoogleTrafficSourcesStatLabel": {
+      "message": "рефереры"
+   },
+   "numOfTotal": {
+      "message": "$num$ из $total$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "numResultsAreShown": {
+      "message": "отображаются $num$ результатов",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "numberOfViewsTitle": {
+      "message": "Количество просмотров"
+   },
+   "occurrences": {
+      "message": "Вхождения"
+   },
+   "okGotIt": {
+      "message": "Хорошо!"
+   },
+   "onNumViewSingular": {
+      "message": "на 1 просмотр"
+   },
+   "onNumViews": {
+      "message": "на $num$ просмотров",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "oneDayAfterPublish": {
+      "message": "1 день после публикации"
+   },
+   "oneItemSelected": {
+      "message": "Выбран один элемент"
+   },
+   "oneResult": {
+      "message": "1 результат"
+   },
+   "oneVideo": {
+      "message": "1 видео"
+   },
+   "only4endscreensAllowed": {
+      "message": "Не более четырех конечных заставок для видео"
+   },
+   "oopsWereInTrouble": {
+      "message": "К сожалению, произошла ошибка!"
+   },
+   "opacityTitle": {
+      "message": "Прозрачность"
+   },
+   "open": {
+      "message": "Открыть"
+   },
+   "openInKwins": {
+      "message": "Открыть в инспекторе ключевых слов"
+   },
+   "optimize": {
+      "message": "Оптимизация"
+   },
+   "optimizeNMoreVideos": {
+      "message": "Вы можете оптимизировать еще $n$ видео.",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "optimizeOneMoreVideo": {
+      "message": "Вы можете оптимизировать еще одно видео."
+   },
+   "or": {
+      "message": "или"
+   },
+   "order": {
+      "message": "Заказать"
+   },
+   "organicViewsStatLabel": {
+      "message": "органические просм."
+   },
+   "organicViewsTooltip": {
+      "message": "Органические просмотры: кол-во нерекламных просмотров. Вычисляются путем вычитания рекламных просмотров (YouTube API) из общего кол-ва просмотров (YouTube API)."
+   },
+   "organizeTagsMessage": {
+      "message": "Нажмите кнопку мыши и перемещайте курсор для упорядочивания тегов!"
+   },
+   "organizeTagsTitle": {
+      "message": "Упорядочить теги"
+   },
+   "otherImageTitle": {
+      "message": "Произвольное изображение"
+   },
+   "outOfHundred": {
+      "message": "из 100"
+   },
+   "outOfOptimizationsNDays": {
+      "message": "Вы израсходовали все доступные оптимизации за этот период. $start$Приобрести подписку сейчас$end$ или проверить через $n$ дн.",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "n": {
+            "content": "$3"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "outOfOptimizationsTomorrow": {
+      "message": "Вы израсходовали все доступные оптимизации за этот период. $start$Приобрести подписку сейчас$end$ или проверить завтра.",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "overall": {
+      "message": "Общая оценка"
+   },
+   "overallInfoCardText": {
+      "message": "Зная общую оценку вы можете определить эффективность выбранного вами тега для вашего канала.\u003Cbr>\u003Cbr>Если у вас более миллиона подписчиков, вы можете использовать теги с очень высокой конкуренцией. С другой стороны, если у вас совсем небольшой канал, мы советуем вам ориентироваться на теги со средней популярностью и низкой конкуренцией."
+   },
+   "overallScore": {
+      "message": "Общая оценка"
+   },
+   "overviewTitle": {
+      "message": "Обзор"
+   },
+   "overwriteEndscreen": {
+      "message": "Перезаписать конечные заставки для этих видео"
+   },
+   "overwriteTitle": {
+      "message": "Перезапись"
+   },
+   "pageStatus": {
+      "message": "Страница \u003Cb>$page$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         }
+      }
+   },
+   "pageStatusTotalKnown": {
+      "message": "Страница \u003Cb>$page$\u003C/b> из \u003Cb>$total$\u003C/b>",
+      "placeholders": {
+         "page": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "passwordLengthValidation": {
+      "message": "Пароль должен содержать не менее $number$ символов",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "passwordRequired": {
+      "message": "Пароль обязателен"
+   },
+   "passwordTitle": {
+      "message": "Пароль"
+   },
+   "pastDaysRangeOption": {
+      "message": "Прошлые $range$ дн.",
+      "placeholders": {
+         "range": {
+            "content": "$1"
+         }
+      }
+   },
+   "pastTwoWeeksRangeOption": {
+      "message": "Прошлые 2 недели"
+   },
+   "pastWeekRangeOption": {
+      "message": "Прошлая неделя"
+   },
+   "peakTimeToPost": {
+      "message": "Час пик \u003Cb>$time$\u003C/b>.",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "peakTimeToPostOnDay": {
+      "message": "Час пик $days$ — \u003Cb>$time$.\u003C/b>",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         },
+         "time": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentChangeTooltip": {
+      "message": "$change$% по сравнению с предыдущим периодом ($previous$)",
+      "placeholders": {
+         "change": {
+            "content": "$1"
+         },
+         "previous": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentOfEngagements": {
+      "message": "$name$: $percent$ от взаимодействий",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         },
+         "percent": {
+            "content": "$2"
+         }
+      }
+   },
+   "percentSubViewsStatLabel": {
+      "message": "просм. от подпис."
+   },
+   "percentageOfTotalForPeriod": {
+      "message": "(\u003Cb>$percentage$%\u003C/b> от общего количества за этот период)",
+      "placeholders": {
+         "percentage": {
+            "content": "$1"
+         }
+      }
+   },
+   "performanceTitle": {
+      "message": "Показательные значения"
+   },
+   "pinCommentMessage": {
+      "message": "Если вы уже закрепили комментарий, это заменит его"
+   },
+   "pinCommentTitle": {
+      "message": "Закрепить этот комментарий"
+   },
+   "pinCommentTooltip": {
+      "message": "Закрепить комментарий (создано vidIQ)"
+   },
+   "pinExtensionInstructions": {
+      "message": "Кликните по иконке IQ в верхней части браузера, чтобы закрепить расширение vidIQ для быстрого доступа."
+   },
+   "pinnedComment": {
+      "message": "Закрепленный комментарий"
+   },
+   "playVideoFrom": {
+      "message": "Воспроизводить видео с"
+   },
+   "playerSize": {
+      "message": "Размер окна плеера"
+   },
+   "playlistTitle": {
+      "message": "Плейлист"
+   },
+   "playlistsTitle": {
+      "message": "Плейлисты"
+   },
+   "pleaseConfirmEmailBeforeUsingFeature": {
+      "message": "Пожалуйста, подтвердите свой адрес электронной почты для использования данной функции. Посетите \u003Ca href=\\\"https://app.vidiq.com/welcome\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\">веб версию vidIQ\u003C/a>, для запроса нового письма со ссылкой для подтверждения почты. "
+   },
+   "pleaseEndCampaign": {
+      "message": "Чтобы продолжить, пожалуйста, остановите эту кампанию "
+   },
+   "pleaseSelectPlaylist": {
+      "message": "Пожалуйста, выберите плейлист"
+   },
+   "pleaseSwitchToAuthedChannelOrAuth": {
+      "message": "Пожалуйста, измените активный канал на YouTube на один из ранее добавленных. Если вы хотите продолжить работу с текущим каналом, пожалуйста, авторизуйте его в vidIQ."
+   },
+   "pleaseWaitThumbnail": {
+      "message": "Вы можете изменить значок видео после того как ваше видео будет загружено и обработано"
+   },
+   "pluralPagesLeftTitle": {
+      "message": "$pages$ cтраниц осталось",
+      "placeholders": {
+         "pages": {
+            "content": "$1"
+         }
+      }
+   },
+   "pollTitle": {
+      "message": "Опрос"
+   },
+   "postingScheduleInfo": {
+      "message": "Последовательность это главное в мире YouTube! Чем больше вы публикуете видео, тем чаще вы взаимодействуете с аудиторией. Как минимум, публикуйте одно видео раз в неделю. Одно видео каждый день - это идеально!"
+   },
+   "postingScheduleSubtextBad": {
+      "message": "Публикуйте как минимум одно видео в неделю."
+   },
+   "postingScheduleSubtextGood": {
+      "message": "Отлично! Вы загружаете как минимум одно видео раз в неделю."
+   },
+   "postingScheduleText": {
+      "message": "Около $numVideos$ $videos$ каждый(ую) $range$",
+      "placeholders": {
+         "numVideos": {
+            "content": "$1"
+         },
+         "range": {
+            "content": "$3"
+         },
+         "videos": {
+            "content": "$2"
+         }
+      }
+   },
+   "postingScheduleTitle": {
+      "message": "Расписание публикации видео"
+   },
+   "poweredBy": {
+      "message": "Создано"
+   },
+   "poweredByVidIQ": {
+      "message": "Создано vidIQ"
+   },
+   "preThumbnailSaveInfo": {
+      "message": "Это то, как ваш значок видео будет выглядеть в Интернете. Нажмите кнопку «Сохранить значок видео», когда будете готовы."
+   },
+   "preferencesTitle": {
+      "message": "Предпочтения"
+   },
+   "prev": {
+      "message": "Предыдущая"
+   },
+   "preview": {
+      "message": "Предпросмотр"
+   },
+   "previewButton": {
+      "message": "Предпросмотр"
+   },
+   "previewChanges": {
+      "message": "Предпросмотр"
+   },
+   "previewInSearch": {
+      "message": "Предпросмотр в результатах поиска"
+   },
+   "processingEllipsis": {
+      "message": "Обработка..."
+   },
+   "productTitle": {
+      "message": "Продукт"
+   },
+   "profDemonetizationWord": {
+      "message": "Ругательства"
+   },
+   "public": {
+      "message": "Публичное"
+   },
+   "quality": {
+      "message": "Качество"
+   },
+   "quotaLimitTooltip": {
+      "message": "У вашего аккаунта есть ограничение на $quota$ видео в месяц. Свяжитесь с нами, если вам необходимо больше видео.",
+      "placeholders": {
+         "quota": {
+            "content": "$1"
+         }
+      }
+   },
+   "rankedTagsStatLabel": {
+      "message": "ранжированные теги"
+   },
+   "reactions": {
+      "message": "реакции"
+   },
+   "readyCopyResources": {
+      "message": "Я готов, скопировать мои $resources$!",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "readyMakeChanges": {
+      "message": "Я готов, применить мои изменения!"
+   },
+   "recentChannelSubsStatLabel": {
+      "message": "подписчики за посл. $period$ дн.",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentChannelViewsStatLabel": {
+      "message": "просмотры за последние $period$ дн.",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentEstimatedRevenueStatLabel": {
+      "message": "предполагаемый доход за последние $period$ дн.",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recentVideosStatLabel": {
+      "message": "опубликованные видео за последние $period$ дн.",
+      "placeholders": {
+         "period": {
+            "content": "$1"
+         }
+      }
+   },
+   "recommendedBy": {
+      "message": "Рекомендовано"
+   },
+   "recommendedKeywordsForDescription": {
+      "message": "Рекомендованные теги для описания видео на основе ваших метаданных"
+   },
+   "recommendedKeywordsForTitle": {
+      "message": "Рекомендованные теги для заголовка на основе ваших метаданных"
+   },
+   "recommendedTagsTitle": {
+      "message": "Рекомендованные теги"
+   },
+   "reconnectYourYtAccount": {
+      "message": "Повторное подключение YouTube аккаунта"
+   },
+   "reconnectYourYtChannel": {
+      "message": "Повторная авторизация YouTube канала"
+   },
+   "recoverPasswordTitle": {
+      "message": "Восстановить пароль"
+   },
+   "redditCommentsStatLabel": {
+      "message": "reddit комменты"
+   },
+   "redditCommentsStatTitle": {
+      "message": "Reddit Комментарии"
+   },
+   "redditLikesStatLabel": {
+      "message": "reddit апвоуты"
+   },
+   "redditPostsStatLabel": {
+      "message": "reddit посты"
+   },
+   "redditPostsStatTitle": {
+      "message": "Reddit Посты"
+   },
+   "redditUpvotesStatTitle": {
+      "message": "Reddit Upvotes"
+   },
+   "referredSourcesTitle": {
+      "message": "Ссылающиеся источники"
+   },
+   "referredViewsStatLabel": {
+      "message": "приведенные просм."
+   },
+   "referrersTooltip": {
+      "message": "Рефереры: количество внешних интернет страниц, ссылающихся на данное видео."
+   },
+   "refineSearchWithFilters": {
+      "message": "Настраиваемые параметры поиска и фильтрации в vidIQ Boost"
+   },
+   "refresh": {
+      "message": "Обновить"
+   },
+   "refreshDataTitle": {
+      "message": "Обновить"
+   },
+   "refreshTagsButton": {
+      "message": "Обновить теги"
+   },
+   "refreshTagsMessage": {
+      "message": "Новые рекомендации для вас"
+   },
+   "relatedKeywords": {
+      "message": "Похожие теги"
+   },
+   "relatedQueriesTitle": {
+      "message": "Похожие запросы"
+   },
+   "relatedScore": {
+      "message": "Относительная оценка"
+   },
+   "relatedScoreTip": {
+      "message": "Относительная оценка — то, насколько выбранное ключевое слово похоже по смыслу с искомым ключевым словом."
+   },
+   "relatedTo": {
+      "message": "Связано с"
+   },
+   "relatedTrendingVideos": {
+      "message": "Похожие трендовые видео"
+   },
+   "relevancyTitle": {
+      "message": "Релевантность"
+   },
+   "rememberToRefresh": {
+      "message": "Не забудьте обновить страницу после оформления подписки!"
+   },
+   "removalNoticePart1": {
+      "message": "Как сертифицированный партнер YouTube, мы вынуждены следовать новым рекомендациям и правилам, поэтому мы вносим некоторые изменения в панель vidIQ."
+   },
+   "removalNoticePart2": {
+      "message": "Если вам интересно, куда пропал приблизительный заработок и вовлеченность аудитории, "
+   },
+   "removalNoticePart3": {
+      "message": "пожалуйста, ознакомьтесь с этой статьей."
+   },
+   "replace": {
+      "message": "Заменить"
+   },
+   "replaceCurrentObjects": {
+      "message": "Заменить текущие объекты"
+   },
+   "replaceWith": {
+      "message": "Заменить с"
+   },
+   "reports": {
+      "message": "Отчеты"
+   },
+   "requestCodeTitle": {
+      "message": "Запросить код"
+   },
+   "research": {
+      "message": "Исследование"
+   },
+   "researchAllResultsLoaded": {
+      "message": "Все результаты загружены"
+   },
+   "researchChannelSubs": {
+      "message": "Подписчики канала"
+   },
+   "researchChannelSubs2": {
+      "message": "кол-во подписчиков на канале"
+   },
+   "researchClearAll": {
+      "message": "Очистить все"
+   },
+   "researchDuration": {
+      "message": "Продолжительность"
+   },
+   "researchErrorNoResults": {
+      "message": "Нет результатов. Попробуйте изменить опции поиска."
+   },
+   "researchEstimatedEarnings": {
+      "message": "примерный доход"
+   },
+   "researchFilterBronze": {
+      "message": "Бронза (10-100 тысяч подписчиков)"
+   },
+   "researchFilterEngagements": {
+      "message": "Взаимодействия"
+   },
+   "researchFilterGold": {
+      "message": "Золото (более 1 млн подписчиков)"
+   },
+   "researchFilterGraphite": {
+      "message": "Графит (до 1000 подписчиков)"
+   },
+   "researchFilterOpal": {
+      "message": "Опал (1-10 тысяч подписчиков)"
+   },
+   "researchFilterOver100": {
+      "message": "Более 100"
+   },
+   "researchFilterOver100k": {
+      "message": "Более 100 тысяч"
+   },
+   "researchFilterOver100m": {
+      "message": "Более 100 млн"
+   },
+   "researchFilterOver10k": {
+      "message": "Более 10 тысяч"
+   },
+   "researchFilterOver10m": {
+      "message": "Более 10 млн"
+   },
+   "researchFilterOver1b": {
+      "message": "Более 1 млрд"
+   },
+   "researchFilterOver1k": {
+      "message": "Более 1000"
+   },
+   "researchFilterOver1m": {
+      "message": "Более 1 млн"
+   },
+   "researchFilterOver30s": {
+      "message": "Более 30 секунд"
+   },
+   "researchFilterOver50k": {
+      "message": "Более 50 тысяч"
+   },
+   "researchFilterOver5k": {
+      "message": "Более 5 тысяч"
+   },
+   "researchFilterOver5m": {
+      "message": "Более 5 минут"
+   },
+   "researchFilterPast48Hours": {
+      "message": "Посл. 48 часов"
+   },
+   "researchFilterPast6Months": {
+      "message": "Посл. 6 месяцев"
+   },
+   "researchFilterSilver": {
+      "message": "Серебро (100 тысяч - 1 млн подписчиков)"
+   },
+   "researchFilterThisMonth": {
+      "message": "Этот месяц"
+   },
+   "researchFilterThisWeek": {
+      "message": "Эта неделя"
+   },
+   "researchFilterUpTo100": {
+      "message": "До 100"
+   },
+   "researchFilterUpTo1k": {
+      "message": "До 1000"
+   },
+   "researchFilterUpTo30s": {
+      "message": "До 30 секунд"
+   },
+   "researchFilterUpsell": {
+      "message": "Оформите \u003Cb>vidIQ Boost\u003C/b> подписку для фильтрации результатов"
+   },
+   "researchFilterViews": {
+      "message": "Просмотры"
+   },
+   "researchFilterVph": {
+      "message": "VPH"
+   },
+   "researchFiltersUpsell": {
+      "message": "Полная свобода анализа результатов с мощными фильтрами доступными в подписке vidIQ Boost."
+   },
+   "researchFiltersUpsellAlt": {
+      "message": "Выведите свои навыки по поиску ключевых слов на абсолютно новый уровнь с этими популярными фильтрами"
+   },
+   "researchLoadMore": {
+      "message": "Загрузить еще"
+   },
+   "researchMostViewed": {
+      "message": "Наиболее просматриваемое"
+   },
+   "researchMostViewedTitle": {
+      "message": "Наиболее просматриваемое"
+   },
+   "researchPastNDays": {
+      "message": "Последние $num$ дня/дней",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "researchQueryPlaceholder": {
+      "message": "Например: игры, музыка"
+   },
+   "researchSearch": {
+      "message": "Искать"
+   },
+   "researchSearchKeywordPlaceholder": {
+      "message": "Добавьте ключевое слово для которого вы хотели бы увидеть трендовые видео"
+   },
+   "researchSearchOptions": {
+      "message": "Поиск фильтров"
+   },
+   "researchSearchTerms": {
+      "message": "Поисковые запросы"
+   },
+   "researchSearchUpsell": {
+      "message": "Приобретите \u003Cstrong>vidIQ Pro\u003C/strong> для поиска и сортировки видео"
+   },
+   "researchSortLockedMessage": {
+      "message": "Пожалуйста, приобретите подписку для возможности сортировки"
+   },
+   "researchSuggestedSearches": {
+      "message": "Предложенные поисковые запросы"
+   },
+   "researchTopVidiqScores": {
+      "message": "Топ оценок vidIQ"
+   },
+   "researchTrendingGamingVideos": {
+      "message": "Трендовые игровые видео"
+   },
+   "researchTrendingMusicVideos": {
+      "message": "Трендовые музыкальные видео"
+   },
+   "researchTrendingVideosFromEmergingChannels": {
+      "message": "Трендовые видео от восходящих каналов"
+   },
+   "researchVidiqScore": {
+      "message": "Оценка vidIQ"
+   },
+   "researchVidiqScore2": {
+      "message": "оценка vidIQ"
+   },
+   "researchViews": {
+      "message": "Просмотры"
+   },
+   "researchVph": {
+      "message": "Просмотры в час (VPH)"
+   },
+   "resendTheConfirmationLink": {
+      "message": "запросить его повторно"
+   },
+   "reset": {
+      "message": "Сброс"
+   },
+   "resetSession": {
+      "message": "Выполните сброс сессии \u003Cb>vidIQ\u003C/b>, и попробуйте снова."
+   },
+   "resource": {
+      "message": "элемент"
+   },
+   "resources": {
+      "message": "элементы"
+   },
+   "restore": {
+      "message": "Восстановить"
+   },
+   "restoreAll": {
+      "message": "Восстановить все"
+   },
+   "retentionStatLabel": {
+      "message": "удержание"
+   },
+   "retryAllTitle": {
+      "message": "Повторить все"
+   },
+   "retryTitle": {
+      "message": "Повтор"
+   },
+   "reviewUs": {
+      "message": "Оцените нас!"
+   },
+   "risingSearchQueriesTitle": {
+      "message": "Набирающие популярность поисковые запросы"
+   },
+   "risingTitle": {
+      "message": "Набирающие популярность"
+   },
+   "saturdayPlural": {
+      "message": "Суббота"
+   },
+   "saveChangesTitle": {
+      "message": "Сохранить изменения"
+   },
+   "saveName": {
+      "message": "Сохранить имя"
+   },
+   "saveTemplateTitle": {
+      "message": "Сохранить шаблон"
+   },
+   "saveThisVideoTooltip": {
+      "message": "Сохраните это видео как шаблон. Затем добавьте карточки и аннотации с данного видео к другим!"
+   },
+   "saveThumbnailTitle": {
+      "message": "Сохранить значок видео"
+   },
+   "saveTitle": {
+      "message": "Сохранить"
+   },
+   "saved": {
+      "message": "Сохранено"
+   },
+   "savedIdeasLabel": {
+      "message": "Сохраненные идеи"
+   },
+   "savedIdeasTabTooltip": {
+      "message": "Работайте со всеми сохраненными идеями здесь"
+   },
+   "savingEllipsis": {
+      "message": "Сохранение..."
+   },
+   "savingThumbnailEllipsis": {
+      "message": "Сохранение значка видео..."
+   },
+   "scAddedLast7DaysTitle": {
+      "message": "Добавлено за последние 7 дней"
+   },
+   "scAvgAgeTitle": {
+      "message": "Средний возраст"
+   },
+   "scAvgViewsTitle": {
+      "message": "Среднее кол-во просмотров"
+   },
+   "scCcTitle": {
+      "message": "Субтитры"
+   },
+   "scHighestViewsTitle": {
+      "message": "Максимальное кол-во просмотров"
+   },
+   "scStatisticsProcessingResults": {
+      "message": "Обработка результатов..."
+   },
+   "scTimesInDescTitle": {
+      "message": "Раз в описании"
+   },
+   "scTimesInTitleTitle": {
+      "message": "Раз в заголовке"
+   },
+   "scTopCreatorTitle": {
+      "message": "Лучший автор"
+   },
+   "search": {
+      "message": "Искать"
+   },
+   "searchAndReplace": {
+      "message": "Искать и заменить"
+   },
+   "searchByKeyword": {
+      "message": "Поиск по тегу"
+   },
+   "searchByList": {
+      "message": "Поиск по CSV-файлу (значения, разделённые запятыми)"
+   },
+   "searchByPhrases": {
+      "message": "Искать по фразе..."
+   },
+   "searchByUsername": {
+      "message": "Искать коммент. от определенного польз."
+   },
+   "searchForKeyword": {
+      "message": "Поиск по тегу"
+   },
+   "searchInKwins": {
+      "message": "Открыть в инспекторе ключевых слов"
+   },
+   "searchKeyword": {
+      "message": "Поиск ключевого слова"
+   },
+   "searchOnYouTube": {
+      "message": "Поиск по YouTube"
+   },
+   "searchPanel": {
+      "message": "Панель vidIQ"
+   },
+   "searchQueriesTitle": {
+      "message": "Поисковые запросы"
+   },
+   "searchScreen": {
+      "message": "Результаты поиска"
+   },
+   "searchTermTitle": {
+      "message": "Поисковый термин"
+   },
+   "searchThisTerm": {
+      "message": "Поиск данного термина"
+   },
+   "searchUpTo5InSingleSearch": {
+      "message": "Используйте до 5 ключевых слов в одном запросе."
+   },
+   "searchUpToNKeywords": {
+      "message": "Поиск до $num$ ключевых слов",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchVolume": {
+      "message": "Поисковый объем"
+   },
+   "searchVolumePastMonth": {
+      "message": "Поисковый объем за последние 30 дней"
+   },
+   "searchVolumeTitle": {
+      "message": "vidIQ поисковый объем"
+   },
+   "searchingFor": {
+      "message": "Поиск"
+   },
+   "secondPlural": {
+      "message": "с"
+   },
+   "secondSingular": {
+      "message": "с"
+   },
+   "seeAllResults": {
+      "message": "Просмотр всех результатов"
+   },
+   "seeMoreStats": {
+      "message": "Нужно больше статистики?"
+   },
+   "selectAYouTubeChannel": {
+      "message": "Выберите YouTube канал"
+   },
+   "selectAllNum": {
+      "message": "Выбрать все ($num$)",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "selectAllTitle": {
+      "message": "Выбрать все"
+   },
+   "selectLikingChannels": {
+      "message": "Выберите каналы, которые должны поставить лайк к вашему видео, затем кликните по кнопе \u003Cb>Масс лайк этого видео\u003C/b>"
+   },
+   "selectNoneTitle": {
+      "message": "Выбрать ничего"
+   },
+   "selectOption": {
+      "message": "Выберите вариант..."
+   },
+   "selected": {
+      "message": "Выбрано"
+   },
+   "sendFeedbackTitle": {
+      "message": "Оставить отзыв"
+   },
+   "senshockDemonetizationWord": {
+      "message": "Сенсационное и шокирующее"
+   },
+   "seoScoreChannelAuditInfo": {
+      "message": "Оптимизируя заголовки, теги и описания вы даете своим видео импульс для охвата максимальной аудитории. Старайтесь иметь оценку выше 40."
+   },
+   "seoScoreChecklistTitle": {
+      "message": "Оценка SEO и чек-лист"
+   },
+   "seoScoreStatLabel": {
+      "message": "оценка SEO от vidIQ"
+   },
+   "seoTagsTitle": {
+      "message": "SEO | Теги"
+   },
+   "seoTitle": {
+      "message": "SEO"
+   },
+   "separateKeywordsWithComma": {
+      "message": "Разделить ключевые слова можно с помощью запятой"
+   },
+   "setCustomRange": {
+      "message": "Установить собственный диапазон"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "sexDemonetizationWord": {
+      "message": "Материалы сексуального характера"
+   },
+   "shapeCircle": {
+      "message": "Круг"
+   },
+   "shapeEllipse": {
+      "message": "Овал"
+   },
+   "shapeRect": {
+      "message": "Прямоугольник"
+   },
+   "shapeTitle": {
+      "message": "Форма"
+   },
+   "shapeTriangle": {
+      "message": "Треугольник"
+   },
+   "shareTitle": {
+      "message": "Поделиться"
+   },
+   "sharedOnFacebook": {
+      "message": "Поделились на Facebook"
+   },
+   "shares": {
+      "message": "поделились раз"
+   },
+   "sharesAndComments": {
+      "message": "расшаривания + комментарии"
+   },
+   "shop": {
+      "message": "Магазин"
+   },
+   "shortLabel": {
+      "message": "короткая"
+   },
+   "shortcutsOnHomePage": {
+      "message": "Клавиши быстрого доступа на домашней странице"
+   },
+   "shortcutsOnVideoManager": {
+      "message": "Клавиши быстрого доступа на странице менеджера видео"
+   },
+   "shortenUrls": {
+      "message": "Сокращенные ссылки"
+   },
+   "shortsViewsStatLabel": {
+      "message": "Просмотры Shorts"
+   },
+   "show": {
+      "message": "Отобразить"
+   },
+   "showAllIdeas": {
+      "message": "Отобразить все $num$ идей",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllKeywords": {
+      "message": "Отобразить все $num$ тегов",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllNumVideos": {
+      "message": "Отобразить все $num$ трендовые видео",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "showAllTitle": {
+      "message": "Показать все"
+   },
+   "showAnnotations": {
+      "message": "Показать аннотации"
+   },
+   "showCaptions": {
+      "message": "Отображать субтитры"
+   },
+   "showChannelInfoTitle": {
+      "message": "Отобразить информацию канала"
+   },
+   "showFewerTitle": {
+      "message": "Показать меньше"
+   },
+   "showMoreTitle": {
+      "message": "Показать больше ($number$)",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "showPlayerControls": {
+      "message": "Отображать элементы управления плеером"
+   },
+   "showRelatedVideos": {
+      "message": "Отображать похожие видео"
+   },
+   "showVideoInfo": {
+      "message": "Отображать информацию о видео (заголовок, владелец, итд.)"
+   },
+   "showingCommentThreads": {
+      "message": "Отображение $current$ из $total$ веток комментариев.",
+      "placeholders": {
+         "current": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "signIn": {
+      "message": "Вход"
+   },
+   "signInToExistingVidiqAccount": {
+      "message": "Вход в существующий vidIQ аккаунт"
+   },
+   "signInToYourAccount": {
+      "message": "Вход в аккаунт"
+   },
+   "signInWithGoogle": {
+      "message": "Войти через Google"
+   },
+   "signUp": {
+      "message": "Зарегистрироваться"
+   },
+   "signUpForNewAccount": {
+      "message": "Создайте новый \u003Cb>vidIQ\u003C/b> аккаунт"
+   },
+   "signUpForVidIQ": {
+      "message": "Зарегистрироваться на vidIQ "
+   },
+   "signUpFree": {
+      "message": "Зарегистрируйтесь бесплатно!"
+   },
+   "signUpWithGoogle": {
+      "message": "Зарегистрироваться через Google"
+   },
+   "signUpWithVidiq": {
+      "message": "Зарегистрироваться с помощью почты и пароля"
+   },
+   "signupThanks": {
+      "message": "Спасибо за регистрацию!"
+   },
+   "singularPageLeftTitle": {
+      "message": "1 cтраница осталась"
+   },
+   "socDemonetizationWord": {
+      "message": "Чувствительные социальные проблемы"
+   },
+   "socialTitle": {
+      "message": "Социальное"
+   },
+   "solidColorTitle": {
+      "message": "Сплошной цвет"
+   },
+   "somethingWentWrong": {
+      "message": "Что-то пошло не так"
+   },
+   "sortBy": {
+      "message": "Сортировать по"
+   },
+   "sourceGoogleTrends": {
+      "message": "Источник: Google Тренды (Поиск YouTube)"
+   },
+   "speechBubbleTitle": {
+      "message": "Выноска"
+   },
+   "spotlightTitle": {
+      "message": "В центре внимания"
+   },
+   "startCampaignTitle": {
+      "message": "Запустить кампанию"
+   },
+   "startResearchingSavedIdeas": {
+      "message": "Начните исследовать сохраненные идеи."
+   },
+   "startResearchingSavedIdeasAlt": {
+      "message": "Начните исследовать сохраненные идеи."
+   },
+   "startTime": {
+      "message": "Время начала"
+   },
+   "stats": {
+      "message": "Статистика"
+   },
+   "statsByVidIQ": {
+      "message": "Статистика от vidIQ"
+   },
+   "statsOverview": {
+      "message": "Просмотр статистики "
+   },
+   "statusTitle": {
+      "message": "Статус"
+   },
+   "stayTuned": {
+      "message": "Оставайтесь с нами..."
+   },
+   "stepThroughFrame": {
+      "message": "Покадровый выбор"
+   },
+   "stopCampaignTitle": {
+      "message": "Остановить кампанию"
+   },
+   "studioBetaBestTimeToPostUpsell": {
+      "message": "Оформите \u003Cb>vidIQ Pro\u003C/b> подписку, чтобы узнать когда лучше всего загрузить видео"
+   },
+   "studioBetaChooseVideoStillMessage": {
+      "message": "Извините! Мы все еще не поддерживаем данную функцию в YouTube Studio Beta."
+   },
+   "studioBetaGeneralError": {
+      "message": "Произошла ошибка при загрузке $name$. Пожалуйста, повторите попытку через несколько минут.",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "studioBetaTagsUpsell": {
+      "message": "Оформите \u003Cb>vidIQ Boost\u003C/b> подписку, чтобы получить доступ к \u003Cb>$num$\u003C/b> рекомендованным тегам",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "studioBetaTrendingVidsUpsell2": {
+      "message": "Оформите \u003Cb>Boost\u003C/b> подписку для просмотра списка видео, у которых можно позаимствовать просмотры"
+   },
+   "stumbleuponStatLabel": {
+      "message": "stumbleupon"
+   },
+   "stumbleuponStatTitle": {
+      "message": "Stumbleupon"
+   },
+   "subViewsTooltip": {
+      "message": "Это просмотры на данном видео, полученные от подписчиков."
+   },
+   "submit": {
+      "message": "Отправить"
+   },
+   "subs": {
+      "message": "подписчики"
+   },
+   "subsBestMonth": {
+      "message": "Месяц с наибольшим количеством полученных подписчиков"
+   },
+   "subsDrivenStatLabel": {
+      "message": "привлеч. подпис."
+   },
+   "subsPer1kViews": {
+      "message": "$num$ за 1 тысячу просмотров",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "subscribeForTricks": {
+      "message": "Подпишитесь на канал vidIQ для получения последних советов и подсказок! "
+   },
+   "subscribeTitle": {
+      "message": "Подписаться"
+   },
+   "subscriberAnalysis": {
+      "message": "Анализ подписчиков"
+   },
+   "subscriberInsightsTitle": {
+      "message": "Анализ подписчиков"
+   },
+   "subscriberRank": {
+      "message": "рейтинг подписчиков"
+   },
+   "subscribersGainedTitle": {
+      "message": "Получено подписчиков"
+   },
+   "subscribersTitle": {
+      "message": "Подписчики"
+   },
+   "successfullyAddedNLikes": {
+      "message": "$n$ лайка(ов) были успешно добавлены к вашему видео!",
+      "placeholders": {
+         "n": {
+            "content": "$1"
+         }
+      }
+   },
+   "successfullyAddedOneLike": {
+      "message": "Один лайк был успешно добавлен к вашему видео!"
+   },
+   "successfullyAuthed": {
+      "message": "Успешно авторизован"
+   },
+   "suggestedVideoTagsTitle": {
+      "message": "Предложенные теги для видео"
+   },
+   "suggestedViewsStatLabel": {
+      "message": "предложенные просм."
+   },
+   "suggestion": {
+      "message": "Предложение"
+   },
+   "sundayPlural": {
+      "message": "Воскресенье"
+   },
+   "tabletTitle": {
+      "message": "Планшеты"
+   },
+   "tagAutocompleteTitle": {
+      "message": "Самозаполняемые теговые рекоммендации"
+   },
+   "tagCountMessage": {
+      "message": "Теги — это ключевые слова, которые описывают ваше видео. Они должны помогать ютубу понять суть ролика.\u003Cbr>\u003Cbr>Добавьте \u003Cb>по крайней мере 20 тегов\u003C/b> для более полной оптимизации."
+   },
+   "tagCountStatLabel": {
+      "message": "количество тегов"
+   },
+   "tagTemplatesCreateMessage": {
+      "message": "Создайте новый шаблон для добавления тегов!"
+   },
+   "tagTemplatesInputPlaceholder": {
+      "message": "Тег или список из тегов, разделенных запятой"
+   },
+   "tagTemplatesNote": {
+      "message": "Заметка: Добавьте уникальные теги к видео, а затем примените шаблон из тегов"
+   },
+   "tagTemplatesTitle": {
+      "message": "Шаблоны тегов"
+   },
+   "tagVolumeStatLabel": {
+      "message": "популярность тегов"
+   },
+   "tags": {
+      "message": "Теги"
+   },
+   "tagsLengthChannelAuditTitle": {
+      "message": "Объем тегов"
+   },
+   "teaserText": {
+      "message": "Текст тизера"
+   },
+   "templateDeleteProblem": {
+      "message": "При удалении \"$template$\" произошла ошибка: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateDeleted": {
+      "message": "$template$ успешно удален!",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateNameTitle": {
+      "message": "Имя шаблона"
+   },
+   "templatePlaceholder1": {
+      "message": "Например: Спасибо"
+   },
+   "templatePlaceholder2": {
+      "message": "Например: Спасибо за подписку!"
+   },
+   "templateSaveProblem": {
+      "message": "При сохранении \"$template$\" произошла ошибка: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$2"
+         },
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateSaved": {
+      "message": "$template$ успешно сохранен!",
+      "placeholders": {
+         "template": {
+            "content": "$1"
+         }
+      }
+   },
+   "templateTextHint": {
+      "message": "Подсказка: \u003Ci>&lt;user-name&gt;\u003C/i> - будет заменено именем канала, которому вы адресуете ответ."
+   },
+   "templateTextTitle": {
+      "message": "Текст шаблона"
+   },
+   "templatesTitle": {
+      "message": "Шаблоны"
+   },
+   "text": {
+      "message": "Текст"
+   },
+   "thatsEnoughTitle": {
+      "message": "Этого достаточно"
+   },
+   "theLastVideoWatched": {
+      "message": "последнее просмотренное видео"
+   },
+   "thisChannelAverage": {
+      "message": "Средние показатели этого канала"
+   },
+   "thisMonth": {
+      "message": "этот месяц"
+   },
+   "thisPeriod": {
+      "message": "этот период"
+   },
+   "thisVideo": {
+      "message": "Это видео"
+   },
+   "thumbnail": {
+      "message": "Значок видео"
+   },
+   "thumbnailEditorTitle": {
+      "message": "Редактор значков видео"
+   },
+   "thumbnailPlural": {
+      "message": "значки видео"
+   },
+   "thumbnailRatingBarTitle": {
+      "message": "Панель рейтинга под значками видео"
+   },
+   "thumbnailSavedNotice": {
+      "message": "Ваш значок видео сохранен! Может потребоваться несколько минут, чтобы YouTube отразил изменения."
+   },
+   "thumbnailSection": {
+      "message": "Раздел значка видео"
+   },
+   "thumbnailSingular": {
+      "message": "значок видео"
+   },
+   "thumbnailSizeError": {
+      "message": "Файл слишком большой. Пожалуйста, загрузите файл размером до $maxSize$.",
+      "placeholders": {
+         "maxSize": {
+            "content": "$1"
+         }
+      }
+   },
+   "thursdayPlural": {
+      "message": "Четверг"
+   },
+   "time": {
+      "message": "Время"
+   },
+   "timesUsedInTopVids": {
+      "message": "Сколько раз использовано в топ 10 видео"
+   },
+   "timezone": {
+      "message": "Часовой пояс"
+   },
+   "title": {
+      "message": "Заголовок"
+   },
+   "titleAverageSubtextBad": {
+      "message": "В целом, длина заголовков у ваших видео слишком $status$.",
+      "placeholders": {
+         "status": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleAverageSubtextGood": {
+      "message": "В целом, длина заголовков у ваших видео - хорошая!"
+   },
+   "titleChannelAuditEdit": {
+      "message": "Обновление заголовков"
+   },
+   "titleDescSuggestionTitle": {
+      "message": "Рекомендации к заголовкам и описаниям"
+   },
+   "titleGeneratorCreditsRemainingLabel": {
+      "message": "$num$ оставшиеся кредиты - Новые кредиты через $duration$",
+      "placeholders": {
+         "duration": {
+            "content": "$2"
+         },
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleGeneratorNonBoostUsersGuide": {
+      "message": "Так как вы не Boost пользователь, вам доступно ограниченное количество значков видео для использования. Оформите Boost подписку, и откройте безлимитный доступ."
+   },
+   "titleGeneratorRecommendation": {
+      "message": "Рекомендации заголовков видео для \\\"$currentTitle$\\\"",
+      "placeholders": {
+         "currentTitle": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleGeneratorRemainingCredits": {
+      "message": "Осталось $num$ доступных значков видео",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "titleGeneratorUpsellHint": {
+      "message": "Вы израсходовали доступное количество значков видео. Оформите подписку!"
+   },
+   "titleLengthChannelAuditTitle": {
+      "message": "Длина заголовка"
+   },
+   "to": {
+      "message": "до"
+   },
+   "toDismissAnIdea": {
+      "message": "для отклонения идеи."
+   },
+   "toSaveAnIdea": {
+      "message": "для сохранения идеи."
+   },
+   "todayLabel": {
+      "message": "Сегодня"
+   },
+   "tooLong": {
+      "message": "Слишком длинно"
+   },
+   "tooLow": {
+      "message": "Низкая"
+   },
+   "tooShort": {
+      "message": "Слишком коротко"
+   },
+   "toolbarStatsDropdownTitle": {
+      "message": "Тулбар канала со статистикой"
+   },
+   "topAvgViewTimeChannelAuditInfo": {
+      "message": "Список видео с лучшим временем просмотра. Рекомендуем детально изучить их, обратить внимание на видео-монтаж, и создать похожие видео с учетом полученной информации."
+   },
+   "topAvgWatchtimeNonLive": {
+      "message": "Сред. время просмотра"
+   },
+   "topChannels": {
+      "message": "Самые популярные каналы по данному тегу"
+   },
+   "topCompetitorVideos": {
+      "message": "Конкуренты (по VPH)"
+   },
+   "topCompetitorVideosChannelAuditInfo": {
+      "message": "Список наиболее просматриваемых видео у ваших конкурентов, основанный на количестве просмотров в час (VPH). Рекомендуем детально изучить данные видео, и по возможности постараться применить полученные знания к своему каналу."
+   },
+   "topCountriesStatLabel": {
+      "message": "топ стран"
+   },
+   "topDevicesStatLabel": {
+      "message": "топ устройств"
+   },
+   "topEmbedsTitle": {
+      "message": "Лучшие вставки"
+   },
+   "topEngagementChannelAuditInfo": {
+      "message": "Список, в котором предоставлены видео с наибольшим числом взаимодействий. Советуем вам данные видео, чтобы понять почему они успешны и создать вам несколько похожих видео."
+   },
+   "topKeywords": {
+      "message": "Топ теги"
+   },
+   "topKeywordsUpsell": {
+      "message": "Откройте доступ ко всем топ ключевым словам с vidIQ Pro"
+   },
+   "topKwinsKeywords": {
+      "message": "Инспектор тегов, похожие ключевые слова"
+   },
+   "topPlaylists": {
+      "message": "Лучшие плейлисты"
+   },
+   "topPlaylistsChannelAuditInfo": {
+      "message": "Список наиболее просматриваемых плейлистов. Рекомендуем создать похожие плейлисты."
+   },
+   "topReferrersTitle": {
+      "message": "Лучшие рефереры"
+   },
+   "topRelatedKeywords": {
+      "message": "Лучшие похожие теги"
+   },
+   "topRelatedOpportunities": {
+      "message": "Лучшие возможности"
+   },
+   "topRetention": {
+      "message": "Наиболее высокое удержание %"
+   },
+   "topRetentionChannelAuditInfo": {
+      "message": "Вашим зрителям нравятся эти видео и, возможно, они им было бы интересно увидеть больше похожего контента. Видео в данной секции - главные претенденты на создание схожего контента."
+   },
+   "topSearchKeywordsTitle": {
+      "message": "Самые искомые теги"
+   },
+   "topSearchQueriesTitle": {
+      "message": "Топ поисковых запросов"
+   },
+   "topSearchTermsChannelAuditInfo": {
+      "message": "Список из лучших ранжированных тегов."
+   },
+   "topSearchTermsTitle": {
+      "message": "Лучшие поисковые термины"
+   },
+   "topSearchVideos": {
+      "message": "10 лучших ранжированных видео в поиске YouTube для \\\"$query$\\\"",
+      "placeholders": {
+         "query": {
+            "content": "$1"
+         }
+      }
+   },
+   "topStatLabel": {
+      "message": "лучшие"
+   },
+   "topSubscribersChannelAuditInfo": {
+      "message": "Список, в котором предоставлены видео с лучшим впечатлением после просмотра. Советуем вам изучить заголовки и значки видео, чтобы понять почему они успешны и создать вам несколько похожих видео."
+   },
+   "topSuggested": {
+      "message": "Лучшее предложенное (не владелец)"
+   },
+   "topSuggestedChannelAuditInfo": {
+      "message": "Список лучших видео, предлагающих другие ваши видео. Рекомендуем изучить связь и создать похожий контент."
+   },
+   "topTenTrendingVideos": {
+      "message": "Топ 10 трендовых видео"
+   },
+   "topTitle": {
+      "message": "Популярное"
+   },
+   "topViewsChannelAuditInfo": {
+      "message": "Список наиболее просматриваемых видео. Мы рекомендуем изучить источники траффика, таким образом вы раскроете секрет успеха популярности данных видео. После, создайте похожие видео, учитывая полученную информацию."
+   },
+   "topViewsChannelAuditRank": {
+      "message": "в топе по просмотрам"
+   },
+   "topVphChannelAuditInfo": {
+      "message": "Эти видео имеют наибольшее количество просмотров в час. Советуем вам создать несколько похожих видео."
+   },
+   "topWatchTimeChannelAuditInfo": {
+      "message": "Эти видео наиболее просматриваемые на вашем канале. Советуем вам создать несколько похожих видео."
+   },
+   "topWatchTimeChannelAuditRank": {
+      "message": "в топе по времени просмотра"
+   },
+   "topics": {
+      "message": "Темы"
+   },
+   "totalComplete": {
+      "message": "завершено $score$ из $total$",
+      "placeholders": {
+         "score": {
+            "content": "$1"
+         },
+         "total": {
+            "content": "$2"
+         }
+      }
+   },
+   "totalEstimatedRevenue": {
+      "message": "общий предполагаемый доход"
+   },
+   "totalWatchTimeTitle": {
+      "message": "Общее время просмотра (минут)"
+   },
+   "trackingRequest1": {
+      "message": "Чтобы мы могли постоянно совершенствовать наш продукт, мы хотели бы собирать данные о функциях, которые вы находите наиболее полезными, наряду с другой информацией, такой как:"
+   },
+   "trackingRequest2": {
+      "message": "Когда вы входите или выходите из системы, устанавливаете/удаляете и используете определенные функции"
+   },
+   "trackingRequest3": {
+      "message": "Технические данные и данные об устройстве из браузера, включая местоположение, указанное IP-адресом, дату и время использования, предпочтения языка и операционной системы"
+   },
+   "trackingRequest4": {
+      "message": "Нам крайне важна конфиденциальность ваших данных, поэтому вы можете быть уверены, что мы ни с кем с ними не делимся. Собранная информация помогает нам постоянно улучшать продукт и функции, которые вам нравятся."
+   },
+   "trackingRequestButton": {
+      "message": "Хорошо"
+   },
+   "trackingRequestFirefoxTitle": {
+      "message": "Спасибо за установку vidIQ для Firefox"
+   },
+   "tragconDemonetizationWord": {
+      "message": "Трагедия и конфликт"
+   },
+   "translateKeywordsTitle": {
+      "message": "Перевести теги"
+   },
+   "translateTitle": {
+      "message": "Перевод"
+   },
+   "translationNotSupported": {
+      "message": "Функция перевода недоступна для данного языка!"
+   },
+   "translationProblem": {
+      "message": "При получении переводов произошла ошибка."
+   },
+   "translationQuotaExceededDays": {
+      "message": "К сожалению, вы превысили лимит переводов на текущую неделю. Бесплатные переводы станут снова доступны через $num$ дней.",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "translationRequiresVidiqPro": {
+      "message": "Функция перевода является частью vidIQ Pro подписки"
+   },
+   "translationUpsell": {
+      "message": "Оформите Pro подписку для получения 100 переводов в неделю"
+   },
+   "translationUpsellBoost": {
+      "message": "Оформите Boost подписку для получения 500 переводов в неделю"
+   },
+   "trendAlerts": {
+      "message": "Уведомления о трендах"
+   },
+   "trendAlertsAlertNameLabel": {
+      "message": "Название уведомления"
+   },
+   "trendAlertsAlertNamePlaceholder": {
+      "message": "Мое уведомление"
+   },
+   "trendAlertsAlertNameTooltip": {
+      "message": "Задайте имя для вашего уведомления"
+   },
+   "trendAlertsCancel": {
+      "message": "Отмена"
+   },
+   "trendAlertsCategoryLabel": {
+      "message": "Выберите категорию"
+   },
+   "trendAlertsCategoryTooltip": {
+      "message": "Выберите категорию видео для этого уведомления"
+   },
+   "trendAlertsCompetitorsEmptyMessage": {
+      "message": "Вы не добавили ни одного конкурента. Добавить конкурентов можно"
+   },
+   "trendAlertsCompetitorsEmptyMessageLink": {
+      "message": "здесь"
+   },
+   "trendAlertsCompetitorsLabel": {
+      "message": "Добавить конкурентов"
+   },
+   "trendAlertsCompetitorsLink": {
+      "message": "Добавить больше конкурентов"
+   },
+   "trendAlertsCompetitorsTooltip": {
+      "message": "Выберите каналы конкуренты для ограничения результатов этого уведомления"
+   },
+   "trendAlertsCreateANewTrendAlert": {
+      "message": "Создать новое уведомление о тренде"
+   },
+   "trendAlertsCreateAlert": {
+      "message": "Создать уведомление"
+   },
+   "trendAlertsCreateFirstAlert": {
+      "message": "Создать мое первое уведомление"
+   },
+   "trendAlertsCreateNewAlert": {
+      "message": "Создать новое уведомление"
+   },
+   "trendAlertsCreateNewTrendAlert": {
+      "message": "Создать новое уведомление о тренде"
+   },
+   "trendAlertsDefaultName": {
+      "message": "Мое уведомление"
+   },
+   "trendAlertsDeleteMsg": {
+      "message": "Вы уверены, что хотите удалить уведомление о тренде \\\"$alertName$\\\"?",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsDeleteTrendAlert": {
+      "message": "Удаление уведомления о тренде"
+   },
+   "trendAlertsEditTrendAlert": {
+      "message": "Редактировать уведомление о тренде"
+   },
+   "trendAlertsEditTrendAlertWithName": {
+      "message": "Редактировать уведомления о тренде для \\\"$alertName$\\\"",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsEditYourTrendAlert": {
+      "message": "Редактировать уведомление"
+   },
+   "trendAlertsEmailFrequencyLabel": {
+      "message": "Укажите частоту получения уведомлений"
+   },
+   "trendAlertsEmailFrequencyTooltip": {
+      "message": "Вы получите письмо со списком трендовых видео подходящих под ваши критерии"
+   },
+   "trendAlertsErrorUnauthenticatedMessage": {
+      "message": "Для создания уведомлений о трендах, пожалуйста, авторизуйте свой канал."
+   },
+   "trendAlertsFilter10k": {
+      "message": "10 тысяч"
+   },
+   "trendAlertsFilter1k": {
+      "message": "1 тысяча"
+   },
+   "trendAlertsFilter5k": {
+      "message": "5 тысяч"
+   },
+   "trendAlertsFilterEachMonth": {
+      "message": "Каждый месяц"
+   },
+   "trendAlertsFilterEachWeek": {
+      "message": "Каждую неделю"
+   },
+   "trendAlertsFilterEvery2Days": {
+      "message": "Каждые два дня"
+   },
+   "trendAlertsFilterEveryDay": {
+      "message": "Каждый день"
+   },
+   "trendAlertsFormAddAnotherCompetitor": {
+      "message": "Добавить другого конкурента"
+   },
+   "trendAlertsFormAlertNameHelpText": {
+      "message": "Придумайте название этому уведомлению о тренде, чтобы не забыть что он отслеживает. Если вы не назначите имя, то \\\"$defaultName$\\\" будет использовано по умолчанию.",
+      "placeholders": {
+         "defaultName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormAlertNameLabel": {
+      "message": "Имя уведомления"
+   },
+   "trendAlertsFormAlertNamePlaceholder": {
+      "message": "напр.: >5000 просмотров в час от конкурентов"
+   },
+   "trendAlertsFormCategoryHelpText": {
+      "message": "Выберите категорию, которой должно соответсвовать видео для его отображения в результатах"
+   },
+   "trendAlertsFormCategoryLabel": {
+      "message": "Категория"
+   },
+   "trendAlertsFormChannelTagsLabel": {
+      "message": "Предложенные теги с вашего канала"
+   },
+   "trendAlertsFormCompetitorsHelpText": {
+      "message": "Выберите, каналы конкурентов для лимитирования данного уведомления. Если вы не выберите каналы конкурентов, мы будем отслеживать изменения на YouTube в целом."
+   },
+   "trendAlertsFormCompetitorsLabel": {
+      "message": "Конкуренты"
+   },
+   "trendAlertsFormEmailFrequencyHelpText": {
+      "message": "Мы отправим вам email оповещение с новыми трендовыми видео, которые соответствуют условиям этого уведомления. Вы также можете просматривать живую ленту из трендовых видео если кликните по выбранному уведомлению в правой части экрана."
+   },
+   "trendAlertsFormEmailFrequencyLabel": {
+      "message": "Частота получения email уведомлений"
+   },
+   "trendAlertsFormKeywordsHelpText": {
+      "message": "Мы будем отслеживать данный запрос и обязательно уведомим вас при появлении новых трендовых видео. Используйте запятую для разделения тегов."
+   },
+   "trendAlertsFormKeywordsLabel": {
+      "message": "Теги"
+   },
+   "trendAlertsFormKeywordsPlaceholder": {
+      "message": "напр.: телефон, iOS, Андроид"
+   },
+   "trendAlertsFormLanguageHelpText": {
+      "message": "Выберите язык, которому должно соответсвовать видео для его отображения в результатах."
+   },
+   "trendAlertsFormLanguageLabel": {
+      "message": "Язык"
+   },
+   "trendAlertsFormUpsellMessage": {
+      "message": "Чтобы изменить данный параметр, пожалуйста, \u003Ca href=\\\"$upgradeUrl$\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">оформите подписку Pro\u003C/a>.",
+      "placeholders": {
+         "upgradeUrl": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsFormVphThresholdHelpText": {
+      "message": "Выберите, сколько просмотров в час должно иметь видео, прежде чем уведомление сработает."
+   },
+   "trendAlertsFormVphThresholdLabel": {
+      "message": "Пороговая величина VPH"
+   },
+   "trendAlertsGetEmailAlerts": {
+      "message": "Получайте уведомления о трендах по почте когда интересующие вас видео попадут в тренды."
+   },
+   "trendAlertsHideOptions": {
+      "message": "Скрыть расширенные опции"
+   },
+   "trendAlertsLanguageLabel": {
+      "message": "Выберите язык"
+   },
+   "trendAlertsLanguageTooltip": {
+      "message": "Выберите язык видео для этого уведомления"
+   },
+   "trendAlertsLivePreviewNoResults": {
+      "message": "Для данного уведомления не будет результатов. Попробуйте уменьшить пороговое значение VPH или измените теги для расширения диапазона поиска."
+   },
+   "trendAlertsLivePreviewResults": {
+      "message": "Это предпросмотр первых $numResultsShown$ результатов. Ваше будущее уведомление о тренде будет выглядеть приблизительно так.",
+      "placeholders": {
+         "numResultsShown": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsMostViewedFeatureInfo": {
+      "message": "Узнайте, какие темы сейчас популярны!"
+   },
+   "trendAlertsNoTrendAlertsFound": {
+      "message": "Уведомления о трендах не найдены"
+   },
+   "trendAlertsPanelPopover": {
+      "message": "Уведомления о трендах позволяют отслеживать отдельные темы и оставаться в курсе последних опубликованных видео по интересующей вас тематике. \u003Ca href=\\\"https://www.youtube.com/watch?v=8QPmaFFqyPA&t=196s\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">Узнать больше\u003C/a>."
+   },
+   "trendAlertsPreviewFooterFewResults": {
+      "message": "На данный момент у этого уведомления менее чем $numResults$результатов, однако очень их будет больше! Вы получите email с последними результатами \u003Cstrong>$frequency$\u003C/strong>. ",
+      "placeholders": {
+         "frequency": {
+            "content": "$2"
+         },
+         "numResults": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterManyResults": {
+      "message": "Это предпросмотр последних $previewLength$ для данного уведомления. Вы получите email со всеми результатами по этому уведомлению \u003Cstrong>$frequency$\u003C/strong>. ",
+      "placeholders": {
+         "frequency": {
+            "content": "$2"
+         },
+         "previewLength": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewFooterNoResults": {
+      "message": "На данный момент у этого уведомления нет результатов, однако очень скоро они появятся! Вы получите email с последними результатами \u003Cstrong>$frequency$\u003C/strong>.",
+      "placeholders": {
+         "frequency": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsPreviewNoResults": {
+      "message": "На данный момент видео, соответствующие параметрам данного уведомления не найдены. Выполните проверку позднее."
+   },
+   "trendAlertsPreviewTitle": {
+      "message": "Предпросмотр уведомления о тренде – \\\"$alertName$\\\"",
+      "placeholders": {
+         "alertName": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsSearchTermLabel": {
+      "message": "Укажите ключевые слова за которыми будем наблюдать"
+   },
+   "trendAlertsSearchTermPlaceholder": {
+      "message": "Введите ключевое слово"
+   },
+   "trendAlertsSearchTermTooltip": {
+      "message": "Получайте уведомления когда появятся новые трендовые видео для указанного ключевого слова"
+   },
+   "trendAlertsShowOptions": {
+      "message": "Показать расширенные опции"
+   },
+   "trendAlertsSubmitLabel": {
+      "message": "Сохранить уведомление"
+   },
+   "trendAlertsUnableToCreateAlert": {
+      "message": "К сожалению, нам не удалось создать новое уведомление. Пожалуйста, перезагрузите страницу и повторите попытку."
+   },
+   "trendAlertsUnableToDeleteAlert": {
+      "message": "К сожалению, нам не удалось удалить выбранное уведомление. Пожалуйста, перезагрузите страницу и повторите попытку."
+   },
+   "trendAlertsUnableToUpdateAlert": {
+      "message": "К сожалению, нам не удалось внести изменения в существующее уведомление. Пожалуйста, перезагрузите страницу и повторите попытку."
+   },
+   "trendAlertsUpdateAlert": {
+      "message": "Обновление уведомления о тренде"
+   },
+   "trendAlertsUpsellMessage": {
+      "message": "С аккаунтом типа $userType$ вы не можете создать более \u003Cstrong>$limit$ уведомления(ий) о тренде(ах)\u003C/strong>. Пожалуйста, оформите подписку для создания большего количества уведомлений.",
+      "placeholders": {
+         "limit": {
+            "content": "$2"
+         },
+         "userType": {
+            "content": "$1"
+         }
+      }
+   },
+   "trendAlertsVphThresholdLabel": {
+      "message": "Укажите минимальное количество просмотров в час для видео, после достижения которого сработает уведомление "
+   },
+   "trendAlertsVphThresholdTooltip": {
+      "message": "Укажите минимальное количество просмотров в час для срабатывания уведомления"
+   },
+   "trendAlertsWelcome": {
+      "message": "Добро пожаловать в уведомления о трендах! Вы можете использовать данные оповещения различными способами, например:"
+   },
+   "trendAlertsWelcomeIdea1": {
+      "message": "Отслеживать трендовые видео, которые соответствуют тегам \\\"apple\\\" и \\\"iphone\\\""
+   },
+   "trendAlertsWelcomeIdea2": {
+      "message": "Отслеживать трендовые видео от ваших конкурентов"
+   },
+   "trendAlertsWelcomeIdea3": {
+      "message": "Отслеживать игровые видео с VPH более 500"
+   },
+   "trending": {
+      "message": "Популярное"
+   },
+   "trendingVideosTitle": {
+      "message": "Трендовые видео"
+   },
+   "trendingVidsForTerm": {
+      "message": "Трендовые видео для данного поискового запроса"
+   },
+   "tripledKeywordsStatLabel": {
+      "message": "утроенные теги"
+   },
+   "troubleLoading": {
+      "message": "Трудности при загрузке \u003Cb>vidIQ\u003C/b>. Пожалуйста, обновите страницу."
+   },
+   "troubleLoggingIn": {
+      "message": "Проблемы при входе?"
+   },
+   "tryAgain": {
+      "message": "Попробуйте еще раз"
+   },
+   "tryAnotherSearch": {
+      "message": "Попробуйте ввести другое ключевое слово"
+   },
+   "tryRemovingFilters": {
+      "message": "Попробуйте удалить фильтры или выполните поиск другого ключевого слова"
+   },
+   "tuesdayPlural": {
+      "message": "Вторник"
+   },
+   "turnVidiqOffForSession": {
+      "message": "Отключить vidIQ для этой сессии"
+   },
+   "turnVidiqOn": {
+      "message": "Включить vidIQ"
+   },
+   "tvTitle": {
+      "message": "ТВ"
+   },
+   "tweets": {
+      "message": "Твиты"
+   },
+   "twitterFollowersStatLabel": {
+      "message": "подписчики twitter"
+   },
+   "twitterTitle": {
+      "message": "Twitter"
+   },
+   "unableToGetFullResults": {
+      "message": "Не удалось получить полные результаты из-за установленной квоты"
+   },
+   "unexpectedError": {
+      "message": "Произошла непредвиденная ошибка"
+   },
+   "unknownError": {
+      "message": "Неизвестная ошибка"
+   },
+   "unknownErrorOccurred": {
+      "message": "Произошла неизвестная ошибка"
+   },
+   "unlimitedPreviewsUpsell": {
+      "message": "Неограниченные превью с vidIQ Boost"
+   },
+   "unlockTooltip": {
+      "message": "Откройте доступ к странам, языкам и возможностям сортировки, оформив Boost подписку!"
+   },
+   "unpinCommentMessage": {
+      "message": "Этот комментарий будет откреплен"
+   },
+   "unpinCommentTitle": {
+      "message": "Открепить этот комментарий"
+   },
+   "unpinCommentTooltip": {
+      "message": "Открепить комментарий (создано vidIQ)"
+   },
+   "updateDefaultNote": {
+      "message": "$resources$ могут иметь различные значения \u003Cb>Текст\u003C/b> и \u003Cb>Ссылка\u003C/b>, которые вы можете изменить внизу.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "updatePerVideoNote": {
+      "message": "$resources$ могут иметь различные значения \u003Cb>Текст\u003C/b> и \u003Cb>Ссылка\u003C/b>, которые вы можете изменить внизу.",
+      "placeholders": {
+         "resources": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgrade": {
+      "message": "Оформить подписку"
+   },
+   "upgradeBoostTagRecs": {
+      "message": "Для просмотра еще $n$ рекомендованных тегов и 9 трендовых видео, пожалуйста, приобретите подписку $start$vidIQ Boost$end$.",
+      "placeholders": {
+         "end": {
+            "content": "$3"
+         },
+         "n": {
+            "content": "$1"
+         },
+         "start": {
+            "content": "$2"
+         }
+      }
+   },
+   "upgradeForFullAccess": {
+      "message": "Оформите подписку для полного доступа"
+   },
+   "upgradeForMoreRelatedKeywords": {
+      "message": "$before$Оформить подписку$after$, чтобы для получить больше похожих тегов",
+      "placeholders": {
+         "after": {
+            "content": "$2"
+         },
+         "before": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeForPreviews": {
+      "message": "Оформите Boost подписку для получения безлимитных превью"
+   },
+   "upgradeForUnlimitedSearches": {
+      "message": "Оформите Pro подписку для неограниченного числа поисковых запросов"
+   },
+   "upgradeNow": {
+      "message": "Оформить подписку"
+   },
+   "upgradeNowTitle": {
+      "message": "Оформить подписку!"
+   },
+   "upgradeProTranslate": {
+      "message": "Для просмотра всех переводов, приобретите подписку $start$vidIQ Pro$end$!",
+      "placeholders": {
+         "end": {
+            "content": "$2"
+         },
+         "start": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeToBoost": {
+      "message": "Оформить \u003Cb>vidIQ Boost\u003C/b>"
+   },
+   "upgradeToBoostCsvExport": {
+      "message": "Оформите Boost подписку для экспорта в CSV"
+   },
+   "upgradeToBoostForDescriptionRecs": {
+      "message": "Оформите Boost подписку для получения рекомендаций к описаниям видео"
+   },
+   "upgradeToBoostForTitleRecs": {
+      "message": "Оформите Boost подписку для получения рекомендаций к заголовкам"
+   },
+   "upgradeToCreateAnEmailAlert": {
+      "message": "Оформите подписку, чтобы создать новое уведомление"
+   },
+   "upgradeToPlan": {
+      "message": "Оформить подписку vidIQ $plan$",
+      "placeholders": {
+         "plan": {
+            "content": "$1"
+         }
+      }
+   },
+   "upgradeToViewInsights": {
+      "message": "Узнайте о видео все, оформив подписку"
+   },
+   "uploadThumbnail": {
+      "message": "Загрузить значок видео"
+   },
+   "uploadTitle": {
+      "message": "Загрузка"
+   },
+   "uploadUpgradeBoost": {
+      "message": "Обновитесь до \u003Cb>Boost\u003C/b> для получения \u003Cb>безлимитных\u003C/b> видео!"
+   },
+   "uploadUpgradeProBoost": {
+      "message": "Обновитесь до \u003Cb>Pro\u003C/b> для получения $limit$ видео, или обновитесь до to \u003Cb>Boost\u003C/b> для получения \u003Cb>безлимитных\u003C/b> видео!",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploadsBestMonth": {
+      "message": "Месяц с наибольшим количеством загрузок"
+   },
+   "uploadsTitle": {
+      "message": "Загрузки"
+   },
+   "upsellSuperchargeSubTitle": {
+      "message": "Доступ к передовым функциям, которые помогут вывести ваш канал на новый уровень"
+   },
+   "upsellSuperchargeTitle": {
+      "message": "Перезагрузите ваш YouTube канал"
+   },
+   "upsellViewPlans": {
+      "message": "Тарифные планы"
+   },
+   "velocityViewHeading": {
+      "message": "Видео, с наибольшей скоростью просмотров (кол-во просмотров в час) "
+   },
+   "verificationCodeTitle": {
+      "message": "Код подтверждения"
+   },
+   "veryHighScore": {
+      "message": "Очень высокая"
+   },
+   "veryLowScore": {
+      "message": "Очень низкая"
+   },
+   "vidIQShortcutsTitle": {
+      "message": "Клавиши быстрого доступа vidIQ"
+   },
+   "vidIQVisionOptions": {
+      "message": "vidIQ Vision - Опции"
+   },
+   "vidNumber": {
+      "message": "№ видео"
+   },
+   "videoIdeasAuthMessage": {
+      "message": "\u003Cb>Для получения ежедневных видео идей авторизуйте свой YouTube канал.\u003C/b>"
+   },
+   "videoIdeasNoIdeasSecondary": {
+      "message": "\u003Cb>Сейчас мы не можем предложить вам идеи для видео, так как у нас недостаточно данных. Идеи должны появится при следующих условиях:\u003C/b>\u003Cbr>\u003Cbr>\u003Cb>прошло 1-3 дня после аутентификации вашего канала\u003C/b>\u003Cbr>(и если есть видео опубликованные за последние 7-90 дней)\u003Cbr>\u003Cbr>\u003Cb>прошло 7 дней после публикации первого видео\u003C/b>"
+   },
+   "videoIdeasTip": {
+      "message": "Новые идеи для видео каждый день. Для этой функции мы используем искусственный интеллект! "
+   },
+   "videoIdeasUnexpectedErrorPrimary": {
+      "message": "Новые идеи для видео отсутствуют"
+   },
+   "videoIdeasUnexpectedErrorSecondary": {
+      "message": "Произошла непредвиденная ошибка. Мы уже работаем над ее устранением.\u003Cbr>Пожалуйста, попробуйте позже."
+   },
+   "videoNeedsAtLeastOneVideoOrPlaylistEndscreen": {
+      "message": "Как минимум один из элементов конечной заставки должен быть видео или плейлист"
+   },
+   "videoOptimizationChecklist": {
+      "message": "Чек-лист оптимизации видео"
+   },
+   "videoPlaylistTitle": {
+      "message": "Видео/Плейлист"
+   },
+   "videoPlural": {
+      "message": "видео"
+   },
+   "videoPreviewNewFeatureMessage": {
+      "message": "То, как выглядит ваше видео и его значок в результатах поиска.\u003Cbr>Легко ли их заметить среди конкурентов?"
+   },
+   "videoPublished": {
+      "message": "Видео опубликовано"
+   },
+   "videoSingular": {
+      "message": "видео"
+   },
+   "videoStatusGreat": {
+      "message": "Отлично!"
+   },
+   "videoStatusOkay": {
+      "message": "Окей"
+   },
+   "videoStillTitle": {
+      "message": "Кадр из видео"
+   },
+   "videoTagsTitle": {
+      "message": "Теги видео"
+   },
+   "videoTitle": {
+      "message": "Видео"
+   },
+   "videoToBeMassLiked": {
+      "message": "Видео для масс лайканья"
+   },
+   "videoTooShortForEndScreen": {
+      "message": "Видео слишком короткое. Размещать конечные заставки можно только в роликах продолжительностью не менее 25 секунд."
+   },
+   "videoUpdated": {
+      "message": "Видео обновлено!"
+   },
+   "videosPublished": {
+      "message": "опубликованные видео"
+   },
+   "videosPublishedStatLabel": {
+      "message": "опубликованные видео"
+   },
+   "videosToGainViewsFromTitle": {
+      "message": "Видео, у которых можно позаимствовать просмотры"
+   },
+   "vidiqAcademy": {
+      "message": "Академия vidIQ"
+   },
+   "vidiqBoostUpgradeViews": {
+      "message": "Оформить \u003Cb>vidIQ Boost\u003C/b> подписку для получения максимального количества просмотров"
+   },
+   "vidiqDashboard": {
+      "message": "Панель инструментов vidIQ"
+   },
+   "vidiqGeneratedMetric": {
+      "message": "Данная метрика не является частью аналитики YouTube, а была сгенерирована с помощью vidIQ."
+   },
+   "vidiqRewards": {
+      "message": "Вознаграждения vidIQ"
+   },
+   "vidiqScoreStatLabel": {
+      "message": "оценка vidIQ"
+   },
+   "vidiqScoreTooltip": {
+      "message": "Оценка от vidIQ отражает популярность видео, исходя из процента взаимодействий и количества просмотров по сравнению с другими видео на YouTube. Показатель 99/100 означал бы, что видео находится в 99-ой из ста долей измерений по совокупности видео на YouTube, которые имеют одинаковый вес и процент вовлеченности."
+   },
+   "vidiqSeoReport": {
+      "message": "vidIQ SEO отчет"
+   },
+   "vidiqVisionInstalled": {
+      "message": "Расширение vidIQ Vision для Chrome успешно установлено."
+   },
+   "vidiqVisionInstalledEdge": {
+      "message": "Расширение vidIQ Vision для Edge успешно установлено."
+   },
+   "viewAllAnalyticsForYourChannel": {
+      "message": "Просмотр статистики для вашего канала"
+   },
+   "viewAllTimes": {
+      "message": "Открыть полный график"
+   },
+   "viewComparisonError": {
+      "message": "Извините! Нам ничего не известно об этом видео.\u003Cbr>Повторите попытку позже или попробуйте выбрать другое видео"
+   },
+   "viewComparisonErrorNotEnoughViews": {
+      "message": "У этого видео недостаточно данных для анализа"
+   },
+   "viewComparisonErrorOurIssue": {
+      "message": "У нас отсутствует какая-либо информация. Если вы уверены, что это ошибка, пожалуйста, напишите нам на support@vidiq.com"
+   },
+   "viewComparisonErrorTooOld": {
+      "message": "Для многих старых видео, как например это, к сожалению, у нас отсутствуют данные"
+   },
+   "viewComparisonHeading": {
+      "message": "Сравнение просмотров за первые 28 дней"
+   },
+   "viewComparisonNewFeature": {
+      "message": "Новая функция! Сравнение просмотров за первые 28 дней.\u003Cbr>Посмотрите видео ниже, чтобы узнать как это работает!"
+   },
+   "viewComparisonSparklineDownTooltip": {
+      "message": "Это видео показывает себя хуже чем это\u003Cbr>\u003Cb>$selected$\u003C/b>!",
+      "placeholders": {
+         "selected": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewComparisonSparklineUpTooltip": {
+      "message": "Это видео показывает себя лучше чем это\u003Cbr>\u003Cb>$selected$\u003C/b>!",
+      "placeholders": {
+         "selected": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewComparisonTrialNumber": {
+      "message": "$num$/5 осталось",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "viewCountTitle": {
+      "message": "Количество просмотров"
+   },
+   "viewFullReport": {
+      "message": "Открыть полный отчет"
+   },
+   "viewFullThumbnail": {
+      "message": "Просмотр полного значка видео"
+   },
+   "viewInKeywordInspector": {
+      "message": "просмотр в инспекторе ключевых слов"
+   },
+   "viewInYouTube": {
+      "message": "Открыть канал на YouTube"
+   },
+   "viewMoreLabel": {
+      "message": "Показать больше"
+   },
+   "viewOnYouTube": {
+      "message": "Смотреть на YouTube"
+   },
+   "viewPotentialHeaderTooltip": {
+      "message": "Потенциал просмотров показывает сколько вы могли бы получить просмотров при создании видео на предложенную тему."
+   },
+   "viewPrediction": {
+      "message": "Потенциал просмотров"
+   },
+   "viewRank": {
+      "message": "просмотр рейтинга"
+   },
+   "viewTools": {
+      "message": "Функции"
+   },
+   "viewsBestMonth": {
+      "message": "Месяц с наибольшим количеством просмотров"
+   },
+   "viewsPerHour": {
+      "message": "Просмотры в час"
+   },
+   "viewsPerHourTitle": {
+      "message": "Просмотры в час"
+   },
+   "viewsStatLabel": {
+      "message": "просмотры"
+   },
+   "viewsTitle": {
+      "message": "Просмотры"
+   },
+   "visit": {
+      "message": "Посетить"
+   },
+   "visitVidIQ": {
+      "message": "Посетите vidIQ"
+   },
+   "volume": {
+      "message": "Объем ключевого слова от vidIQ"
+   },
+   "volumeLabel": {
+      "message": "Поисковый объем"
+   },
+   "vph": {
+      "message": "VPH"
+   },
+   "vphIsViewsPerHour": {
+      "message": "VPH = Просмотры в час"
+   },
+   "vphStatLabel": {
+      "message": "просмотры в час"
+   },
+   "vphTooltipDetailedBigger": {
+      "message": "Это видео получает $value$ просмотров в час, что в $diff$ раз больше, чем среднее количество просмотров по этому видео в час - $avg$.",
+      "placeholders": {
+         "avg": {
+            "content": "$3"
+         },
+         "diff": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipDetailedSmaller": {
+      "message": "Это видео получает $value$ просмотров в час, что в $diff$ раз меньше, чем среднее количество просмотров по этому видео в час - $avg$.",
+      "placeholders": {
+         "avg": {
+            "content": "$3"
+         },
+         "diff": {
+            "content": "$2"
+         },
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "vphTooltipSimple": {
+      "message": "Это видео получает $value$ просмотров в час.",
+      "placeholders": {
+         "value": {
+            "content": "$1"
+         }
+      }
+   },
+   "wantExtraStats": {
+      "message": "Хотите получить исторические данные и статистику просмотров?"
+   },
+   "wantNMoreRecs": {
+      "message": "Хотите еще $number$ рекомендаций для данного поискового запроса?",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "wantTrendingVideos": {
+      "message": "Хотите увидеть больше трендовых видео?"
+   },
+   "warningPlural": {
+      "message": "предупреждения"
+   },
+   "warningSingular": {
+      "message": "предупреждение"
+   },
+   "watchTheVideo": {
+      "message": "Просмотр видео"
+   },
+   "watchTimeAverage": {
+      "message": "Время просмотра среднее"
+   },
+   "watchTimeGood": {
+      "message": "Время просмотра хорошее"
+   },
+   "watchTimeIncredible": {
+      "message": "Время просмотра превосходное!"
+   },
+   "watchTimeLow": {
+      "message": "Время просмотра низкое"
+   },
+   "watchTimeTitle": {
+      "message": "Время просмотра"
+   },
+   "watchingNowStatLabel": {
+      "message": "смотрят сейчас"
+   },
+   "wednesdayPlural": {
+      "message": "Среда"
+   },
+   "week": {
+      "message": "неделя"
+   },
+   "weeksIntervalOption": {
+      "message": "Недели"
+   },
+   "weightClassBad": {
+      "message": "ниже конкуренции по тегу"
+   },
+   "weightClassGood": {
+      "message": "выше конкуренции по тегу"
+   },
+   "weightClassMiddlin": {
+      "message": "около конкуренции по тегу"
+   },
+   "whatDoYouThinkTitle": {
+      "message": "Что вы думаете?"
+   },
+   "whatSearchTermRank": {
+      "message": "Мое видео на странице с результатами поиска"
+   },
+   "whichKeywordsToTrack": {
+      "message": "Какие ключевые слова вы хотели бы отслеживать?"
+   },
+   "widthTitle": {
+      "message": "Толщина"
+   },
+   "wordsPerMinuteStatLabel": {
+      "message": "слов в минуту"
+   },
+   "worstStatLabel": {
+      "message": "худшие"
+   },
+   "yearAbbreviation": {
+      "message": "г"
+   },
+   "yes": {
+      "message": "Да"
+   },
+   "yesImSure": {
+      "message": "Да"
+   },
+   "youHaveAuthedTheseChannels": {
+      "message": "Вы добавили нижеприведенные каналы в свой vidIQ аккаунт:"
+   },
+   "youHaveNoCompetitors": {
+      "message": "Вы не добавили ни одного конкурента. Откройте вкладку \"Конкуренты\" с левой стороны страницы."
+   },
+   "youTubeSearchTitle": {
+      "message": "YouTube (Поиск)"
+   },
+   "youTubeShortcuts": {
+      "message": "Клавиши быстрого доступа YouTube"
+   },
+   "yourChannelAverage": {
+      "message": "Средние показатели вашего канала"
+   },
+   "yourCompetitorsAverage": {
+      "message": "средние показатели конкурентов"
+   },
+   "yourEmail": {
+      "message": "Адрес электронной почты"
+   },
+   "yourPassword": {
+      "message": "Пароль"
+   },
+   "yourVideoDetails": {
+      "message": "Метаданные вашего видео"
+   },
+   "yourWeightClass": {
+      "message": "Ваша весовая категория"
+   },
+   "youtubeBackoff": {
+      "message": "Ждём YouTube. Это не должно занять больше минуты."
+   },
+   "youtubeChannelId": {
+      "message": "ID канала YouTube"
+   },
+   "ytCommentsStatLabel": {
+      "message": "комментарии YT"
+   },
+   "ytCommentsStatTitle": {
+      "message": "YouTube Комментарии"
+   },
+   "ytDislikesStatLabel": {
+      "message": "дислайки YT"
+   },
+   "ytDislikesStatTitle": {
+      "message": "YouTube Дислайки"
+   },
+   "ytEngagementsStatLabel": {
+      "message": "взаимод. на YT"
+   },
+   "ytEngagementsStatTitle": {
+      "message": "YouTube взаимодействия"
+   },
+   "ytLikesStatLabel": {
+      "message": "лайки YT"
+   },
+   "ytLikesStatTitle": {
+      "message": "YouTube Лайки"
+   },
+   "ytSearchTitle": {
+      "message": "Поиски на YT"
+   },
+   "ytSearchViewsStatLabel": {
+      "message": "просм. из поиска YT"
+   },
+   "ytSharesStatLabel": {
+      "message": "репосты YT"
+   },
+   "ytSharesStatTitle": {
+      "message": "YouTube Поделиться"
+   },
+   "ytSharesTooltipPopular": {
+      "message": "Этим видео активно делятся!"
+   },
+   "ytSharesTooltipUnpopular": {
+      "message": "У этого видео небольшой процент поделившихся."
+   },
+   "ytSuggestedTitle": {
+      "message": "Предложенное YT"
+   }
+}

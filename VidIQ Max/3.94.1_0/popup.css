@@ -1,0 +1,457 @@
+:root {
+  --white-bg: #ffffff;
+  --extra-light-grey: #eaeaea;
+  --white: #ffffff;
+  --black: #000000;
+  --blue: #139dff;
+  --yt-border-color: #ccc;
+  --off-black: #252626;
+  --dark-grey: #7d7d7d;
+  --light-grey: #e9ebeb;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --white-bg: #2e2e2e;
+    --extra-light-grey: #2e2e2e;
+    --white: #000000;
+    --black: #ffffff;
+    --blue: #61a0ff;
+    --yt-border-color: #606060;
+    --off-black: white;
+    --dark-grey: #aaaaaa;
+    --light-grey: #393939;
+  }
+}
+.grecaptcha-badge {
+  display: none;
+}
+.iq-terms-of-service,
+.grecaptcha-legal {
+  opacity: 0.7;
+}
+.grecaptcha-legal {
+  margin: 10px 20px;
+  font-size: 8px;
+}
+#vidiq-popup-body {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  width: 260px;
+  background: var(--white-bg);
+  overflow: visible;
+  margin: 0;
+  font-size: 75%;
+  border: 1px solid var(--yt-border-color);
+  box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.08);
+}
+#vidiq-popup-body a,
+#vidiq-popup-body .vidiq-link {
+  color: var(--blue);
+  outline: none;
+  text-decoration: none;
+  transition: 0.4s;
+}
+#vidiq-popup-body a:focus,
+#vidiq-popup-body a:active,
+#vidiq-popup-body .vidiq-link:focus,
+#vidiq-popup-body .vidiq-link:active {
+  outline: none;
+  text-decoration: none;
+}
+#vidiq-popup-body a:hover,
+#vidiq-popup-body .vidiq-link:hover {
+  color: #0066ff;
+  cursor: pointer;
+  outline: none;
+  text-decoration: underline;
+}
+#vidiq-popup-body .vidiq-popup-spinner {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+#vidiq-popup-body .material-icons {
+  font-size: 14px;
+  color: #aaa;
+  position: relative;
+  top: 3px;
+  transition: color 0.5s;
+}
+#vidiq-popup-body .vidiq-popup-header {
+  padding: 24px 8px 4px;
+}
+#vidiq-popup-body .vidiq-popup-header a img {
+  display: block;
+  width: 100%;
+  height: 25px;
+  padding: 0;
+  margin: 0;
+}
+#vidiq-popup-body .vidiq-popup-header #vidiq-badge,
+#vidiq-popup-body .vidiq-popup-header a #vidiq-badge {
+  display: block;
+  position: relative;
+  top: 4px;
+  left: 105px;
+  width: auto;
+  height: 8px;
+}
+#vidiq-popup-body .vidiq-popup-footer a {
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 1.1px;
+  font-size: 0.9em;
+}
+#vidiq-popup-body .vidiq-popup-footer span {
+  color: var(--dark-grey);
+}
+#vidiq-popup-body .vidiq-popup-footer-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 10px 13px;
+  background: var(--extra-light-grey);
+}
+#vidiq-popup-body .vidiq-popup-footer-links li a {
+  line-height: 20px;
+  color: var(--black);
+  font-size: 10px;
+  letter-spacing: normal;
+  transition: 0.4s;
+}
+#vidiq-popup-body .vidiq-popup-footer-links li a:hover {
+  color: var(--blue);
+  text-decoration: none;
+}
+#vidiq-popup-body .vidiq-popup-footer-links li:not(:last-child) {
+  border-right: 1px solid var(--dark-grey);
+  padding-right: 13px;
+}
+#vidiq-popup-body .vidiq-popup-user {
+  padding: 5px;
+}
+#vidiq-popup-body .vidiq-popup-user-login,
+#vidiq-popup-body .vidiq-popup-user-info {
+  color: var(--black);
+  text-align: center;
+  padding: 5px 0 5px 0;
+  margin: 0;
+  font-size: 1em;
+}
+#vidiq-popup-body .vidiq-popup-user-info a {
+  display: block;
+  font-weight: bold;
+  margin: 0 0 5px 0;
+}
+#vidiq-popup-body .vidiq-popup-log-out,
+#vidiq-popup-body .vidiq-popup-form-link {
+  font-size: 10px;
+}
+#vidiq-popup-body .vidiq-popup-log-out {
+  position: relative;
+  display: inline-block;
+  top: -5px;
+  width: 100%;
+  text-align: center;
+}
+#vidiq-popup-body .vidiq-popup-section {
+  margin: 0;
+}
+#vidiq-popup-body .vidiq-popup-section .vidiq-popup-section-header {
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--yt-border-color);
+  cursor: pointer;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-header
+  .header-name {
+  margin: 0;
+  color: var(--black);
+  display: inline-block;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-header.expanded
+  .vidiq-chevron-icon {
+  transform: rotate(180deg);
+}
+#vidiq-popup-body .vidiq-popup-section .vidiq-popup-section-header.disabled h4 {
+  color: var(--off-black);
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-header
+  .vidiq-chevron-icon {
+  background-color: var(--black);
+  -webkit-mask-image: url('chrome-extension://__MSG_@@extension_id__/images/chevron-down.svg');
+  mask-image: url('chrome-extension://__MSG_@@extension_id__/images/chevron-down.svg');
+  height: 20px;
+  width: 20px;
+  content: ' ';
+  display: inline-block;
+  transition: 0.5s;
+}
+#vidiq-popup-body .vidiq-popup-section .vidiq-popup-section-inner {
+  overflow: hidden;
+  max-height: 0px;
+  transition: max-height 0.5s;
+}
+#vidiq-popup-body .vidiq-popup-section .vidiq-popup-section-inner.expanded {
+  max-height: 300px;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  line-height: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list
+  .vidiq-popup-link-upsell {
+  color: var(--dark-grey);
+  font-style: italic;
+  font-size: 0.9em;
+  transition: 0.4s;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list
+  .vidiq-list-item-name {
+  font-size: 0.9em;
+  text-decoration: none;
+  padding: 3px;
+  display: inline-block;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list
+  .vidiq-list-item-name:hover {
+  text-decoration: none;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list
+  span.vidiq-list-item-name {
+  color: #aaa;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list
+  li {
+  padding-left: 10px;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list
+  li
+  .material-icons {
+  display: none;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list.enabled
+  li {
+  transition: background 0.5s;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list.enabled
+  li:hover {
+  background: var(--light-grey);
+  cursor: pointer;
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list.enabled
+  li:hover
+  .material-icons {
+  color: var(--blue);
+}
+#vidiq-popup-body
+  .vidiq-popup-section
+  .vidiq-popup-section-inner
+  .vidiq-shortcuts-list.enabled
+  li:hover
+  .vidiq-popup-link-upsell {
+  color: var(--dark-grey);
+  text-decoration: none;
+}
+#vidiq-popup-body .vidiq-client-shortcuts .vidiq-popup-channel-select {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid var(--yt-border-color);
+  text-align: center;
+}
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-text {
+  color: var(--black);
+}
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu,
+#vidiq-popup-body .vidiq-popup-single-channel,
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu
+  option {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-size: 1em;
+  outline: none;
+  border: 0;
+  background: transparent;
+  color: var(--black);
+  overflow: hidden;
+}
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu:focus,
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu:active,
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu
+  option:focus,
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu
+  option:active {
+  outline: none;
+}
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu:hover,
+#vidiq-popup-body
+  .vidiq-client-shortcuts
+  .vidiq-popup-channel-select
+  .vidiq-popup-channel-select-menu
+  option:hover {
+  background: var(--blue);
+  color: var(--white);
+  cursor: pointer;
+}
+#vidiq-popup-body .email-suggestion {
+  font-size: 0.83em;
+  margin-top: 0;
+}
+#vidiq-popup-body .hidden {
+  display: none;
+}
+#vidiq-popup-body .iq-horizontal-separator {
+  padding: 0.5rem;
+}
+.vidiq-popup-user-actions {
+  padding: 16px;
+  margin: 0 auto;
+  list-style: none;
+}
+.vidiq-popup-user-actions li {
+  display: block;
+  text-align: center;
+}
+.vidiq-popup-user-actions li p {
+  margin-bottom: 0;
+}
+.vidiq-popup-user-actions li.vidiq-popup-user-signup-action p {
+  font-weight: 500;
+}
+.vidiq-popup-user-actions li.vidiq-popup-user-signup-action p a {
+  font-weight: 600;
+}
+.vidiq-popup-primary-button {
+  background-color: var(--blue);
+  padding: 8px;
+  display: block;
+  text-align: center;
+  color: #fff !important;
+  transition: 0.4s;
+  cursor: pointer;
+  border-radius: 60px;
+}
+.vidiq-popup-primary-button:hover {
+  text-decoration: none !important;
+  background-color: #0066ff;
+}
+.vidiq-popup-user-login .iq-error {
+  color: red;
+}
+.vidiq-popup-user-login.hidden {
+  display: none;
+}
+.vidiq-popup-user-login .vidiq-popup-login-message {
+  margin: 0 0 5px 0;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form {
+  width: 100%;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form input {
+  display: block;
+  width: 65%;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  border: 1px solid transparent;
+  padding: 4px;
+  border-radius: 3px;
+  background: #ddd;
+  color: #444;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form input:focus {
+  background: #fff;
+  outline: none;
+  border: 1px solid transparent;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form input.error {
+  border: 1px solid #ff0000;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form input[type='checkbox'] {
+  width: auto;
+  display: inline-block;
+  margin-right: 5px;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form input[type='checkbox'].error {
+  outline: 1px solid #ff0000;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form label {
+  font-size: 0.8em;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form.login .sign-up {
+  display: none;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form button:not(.google-button) {
+  width: 32.5%;
+  border: none;
+  display: block;
+  margin: 0 auto;
+}
+.vidiq-popup-user-login .vidiq-popup-login-form .google-button {
+  width: 90%;
+  margin: 0 10px 10px 10px;
+}
